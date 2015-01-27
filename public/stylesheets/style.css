@@ -1,0 +1,20 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  line-height: 2em;
+}
+
+a,
+code {
+  color: #388E3C;
+}
+
+.important {
+    color: #F44336;
+}
+
+.footer {
+    text-align: right;
+    margin-top: 40px;
+    color: #323;
+}

@@ -1,0 +1,38 @@
+extends layout
+
+block content
+  h1 Ezan Vakti API
+  p Tüm dünya ülkeleri için Diyanet İşleri Başkanlığı'nın yıllık ezan vakitleri.
+
+  h2 Kullanım
+  ul
+    li Ülke Listesi: 
+        code
+          a(href="/ulkeler") /ulkeler
+    li Eyalet Listesi: 
+        code
+          a(href="/eyaletler?ulke=1") /eyaletler?ulke=ULKE_KODU
+    li Şehir Listesi: 
+        code
+          a(href="/sehirler?ulke=1&eyalet=133") /sehirler?ulke=ULKE_KODU&eyalet=EYALET_KODU
+    li Vakitler: 
+        code
+          a(href="/vakitler?sehir=34") /vakitler?sehir=SEHIR_ID
+    li Versiyon: 
+        code
+          a(href="/version") /version
+  h3 Notlar:
+  ol
+    li Türkiye için 
+      code Eyalet Listesi 
+      | şehirleri, 
+      code Şehir Listesi 
+      | de ilçeleri almak için kullanılmaktadır.
+    li Şehir merkezleri için kullanılan 
+      code SEHIR_ID 
+      | bazı şehirler için plaka numaralarına 
+      strong.important eşit değildir.
+    li Versiyon her vakit güncellemesinden ve API güncellemesinden sonra otomatik olarak 1 arttırılmaktadır.
+
+  p.footer made with ♥ by 
+            a(href='http://furkantektas.com',target='_blank') furkantektas
