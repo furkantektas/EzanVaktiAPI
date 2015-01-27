@@ -53,11 +53,34 @@ router.get('/vakitler', function(req,res) {
     });
 });
 
-router.get('/version', function(req,res) {
-    var version = 0;
-    if(typeof process.env.HEROKU_RELEASE_NAME != 'undefined')
-        version = process.env.HEROKU_RELEASE_NAME.slice(1);
-    res.json({version: version});
+router.get('/last-updated', function(req,res) {
+    var https = require('https');
+    https.get(
+        {
+            host: 'api.github.com',
+            path: '/repos/furkantektas/EzanVaktiAPI',
+            port: 443,
+            headers: {
+                'User-Agent': 'EzanVaktiAPI'
+        }}, function(response) {
+                var body = '';
+                response.on('data', function(d) {
+                    body += d;
+                });
+                response.on('end', function() {
+                    try {
+                        var repoInfo = JSON.parse(body);
+                    } catch (err) {
+                        console.error('Unable to parse response as JSON', err);
+                        res.status(500).json({error: "Bir hata oluştu. Lütfen daha sonra tekrar deneyiniz."});
+                        return;
+                    }
+                    res.json({'last-updated':repoInfo.updated_at});
+                });
+            }).on('error', function(err) {
+                console.error('Unable get repository info', err);
+                res.status(500).json({error: "Bir hata oluştu. Lütfen daha sonra tekrar deneyiniz."});
+            });
 });
 
 module.exports = router;
