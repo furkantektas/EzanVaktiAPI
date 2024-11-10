@@ -1,0 +1,45 @@
+name: Deploy
+
+
+permissions:
+  id-token: write
+  contents: read
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-24.04
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+    - name: Install Kamal
+      run: |
+          gem install kamal -v 2.2.2
+
+    - uses: webfactory/ssh-agent@v0.7.0
+      with:
+        ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+    - name: Deploy
+      env:
+        DOCKER_REGISTRY_PASSWORD: ${{ secrets.DOCKER_REGISTRY_PASSWORD }}
+        DOCKER_REGISTRY_USERNAME: ${{ secrets.DOCKER_REGISTRY_USERNAME }}
+        SVC_WSDL_URL: ${{ secrets.SVC_WSDL_URL }}
+        SVC_PASSWORD: ${{ secrets.SVC_PASSWORD }}
+        SVC_USERNAME: ${{ secrets.SVC_USERNAME }}
+        TRUSTED_CLIENTS: ${{ secrets.TRUSTED_CLIENTS }}
+      run: |
+        kamal deploy

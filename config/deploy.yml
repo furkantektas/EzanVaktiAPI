@@ -1,0 +1,41 @@
+service: ezanvaktiapi
+
+image: lrajhhbgjtvv/ezanvakti
+
+servers:
+  web:
+    - ezanvakti.emushaf.net
+proxy:
+  host: ezanvakti.emushaf.net
+  ssl: true
+registry:
+  server: lhr.ocir.io
+  username:
+    - KAMAL_REGISTRY_USERNAME
+  password:
+    - KAMAL_REGISTRY_PASSWORD
+builder:
+  arch: arm64
+aliases:
+  apps: server exec docker exec kamal-proxy kamal-proxy list
+env:
+  clear:
+    REDIS_URL: redis://ezanvaktiapi-redis
+  secret:
+    - SVC_WSDL_URL
+    - SVC_PASSWORD
+    - SVC_USERNAME
+    - TRUSTED_CLIENTS
+ssh:
+  user: kamal
+volumes:
+  - "/data/ezanvakti:/app/storage"
+accessories:
+  redis:
+    image: redis:latest
+    roles:
+      - web
+    port: 127.0.0.1:6379:6379
+    cmd: --maxmemory 200m --maxmemory-policy allkeys-lru
+    volumes:
+      - /var/redis/data:/data

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <title>EzanVakti API</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="Tüm ülkeler için il/ilçe bazında Diyanet İşleri Başkanlığı namaz vakitleri." />
+    <meta name="keywords"
+        content="ezan vakti,namaz vakti,diyanet ezan vakti,istanbul ezan vakti,ilçe ezan vakti,dünya namaz vakti" />
+    <style>
+        body {
+            padding: 2rem;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif !important;
+            line-height: 1.5em;
+            color: #0a244d;
+            font-weight: 400;
+        }
+
+        code {
+            margin-left: .2rem;
+            border-radius: 1rem;
+        }
+
+        code .highlight {
+            background: rgba(241, 233, 159, 0.3);
+            padding: 4px 0px;
+            border-radius: 4px;
+        }
+
+        .footer {
+            margin-top: 40px;
+        }
+
+        a {
+            color: rgb(23, 90, 191);
+        }
+
+        code.req {
+            background: #f1f1f1;
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+
+        .label {
+            background: #f1f1f1;
+            padding: 2px 4px;
+            border-radius: 4px;
+            vertical-align: super;
+            font-size: smaller;
+            margin-left: .5rem;
+        }
+
+
+        @media (prefers-color-scheme: dark) {
+            body {
+                background-color: #232B32;
+                color: hsl(210, 10%, 82%);
+                font-weight: 350;
+            }
+
+            code {
+                border-radius: 4px;
+                padding: 4px;
+                color: #0d72cb;
+            }
+
+            code .highlight {
+                background: rgba(0, 0, 0, 0.2);
+            }
+
+            a {
+                color: #71b6ec;
+            }
+
+            .label {
+                background: #6a6a6a;
+                color: #fff;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Ezan Vakti API <code class="req">v0.4.0</code></h1>
+    <p>Tüm dünya ülkeleri için Türkiye Cumhuriyeti Diyanet İşleri Başkanlığı'nın yayınladığı aylık ezan vakitleri.</p>
+    <h2>Daha önce Heroku servisi kullananlar için:<sup><em><code class="req">mühim</code></em></sup></h2>
+    <p>1 Ocak 2025 tarihi itibarı ile heroku servisi hizmet vermeyi durduracaktır.</p>
+    <p>Sadece URL değişikliği yaparak ezan vakti servisini aynı şekilde kullanabilirsiniz.</p>
+    <p>
+        <code><s>https://ezanvakti.herokuapp.com</s></code> → <code>https://ezanvakti.emushaf.net</code>
+    </p>
+    <h2>Kullanım</h2>
+    <ul>
+        <li>Ülkeler Listesi: <code class="req">GET</code> <code><a href="/ulkeler">/ulkeler</a></code></li>
+        <li>Şehirler Listesi: <code class="req">GET</code>
+            <code><a href="/sehirler/2">/sehirler/<span class="highlight">[ULKE_KODU]</span></a></code>
+        </li>
+        <li>İlçeler Listesi: <code class="req">GET</code>
+            <code><a href="/ilceler/539">/ilce/<span class="highlight">[SEHIR_KODU]</span></a></code>
+        </li>
+        <li>Vakitler: <code class="req">GET</code>
+            <code><a href="/vakitler/9541">/vakitler/<span class="highlight">[ILCE_KODU]</span></a></code>
+        </li>
+        <li>Şehrin tüm ilçeleri için Bayram Namazı Saatleri: <code class="req">GET</code> <code><a href="/bayram-namazi/539">/bayram-namazi/<span
+                        class="highlight">[SEHIR_KODU]</span></a></code></li>
+    </ul>
+    <h3>İstek Limiti <sup><em><code class="req">Rate-limit</code></em></sup></h3>
+    <p>30 istek / 5 dakika ve 200 istek / 1 gün</p>
+    <p><em>(Namaz vakitleri 30 günlük verildiği için ayda 1 istek yeterlidir.)</em></p>
+    </p>
+    <h3>Bilinen sorunlar<sup class="label">Diyanet kaynaklı, düzeltilmesi beklenmiyor.</sup></h3>
+    <ul>
+        <li>Ülkelerin İngilizce isimlendirmeleri hatalı. Örneğin: İngilizcede <code>Central African Republic</code>
+            olması gereken isim <code>ORTA AFRIKA CUMHURIYETI</code>.</li>
+        <li>Ülkelerin isimlerinde Türkçe karakterler yerine İngilizce karakterler kullanılmış. Örneğin: <code>ÇİN</code>
+            yerine <code>CIN</code>.
+        </li>
+        <li>Hatalı ülke isimlendirmeleri: Birleşik Krallık șehirleri <code>INGILTERE</code> altında toplanmış.</li>
+        <li>Vakitler sonucundaki <code>MiladiTarihUzunIso8601</code> değeri her zaman Türkiye'nin geçerli zaman
+            dilimini gösteriyor. Bu durum Türkiye harici zaman dilimlerinde ezan vakti hesaplamalarında hatalara sebep
+            olmakta. Bundan dolayı, yurtdışı kullanımlarını göz önünde bulundurarak, alınan vakitlerinin zaman diliminin
+            ihmal edilmesi gerekiyor. Sağlanan vakitler, cihazın zaman dilimine göre doğru vakitleri göstermektedir.
+        </li>
+        <li>Bazı ülkelerin vakitleri sadece şehir bazında verilmiş ve bu ülkelerin şehirleri "ilçe" olarak
+            listelenmiştir. Örneğin, <a href="/sehirler/15">Birleşik Krallık için şehirler</a> listelendiğinde tek
+            bir şehir listelenmekte, <a href="/ilceler/725">bu şehrin ilçeleri</a> istendiğinde ise Birleşik
+            Krallık'taki şehirler listelenmektedir.</li>
+    </ul>
+    <h3>Örnek Kullanım:</h3>
+    <ul>
+        <li><a href="/docs">OpenAPI ve Swagger</a></li>
+        <li><a href="/redoc">ReDoc</a></li>
+    </ul>
+    <p class="footer">Muhabbetle yapılmıştır. <br />İletişim: <a href="http://furkantektas.com" target="_blank">Furkan
+            Tektaş</a></p>
+
+
+</body>
+
+</html>
