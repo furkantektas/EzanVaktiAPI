@@ -24,6 +24,7 @@ async def index():
 
 
 @router.get("/up", include_in_schema=False)
+@router.head("/up", include_in_schema=False)
 @no_limit
 async def up():
     return JSONResponse({"status": "up"})
