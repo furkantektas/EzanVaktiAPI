@@ -52,6 +52,18 @@
             margin-left: .5rem;
         }
 
+        .alert {
+            padding: 15px;
+            margin-bottom: 20px;
+            border: 1px solid transparent;
+            border-radius: 4px;
+        }
+
+        .alert-warning {
+            color: #856404;
+            background-color: #fff3cd;
+            border-color: #ffeeba;
+        }
 
         @media (prefers-color-scheme: dark) {
             body {
@@ -78,11 +90,22 @@
                 background: #6a6a6a;
                 color: #fff;
             }
+
+            .alert-warning {
+                color: #fff3cd;
+                background-color: #664d03;
+                border-color: #856404;
+            }
         }
     </style>
 </head>
 
 <body>
+    <div class="alert alert-warning">
+        <strong>Önemli Duyuru:</strong> Diyanet İşleri Başkanlığı tarafından API erişimimiz kısıtlanmıştır. Teknik
+        ekibimiz sorunu çözmek için çalışmaktadır. Anlayışınız için teşekkür ederiz.
+    </div>
+
     <h1>Ezan Vakti API <code class="req">v0.4.0</code></h1>
     <p>Tüm dünya ülkeleri için Türkiye Cumhuriyeti Diyanet İşleri Başkanlığı'nın yayınladığı aylık ezan vakitleri.</p>
     <h2>Daha önce Heroku servisi kullananlar için:<sup><em><code class="req">mühim</code></em></sup></h2>
