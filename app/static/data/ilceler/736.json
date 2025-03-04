@@ -1,0 +1,717 @@
+[
+  {
+    "IlceAdi": "ABIKO",
+    "IlceAdiEn": "ABIKO",
+    "IlceID": "14717"
+  },
+  {
+    "IlceAdi": "ADACHI-KU ",
+    "IlceAdiEn": "ADACHI-KU ",
+    "IlceID": "14707"
+  },
+  {
+    "IlceAdi": "AGEO",
+    "IlceAdiEn": "AGEO",
+    "IlceID": "14708"
+  },
+  {
+    "IlceAdi": "AIZUWAKAMATSU",
+    "IlceAdiEn": "AIZUWAKAMATSU",
+    "IlceID": "14821"
+  },
+  {
+    "IlceAdi": "AKASHI",
+    "IlceAdiEn": "AKASHI",
+    "IlceID": "14718"
+  },
+  {
+    "IlceAdi": "AKITA",
+    "IlceAdiEn": "AKITA",
+    "IlceID": "14719"
+  },
+  {
+    "IlceAdi": "ANJO",
+    "IlceAdiEn": "ANJO",
+    "IlceID": "14720"
+  },
+  {
+    "IlceAdi": "AOMORI",
+    "IlceAdiEn": "AOMORI",
+    "IlceID": "14721"
+  },
+  {
+    "IlceAdi": "ASAHIKAWA",
+    "IlceAdiEn": "ASAHIKAWA",
+    "IlceID": "14723"
+  },
+  {
+    "IlceAdi": "ASHIKAGA",
+    "IlceAdiEn": "ASHIKAGA",
+    "IlceID": "14724"
+  },
+  {
+    "IlceAdi": "ATSUGI",
+    "IlceAdiEn": "ATSUGI",
+    "IlceID": "14727"
+  },
+  {
+    "IlceAdi": "BEPPU",
+    "IlceAdiEn": "BEPPU",
+    "IlceID": "14728"
+  },
+  {
+    "IlceAdi": "CHIBA",
+    "IlceAdiEn": "CHIBA",
+    "IlceID": "14729"
+  },
+  {
+    "IlceAdi": "EBETSU",
+    "IlceAdiEn": "EBETSU",
+    "IlceID": "14734"
+  },
+  {
+    "IlceAdi": "FUJI",
+    "IlceAdiEn": "FUJI",
+    "IlceID": "14735"
+  },
+  {
+    "IlceAdi": "FUJIEDA",
+    "IlceAdiEn": "FUJIEDA",
+    "IlceID": "14726"
+  },
+  {
+    "IlceAdi": "FUJINOMIYA",
+    "IlceAdiEn": "FUJINOMIYA",
+    "IlceID": "14736"
+  },
+  {
+    "IlceAdi": "FUJISAWA",
+    "IlceAdiEn": "FUJISAWA",
+    "IlceID": "14737"
+  },
+  {
+    "IlceAdi": "FUKAYA",
+    "IlceAdiEn": "FUKAYA",
+    "IlceID": "14743"
+  },
+  {
+    "IlceAdi": "FUKUE",
+    "IlceAdiEn": "FUKUE",
+    "IlceID": "14739"
+  },
+  {
+    "IlceAdi": "FUKUI",
+    "IlceAdiEn": "FUKUI",
+    "IlceID": "14740"
+  },
+  {
+    "IlceAdi": "FUKUOKA",
+    "IlceAdiEn": "FUKUOKA",
+    "IlceID": "14834"
+  },
+  {
+    "IlceAdi": "FUKUSHIMA",
+    "IlceAdiEn": "FUKUSHIMA",
+    "IlceID": "14831"
+  },
+  {
+    "IlceAdi": "FUNABASHI",
+    "IlceAdiEn": "FUNABASHI",
+    "IlceID": "14709"
+  },
+  {
+    "IlceAdi": "GIFU",
+    "IlceAdiEn": "GIFU",
+    "IlceID": "14832"
+  },
+  {
+    "IlceAdi": "HACHIOJI",
+    "IlceAdiEn": "HACHIOJI",
+    "IlceID": "14744"
+  },
+  {
+    "IlceAdi": "HADANO",
+    "IlceAdiEn": "HADANO",
+    "IlceID": "14745"
+  },
+  {
+    "IlceAdi": "HAKODATE",
+    "IlceAdiEn": "HAKODATE",
+    "IlceID": "14746"
+  },
+  {
+    "IlceAdi": "HAMAMATSU",
+    "IlceAdiEn": "HAMAMATSU",
+    "IlceID": "14747"
+  },
+  {
+    "IlceAdi": "HANDA",
+    "IlceAdiEn": "HANDA",
+    "IlceID": "14748"
+  },
+  {
+    "IlceAdi": "HIGASHIMURAYAMA",
+    "IlceAdiEn": "HIGASHIMURAYAMA",
+    "IlceID": "14749"
+  },
+  {
+    "IlceAdi": "HIGASHIOSAKA",
+    "IlceAdiEn": "HIGASHIOSAKA",
+    "IlceID": "14750"
+  },
+  {
+    "IlceAdi": "HIKONE",
+    "IlceAdiEn": "HIKONE",
+    "IlceID": "14751"
+  },
+  {
+    "IlceAdi": "HIMERJI",
+    "IlceAdiEn": "HIMERJI",
+    "IlceID": "14752"
+  },
+  {
+    "IlceAdi": "HINO",
+    "IlceAdiEn": "HINO",
+    "IlceID": "14753"
+  },
+  {
+    "IlceAdi": "HIRARA",
+    "IlceAdiEn": "HIRARA",
+    "IlceID": "14754"
+  },
+  {
+    "IlceAdi": "HIRATSUKA",
+    "IlceAdiEn": "HIRATSUKA",
+    "IlceID": "14755"
+  },
+  {
+    "IlceAdi": "HIROSIMA",
+    "IlceAdiEn": "HIROSIMA",
+    "IlceID": "14842"
+  },
+  {
+    "IlceAdi": "HITACHI",
+    "IlceAdiEn": "HITACHI",
+    "IlceID": "14756"
+  },
+  {
+    "IlceAdi": "ICHIHARA",
+    "IlceAdiEn": "ICHIHARA",
+    "IlceID": "14757"
+  },
+  {
+    "IlceAdi": "ICHINOMIYA",
+    "IlceAdiEn": "ICHINOMIYA",
+    "IlceID": "14699"
+  },
+  {
+    "IlceAdi": "IMABARI",
+    "IlceAdiEn": "IMABARI",
+    "IlceID": "14758"
+  },
+  {
+    "IlceAdi": "ISESAKI",
+    "IlceAdiEn": "ISESAKI",
+    "IlceID": "14759"
+  },
+  {
+    "IlceAdi": "IWAKUNI",
+    "IlceAdiEn": "IWAKUNI",
+    "IlceID": "14760"
+  },
+  {
+    "IlceAdi": "KAGOSHIMA",
+    "IlceAdiEn": "KAGOSHIMA",
+    "IlceID": "14761"
+  },
+  {
+    "IlceAdi": "KANAZAWA",
+    "IlceAdiEn": "KANAZAWA",
+    "IlceID": "14765"
+  },
+  {
+    "IlceAdi": "KASHIWA",
+    "IlceAdiEn": "KASHIWA",
+    "IlceID": "14762"
+  },
+  {
+    "IlceAdi": "KASHIWAZAKI",
+    "IlceAdiEn": "KASHIWAZAKI",
+    "IlceID": "14830"
+  },
+  {
+    "IlceAdi": "KASUGAI",
+    "IlceAdiEn": "KASUGAI",
+    "IlceID": "14763"
+  },
+  {
+    "IlceAdi": "KAWAGOE",
+    "IlceAdiEn": "KAWAGOE",
+    "IlceID": "14764"
+  },
+  {
+    "IlceAdi": "KAWASAKI",
+    "IlceAdiEn": "KAWASAKI",
+    "IlceID": "14714"
+  },
+  {
+    "IlceAdi": "KIRYU",
+    "IlceAdiEn": "KIRYU",
+    "IlceID": "14766"
+  },
+  {
+    "IlceAdi": "KISARAZU",
+    "IlceAdiEn": "KISARAZU",
+    "IlceID": "14767"
+  },
+  {
+    "IlceAdi": "KITAKYUSHU",
+    "IlceAdiEn": "KITAKYUSHU",
+    "IlceID": "14713"
+  },
+  {
+    "IlceAdi": "KOBE",
+    "IlceAdiEn": "KOBE",
+    "IlceID": "14715"
+  },
+  {
+    "IlceAdi": "KOCHI",
+    "IlceAdiEn": "KOCHI",
+    "IlceID": "14768"
+  },
+  {
+    "IlceAdi": "KOFU",
+    "IlceAdiEn": "KOFU",
+    "IlceID": "14769"
+  },
+  {
+    "IlceAdi": "KOMAKI",
+    "IlceAdiEn": "KOMAKI",
+    "IlceID": "14770"
+  },
+  {
+    "IlceAdi": "KOMATSU",
+    "IlceAdiEn": "KOMATSU",
+    "IlceID": "14771"
+  },
+  {
+    "IlceAdi": "KUMAGAYA",
+    "IlceAdiEn": "KUMAGAYA",
+    "IlceID": "14742"
+  },
+  {
+    "IlceAdi": "KUMAMOTO",
+    "IlceAdiEn": "KUMAMOTO",
+    "IlceID": "14773"
+  },
+  {
+    "IlceAdi": "KURASHIKI",
+    "IlceAdiEn": "KURASHIKI",
+    "IlceID": "14774"
+  },
+  {
+    "IlceAdi": "KURE",
+    "IlceAdiEn": "KURE",
+    "IlceID": "14775"
+  },
+  {
+    "IlceAdi": "KURUME",
+    "IlceAdiEn": "KURUME",
+    "IlceID": "14776"
+  },
+  {
+    "IlceAdi": "KUSATSU",
+    "IlceAdiEn": "KUSATSU",
+    "IlceID": "14777"
+  },
+  {
+    "IlceAdi": "KUSHIRO",
+    "IlceAdiEn": "KUSHIRO",
+    "IlceID": "14778"
+  },
+  {
+    "IlceAdi": "KYOTO",
+    "IlceAdiEn": "KYOTO",
+    "IlceID": "14828"
+  },
+  {
+    "IlceAdi": "MAEBASHI",
+    "IlceAdiEn": "MAEBASHI",
+    "IlceID": "14779"
+  },
+  {
+    "IlceAdi": "MATSUE",
+    "IlceAdiEn": "MATSUE",
+    "IlceID": "14780"
+  },
+  {
+    "IlceAdi": "MATSUMOTO",
+    "IlceAdiEn": "MATSUMOTO",
+    "IlceID": "14781"
+  },
+  {
+    "IlceAdi": "MATSUYAMA",
+    "IlceAdiEn": "MATSUYAMA",
+    "IlceID": "14782"
+  },
+  {
+    "IlceAdi": "MATSUZAKA",
+    "IlceAdiEn": "MATSUZAKA",
+    "IlceID": "14700"
+  },
+  {
+    "IlceAdi": "MISHIMA",
+    "IlceAdiEn": "MISHIMA",
+    "IlceID": "14783"
+  },
+  {
+    "IlceAdi": "MITO",
+    "IlceAdiEn": "MITO",
+    "IlceID": "14784"
+  },
+  {
+    "IlceAdi": "MIYAZAKI",
+    "IlceAdiEn": "MIYAZAKI",
+    "IlceID": "14785"
+  },
+  {
+    "IlceAdi": "MORIOKA",
+    "IlceAdiEn": "MORIOKA",
+    "IlceID": "14786"
+  },
+  {
+    "IlceAdi": "NAGANO",
+    "IlceAdiEn": "NAGANO",
+    "IlceID": "14838"
+  },
+  {
+    "IlceAdi": "NAGAOKA",
+    "IlceAdiEn": "NAGAOKA",
+    "IlceID": "14787"
+  },
+  {
+    "IlceAdi": "NAGAREYAMA",
+    "IlceAdiEn": "NAGAREYAMA",
+    "IlceID": "14788"
+  },
+  {
+    "IlceAdi": "NAGASAKI",
+    "IlceAdiEn": "NAGASAKI",
+    "IlceID": "14789"
+  },
+  {
+    "IlceAdi": "NAGATA-KU",
+    "IlceAdiEn": "NAGATA-KU",
+    "IlceID": "14790"
+  },
+  {
+    "IlceAdi": "NAGOYA",
+    "IlceAdiEn": "NAGOYA",
+    "IlceID": "14827"
+  },
+  {
+    "IlceAdi": "NAHA",
+    "IlceAdiEn": "NAHA",
+    "IlceID": "14731"
+  },
+  {
+    "IlceAdi": "NARA",
+    "IlceAdiEn": "NARA",
+    "IlceID": "14704"
+  },
+  {
+    "IlceAdi": "NAZE",
+    "IlceAdiEn": "NAZE",
+    "IlceID": "14791"
+  },
+  {
+    "IlceAdi": "NERIMA-KU",
+    "IlceAdiEn": "NERIMA-KU",
+    "IlceID": "14710"
+  },
+  {
+    "IlceAdi": "NIIGATA",
+    "IlceAdiEn": "NIIGATA",
+    "IlceID": "14829"
+  },
+  {
+    "IlceAdi": "NOBEOKA",
+    "IlceAdiEn": "NOBEOKA",
+    "IlceID": "14792"
+  },
+  {
+    "IlceAdi": "NUMAZU",
+    "IlceAdiEn": "NUMAZU",
+    "IlceID": "14793"
+  },
+  {
+    "IlceAdi": "OBIHIRO",
+    "IlceAdiEn": "OBIHIRO",
+    "IlceID": "14794"
+  },
+  {
+    "IlceAdi": "ODAWARA",
+    "IlceAdiEn": "ODAWARA",
+    "IlceID": "14795"
+  },
+  {
+    "IlceAdi": "OGAKI",
+    "IlceAdiEn": "OGAKI",
+    "IlceID": "14701"
+  },
+  {
+    "IlceAdi": "OITA",
+    "IlceAdiEn": "OITA",
+    "IlceID": "14796"
+  },
+  {
+    "IlceAdi": "OKAYAMA",
+    "IlceAdiEn": "OKAYAMA",
+    "IlceID": "14797"
+  },
+  {
+    "IlceAdi": "OKAZAKI",
+    "IlceAdiEn": "OKAZAKI",
+    "IlceID": "14798"
+  },
+  {
+    "IlceAdi": "OKINAWA",
+    "IlceAdiEn": "OKINAWA",
+    "IlceID": "14741"
+  },
+  {
+    "IlceAdi": "OMUTA",
+    "IlceAdiEn": "OMUTA",
+    "IlceID": "14800"
+  },
+  {
+    "IlceAdi": "OSAKA",
+    "IlceAdiEn": "OSAKA",
+    "IlceID": "14840"
+  },
+  {
+    "IlceAdi": "OSAKA(gifu)",
+    "IlceAdiEn": "OSAKA(gifu)",
+    "IlceID": "14839"
+  },
+  {
+    "IlceAdi": "OTA (gunma-ken)",
+    "IlceAdiEn": "OTA (gunma-ken)",
+    "IlceID": "14801"
+  },
+  {
+    "IlceAdi": "OTSU",
+    "IlceAdiEn": "OTSU",
+    "IlceID": "14705"
+  },
+  {
+    "IlceAdi": "OYAMA",
+    "IlceAdiEn": "OYAMA",
+    "IlceID": "14722"
+  },
+  {
+    "IlceAdi": "SAITAMA",
+    "IlceAdiEn": "SAITAMA",
+    "IlceID": "14799"
+  },
+  {
+    "IlceAdi": "SAKAI",
+    "IlceAdiEn": "SAKAI",
+    "IlceID": "14706"
+  },
+  {
+    "IlceAdi": "SANDA",
+    "IlceAdiEn": "SANDA",
+    "IlceID": "14802"
+  },
+  {
+    "IlceAdi": "SAPPORO",
+    "IlceAdiEn": "SAPPORO",
+    "IlceID": "14837"
+  },
+  {
+    "IlceAdi": "SASEBO",
+    "IlceAdiEn": "SASEBO",
+    "IlceID": "14803"
+  },
+  {
+    "IlceAdi": "SAYAMA",
+    "IlceAdiEn": "SAYAMA",
+    "IlceID": "14804"
+  },
+  {
+    "IlceAdi": "SENDAI",
+    "IlceAdiEn": "SENDAI",
+    "IlceID": "14841"
+  },
+  {
+    "IlceAdi": "SETAGAYA-KU",
+    "IlceAdiEn": "SETAGAYA-KU",
+    "IlceID": "14711"
+  },
+  {
+    "IlceAdi": "SETO",
+    "IlceAdiEn": "SETO",
+    "IlceID": "14702"
+  },
+  {
+    "IlceAdi": "SHIZUKI",
+    "IlceAdiEn": "SHIZUKI",
+    "IlceID": "14836"
+  },
+  {
+    "IlceAdi": "SHIZUOKA",
+    "IlceAdiEn": "SHIZUOKA",
+    "IlceID": "14805"
+  },
+  {
+    "IlceAdi": "SOKA",
+    "IlceAdiEn": "SOKA",
+    "IlceID": "14806"
+  },
+  {
+    "IlceAdi": "SUZUKA",
+    "IlceAdiEn": "SUZUKA",
+    "IlceID": "14807"
+  },
+  {
+    "IlceAdi": "TACHIKAWA",
+    "IlceAdiEn": "TACHIKAWA",
+    "IlceID": "14808"
+  },
+  {
+    "IlceAdi": "TAJIMI",
+    "IlceAdiEn": "TAJIMI",
+    "IlceID": "14809"
+  },
+  {
+    "IlceAdi": "TAKAMATSU",
+    "IlceAdiEn": "TAKAMATSU",
+    "IlceID": "14810"
+  },
+  {
+    "IlceAdi": "TAKAOKA",
+    "IlceAdiEn": "TAKAOKA",
+    "IlceID": "14811"
+  },
+  {
+    "IlceAdi": "TAKASAKI",
+    "IlceAdiEn": "TAKASAKI",
+    "IlceID": "14812"
+  },
+  {
+    "IlceAdi": "TAMA",
+    "IlceAdiEn": "TAMA",
+    "IlceID": "14772"
+  },
+  {
+    "IlceAdi": "TEINE-KU",
+    "IlceAdiEn": "TEINE-KU",
+    "IlceID": "14725"
+  },
+  {
+    "IlceAdi": "TOKOROZAWA",
+    "IlceAdiEn": "TOKOROZAWA",
+    "IlceID": "14813"
+  },
+  {
+    "IlceAdi": "TOKUSHIMA",
+    "IlceAdiEn": "TOKUSHIMA",
+    "IlceID": "14814"
+  },
+  {
+    "IlceAdi": "TOKYO",
+    "IlceAdiEn": "TOKYO",
+    "IlceID": "14833"
+  },
+  {
+    "IlceAdi": "TOTTORI",
+    "IlceAdiEn": "TOTTORI",
+    "IlceID": "14815"
+  },
+  {
+    "IlceAdi": "TOYAKAWA",
+    "IlceAdiEn": "TOYAKAWA",
+    "IlceID": "14817"
+  },
+  {
+    "IlceAdi": "TOYAMA",
+    "IlceAdiEn": "TOYAMA",
+    "IlceID": "14816"
+  },
+  {
+    "IlceAdi": "TOYOHASHI",
+    "IlceAdiEn": "TOYOHASHI",
+    "IlceID": "14733"
+  },
+  {
+    "IlceAdi": "TOYOTA (AICHI)",
+    "IlceAdiEn": "TOYOTA (AICHI)",
+    "IlceID": "14716"
+  },
+  {
+    "IlceAdi": "TSU",
+    "IlceAdiEn": "TSU",
+    "IlceID": "14703"
+  },
+  {
+    "IlceAdi": "TSUKUBA",
+    "IlceAdiEn": "TSUKUBA",
+    "IlceID": "14818"
+  },
+  {
+    "IlceAdi": "TSURUOKA",
+    "IlceAdiEn": "TSURUOKA",
+    "IlceID": "14819"
+  },
+  {
+    "IlceAdi": "URASOE",
+    "IlceAdiEn": "URASOE",
+    "IlceID": "14732"
+  },
+  {
+    "IlceAdi": "UTSUNOMIYA",
+    "IlceAdiEn": "UTSUNOMIYA",
+    "IlceID": "14820"
+  },
+  {
+    "IlceAdi": "WAKAYAMA",
+    "IlceAdiEn": "WAKAYAMA",
+    "IlceID": "14822"
+  },
+  {
+    "IlceAdi": "YAIZU",
+    "IlceAdiEn": "YAIZU",
+    "IlceID": "14730"
+  },
+  {
+    "IlceAdi": "YAMAGATA",
+    "IlceAdiEn": "YAMAGATA",
+    "IlceID": "14712"
+  },
+  {
+    "IlceAdi": "YAMAGUCHI",
+    "IlceAdiEn": "YAMAGUCHI",
+    "IlceID": "14823"
+  },
+  {
+    "IlceAdi": "YAO",
+    "IlceAdiEn": "YAO",
+    "IlceID": "14824"
+  },
+  {
+    "IlceAdi": "YOKKAICHI",
+    "IlceAdiEn": "YOKKAICHI",
+    "IlceID": "14825"
+  },
+  {
+    "IlceAdi": "YOKOHOMA",
+    "IlceAdiEn": "YOKOHOMA",
+    "IlceID": "14835"
+  },
+  {
+    "IlceAdi": "YOKOSUKA",
+    "IlceAdiEn": "YOKOSUKA",
+    "IlceID": "14826"
+  }
+]

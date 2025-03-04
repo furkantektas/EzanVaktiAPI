@@ -1,0 +1,47 @@
+[
+  {
+    "IlceAdi": "DAUGAVPILS",
+    "IlceAdiEn": "DAUGAVPILS",
+    "IlceID": "15177"
+  },
+  {
+    "IlceAdi": "JELGAVA",
+    "IlceAdiEn": "JELGAVA",
+    "IlceID": "15173"
+  },
+  {
+    "IlceAdi": "LIEPAJA",
+    "IlceAdiEn": "LIEPAJA",
+    "IlceID": "15171"
+  },
+  {
+    "IlceAdi": "OGRE",
+    "IlceAdiEn": "OGRE",
+    "IlceID": "15176"
+  },
+  {
+    "IlceAdi": "RIGA",
+    "IlceAdiEn": "RIGA",
+    "IlceID": "15170"
+  },
+  {
+    "IlceAdi": "RUJIENA",
+    "IlceAdiEn": "RUJIENA",
+    "IlceID": "15178"
+  },
+  {
+    "IlceAdi": "TUKUMS",
+    "IlceAdiEn": "TUKUMS",
+    "IlceID": "15174"
+  },
+  {
+    "IlceAdi": "VALDEMARPILS",
+    "IlceAdiEn": "VALDEMARPILS",
+    "IlceID": "15175"
+  },
+  {
+    "IlceAdi": "VENTSPILS",
+    "IlceAdiEn": "VENTSPILS",
+    "IlceID": "15172"
+  }
+]

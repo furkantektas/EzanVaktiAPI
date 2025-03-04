@@ -1,0 +1,737 @@
+[
+  {
+    "IlceAdi": "AARAU",
+    "IlceAdiEn": "AARAU",
+    "IlceID": "14548"
+  },
+  {
+    "IlceAdi": "AARBURG",
+    "IlceAdiEn": "AARBURG",
+    "IlceID": "14479"
+  },
+  {
+    "IlceAdi": "ALLSCHWIL",
+    "IlceAdiEn": "ALLSCHWIL",
+    "IlceID": "14500"
+  },
+  {
+    "IlceAdi": "ALTSTATTEN",
+    "IlceAdiEn": "ALTSTATTEN",
+    "IlceID": "14462"
+  },
+  {
+    "IlceAdi": "AMRISWIL",
+    "IlceAdiEn": "AMRISWIL",
+    "IlceID": "14421"
+  },
+  {
+    "IlceAdi": "APPENZELL",
+    "IlceAdiEn": "APPENZELL",
+    "IlceID": "14463"
+  },
+  {
+    "IlceAdi": "ARBON",
+    "IlceAdiEn": "ARBON",
+    "IlceID": "14464"
+  },
+  {
+    "IlceAdi": "ARCH",
+    "IlceAdiEn": "ARCH",
+    "IlceID": "14452"
+  },
+  {
+    "IlceAdi": "AU (Zurih)",
+    "IlceAdiEn": "AU (Zurih)",
+    "IlceID": "14474"
+  },
+  {
+    "IlceAdi": "AUBONNE",
+    "IlceAdiEn": "AUBONNE",
+    "IlceID": "14426"
+  },
+  {
+    "IlceAdi": "BAAR",
+    "IlceAdiEn": "BAAR",
+    "IlceID": "14521"
+  },
+  {
+    "IlceAdi": "BAD RAGAZ",
+    "IlceAdiEn": "BAD RAGAZ",
+    "IlceID": "14413"
+  },
+  {
+    "IlceAdi": "BADEN",
+    "IlceAdiEn": "BADEN",
+    "IlceID": "14480"
+  },
+  {
+    "IlceAdi": "BALM",
+    "IlceAdiEn": "BALM",
+    "IlceID": "14445"
+  },
+  {
+    "IlceAdi": "BALSTHAL",
+    "IlceAdiEn": "BALSTHAL",
+    "IlceID": "14453"
+  },
+  {
+    "IlceAdi": "BANCO",
+    "IlceAdiEn": "BANCO",
+    "IlceID": "14439"
+  },
+  {
+    "IlceAdi": "BASEL",
+    "IlceAdiEn": "BASEL",
+    "IlceID": "14525"
+  },
+  {
+    "IlceAdi": "BELLINZONA",
+    "IlceAdiEn": "BELLINZONA",
+    "IlceID": "14435"
+  },
+  {
+    "IlceAdi": "BERINGEN",
+    "IlceAdiEn": "BERINGEN",
+    "IlceID": "14446"
+  },
+  {
+    "IlceAdi": "BERN",
+    "IlceAdiEn": "BERN",
+    "IlceID": "18945"
+  },
+  {
+    "IlceAdi": "BESADINGEN",
+    "IlceAdiEn": "BESADINGEN",
+    "IlceID": "14447"
+  },
+  {
+    "IlceAdi": "BIBERIST ",
+    "IlceAdiEn": "BIBERIST ",
+    "IlceID": "14454"
+  },
+  {
+    "IlceAdi": "BIEL",
+    "IlceAdiEn": "BIEL",
+    "IlceID": "14534"
+  },
+  {
+    "IlceAdi": "BOUDRY",
+    "IlceAdiEn": "BOUDRY",
+    "IlceID": "14440"
+  },
+  {
+    "IlceAdi": "BRUGG (A)",
+    "IlceAdiEn": "BRUGG (A)",
+    "IlceID": "14483"
+  },
+  {
+    "IlceAdi": "BRUNNEN ",
+    "IlceAdiEn": "BRUNNEN ",
+    "IlceID": "14414"
+  },
+  {
+    "IlceAdi": "BUCH",
+    "IlceAdiEn": "BUCH",
+    "IlceID": "14448"
+  },
+  {
+    "IlceAdi": "BUCHS (A)",
+    "IlceAdiEn": "BUCHS (A)",
+    "IlceID": "14481"
+  },
+  {
+    "IlceAdi": "BULACH",
+    "IlceAdiEn": "BULACH",
+    "IlceID": "14482"
+  },
+  {
+    "IlceAdi": "BURGDORF",
+    "IlceAdiEn": "BURGDORF",
+    "IlceID": "14507"
+  },
+  {
+    "IlceAdi": "BURGLEN (U)",
+    "IlceAdiEn": "BURGLEN (U)",
+    "IlceID": "14508"
+  },
+  {
+    "IlceAdi": "CENEVRE",
+    "IlceAdiEn": "CENEVRE",
+    "IlceID": "14550"
+  },
+  {
+    "IlceAdi": "CHIASSO",
+    "IlceAdiEn": "CHIASSO",
+    "IlceID": "14436"
+  },
+  {
+    "IlceAdi": "CHUR",
+    "IlceAdiEn": "CHUR",
+    "IlceID": "14535"
+  },
+  {
+    "IlceAdi": "COSSONAY",
+    "IlceAdiEn": "COSSONAY",
+    "IlceID": "14427"
+  },
+  {
+    "IlceAdi": "COUVET",
+    "IlceAdiEn": "COUVET",
+    "IlceID": "14441"
+  },
+  {
+    "IlceAdi": "DAVOS",
+    "IlceAdiEn": "DAVOS",
+    "IlceID": "14528"
+  },
+  {
+    "IlceAdi": "DELEMONT",
+    "IlceAdiEn": "DELEMONT",
+    "IlceID": "14501"
+  },
+  {
+    "IlceAdi": "DERENDINGEN",
+    "IlceAdiEn": "DERENDINGEN",
+    "IlceID": "14455"
+  },
+  {
+    "IlceAdi": "DOTTINGEN",
+    "IlceAdiEn": "DOTTINGEN",
+    "IlceID": "17838"
+  },
+  {
+    "IlceAdi": "ECHALLENS",
+    "IlceAdiEn": "ECHALLENS",
+    "IlceID": "14428"
+  },
+  {
+    "IlceAdi": "EINSIEDELN",
+    "IlceAdiEn": "EINSIEDELN",
+    "IlceID": "14415"
+  },
+  {
+    "IlceAdi": "FLAWIL",
+    "IlceAdiEn": "FLAWIL",
+    "IlceID": "14465"
+  },
+  {
+    "IlceAdi": "FLUMS",
+    "IlceAdiEn": "FLUMS",
+    "IlceID": "14519"
+  },
+  {
+    "IlceAdi": "FRAUENFELD",
+    "IlceAdiEn": "FRAUENFELD",
+    "IlceID": "14536"
+  },
+  {
+    "IlceAdi": "FREIENBACH",
+    "IlceAdiEn": "FREIENBACH",
+    "IlceID": "14475"
+  },
+  {
+    "IlceAdi": "FRIBOURG",
+    "IlceAdiEn": "FRIBOURG",
+    "IlceID": "14537"
+  },
+  {
+    "IlceAdi": "FULL",
+    "IlceAdiEn": "FULL",
+    "IlceID": "14408"
+  },
+  {
+    "IlceAdi": "GLARUS",
+    "IlceAdiEn": "GLARUS",
+    "IlceID": "17839"
+  },
+  {
+    "IlceAdi": "GOSSAU (SG)",
+    "IlceAdiEn": "GOSSAU (SG)",
+    "IlceID": "14466"
+  },
+  {
+    "IlceAdi": "GRENCHEN",
+    "IlceAdiEn": "GRENCHEN",
+    "IlceID": "14456"
+  },
+  {
+    "IlceAdi": "HEIDEN",
+    "IlceAdiEn": "HEIDEN",
+    "IlceID": "14467"
+  },
+  {
+    "IlceAdi": "HERISAU",
+    "IlceAdiEn": "HERISAU",
+    "IlceID": "14468"
+  },
+  {
+    "IlceAdi": "HERZOGENBUCHSEE",
+    "IlceAdiEn": "HERZOGENBUCHSEE",
+    "IlceID": "14457"
+  },
+  {
+    "IlceAdi": "HOCHDORF",
+    "IlceAdiEn": "HOCHDORF",
+    "IlceID": "14476"
+  },
+  {
+    "IlceAdi": "HUTTWIL",
+    "IlceAdiEn": "HUTTWIL",
+    "IlceID": "14484"
+  },
+  {
+    "IlceAdi": "INTERLAKEN",
+    "IlceAdiEn": "INTERLAKEN",
+    "IlceID": "14509"
+  },
+  {
+    "IlceAdi": "ITTINGEN",
+    "IlceAdiEn": "ITTINGEN",
+    "IlceID": "14423"
+  },
+  {
+    "IlceAdi": "KAISTEN",
+    "IlceAdiEn": "KAISTEN",
+    "IlceID": "14409"
+  },
+  {
+    "IlceAdi": "KIRCHBERG",
+    "IlceAdiEn": "KIRCHBERG",
+    "IlceID": "14485"
+  },
+  {
+    "IlceAdi": "KONIZ",
+    "IlceAdiEn": "KONIZ",
+    "IlceID": "14510"
+  },
+  {
+    "IlceAdi": "KREUZLINGEN",
+    "IlceAdiEn": "KREUZLINGEN",
+    "IlceID": "17840"
+  },
+  {
+    "IlceAdi": "LA BREVINE",
+    "IlceAdiEn": "LA BREVINE",
+    "IlceID": "14442"
+  },
+  {
+    "IlceAdi": "LA CHAUX DE FONDS",
+    "IlceAdiEn": "LA CHAUX DE FONDS",
+    "IlceID": "14538"
+  },
+  {
+    "IlceAdi": "LACHEN",
+    "IlceAdiEn": "LACHEN",
+    "IlceID": "14416"
+  },
+  {
+    "IlceAdi": "LANDQUART",
+    "IlceAdiEn": "LANDQUART",
+    "IlceID": "14546"
+  },
+  {
+    "IlceAdi": "LANGENTHAL",
+    "IlceAdiEn": "LANGENTHAL",
+    "IlceID": "14458"
+  },
+  {
+    "IlceAdi": "LANGNAU (B)",
+    "IlceAdiEn": "LANGNAU (B)",
+    "IlceID": "14511"
+  },
+  {
+    "IlceAdi": "LE LOCLE",
+    "IlceAdiEn": "LE LOCLE",
+    "IlceID": "14443"
+  },
+  {
+    "IlceAdi": "LENZBURG",
+    "IlceAdiEn": "LENZBURG",
+    "IlceID": "14496"
+  },
+  {
+    "IlceAdi": "LIESTAL",
+    "IlceAdiEn": "LIESTAL",
+    "IlceID": "14530"
+  },
+  {
+    "IlceAdi": "LIGORNETTO",
+    "IlceAdiEn": "LIGORNETTO",
+    "IlceID": "14437"
+  },
+  {
+    "IlceAdi": "LINTHAL",
+    "IlceAdiEn": "LINTHAL",
+    "IlceID": "14417"
+  },
+  {
+    "IlceAdi": "LOZAN",
+    "IlceAdiEn": "LOZAN",
+    "IlceID": "14551"
+  },
+  {
+    "IlceAdi": "LUCERNE",
+    "IlceAdiEn": "LUCERNE",
+    "IlceID": "14539"
+  },
+  {
+    "IlceAdi": "LUGANO",
+    "IlceAdiEn": "LUGANO",
+    "IlceID": "14549"
+  },
+  {
+    "IlceAdi": "MARTIGNY",
+    "IlceAdiEn": "MARTIGNY",
+    "IlceID": "14533"
+  },
+  {
+    "IlceAdi": "MELS",
+    "IlceAdiEn": "MELS",
+    "IlceID": "14531"
+  },
+  {
+    "IlceAdi": "MENZIKEN",
+    "IlceAdiEn": "MENZIKEN",
+    "IlceID": "14497"
+  },
+  {
+    "IlceAdi": "MONTHEY",
+    "IlceAdiEn": "MONTHEY",
+    "IlceID": "14532"
+  },
+  {
+    "IlceAdi": "MONTREUX",
+    "IlceAdiEn": "MONTREUX",
+    "IlceID": "14522"
+  },
+  {
+    "IlceAdi": "MORCOTE",
+    "IlceAdiEn": "MORCOTE",
+    "IlceID": "14438"
+  },
+  {
+    "IlceAdi": "MORGES",
+    "IlceAdiEn": "MORGES",
+    "IlceID": "14429"
+  },
+  {
+    "IlceAdi": "MOUDON",
+    "IlceAdiEn": "MOUDON",
+    "IlceID": "14430"
+  },
+  {
+    "IlceAdi": "MOUTIER",
+    "IlceAdiEn": "MOUTIER",
+    "IlceID": "14459"
+  },
+  {
+    "IlceAdi": "MURI (B)",
+    "IlceAdiEn": "MURI (B)",
+    "IlceID": "14512"
+  },
+  {
+    "IlceAdi": "MUTTENZ",
+    "IlceAdiEn": "MUTTENZ",
+    "IlceID": "14502"
+  },
+  {
+    "IlceAdi": "NAFELS",
+    "IlceAdiEn": "NAFELS",
+    "IlceID": "14418"
+  },
+  {
+    "IlceAdi": "NEUCHATEL",
+    "IlceAdiEn": "NEUCHATEL",
+    "IlceID": "14540"
+  },
+  {
+    "IlceAdi": "NEUHAUSEN",
+    "IlceAdiEn": "NEUHAUSEN",
+    "IlceID": "14449"
+  },
+  {
+    "IlceAdi": "NIDAU",
+    "IlceAdiEn": "NIDAU",
+    "IlceID": "14460"
+  },
+  {
+    "IlceAdi": "NYON",
+    "IlceAdiEn": "NYON",
+    "IlceID": "14524"
+  },
+  {
+    "IlceAdi": "OBERUZWIL",
+    "IlceAdiEn": "OBERUZWIL",
+    "IlceID": "14469"
+  },
+  {
+    "IlceAdi": "OLTEN",
+    "IlceAdiEn": "OLTEN",
+    "IlceID": "14523"
+  },
+  {
+    "IlceAdi": "ORBE",
+    "IlceAdiEn": "ORBE",
+    "IlceID": "14431"
+  },
+  {
+    "IlceAdi": "PRATTELN",
+    "IlceAdiEn": "PRATTELN",
+    "IlceID": "14503"
+  },
+  {
+    "IlceAdi": "RAPPERSWILL (SG)",
+    "IlceAdiEn": "RAPPERSWILL (SG)",
+    "IlceID": "14487"
+  },
+  {
+    "IlceAdi": "REINACH",
+    "IlceAdiEn": "REINACH",
+    "IlceID": "14504"
+  },
+  {
+    "IlceAdi": "REINACH (A)",
+    "IlceAdiEn": "REINACH (A)",
+    "IlceID": "14498"
+  },
+  {
+    "IlceAdi": "RENENS",
+    "IlceAdiEn": "RENENS",
+    "IlceID": "14432"
+  },
+  {
+    "IlceAdi": "ROLLE",
+    "IlceAdiEn": "ROLLE",
+    "IlceID": "14433"
+  },
+  {
+    "IlceAdi": "ROMANSHORN",
+    "IlceAdiEn": "ROMANSHORN",
+    "IlceID": "14470"
+  },
+  {
+    "IlceAdi": "RORSCHACH",
+    "IlceAdiEn": "RORSCHACH",
+    "IlceID": "14471"
+  },
+  {
+    "IlceAdi": "RUMIKON",
+    "IlceAdiEn": "RUMIKON",
+    "IlceID": "14410"
+  },
+  {
+    "IlceAdi": "RUTI (B)",
+    "IlceAdiEn": "RUTI (B)",
+    "IlceID": "14461"
+  },
+  {
+    "IlceAdi": "RUTI (Z)",
+    "IlceAdiEn": "RUTI (Z)",
+    "IlceID": "14486"
+  },
+  {
+    "IlceAdi": "SANKT GALLEN",
+    "IlceAdiEn": "SANKT GALLEN",
+    "IlceID": "14526"
+  },
+  {
+    "IlceAdi": "SANKT MARGRETHEN",
+    "IlceAdiEn": "SANKT MARGRETHEN",
+    "IlceID": "14472"
+  },
+  {
+    "IlceAdi": "SARGANS",
+    "IlceAdiEn": "SARGANS",
+    "IlceID": "14518"
+  },
+  {
+    "IlceAdi": "SCHAFFHAUSEN",
+    "IlceAdiEn": "SCHAFFHAUSEN",
+    "IlceID": "14529"
+  },
+  {
+    "IlceAdi": "SCHLATTINGEN",
+    "IlceAdiEn": "SCHLATTINGEN",
+    "IlceID": "14450"
+  },
+  {
+    "IlceAdi": "SCHWANDEN (G)",
+    "IlceAdiEn": "SCHWANDEN (G)",
+    "IlceID": "14419"
+  },
+  {
+    "IlceAdi": "SCHWYZ",
+    "IlceAdiEn": "SCHWYZ",
+    "IlceID": "14420"
+  },
+  {
+    "IlceAdi": "SEON",
+    "IlceAdiEn": "SEON",
+    "IlceID": "14488"
+  },
+  {
+    "IlceAdi": "SIERRE",
+    "IlceAdiEn": "SIERRE",
+    "IlceID": "14517"
+  },
+  {
+    "IlceAdi": "SION",
+    "IlceAdiEn": "SION",
+    "IlceID": "14541"
+  },
+  {
+    "IlceAdi": "SISSACH",
+    "IlceAdiEn": "SISSACH",
+    "IlceID": "14505"
+  },
+  {
+    "IlceAdi": "SOLOTHURN",
+    "IlceAdiEn": "SOLOTHURN",
+    "IlceID": "14520"
+  },
+  {
+    "IlceAdi": "ST. MORITZ",
+    "IlceAdiEn": "ST. MORITZ",
+    "IlceID": "14545"
+  },
+  {
+    "IlceAdi": "SUHR   ",
+    "IlceAdiEn": "SUHR   ",
+    "IlceID": "14499"
+  },
+  {
+    "IlceAdi": "SUMISWALD",
+    "IlceAdiEn": "SUMISWALD",
+    "IlceID": "14513"
+  },
+  {
+    "IlceAdi": "SURSEE",
+    "IlceAdiEn": "SURSEE",
+    "IlceID": "14489"
+  },
+  {
+    "IlceAdi": "THAYNGEN",
+    "IlceAdiEn": "THAYNGEN",
+    "IlceID": "14451"
+  },
+  {
+    "IlceAdi": "THUN",
+    "IlceAdiEn": "THUN",
+    "IlceID": "14542"
+  },
+  {
+    "IlceAdi": "TRAVERS",
+    "IlceAdiEn": "TRAVERS",
+    "IlceID": "14444"
+  },
+  {
+    "IlceAdi": "UNTERAGERI",
+    "IlceAdiEn": "UNTERAGERI",
+    "IlceID": "14477"
+  },
+  {
+    "IlceAdi": "URI ALTDORF",
+    "IlceAdiEn": "URI ALTDORF",
+    "IlceID": "22209"
+  },
+  {
+    "IlceAdi": "USTER",
+    "IlceAdiEn": "USTER",
+    "IlceID": "14490"
+  },
+  {
+    "IlceAdi": "UZWIL",
+    "IlceAdiEn": "UZWIL",
+    "IlceID": "14473"
+  },
+  {
+    "IlceAdi": "VADUZ",
+    "IlceAdiEn": "VADUZ",
+    "IlceID": "17841"
+  },
+  {
+    "IlceAdi": "VERNIER",
+    "IlceAdiEn": "VERNIER",
+    "IlceID": "14406"
+  },
+  {
+    "IlceAdi": "VERSOIX",
+    "IlceAdiEn": "VERSOIX",
+    "IlceID": "14407"
+  },
+  {
+    "IlceAdi": "VEVEY",
+    "IlceAdiEn": "VEVEY",
+    "IlceID": "14434"
+  },
+  {
+    "IlceAdi": "VILLIGEN",
+    "IlceAdiEn": "VILLIGEN",
+    "IlceID": "14411"
+  },
+  {
+    "IlceAdi": "WADENSWIL",
+    "IlceAdiEn": "WADENSWIL",
+    "IlceID": "14478"
+  },
+  {
+    "IlceAdi": "WATTWIL",
+    "IlceAdiEn": "WATTWIL",
+    "IlceID": "14492"
+  },
+  {
+    "IlceAdi": "WEINFELDEN ",
+    "IlceAdiEn": "WEINFELDEN ",
+    "IlceID": "14425"
+  },
+  {
+    "IlceAdi": "WETZIKON",
+    "IlceAdiEn": "WETZIKON",
+    "IlceID": "14493"
+  },
+  {
+    "IlceAdi": "WIL (A)",
+    "IlceAdiEn": "WIL (A)",
+    "IlceID": "14412"
+  },
+  {
+    "IlceAdi": "WIL (SG)",
+    "IlceAdiEn": "WIL (SG)",
+    "IlceID": "14494"
+  },
+  {
+    "IlceAdi": "WINTERTHUR",
+    "IlceAdiEn": "WINTERTHUR",
+    "IlceID": "14543"
+  },
+  {
+    "IlceAdi": "WOHLEN (B)",
+    "IlceAdiEn": "WOHLEN (B)",
+    "IlceID": "14515"
+  },
+  {
+    "IlceAdi": "YVERDON LES BAINS",
+    "IlceAdiEn": "YVERDON LES BAINS",
+    "IlceID": "14544"
+  },
+  {
+    "IlceAdi": "ZOFINGEN                         ",
+    "IlceAdiEn": "ZOFINGEN                         ",
+    "IlceID": "14495"
+  },
+  {
+    "IlceAdi": "ZUG",
+    "IlceAdiEn": "ZUG",
+    "IlceID": "14527"
+  },
+  {
+    "IlceAdi": "ZURIH",
+    "IlceAdiEn": "ZURIH",
+    "IlceID": "14547"
+  },
+  {
+    "IlceAdi": "ZURZACH",
+    "IlceAdiEn": "ZURZACH",
+    "IlceID": "14506"
+  }
+]

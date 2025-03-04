@@ -1,0 +1,42 @@
+[
+  {
+    "IlceAdi": "CHANDLER",
+    "IlceAdiEn": "CHANDLER",
+    "IlceID": "8591"
+  },
+  {
+    "IlceAdi": "GLENDALE",
+    "IlceAdiEn": "GLENDALE",
+    "IlceID": "8592"
+  },
+  {
+    "IlceAdi": "GRAND CANYON",
+    "IlceAdiEn": "GRAND CANYON",
+    "IlceID": "8593"
+  },
+  {
+    "IlceAdi": "MESA",
+    "IlceAdiEn": "MESA",
+    "IlceID": "8594"
+  },
+  {
+    "IlceAdi": "PHOENIX",
+    "IlceAdiEn": "PHOENIX",
+    "IlceID": "8595"
+  },
+  {
+    "IlceAdi": "SCOTTSDALE",
+    "IlceAdiEn": "SCOTTSDALE",
+    "IlceID": "8596"
+  },
+  {
+    "IlceAdi": "TEMPE",
+    "IlceAdiEn": "TEMPE",
+    "IlceID": "8597"
+  },
+  {
+    "IlceAdi": "TUCSON",
+    "IlceAdiEn": "TUCSON",
+    "IlceID": "8598"
+  }
+]

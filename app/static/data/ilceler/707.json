@@ -1,0 +1,47 @@
+[
+  {
+    "IlceAdi": "ACCRA",
+    "IlceAdiEn": "ACCRA",
+    "IlceID": "13445"
+  },
+  {
+    "IlceAdi": "BOLGATANGA",
+    "IlceAdiEn": "BOLGATANGA",
+    "IlceID": "13437"
+  },
+  {
+    "IlceAdi": "CAPE COAST",
+    "IlceAdiEn": "CAPE COAST",
+    "IlceID": "13438"
+  },
+  {
+    "IlceAdi": "KOFORIDUA",
+    "IlceAdiEn": "KOFORIDUA",
+    "IlceID": "13440"
+  },
+  {
+    "IlceAdi": "KUMASI",
+    "IlceAdiEn": "KUMASI",
+    "IlceID": "13439"
+  },
+  {
+    "IlceAdi": "SEKONDI",
+    "IlceAdiEn": "SEKONDI",
+    "IlceID": "13444"
+  },
+  {
+    "IlceAdi": "TAKORADI",
+    "IlceAdiEn": "TAKORADI",
+    "IlceID": "13443"
+  },
+  {
+    "IlceAdi": "TAMALE",
+    "IlceAdiEn": "TAMALE",
+    "IlceID": "13441"
+  },
+  {
+    "IlceAdi": "TEMA",
+    "IlceAdiEn": "TEMA",
+    "IlceID": "13442"
+  }
+]

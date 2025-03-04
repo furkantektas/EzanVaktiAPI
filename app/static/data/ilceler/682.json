@@ -1,0 +1,92 @@
+[
+  {
+    "IlceAdi": "ANNABA",
+    "IlceAdiEn": "ANNABA",
+    "IlceID": "12346"
+  },
+  {
+    "IlceAdi": "BATNA",
+    "IlceAdiEn": "BATNA",
+    "IlceID": "12359"
+  },
+  {
+    "IlceAdi": "BECHAR",
+    "IlceAdiEn": "BECHAR",
+    "IlceID": "12357"
+  },
+  {
+    "IlceAdi": "BEJAIA",
+    "IlceAdiEn": "BEJAIA",
+    "IlceID": "12351"
+  },
+  {
+    "IlceAdi": "BISKRA",
+    "IlceAdiEn": "BISKRA",
+    "IlceID": "12358"
+  },
+  {
+    "IlceAdi": "BLIDA",
+    "IlceAdiEn": "BLIDA",
+    "IlceID": "12352"
+  },
+  {
+    "IlceAdi": "CEZAYIR",
+    "IlceAdiEn": "ALGIERS",
+    "IlceID": "12361"
+  },
+  {
+    "IlceAdi": "CONSTANTINE",
+    "IlceAdiEn": "CONSTANTINE",
+    "IlceID": "12349"
+  },
+  {
+    "IlceAdi": "ECH CHELIFF",
+    "IlceAdiEn": "ECH CHELIFF",
+    "IlceID": "12353"
+  },
+  {
+    "IlceAdi": "MASCARA",
+    "IlceAdiEn": "MASCARA",
+    "IlceID": "12347"
+  },
+  {
+    "IlceAdi": "MOSTAGANEM",
+    "IlceAdiEn": "MOSTAGANEM",
+    "IlceID": "12354"
+  },
+  {
+    "IlceAdi": "ORAN",
+    "IlceAdiEn": "ORAN",
+    "IlceID": "12362"
+  },
+  {
+    "IlceAdi": "OUED ATHMENIA",
+    "IlceAdiEn": "OUED ATHMENIA",
+    "IlceID": "12345"
+  },
+  {
+    "IlceAdi": "SETIF",
+    "IlceAdiEn": "SETIF",
+    "IlceID": "12350"
+  },
+  {
+    "IlceAdi": "SIDI BEL ABBES",
+    "IlceAdiEn": "SIDI BEL ABBES",
+    "IlceID": "12355"
+  },
+  {
+    "IlceAdi": "SKIKDA",
+    "IlceAdiEn": "SKIKDA",
+    "IlceID": "12348"
+  },
+  {
+    "IlceAdi": "TEBESSA",
+    "IlceAdiEn": "TEBESSA",
+    "IlceID": "12360"
+  },
+  {
+    "IlceAdi": "TLEMCEN",
+    "IlceAdiEn": "TLEMCEN",
+    "IlceID": "12356"
+  }
+]

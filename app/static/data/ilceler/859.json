@@ -1,0 +1,1427 @@
+[
+  {
+    "IlceAdi": "AACHEN",
+    "IlceAdiEn": "AACHEN",
+    "IlceID": "33305"
+  },
+  {
+    "IlceAdi": "AHAUS",
+    "IlceAdiEn": "AHAUS",
+    "IlceID": "10873"
+  },
+  {
+    "IlceAdi": "AHLEN",
+    "IlceAdiEn": "AHLEN",
+    "IlceID": "11057"
+  },
+  {
+    "IlceAdi": "ALDENHOVEN",
+    "IlceAdiEn": "ALDENHOVEN",
+    "IlceID": "10877"
+  },
+  {
+    "IlceAdi": "ALFTER",
+    "IlceAdiEn": "ALFTER",
+    "IlceID": "10878"
+  },
+  {
+    "IlceAdi": "ALSDORF",
+    "IlceAdiEn": "ALSDORF",
+    "IlceID": "10884"
+  },
+  {
+    "IlceAdi": "ALTENA",
+    "IlceAdiEn": "ALTENA",
+    "IlceID": "10886"
+  },
+  {
+    "IlceAdi": "APPELHULSEN",
+    "IlceAdiEn": "APPELHULSEN",
+    "IlceID": "17934"
+  },
+  {
+    "IlceAdi": "ARNSBERG",
+    "IlceAdiEn": "ARNSBERG",
+    "IlceID": "10892"
+  },
+  {
+    "IlceAdi": "ASCHEBERG",
+    "IlceAdiEn": "ASCHEBERG",
+    "IlceID": "10895"
+  },
+  {
+    "IlceAdi": "ASSELN",
+    "IlceAdiEn": "ASSELN",
+    "IlceID": "10724"
+  },
+  {
+    "IlceAdi": "ATTENDORN",
+    "IlceAdiEn": "ATTENDORN",
+    "IlceID": "10896"
+  },
+  {
+    "IlceAdi": "AUGUSTDORF",
+    "IlceAdiEn": "AUGUSTDORF",
+    "IlceID": "10897"
+  },
+  {
+    "IlceAdi": "BAD HONNEF AM RHEIN",
+    "IlceAdiEn": "BAD HONNEF AM RHEIN",
+    "IlceID": "10904"
+  },
+  {
+    "IlceAdi": "BAD LIPPSPRINGE",
+    "IlceAdiEn": "BAD LIPPSPRINGE",
+    "IlceID": "10906"
+  },
+  {
+    "IlceAdi": "BAD MEINBERG",
+    "IlceAdiEn": "BAD MEINBERG",
+    "IlceID": "10709"
+  },
+  {
+    "IlceAdi": "BAD OEYNHAUSEN",
+    "IlceAdiEn": "BAD OEYNHAUSEN",
+    "IlceID": "10710"
+  },
+  {
+    "IlceAdi": "BAD SALZUFLEN",
+    "IlceAdiEn": "BAD SALZUFLEN",
+    "IlceID": "10909"
+  },
+  {
+    "IlceAdi": "BAESWEILER",
+    "IlceAdiEn": "BAESWEILER",
+    "IlceID": "10914"
+  },
+  {
+    "IlceAdi": "BALVE",
+    "IlceAdiEn": "BALVE",
+    "IlceID": "10915"
+  },
+  {
+    "IlceAdi": "BARDENBERG",
+    "IlceAdiEn": "BARDENBERG",
+    "IlceID": "10705"
+  },
+  {
+    "IlceAdi": "BARMEN(Wuppertal)",
+    "IlceAdiEn": "BARMEN(Wuppertal)",
+    "IlceID": "10365"
+  },
+  {
+    "IlceAdi": "BECKUM",
+    "IlceAdiEn": "BECKUM",
+    "IlceID": "10916"
+  },
+  {
+    "IlceAdi": "BEDBURG",
+    "IlceAdiEn": "BEDBURG",
+    "IlceID": "10755"
+  },
+  {
+    "IlceAdi": "BERGHEIM",
+    "IlceAdiEn": "BERGHEIM",
+    "IlceID": "10920"
+  },
+  {
+    "IlceAdi": "BERGISH-GLADBACH",
+    "IlceAdiEn": "BERGISH-GLADBACH",
+    "IlceID": "10921"
+  },
+  {
+    "IlceAdi": "BERGKAMEN",
+    "IlceAdiEn": "BERGKAMEN",
+    "IlceID": "11084"
+  },
+  {
+    "IlceAdi": "BERGNEUSTADT",
+    "IlceAdiEn": "BERGNEUSTADT",
+    "IlceID": "10923"
+  },
+  {
+    "IlceAdi": "BESTWIG",
+    "IlceAdiEn": "BESTWIG",
+    "IlceID": "10924"
+  },
+  {
+    "IlceAdi": "BIELEFELD",
+    "IlceAdiEn": "BIELEFELD",
+    "IlceID": "11003"
+  },
+  {
+    "IlceAdi": "BISMARCK",
+    "IlceAdiEn": "BISMARCK",
+    "IlceID": "10000"
+  },
+  {
+    "IlceAdi": "BLANKENHEIM",
+    "IlceAdiEn": "BLANKENHEIM",
+    "IlceID": "10931"
+  },
+  {
+    "IlceAdi": "BLOMBERG",
+    "IlceAdiEn": "BLOMBERG",
+    "IlceID": "10932"
+  },
+  {
+    "IlceAdi": "BOCHOLT",
+    "IlceAdiEn": "BOCHOLT",
+    "IlceID": "11095"
+  },
+  {
+    "IlceAdi": "BOCHUM",
+    "IlceAdiEn": "BOCHUM",
+    "IlceID": "11126"
+  },
+  {
+    "IlceAdi": "BONEN",
+    "IlceAdiEn": "BONEN",
+    "IlceID": "10938"
+  },
+  {
+    "IlceAdi": "BONN",
+    "IlceAdiEn": "BONN",
+    "IlceID": "11004"
+  },
+  {
+    "IlceAdi": "BORNHEIM",
+    "IlceAdiEn": "BORNHEIM",
+    "IlceID": "10941"
+  },
+  {
+    "IlceAdi": "BOTTROP",
+    "IlceAdiEn": "BOTTROP",
+    "IlceID": "10942"
+  },
+  {
+    "IlceAdi": "BRAKEL",
+    "IlceAdiEn": "BRAKEL",
+    "IlceID": "10945"
+  },
+  {
+    "IlceAdi": "BRAMBAUER (LUNEN)",
+    "IlceAdiEn": "BRAMBAUER (LUNEN)",
+    "IlceID": "10196"
+  },
+  {
+    "IlceAdi": "BRILON",
+    "IlceAdiEn": "BRILON",
+    "IlceID": "10952"
+  },
+  {
+    "IlceAdi": "BRUGGEN",
+    "IlceAdiEn": "BRUGGEN",
+    "IlceID": "10727"
+  },
+  {
+    "IlceAdi": "BRUHL",
+    "IlceAdiEn": "BRUHL",
+    "IlceID": "10954"
+  },
+  {
+    "IlceAdi": "BUNDE",
+    "IlceAdiEn": "BUNDE",
+    "IlceID": "10961"
+  },
+  {
+    "IlceAdi": "BURSCHEID",
+    "IlceAdiEn": "BURSCHEID",
+    "IlceID": "10962"
+  },
+  {
+    "IlceAdi": "CASTROP-RAUXEL",
+    "IlceAdiEn": "CASTROP-RAUXEL",
+    "IlceID": "10964"
+  },
+  {
+    "IlceAdi": "COESFELD",
+    "IlceAdiEn": "COESFELD",
+    "IlceID": "10966"
+  },
+  {
+    "IlceAdi": "DAHLHAUSEN",
+    "IlceAdiEn": "DAHLHAUSEN",
+    "IlceID": "10934"
+  },
+  {
+    "IlceAdi": "DATTELN",
+    "IlceAdiEn": "DATTELN",
+    "IlceID": "10968"
+  },
+  {
+    "IlceAdi": "DELBRUCK",
+    "IlceAdiEn": "DELBRUCK",
+    "IlceID": "10969"
+  },
+  {
+    "IlceAdi": "DELLWIG",
+    "IlceAdiEn": "DELLWIG",
+    "IlceID": "9977"
+  },
+  {
+    "IlceAdi": "DERNE(DORT.)",
+    "IlceAdiEn": "DERNE(DORT.)",
+    "IlceID": "11113"
+  },
+  {
+    "IlceAdi": "DETMOLD",
+    "IlceAdiEn": "DETMOLD",
+    "IlceID": "11065"
+  },
+  {
+    "IlceAdi": "DINSLAKEN",
+    "IlceAdiEn": "DINSLAKEN",
+    "IlceID": "10975"
+  },
+  {
+    "IlceAdi": "DORMAGEN",
+    "IlceAdiEn": "DORMAGEN",
+    "IlceID": "10977"
+  },
+  {
+    "IlceAdi": "DORSTEN",
+    "IlceAdiEn": "DORSTEN",
+    "IlceID": "10978"
+  },
+  {
+    "IlceAdi": "DORTMUND",
+    "IlceAdiEn": "DORTMUND",
+    "IlceID": "11006"
+  },
+  {
+    "IlceAdi": "DRENSTEINFURT",
+    "IlceAdiEn": "DRENSTEINFURT",
+    "IlceID": "10980"
+  },
+  {
+    "IlceAdi": "DUISBURG",
+    "IlceAdiEn": "DUISBURG",
+    "IlceID": "11007"
+  },
+  {
+    "IlceAdi": "DULMEN",
+    "IlceAdiEn": "DULMEN",
+    "IlceID": "10984"
+  },
+  {
+    "IlceAdi": "DUREN",
+    "IlceAdiEn": "DUREN",
+    "IlceID": "11122"
+  },
+  {
+    "IlceAdi": "DUSSELDORF",
+    "IlceAdiEn": "DUSSELDORF",
+    "IlceID": "11008"
+  },
+  {
+    "IlceAdi": "EITORF",
+    "IlceAdiEn": "EITORF",
+    "IlceID": "10988"
+  },
+  {
+    "IlceAdi": "ELSDORF",
+    "IlceAdiEn": "ELSDORF",
+    "IlceID": "10990"
+  },
+  {
+    "IlceAdi": "EMMERICH",
+    "IlceAdiEn": "EMMERICH",
+    "IlceID": "11052"
+  },
+  {
+    "IlceAdi": "EMSDETTEN",
+    "IlceAdiEn": "EMSDETTEN",
+    "IlceID": "21149"
+  },
+  {
+    "IlceAdi": "ENGELSKIRCHEN",
+    "IlceAdiEn": "ENGELSKIRCHEN",
+    "IlceID": "10995"
+  },
+  {
+    "IlceAdi": "ENNEPETAL",
+    "IlceAdiEn": "ENNEPETAL",
+    "IlceID": "10728"
+  },
+  {
+    "IlceAdi": "ERFTSTADT",
+    "IlceAdiEn": "ERFTSTADT",
+    "IlceID": "10997"
+  },
+  {
+    "IlceAdi": "ERKELENZ",
+    "IlceAdiEn": "ERKELENZ",
+    "IlceID": "10998"
+  },
+  {
+    "IlceAdi": "ERKRATH",
+    "IlceAdiEn": "ERKRATH",
+    "IlceID": "10999"
+  },
+  {
+    "IlceAdi": "ERLE",
+    "IlceAdiEn": "ERLE",
+    "IlceID": "10001"
+  },
+  {
+    "IlceAdi": "ESCHWEILER",
+    "IlceAdiEn": "ESCHWEILER",
+    "IlceID": "11001"
+  },
+  {
+    "IlceAdi": "ESLOHE",
+    "IlceAdiEn": "ESLOHE",
+    "IlceID": "9975"
+  },
+  {
+    "IlceAdi": "ESPELKAMP",
+    "IlceAdiEn": "ESPELKAMP",
+    "IlceID": "9976"
+  },
+  {
+    "IlceAdi": "ESPELKAMP/RAHDEN",
+    "IlceAdiEn": "ESPELKAMP/RAHDEN",
+    "IlceID": "16758"
+  },
+  {
+    "IlceAdi": "ESSEN",
+    "IlceAdiEn": "ESSEN",
+    "IlceID": "11009"
+  },
+  {
+    "IlceAdi": "EUSKIRCHEN",
+    "IlceAdiEn": "EUSKIRCHEN",
+    "IlceID": "9981"
+  },
+  {
+    "IlceAdi": "FINNENTROP",
+    "IlceAdiEn": "FINNENTROP",
+    "IlceID": "21160"
+  },
+  {
+    "IlceAdi": "FRECHEN",
+    "IlceAdiEn": "FRECHEN",
+    "IlceID": "9984"
+  },
+  {
+    "IlceAdi": "FRONDENBERG",
+    "IlceAdiEn": "FRONDENBERG",
+    "IlceID": "10725"
+  },
+  {
+    "IlceAdi": "GEILENKIRCHEN (NRW)",
+    "IlceAdiEn": "GEILENKIRCHEN (NRW)",
+    "IlceID": "10756"
+  },
+  {
+    "IlceAdi": "GELDERN",
+    "IlceAdiEn": "GELDERN",
+    "IlceID": "9999"
+  },
+  {
+    "IlceAdi": "GELSDORF",
+    "IlceAdiEn": "GELSDORF",
+    "IlceID": "10713"
+  },
+  {
+    "IlceAdi": "GELSENKIRCHEN",
+    "IlceAdiEn": "GELSENKIRCHEN",
+    "IlceID": "11037"
+  },
+  {
+    "IlceAdi": "GESEKE",
+    "IlceAdiEn": "GESEKE",
+    "IlceID": "10011"
+  },
+  {
+    "IlceAdi": "GEVELSBERG",
+    "IlceAdiEn": "GEVELSBERG",
+    "IlceID": "10012"
+  },
+  {
+    "IlceAdi": "GLADBACH (NRW)",
+    "IlceAdiEn": "GLADBACH (NRW)",
+    "IlceID": "10714"
+  },
+  {
+    "IlceAdi": "GLADBECK",
+    "IlceAdiEn": "GLADBECK",
+    "IlceID": "10014"
+  },
+  {
+    "IlceAdi": "GREVEN",
+    "IlceAdiEn": "GREVEN",
+    "IlceID": "10020"
+  },
+  {
+    "IlceAdi": "GREVENBROICH",
+    "IlceAdiEn": "GREVENBROICH",
+    "IlceID": "10021"
+  },
+  {
+    "IlceAdi": "GRONAU",
+    "IlceAdiEn": "GRONAU",
+    "IlceID": "11114"
+  },
+  {
+    "IlceAdi": "GUMMERSBACH",
+    "IlceAdiEn": "GUMMERSBACH",
+    "IlceID": "10025"
+  },
+  {
+    "IlceAdi": "GURZENICH",
+    "IlceAdiEn": "GURZENICH",
+    "IlceID": "10706"
+  },
+  {
+    "IlceAdi": "GUTERSLOH",
+    "IlceAdiEn": "GUTERSLOH",
+    "IlceID": "10026"
+  },
+  {
+    "IlceAdi": "HAGEN (Ruhr Valley)",
+    "IlceAdiEn": "HAGEN (Ruhr Valley)",
+    "IlceID": "11077"
+  },
+  {
+    "IlceAdi": "HALLE (NRW)",
+    "IlceAdiEn": "HALLE (NRW)",
+    "IlceID": "10773"
+  },
+  {
+    "IlceAdi": "HALVER",
+    "IlceAdiEn": "HALVER",
+    "IlceID": "10030"
+  },
+  {
+    "IlceAdi": "HAMM",
+    "IlceAdiEn": "HAMM",
+    "IlceID": "11127"
+  },
+  {
+    "IlceAdi": "HAMM (MARL)",
+    "IlceAdiEn": "HAMM (MARL)",
+    "IlceID": "10200"
+  },
+  {
+    "IlceAdi": "HAMMINKELN",
+    "IlceAdiEn": "HAMMINKELN",
+    "IlceID": "11075"
+  },
+  {
+    "IlceAdi": "HARSEWINKEL",
+    "IlceAdiEn": "HARSEWINKEL",
+    "IlceID": "10041"
+  },
+  {
+    "IlceAdi": "HASPE",
+    "IlceAdiEn": "HASPE",
+    "IlceID": "10027"
+  },
+  {
+    "IlceAdi": "HASSEL",
+    "IlceAdiEn": "HASSEL",
+    "IlceID": "10002"
+  },
+  {
+    "IlceAdi": "HATTINGEN",
+    "IlceAdiEn": "HATTINGEN",
+    "IlceID": "10043"
+  },
+  {
+    "IlceAdi": "HEESSEN",
+    "IlceAdiEn": "HEESSEN",
+    "IlceID": "10036"
+  },
+  {
+    "IlceAdi": "HEILIGENHAUS",
+    "IlceAdiEn": "HEILIGENHAUS",
+    "IlceID": "10118"
+  },
+  {
+    "IlceAdi": "HEINSBERG",
+    "IlceAdiEn": "HEINSBERG",
+    "IlceID": "10119"
+  },
+  {
+    "IlceAdi": "HEMER",
+    "IlceAdiEn": "HEMER",
+    "IlceID": "10121"
+  },
+  {
+    "IlceAdi": "HENNEF",
+    "IlceAdiEn": "HENNEF",
+    "IlceID": "10715"
+  },
+  {
+    "IlceAdi": "HERDECKE",
+    "IlceAdiEn": "HERDECKE",
+    "IlceID": "10742"
+  },
+  {
+    "IlceAdi": "HERFORD",
+    "IlceAdiEn": "HERFORD",
+    "IlceID": "10124"
+  },
+  {
+    "IlceAdi": "HERNE",
+    "IlceAdiEn": "HERNE",
+    "IlceID": "10565"
+  },
+  {
+    "IlceAdi": "HERRINGEN",
+    "IlceAdiEn": "HERRINGEN",
+    "IlceID": "10037"
+  },
+  {
+    "IlceAdi": "HERTEN",
+    "IlceAdiEn": "HERTEN",
+    "IlceID": "10125"
+  },
+  {
+    "IlceAdi": "HERZOGENRATH",
+    "IlceAdiEn": "HERZOGENRATH",
+    "IlceID": "10127"
+  },
+  {
+    "IlceAdi": "HIDDENHAUSEN",
+    "IlceAdiEn": "HIDDENHAUSEN",
+    "IlceID": "10712"
+  },
+  {
+    "IlceAdi": "HILDEN",
+    "IlceAdiEn": "HILDEN",
+    "IlceID": "10129"
+  },
+  {
+    "IlceAdi": "HOCHFELD (DUIS.)",
+    "IlceAdiEn": "HOCHFELD (DUIS.)",
+    "IlceID": "10981"
+  },
+  {
+    "IlceAdi": "HOHENLIMBURG",
+    "IlceAdiEn": "HOHENLIMBURG",
+    "IlceID": "10028"
+  },
+  {
+    "IlceAdi": "HOMBRUCH",
+    "IlceAdiEn": "HOMBRUCH",
+    "IlceID": "10136"
+  },
+  {
+    "IlceAdi": "HORDE",
+    "IlceAdiEn": "HORDE",
+    "IlceID": "33264"
+  },
+  {
+    "IlceAdi": "HORN - BAD MEINBERG",
+    "IlceAdiEn": "HORN - BAD MEINBERG",
+    "IlceID": "10139"
+  },
+  {
+    "IlceAdi": "HORST",
+    "IlceAdiEn": "HORST",
+    "IlceID": "10003"
+  },
+  {
+    "IlceAdi": "HOVEL",
+    "IlceAdiEn": "HOVEL",
+    "IlceID": "10038"
+  },
+  {
+    "IlceAdi": "HOXTER",
+    "IlceAdiEn": "HOXTER",
+    "IlceID": "10140"
+  },
+  {
+    "IlceAdi": "HUCKELHOVEN",
+    "IlceAdiEn": "HUCKELHOVEN",
+    "IlceID": "10141"
+  },
+  {
+    "IlceAdi": "HURTH",
+    "IlceAdiEn": "HURTH",
+    "IlceID": "10144"
+  },
+  {
+    "IlceAdi": "HUTZEMERT",
+    "IlceAdiEn": "HUTZEMERT",
+    "IlceID": "10757"
+  },
+  {
+    "IlceAdi": "IBBENBUREN",
+    "IlceAdiEn": "IBBENBUREN",
+    "IlceID": "10146"
+  },
+  {
+    "IlceAdi": "ISERLOHN",
+    "IlceAdiEn": "ISERLOHN",
+    "IlceID": "10149"
+  },
+  {
+    "IlceAdi": "JUCHEN",
+    "IlceAdiEn": "JUCHEN",
+    "IlceID": "10151"
+  },
+  {
+    "IlceAdi": "JULICH",
+    "IlceAdiEn": "JULICH",
+    "IlceID": "10707"
+  },
+  {
+    "IlceAdi": "KALDENKIRCHEN",
+    "IlceAdiEn": "KALDENKIRCHEN",
+    "IlceID": "10760"
+  },
+  {
+    "IlceAdi": "KAMEN",
+    "IlceAdiEn": "KAMEN",
+    "IlceID": "10154"
+  },
+  {
+    "IlceAdi": "KAMP -LINTFORT",
+    "IlceAdiEn": "KAMP -LINTFORT",
+    "IlceID": "10155"
+  },
+  {
+    "IlceAdi": "KEMPEN (NRW)",
+    "IlceAdiEn": "KEMPEN (NRW)",
+    "IlceID": "10761"
+  },
+  {
+    "IlceAdi": "KERPEN",
+    "IlceAdiEn": "KERPEN",
+    "IlceID": "10160"
+  },
+  {
+    "IlceAdi": "KIERSPE",
+    "IlceAdiEn": "KIERSPE",
+    "IlceID": "18946"
+  },
+  {
+    "IlceAdi": "KOHLSCHEID",
+    "IlceAdiEn": "KOHLSCHEID",
+    "IlceID": "10708"
+  },
+  {
+    "IlceAdi": "KOLN",
+    "IlceAdiEn": "KOLN",
+    "IlceID": "11019"
+  },
+  {
+    "IlceAdi": "KONIGSWINTER",
+    "IlceAdiEn": "KONIGSWINTER",
+    "IlceID": "10165"
+  },
+  {
+    "IlceAdi": "KORSCHENBROICH",
+    "IlceAdiEn": "KORSCHENBROICH",
+    "IlceID": "10729"
+  },
+  {
+    "IlceAdi": "KRAY",
+    "IlceAdiEn": "KRAY",
+    "IlceID": "9978"
+  },
+  {
+    "IlceAdi": "KREFELD",
+    "IlceAdiEn": "KREFELD",
+    "IlceID": "11066"
+  },
+  {
+    "IlceAdi": "KREUZTAL",
+    "IlceAdiEn": "KREUZTAL",
+    "IlceID": "10169"
+  },
+  {
+    "IlceAdi": "KURTEN",
+    "IlceAdiEn": "KURTEN",
+    "IlceID": "10758"
+  },
+  {
+    "IlceAdi": "LAGE",
+    "IlceAdiEn": "LAGE",
+    "IlceID": "10172"
+  },
+  {
+    "IlceAdi": "LANGENFELD",
+    "IlceAdiEn": "LANGENFELD",
+    "IlceID": "10178"
+  },
+  {
+    "IlceAdi": "LEICHLINGEN",
+    "IlceAdiEn": "LEICHLINGEN",
+    "IlceID": "10179"
+  },
+  {
+    "IlceAdi": "LEMGO",
+    "IlceAdiEn": "LEMGO",
+    "IlceID": "11090"
+  },
+  {
+    "IlceAdi": "LENGERICH",
+    "IlceAdiEn": "LENGERICH",
+    "IlceID": "10181"
+  },
+  {
+    "IlceAdi": "LENNESTADT",
+    "IlceAdiEn": "LENNESTADT",
+    "IlceID": "10182"
+  },
+  {
+    "IlceAdi": "LETMATHE",
+    "IlceAdiEn": "LETMATHE",
+    "IlceID": "10743"
+  },
+  {
+    "IlceAdi": "LEVERKUSEN",
+    "IlceAdiEn": "LEVERKUSEN",
+    "IlceID": "10183"
+  },
+  {
+    "IlceAdi": "LINDLAR",
+    "IlceAdiEn": "LINDLAR",
+    "IlceID": "10186"
+  },
+  {
+    "IlceAdi": "LIPPSTADT",
+    "IlceAdiEn": "LIPPSTADT",
+    "IlceID": "10188"
+  },
+  {
+    "IlceAdi": "LOBBERICH",
+    "IlceAdiEn": "LOBBERICH",
+    "IlceID": "10220"
+  },
+  {
+    "IlceAdi": "LOHMAR",
+    "IlceAdiEn": "LOHMAR",
+    "IlceID": "10189"
+  },
+  {
+    "IlceAdi": "LUBBECKE - GEHLENBEC",
+    "IlceAdiEn": "LUBBECKE - GEHLENBEC",
+    "IlceID": "10192"
+  },
+  {
+    "IlceAdi": "LUDENSCHEID",
+    "IlceAdiEn": "LUDENSCHEID",
+    "IlceID": "10867"
+  },
+  {
+    "IlceAdi": "LUDINGHAUSEN",
+    "IlceAdiEn": "LUDINGHAUSEN",
+    "IlceID": "10774"
+  },
+  {
+    "IlceAdi": "LUGDE",
+    "IlceAdiEn": "LUGDE",
+    "IlceID": "10194"
+  },
+  {
+    "IlceAdi": "LUNEN",
+    "IlceAdiEn": "LUNEN",
+    "IlceID": "10195"
+  },
+  {
+    "IlceAdi": "MARL",
+    "IlceAdiEn": "MARL",
+    "IlceID": "10199"
+  },
+  {
+    "IlceAdi": "MARSBERG",
+    "IlceAdiEn": "MARSBERG",
+    "IlceID": "10201"
+  },
+  {
+    "IlceAdi": "MECHERNICH",
+    "IlceAdiEn": "MECHERNICH",
+    "IlceID": "10716"
+  },
+  {
+    "IlceAdi": "MECKENHEIM",
+    "IlceAdiEn": "MECKENHEIM",
+    "IlceID": "18944"
+  },
+  {
+    "IlceAdi": "MEINERZHAGEN",
+    "IlceAdiEn": "MEINERZHAGEN",
+    "IlceID": "10203"
+  },
+  {
+    "IlceAdi": "MENDEN",
+    "IlceAdiEn": "MENDEN",
+    "IlceID": "10205"
+  },
+  {
+    "IlceAdi": "MESCHEDE",
+    "IlceAdiEn": "MESCHEDE",
+    "IlceID": "10207"
+  },
+  {
+    "IlceAdi": "METTMANN",
+    "IlceAdiEn": "METTMANN",
+    "IlceID": "10208"
+  },
+  {
+    "IlceAdi": "MINDEN",
+    "IlceAdiEn": "MINDEN",
+    "IlceID": "10209"
+  },
+  {
+    "IlceAdi": "MOERS",
+    "IlceAdiEn": "MOERS",
+    "IlceID": "10210"
+  },
+  {
+    "IlceAdi": "MONCHENGLADBACH",
+    "IlceAdiEn": "MONCHENGLADBACH",
+    "IlceID": "11128"
+  },
+  {
+    "IlceAdi": "MONHEIM",
+    "IlceAdiEn": "MONHEIM",
+    "IlceID": "10212"
+  },
+  {
+    "IlceAdi": "MULHEIM AN DER RUHR",
+    "IlceAdiEn": "MULHEIM AN DER RUHR",
+    "IlceID": "11062"
+  },
+  {
+    "IlceAdi": "MUNSTER",
+    "IlceAdiEn": "MUNSTER",
+    "IlceID": "11023"
+  },
+  {
+    "IlceAdi": "NACHRODT",
+    "IlceAdiEn": "NACHRODT",
+    "IlceID": "10218"
+  },
+  {
+    "IlceAdi": "NETTETAL",
+    "IlceAdiEn": "NETTETAL",
+    "IlceID": "10730"
+  },
+  {
+    "IlceAdi": "NEUBECKUM",
+    "IlceAdiEn": "NEUBECKUM",
+    "IlceID": "17935"
+  },
+  {
+    "IlceAdi": "NEUKIRCHEN",
+    "IlceAdiEn": "NEUKIRCHEN",
+    "IlceID": "10224"
+  },
+  {
+    "IlceAdi": "NEUSS",
+    "IlceAdiEn": "NEUSS",
+    "IlceID": "10575"
+  },
+  {
+    "IlceAdi": "NEUSS - NORF",
+    "IlceAdiEn": "NEUSS - NORF",
+    "IlceID": "10226"
+  },
+  {
+    "IlceAdi": "NIEDERKASSEL",
+    "IlceAdiEn": "NIEDERKASSEL",
+    "IlceID": "10231"
+  },
+  {
+    "IlceAdi": "NIENHAGEN",
+    "IlceAdiEn": "NIENHAGEN",
+    "IlceID": "10233"
+  },
+  {
+    "IlceAdi": "NORDKIRCHEN",
+    "IlceAdiEn": "NORDKIRCHEN",
+    "IlceID": "10745"
+  },
+  {
+    "IlceAdi": "NOTTULN",
+    "IlceAdiEn": "NOTTULN",
+    "IlceID": "17933"
+  },
+  {
+    "IlceAdi": "OBERADEN",
+    "IlceAdiEn": "OBERADEN",
+    "IlceID": "10922"
+  },
+  {
+    "IlceAdi": "OBERHAUSEN ",
+    "IlceAdiEn": "OBERHAUSEN (NR-W)",
+    "IlceID": "16705"
+  },
+  {
+    "IlceAdi": "ODENTHAL",
+    "IlceAdiEn": "ODENTHAL",
+    "IlceID": "10238"
+  },
+  {
+    "IlceAdi": "OEDT",
+    "IlceAdiEn": "OEDT",
+    "IlceID": "10762"
+  },
+  {
+    "IlceAdi": "OELDE",
+    "IlceAdiEn": "OELDE",
+    "IlceID": "10239"
+  },
+  {
+    "IlceAdi": "OER-ERKENSCHWICK",
+    "IlceAdiEn": "OER-ERKENSCHWICK",
+    "IlceID": "10240"
+  },
+  {
+    "IlceAdi": "OLPE",
+    "IlceAdiEn": "OLPE",
+    "IlceID": "10242"
+  },
+  {
+    "IlceAdi": "OVERATH",
+    "IlceAdiEn": "OVERATH",
+    "IlceID": "10245"
+  },
+  {
+    "IlceAdi": "PADERBORN",
+    "IlceAdiEn": "PADERBORN",
+    "IlceID": "11064"
+  },
+  {
+    "IlceAdi": "PELKUM",
+    "IlceAdiEn": "PELKUM",
+    "IlceID": "10039"
+  },
+  {
+    "IlceAdi": "PETERSHAGEN",
+    "IlceAdiEn": "PETERSHAGEN",
+    "IlceID": "10247"
+  },
+  {
+    "IlceAdi": "PFAFFENHAFEN ADI",
+    "IlceAdiEn": "PFAFFENHAFEN ADI",
+    "IlceID": "20029"
+  },
+  {
+    "IlceAdi": "PLETTENBERG",
+    "IlceAdiEn": "PLETTENBERG",
+    "IlceID": "11087"
+  },
+  {
+    "IlceAdi": "PULHEIM",
+    "IlceAdiEn": "PULHEIM",
+    "IlceID": "10252"
+  },
+  {
+    "IlceAdi": "RADEVORMWALD",
+    "IlceAdiEn": "RADEVORMWALD",
+    "IlceID": "11098"
+  },
+  {
+    "IlceAdi": "RAHDEN",
+    "IlceAdiEn": "RAHDEN",
+    "IlceID": "18955"
+  },
+  {
+    "IlceAdi": "RATINGEN",
+    "IlceAdiEn": "RATINGEN",
+    "IlceID": "10256"
+  },
+  {
+    "IlceAdi": "RECKLINGHAUSEN",
+    "IlceAdiEn": "RECKLINGHAUSEN",
+    "IlceID": "10583"
+  },
+  {
+    "IlceAdi": "REMSCHEID",
+    "IlceAdiEn": "REMSCHEID",
+    "IlceID": "11076"
+  },
+  {
+    "IlceAdi": "REPELEN (MOERS)",
+    "IlceAdiEn": "REPELEN (MOERS)",
+    "IlceID": "10211"
+  },
+  {
+    "IlceAdi": "RHEDA-WIEDENBRUCK",
+    "IlceAdiEn": "RHEDA-WIEDENBRUCK",
+    "IlceID": "10260"
+  },
+  {
+    "IlceAdi": "RHEINBACH",
+    "IlceAdiEn": "RHEINBACH",
+    "IlceID": "10261"
+  },
+  {
+    "IlceAdi": "RHEINBERG",
+    "IlceAdiEn": "RHEINBERG",
+    "IlceID": "10262"
+  },
+  {
+    "IlceAdi": "RHEINDAHLEN",
+    "IlceAdiEn": "RHEINDAHLEN",
+    "IlceID": "11070"
+  },
+  {
+    "IlceAdi": "RHEINE",
+    "IlceAdiEn": "RHEINE",
+    "IlceID": "10263"
+  },
+  {
+    "IlceAdi": "RHEINHAUSEN (DUIS.)",
+    "IlceAdiEn": "RHEINHAUSEN (DUIS.)",
+    "IlceID": "10982"
+  },
+  {
+    "IlceAdi": "RIETBERG",
+    "IlceAdiEn": "RIETBERG",
+    "IlceID": "10265"
+  },
+  {
+    "IlceAdi": "RONSDORF",
+    "IlceAdiEn": "RONSDORF",
+    "IlceID": "11058"
+  },
+  {
+    "IlceAdi": "ROSRATH",
+    "IlceAdiEn": "ROSRATH",
+    "IlceID": "10268"
+  },
+  {
+    "IlceAdi": "ROTHAUSEN",
+    "IlceAdiEn": "ROTHAUSEN",
+    "IlceID": "10004"
+  },
+  {
+    "IlceAdi": "RUMELN (DUIS.)",
+    "IlceAdiEn": "RUMELN (DUIS.)",
+    "IlceID": "10983"
+  },
+  {
+    "IlceAdi": "SALZKOTTEN",
+    "IlceAdiEn": "SALZKOTTEN",
+    "IlceID": "10272"
+  },
+  {
+    "IlceAdi": "SCHWELM",
+    "IlceAdiEn": "SCHWELM",
+    "IlceID": "10281"
+  },
+  {
+    "IlceAdi": "SCHWERTE",
+    "IlceAdiEn": "SCHWERTE",
+    "IlceID": "10282"
+  },
+  {
+    "IlceAdi": "SENDEN(NRW)",
+    "IlceAdiEn": "SENDEN(NRW)",
+    "IlceID": "17915"
+  },
+  {
+    "IlceAdi": "SENDENHORST",
+    "IlceAdiEn": "SENDENHORST",
+    "IlceID": "10286"
+  },
+  {
+    "IlceAdi": "SIEGBURG",
+    "IlceAdiEn": "SIEGBURG",
+    "IlceID": "10287"
+  },
+  {
+    "IlceAdi": "SIEGEN",
+    "IlceAdiEn": "SIEGEN",
+    "IlceID": "11102"
+  },
+  {
+    "IlceAdi": "SINDORF",
+    "IlceAdiEn": "SINDORF",
+    "IlceID": "10161"
+  },
+  {
+    "IlceAdi": "SOEST",
+    "IlceAdiEn": "SOEST",
+    "IlceID": "10290"
+  },
+  {
+    "IlceAdi": "SOLINGEN",
+    "IlceAdiEn": "SOLINGEN",
+    "IlceID": "10291"
+  },
+  {
+    "IlceAdi": "SPENGE",
+    "IlceAdiEn": "SPENGE",
+    "IlceID": "10293"
+  },
+  {
+    "IlceAdi": "SPROCKHOVEL",
+    "IlceAdiEn": "SPROCKHOVEL",
+    "IlceID": "10295"
+  },
+  {
+    "IlceAdi": "ST. AUGUSTIN",
+    "IlceAdiEn": "ST. AUGUSTIN",
+    "IlceID": "10296"
+  },
+  {
+    "IlceAdi": "STADTLOHN",
+    "IlceAdiEn": "STADTLOHN",
+    "IlceID": "10302"
+  },
+  {
+    "IlceAdi": "STEELE",
+    "IlceAdiEn": "STEELE",
+    "IlceID": "9979"
+  },
+  {
+    "IlceAdi": "STEINFURT",
+    "IlceAdiEn": "STEINFURT",
+    "IlceID": "10303"
+  },
+  {
+    "IlceAdi": "STEINHAGEN",
+    "IlceAdiEn": "STEINHAGEN",
+    "IlceID": "10304"
+  },
+  {
+    "IlceAdi": "STEINHEIM",
+    "IlceAdiEn": "STEINHEIM",
+    "IlceID": "10305"
+  },
+  {
+    "IlceAdi": "STEMWEDE-OPPENWEHE",
+    "IlceAdiEn": "STEMWEDE-OPPENWEHE",
+    "IlceID": "10306"
+  },
+  {
+    "IlceAdi": "STOLBERG",
+    "IlceAdiEn": "STOLBERG",
+    "IlceID": "10308"
+  },
+  {
+    "IlceAdi": "STRAELEN",
+    "IlceAdiEn": "STRAELEN",
+    "IlceID": "10726"
+  },
+  {
+    "IlceAdi": "SUNDERN",
+    "IlceAdiEn": "SUNDERN",
+    "IlceID": "20028"
+  },
+  {
+    "IlceAdi": "TELGTE",
+    "IlceAdiEn": "TELGTE",
+    "IlceID": "10311"
+  },
+  {
+    "IlceAdi": "TONISVORST",
+    "IlceAdiEn": "TONISVORST",
+    "IlceID": "10763"
+  },
+  {
+    "IlceAdi": "TROISDORF",
+    "IlceAdiEn": "TROISDORF",
+    "IlceID": "10312"
+  },
+  {
+    "IlceAdi": "UBACH-PALENBERG",
+    "IlceAdiEn": "UBACH-PALENBERG",
+    "IlceID": "10314"
+  },
+  {
+    "IlceAdi": "UERDING (KREFELD)",
+    "IlceAdiEn": "UERDING (KREFELD)",
+    "IlceID": "10168"
+  },
+  {
+    "IlceAdi": "UNNA",
+    "IlceAdiEn": "UNNA",
+    "IlceID": "10318"
+  },
+  {
+    "IlceAdi": "VELBERT",
+    "IlceAdiEn": "VELBERT",
+    "IlceID": "10323"
+  },
+  {
+    "IlceAdi": "VERL",
+    "IlceAdiEn": "VERL",
+    "IlceID": "20027"
+  },
+  {
+    "IlceAdi": "VIERSEN",
+    "IlceAdiEn": "VIERSEN",
+    "IlceID": "10326"
+  },
+  {
+    "IlceAdi": "VLOTHO",
+    "IlceAdiEn": "VLOTHO",
+    "IlceID": "10328"
+  },
+  {
+    "IlceAdi": "VOERDE",
+    "IlceAdiEn": "VOERDE",
+    "IlceID": "10329"
+  },
+  {
+    "IlceAdi": "VOHWINKEL",
+    "IlceAdiEn": "VOHWINKEL",
+    "IlceID": "10366"
+  },
+  {
+    "IlceAdi": "WALDBROL",
+    "IlceAdiEn": "WALDBROL",
+    "IlceID": "10332"
+  },
+  {
+    "IlceAdi": "WALTROP",
+    "IlceAdiEn": "WALTROP",
+    "IlceID": "10334"
+  },
+  {
+    "IlceAdi": "WARENDORF",
+    "IlceAdiEn": "WARENDORF",
+    "IlceID": "10336"
+  },
+  {
+    "IlceAdi": "WARSTEIN",
+    "IlceAdiEn": "WARSTEIN",
+    "IlceID": "10337"
+  },
+  {
+    "IlceAdi": "WASSENBERG",
+    "IlceAdiEn": "WASSENBERG",
+    "IlceID": "10338"
+  },
+  {
+    "IlceAdi": "WATTENSCHEID",
+    "IlceAdiEn": "WATTENSCHEID",
+    "IlceID": "10935"
+  },
+  {
+    "IlceAdi": "WEGBERG",
+    "IlceAdiEn": "WEGBERG",
+    "IlceID": "10340"
+  },
+  {
+    "IlceAdi": "WEILERWIST",
+    "IlceAdiEn": "WEILERWIST",
+    "IlceID": "10343"
+  },
+  {
+    "IlceAdi": "WELVER",
+    "IlceAdiEn": "WELVER",
+    "IlceID": "10344"
+  },
+  {
+    "IlceAdi": "WENDEN",
+    "IlceAdiEn": "WENDEN",
+    "IlceID": "20030"
+  },
+  {
+    "IlceAdi": "WERDOHL",
+    "IlceAdiEn": "WERDOHL",
+    "IlceID": "10869"
+  },
+  {
+    "IlceAdi": "WERL",
+    "IlceAdiEn": "WERL",
+    "IlceID": "10346"
+  },
+  {
+    "IlceAdi": "WERMELSKIRCHEN",
+    "IlceAdiEn": "WERMELSKIRCHEN",
+    "IlceID": "10347"
+  },
+  {
+    "IlceAdi": "WERNE A.D.LIPPE",
+    "IlceAdiEn": "WERNE A.D.LIPPE",
+    "IlceID": "10348"
+  },
+  {
+    "IlceAdi": "WESEL",
+    "IlceAdiEn": "WESEL",
+    "IlceID": "10349"
+  },
+  {
+    "IlceAdi": "WESSELING",
+    "IlceAdiEn": "WESSELING",
+    "IlceID": "10350"
+  },
+  {
+    "IlceAdi": "WESTERHOLT",
+    "IlceAdiEn": "WESTERHOLT",
+    "IlceID": "10126"
+  },
+  {
+    "IlceAdi": "WESTHOFEN",
+    "IlceAdiEn": "WESTHOFEN",
+    "IlceID": "10744"
+  },
+  {
+    "IlceAdi": "WETTER",
+    "IlceAdiEn": "WETTER",
+    "IlceID": "10560"
+  },
+  {
+    "IlceAdi": "WICKEDE (DORT.)",
+    "IlceAdiEn": "WICKEDE (DORT.)",
+    "IlceID": "10979"
+  },
+  {
+    "IlceAdi": "WIEDENBRUCK",
+    "IlceAdiEn": "WIEDENBRUCK",
+    "IlceID": "10353"
+  },
+  {
+    "IlceAdi": "WIEHL",
+    "IlceAdiEn": "WIEHL",
+    "IlceID": "10759"
+  },
+  {
+    "IlceAdi": "WILLICH",
+    "IlceAdiEn": "WILLICH",
+    "IlceID": "10357"
+  },
+  {
+    "IlceAdi": "WIPPERFURTH",
+    "IlceAdiEn": "WIPPERFURTH",
+    "IlceID": "10358"
+  },
+  {
+    "IlceAdi": "WITTEN",
+    "IlceAdiEn": "WITTEN",
+    "IlceID": "10359"
+  },
+  {
+    "IlceAdi": "WITTEN-HERBEDE",
+    "IlceAdiEn": "WITTEN-HERBEDE",
+    "IlceID": "17932"
+  },
+  {
+    "IlceAdi": "WITTERSCHLICK",
+    "IlceAdiEn": "WITTERSCHLICK",
+    "IlceID": "17925"
+  },
+  {
+    "IlceAdi": "WULFRATH",
+    "IlceAdiEn": "WULFRATH",
+    "IlceID": "10363"
+  },
+  {
+    "IlceAdi": "WUPPERTAL",
+    "IlceAdiEn": "WUPPERTAL",
+    "IlceID": "11031"
+  },
+  {
+    "IlceAdi": "WURSELEN",
+    "IlceAdiEn": "WURSELEN",
+    "IlceID": "10367"
+  },
+  {
+    "IlceAdi": "ZULPICH",
+    "IlceAdiEn": "ZULPICH",
+    "IlceID": "10368"
+  }
+]

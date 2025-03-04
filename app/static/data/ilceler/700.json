@@ -1,0 +1,27 @@
+[
+  {
+    "IlceAdi": "ABIDJAN",
+    "IlceAdiEn": "ABIDJAN",
+    "IlceID": "12822"
+  },
+  {
+    "IlceAdi": "BOUAKE",
+    "IlceAdiEn": "BOUAKE",
+    "IlceID": "12825"
+  },
+  {
+    "IlceAdi": "DALOA",
+    "IlceAdiEn": "DALOA",
+    "IlceID": "12824"
+  },
+  {
+    "IlceAdi": "KORHOGO",
+    "IlceAdiEn": "KORHOGO",
+    "IlceID": "12826"
+  },
+  {
+    "IlceAdi": "YAMOUSSOUKRO",
+    "IlceAdiEn": "YAMOUSSOUKRO",
+    "IlceID": "12823"
+  }
+]

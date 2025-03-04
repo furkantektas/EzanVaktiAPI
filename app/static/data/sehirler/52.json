@@ -1,0 +1,62 @@
+[
+  {
+    "SehirAdi": "ALBERTA",
+    "SehirAdiEn": "ALBERTA",
+    "SehirID": "633"
+  },
+  {
+    "SehirAdi": "BRITISH COLOMBIA",
+    "SehirAdiEn": "BRITISH COLOMBIA",
+    "SehirID": "634"
+  },
+  {
+    "SehirAdi": "MANITOBA",
+    "SehirAdiEn": "MANITOBA",
+    "SehirID": "635"
+  },
+  {
+    "SehirAdi": "N.A.L.",
+    "SehirAdiEn": "N.A.L.",
+    "SehirID": "636"
+  },
+  {
+    "SehirAdi": "NEW BRUNSWICK",
+    "SehirAdiEn": "NEW BRUNSWICK",
+    "SehirID": "637"
+  },
+  {
+    "SehirAdi": "NORTHWEST TERRITORIES",
+    "SehirAdiEn": "NORTHWEST TERRITORIES",
+    "SehirID": "1875"
+  },
+  {
+    "SehirAdi": "NOVA SCOTIA",
+    "SehirAdiEn": "NOVA SCOTIA",
+    "SehirID": "638"
+  },
+  {
+    "SehirAdi": "NUNAVUT",
+    "SehirAdiEn": "NUNAVUT",
+    "SehirID": "639"
+  },
+  {
+    "SehirAdi": "ONTORIO",
+    "SehirAdiEn": "ONTORIO",
+    "SehirID": "640"
+  },
+  {
+    "SehirAdi": "P.E.I.",
+    "SehirAdiEn": "P.E.I.",
+    "SehirID": "641"
+  },
+  {
+    "SehirAdi": "QUEBEC",
+    "SehirAdiEn": "QUEBEC",
+    "SehirID": "642"
+  },
+  {
+    "SehirAdi": "SASKATCHEWAN",
+    "SehirAdiEn": "SASKATCHEWAN",
+    "SehirID": "643"
+  }
+]

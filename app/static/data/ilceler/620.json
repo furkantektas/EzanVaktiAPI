@@ -1,0 +1,107 @@
+[
+  {
+    "IlceAdi": "ALLENTOWN",
+    "IlceAdiEn": "ALLENTOWN",
+    "IlceID": "20036"
+  },
+  {
+    "IlceAdi": "BENSALEM",
+    "IlceAdiEn": "BENSALEM",
+    "IlceID": "8945"
+  },
+  {
+    "IlceAdi": "BETHLEHEM",
+    "IlceAdiEn": "BETHLEHEM",
+    "IlceID": "8946"
+  },
+  {
+    "IlceAdi": "BRISTOL",
+    "IlceAdiEn": "BRISTOL",
+    "IlceID": "8947"
+  },
+  {
+    "IlceAdi": "CHESTER  ",
+    "IlceAdiEn": "CHESTER  ",
+    "IlceID": "8948"
+  },
+  {
+    "IlceAdi": "ERIE",
+    "IlceAdiEn": "ERIE",
+    "IlceID": "8949"
+  },
+  {
+    "IlceAdi": "HARRISBURG",
+    "IlceAdiEn": "HARRISBURG",
+    "IlceID": "8950"
+  },
+  {
+    "IlceAdi": "INDIANA",
+    "IlceAdiEn": "INDIANA",
+    "IlceID": "8951"
+  },
+  {
+    "IlceAdi": "LANCASTER",
+    "IlceAdiEn": "LANCASTER",
+    "IlceID": "19003"
+  },
+  {
+    "IlceAdi": "LEVITTOWN",
+    "IlceAdiEn": "LEVITTOWN",
+    "IlceID": "8944"
+  },
+  {
+    "IlceAdi": "MCKEESPORT",
+    "IlceAdiEn": "MCKEESPORT",
+    "IlceID": "8952"
+  },
+  {
+    "IlceAdi": "NEW CASTLE",
+    "IlceAdiEn": "NEW CASTLE",
+    "IlceID": "8953"
+  },
+  {
+    "IlceAdi": "NORRISTOWN",
+    "IlceAdiEn": "NORRISTOWN",
+    "IlceID": "8954"
+  },
+  {
+    "IlceAdi": "PHILADELPHIA",
+    "IlceAdiEn": "PHILADELPHIA",
+    "IlceID": "8955"
+  },
+  {
+    "IlceAdi": "PHOENIXVILLE",
+    "IlceAdiEn": "PHOENIXVILLE",
+    "IlceID": "8956"
+  },
+  {
+    "IlceAdi": "PITTSBURGH",
+    "IlceAdiEn": "PITTSBURGH",
+    "IlceID": "8957"
+  },
+  {
+    "IlceAdi": "POTTSTOWN",
+    "IlceAdiEn": "POTTSTOWN",
+    "IlceID": "8958"
+  },
+  {
+    "IlceAdi": "READING",
+    "IlceAdiEn": "READING",
+    "IlceID": "8959"
+  },
+  {
+    "IlceAdi": "STATE COLLEGE",
+    "IlceAdiEn": "STATE COLLEGE",
+    "IlceID": "8960"
+  },
+  {
+    "IlceAdi": "TAMAQUA",
+    "IlceAdiEn": "TAMAQUA",
+    "IlceID": "8961"
+  },
+  {
+    "IlceAdi": "UNIONTOWN",
+    "IlceAdiEn": "UNIONTOWN",
+    "IlceID": "8962"
+  }
+]

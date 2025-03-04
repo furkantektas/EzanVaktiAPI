@@ -1,0 +1,477 @@
+[
+  {
+    "IlceAdi": "ACAMBARO",
+    "IlceAdiEn": "ACAMBARO",
+    "IlceID": "15359"
+  },
+  {
+    "IlceAdi": "ACAPULCO",
+    "IlceAdiEn": "ACAPULCO",
+    "IlceID": "15360"
+  },
+  {
+    "IlceAdi": "AGUA PRIETA",
+    "IlceAdiEn": "AGUA PRIETA",
+    "IlceID": "15361"
+  },
+  {
+    "IlceAdi": "AGUASCALIENTES",
+    "IlceAdiEn": "AGUASCALIENTES",
+    "IlceID": "15362"
+  },
+  {
+    "IlceAdi": "ALAMOS",
+    "IlceAdiEn": "ALAMOS",
+    "IlceID": "15364"
+  },
+  {
+    "IlceAdi": "ALLENDE",
+    "IlceAdiEn": "ALLENDE",
+    "IlceID": "15365"
+  },
+  {
+    "IlceAdi": "APATZINGEN",
+    "IlceAdiEn": "APATZINGEN",
+    "IlceID": "15366"
+  },
+  {
+    "IlceAdi": "ARANDAS",
+    "IlceAdiEn": "ARANDAS",
+    "IlceID": "15363"
+  },
+  {
+    "IlceAdi": "ATLIXCO",
+    "IlceAdiEn": "ATLIXCO",
+    "IlceID": "15368"
+  },
+  {
+    "IlceAdi": "BOCA DEL RIO",
+    "IlceAdiEn": "BOCA DEL RIO",
+    "IlceID": "15369"
+  },
+  {
+    "IlceAdi": "CAMPECHE",
+    "IlceAdiEn": "CAMPECHE",
+    "IlceID": "15370"
+  },
+  {
+    "IlceAdi": "CANCUN",
+    "IlceAdiEn": "CANCUN",
+    "IlceID": "15358"
+  },
+  {
+    "IlceAdi": "CELAYA",
+    "IlceAdiEn": "CELAYA",
+    "IlceID": "15371"
+  },
+  {
+    "IlceAdi": "CHETUMAL",
+    "IlceAdiEn": "CHETUMAL",
+    "IlceID": "15372"
+  },
+  {
+    "IlceAdi": "CHIHUAHUA",
+    "IlceAdiEn": "CHIHUAHUA",
+    "IlceID": "15373"
+  },
+  {
+    "IlceAdi": "CHILPANCINGO",
+    "IlceAdiEn": "CHILPANCINGO",
+    "IlceID": "15374"
+  },
+  {
+    "IlceAdi": "CIUDAD ACUNA",
+    "IlceAdiEn": "CIUDAD ACUNA",
+    "IlceID": "15375"
+  },
+  {
+    "IlceAdi": "CIUDAD DEL CARMEN",
+    "IlceAdiEn": "CIUDAD DEL CARMEN",
+    "IlceID": "15376"
+  },
+  {
+    "IlceAdi": "CIUDAD DELICIAS",
+    "IlceAdiEn": "CIUDAD DELICIAS",
+    "IlceID": "15387"
+  },
+  {
+    "IlceAdi": "CIUDAD HIDALGO",
+    "IlceAdiEn": "CIUDAD HIDALGO",
+    "IlceID": "15395"
+  },
+  {
+    "IlceAdi": "CIUDAD JUAREZ",
+    "IlceAdiEn": "CIUDAD JUAREZ",
+    "IlceID": "15377"
+  },
+  {
+    "IlceAdi": "CIUDAD LERDO",
+    "IlceAdiEn": "CIUDAD LERDO",
+    "IlceID": "15378"
+  },
+  {
+    "IlceAdi": "CIUDAD MADERO",
+    "IlceAdiEn": "CIUDAD MADERO",
+    "IlceID": "15379"
+  },
+  {
+    "IlceAdi": "CIUDAD OBREGON",
+    "IlceAdiEn": "CIUDAD OBREGON",
+    "IlceID": "15380"
+  },
+  {
+    "IlceAdi": "CIUDAD VALLES",
+    "IlceAdiEn": "CIUDAD VALLES",
+    "IlceID": "15440"
+  },
+  {
+    "IlceAdi": "CIUDAD VICTORIA",
+    "IlceAdiEn": "CIUDAD VICTORIA",
+    "IlceID": "15381"
+  },
+  {
+    "IlceAdi": "COLIMA",
+    "IlceAdiEn": "COLIMA",
+    "IlceID": "15382"
+  },
+  {
+    "IlceAdi": "CORDOBA",
+    "IlceAdiEn": "CORDOBA",
+    "IlceID": "15383"
+  },
+  {
+    "IlceAdi": "CUAUTLA",
+    "IlceAdiEn": "CUAUTLA",
+    "IlceID": "15385"
+  },
+  {
+    "IlceAdi": "CUERNAVACA",
+    "IlceAdiEn": "CUERNAVACA",
+    "IlceID": "15451"
+  },
+  {
+    "IlceAdi": "CULIACAN",
+    "IlceAdiEn": "CULIACAN",
+    "IlceID": "15386"
+  },
+  {
+    "IlceAdi": "DURANGO",
+    "IlceAdiEn": "DURANGO",
+    "IlceID": "15388"
+  },
+  {
+    "IlceAdi": "ENSENADA",
+    "IlceAdiEn": "ENSENADA",
+    "IlceID": "15389"
+  },
+  {
+    "IlceAdi": "GOMEZ PALACIO",
+    "IlceAdiEn": "GOMEZ PALACIO",
+    "IlceID": "15390"
+  },
+  {
+    "IlceAdi": "GUADALAJARA",
+    "IlceAdiEn": "GUADALAJARA",
+    "IlceID": "15391"
+  },
+  {
+    "IlceAdi": "GUANAJUATA",
+    "IlceAdiEn": "GUANAJUATA",
+    "IlceID": "15392"
+  },
+  {
+    "IlceAdi": "GUAYMAS",
+    "IlceAdiEn": "GUAYMAS",
+    "IlceID": "15393"
+  },
+  {
+    "IlceAdi": "HERMOSILLO",
+    "IlceAdiEn": "HERMOSILLO",
+    "IlceID": "15394"
+  },
+  {
+    "IlceAdi": "HERQUICA ZITACUARO",
+    "IlceAdiEn": "HERQUICA ZITACUARO",
+    "IlceID": "15397"
+  },
+  {
+    "IlceAdi": "HIDALGO DEL PARRAL",
+    "IlceAdiEn": "HIDALGO DEL PARRAL",
+    "IlceID": "15418"
+  },
+  {
+    "IlceAdi": "IRAPUATO",
+    "IlceAdiEn": "IRAPUATO",
+    "IlceID": "15396"
+  },
+  {
+    "IlceAdi": "JALAPA",
+    "IlceAdiEn": "JALAPA",
+    "IlceID": "15398"
+  },
+  {
+    "IlceAdi": "LA PAZ",
+    "IlceAdiEn": "LA PAZ",
+    "IlceID": "15399"
+  },
+  {
+    "IlceAdi": "LAGOS DE MORENO",
+    "IlceAdiEn": "LAGOS DE MORENO",
+    "IlceID": "15400"
+  },
+  {
+    "IlceAdi": "LEON",
+    "IlceAdiEn": "LEON",
+    "IlceID": "15401"
+  },
+  {
+    "IlceAdi": "LOS MOCHIS",
+    "IlceAdiEn": "LOS MOCHIS",
+    "IlceID": "15402"
+  },
+  {
+    "IlceAdi": "MANZANILLO",
+    "IlceAdiEn": "MANZANILLO",
+    "IlceID": "15403"
+  },
+  {
+    "IlceAdi": "MATAMOROS",
+    "IlceAdiEn": "MATAMOROS",
+    "IlceID": "15405"
+  },
+  {
+    "IlceAdi": "MAZATLAN",
+    "IlceAdiEn": "MAZATLAN",
+    "IlceID": "15406"
+  },
+  {
+    "IlceAdi": "MERIDA",
+    "IlceAdiEn": "MERIDA",
+    "IlceID": "15404"
+  },
+  {
+    "IlceAdi": "METEPEC",
+    "IlceAdiEn": "METEPEC",
+    "IlceID": "15407"
+  },
+  {
+    "IlceAdi": "MEXICALI",
+    "IlceAdiEn": "MEXICALI",
+    "IlceID": "15408"
+  },
+  {
+    "IlceAdi": "MEXICO CITY",
+    "IlceAdiEn": "MEXICO CITY",
+    "IlceID": "15357"
+  },
+  {
+    "IlceAdi": "MONCLOVA",
+    "IlceAdiEn": "MONCLOVA",
+    "IlceID": "15409"
+  },
+  {
+    "IlceAdi": "MONTERREY",
+    "IlceAdiEn": "MONTERREY",
+    "IlceID": "15410"
+  },
+  {
+    "IlceAdi": "MORELIA",
+    "IlceAdiEn": "MORELIA",
+    "IlceID": "15411"
+  },
+  {
+    "IlceAdi": "NAVOJOA",
+    "IlceAdiEn": "NAVOJOA",
+    "IlceID": "15412"
+  },
+  {
+    "IlceAdi": "NAVOLATO",
+    "IlceAdiEn": "NAVOLATO",
+    "IlceID": "15384"
+  },
+  {
+    "IlceAdi": "NOGALES",
+    "IlceAdiEn": "NOGALES",
+    "IlceID": "15413"
+  },
+  {
+    "IlceAdi": "NUEVO LAREDO",
+    "IlceAdiEn": "NUEVO LAREDO",
+    "IlceID": "15414"
+  },
+  {
+    "IlceAdi": "OAXACA",
+    "IlceAdiEn": "OAXACA",
+    "IlceID": "15415"
+  },
+  {
+    "IlceAdi": "ORIZABA",
+    "IlceAdiEn": "ORIZABA",
+    "IlceID": "15416"
+  },
+  {
+    "IlceAdi": "PACHUCA",
+    "IlceAdiEn": "PACHUCA",
+    "IlceID": "15417"
+  },
+  {
+    "IlceAdi": "PENJAMO",
+    "IlceAdiEn": "PENJAMO",
+    "IlceID": "15367"
+  },
+  {
+    "IlceAdi": "PLAYA DEL CARMEN",
+    "IlceAdiEn": "PLAYA DEL CARMEN",
+    "IlceID": "15450"
+  },
+  {
+    "IlceAdi": "PUEBLA",
+    "IlceAdiEn": "PUEBLA",
+    "IlceID": "15419"
+  },
+  {
+    "IlceAdi": "PUERTO VALLARTA",
+    "IlceAdiEn": "PUERTO VALLARTA",
+    "IlceID": "15420"
+  },
+  {
+    "IlceAdi": "QUERATARO",
+    "IlceAdiEn": "QUERATARO",
+    "IlceID": "15449"
+  },
+  {
+    "IlceAdi": "REYNOSA",
+    "IlceAdiEn": "REYNOSA",
+    "IlceID": "15421"
+  },
+  {
+    "IlceAdi": "SALAMANCA",
+    "IlceAdiEn": "SALAMANCA",
+    "IlceID": "15422"
+  },
+  {
+    "IlceAdi": "SALTILLO",
+    "IlceAdiEn": "SALTILLO",
+    "IlceID": "15423"
+  },
+  {
+    "IlceAdi": "SAN CRISTOBAL DE LAS CASAS",
+    "IlceAdiEn": "SAN CRISTOBAL DE LAS CASAS",
+    "IlceID": "15424"
+  },
+  {
+    "IlceAdi": "SAN JUAN DEL RIO",
+    "IlceAdiEn": "SAN JUAN DEL RIO",
+    "IlceID": "15425"
+  },
+  {
+    "IlceAdi": "SAN LUIS POTOSI",
+    "IlceAdiEn": "SAN LUIS POTOSI",
+    "IlceID": "15426"
+  },
+  {
+    "IlceAdi": "SAN LUIS RIO COLORADO",
+    "IlceAdiEn": "SAN LUIS RIO COLORADO",
+    "IlceID": "15427"
+  },
+  {
+    "IlceAdi": "SAN MARTIN TEX. D.L.",
+    "IlceAdiEn": "SAN MARTIN TEX. D.L.",
+    "IlceID": "15448"
+  },
+  {
+    "IlceAdi": "SAN MIGUEL DE ALLENDE",
+    "IlceAdiEn": "SAN MIGUEL DE ALLENDE",
+    "IlceID": "15428"
+  },
+  {
+    "IlceAdi": "TAMPICO",
+    "IlceAdiEn": "TAMPICO",
+    "IlceID": "15429"
+  },
+  {
+    "IlceAdi": "TAXCO",
+    "IlceAdiEn": "TAXCO",
+    "IlceID": "15430"
+  },
+  {
+    "IlceAdi": "TEPATITLAN DE MORE LOS",
+    "IlceAdiEn": "TEPATITLAN DE MORE LOS",
+    "IlceID": "15431"
+  },
+  {
+    "IlceAdi": "TEPIC",
+    "IlceAdiEn": "TEPIC",
+    "IlceID": "15432"
+  },
+  {
+    "IlceAdi": "TIJUANA",
+    "IlceAdiEn": "TIJUANA",
+    "IlceID": "15433"
+  },
+  {
+    "IlceAdi": "TLAJOMULCO DE ZUNIGA",
+    "IlceAdiEn": "TLAJOMULCO DE ZUNIGA",
+    "IlceID": "15446"
+  },
+  {
+    "IlceAdi": "TOLUCA",
+    "IlceAdiEn": "TOLUCA",
+    "IlceID": "15434"
+  },
+  {
+    "IlceAdi": "TONALA",
+    "IlceAdiEn": "TONALA",
+    "IlceID": "15447"
+  },
+  {
+    "IlceAdi": "TORREON",
+    "IlceAdiEn": "TORREON",
+    "IlceID": "15435"
+  },
+  {
+    "IlceAdi": "TULANCINGO",
+    "IlceAdiEn": "TULANCINGO",
+    "IlceID": "15436"
+  },
+  {
+    "IlceAdi": "TUXTLA GUTIERREZ",
+    "IlceAdiEn": "TUXTLA GUTIERREZ",
+    "IlceID": "15437"
+  },
+  {
+    "IlceAdi": "URUAPAN DEL PROGRESO",
+    "IlceAdiEn": "URUAPAN DEL PROGRESO",
+    "IlceID": "15438"
+  },
+  {
+    "IlceAdi": "VALLE DE SANTIAGO",
+    "IlceAdiEn": "VALLE DE SANTIAGO",
+    "IlceID": "15439"
+  },
+  {
+    "IlceAdi": "VERACRUZ",
+    "IlceAdiEn": "VERACRUZ",
+    "IlceID": "15441"
+  },
+  {
+    "IlceAdi": "VILLAHERMOSA",
+    "IlceAdiEn": "VILLAHERMOSA",
+    "IlceID": "15442"
+  },
+  {
+    "IlceAdi": "XALAPA ( JALAPA )",
+    "IlceAdiEn": "XALAPA ( JALAPA )",
+    "IlceID": "15443"
+  },
+  {
+    "IlceAdi": "ZACATECAS",
+    "IlceAdiEn": "ZACATECAS",
+    "IlceID": "15444"
+  },
+  {
+    "IlceAdi": "ZAPOPAN",
+    "IlceAdiEn": "ZAPOPAN",
+    "IlceID": "15445"
+  }
+]

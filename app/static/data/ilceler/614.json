@@ -1,0 +1,97 @@
+[
+  {
+    "IlceAdi": "ALBANY",
+    "IlceAdiEn": "ALBANY",
+    "IlceID": "19001"
+  },
+  {
+    "IlceAdi": "BATAVIA",
+    "IlceAdiEn": "BATAVIA",
+    "IlceID": "8893"
+  },
+  {
+    "IlceAdi": "BINGHAMTON",
+    "IlceAdiEn": "BINGHAMTON",
+    "IlceID": "8894"
+  },
+  {
+    "IlceAdi": "BRIGHTON",
+    "IlceAdiEn": "BRIGHTON",
+    "IlceID": "8895"
+  },
+  {
+    "IlceAdi": "BROOKLYN",
+    "IlceAdiEn": "BROOKLYN",
+    "IlceID": "20023"
+  },
+  {
+    "IlceAdi": "BROOKLYN (Cattaraugus)",
+    "IlceAdiEn": "BROOKLYN (Cattaraugus)",
+    "IlceID": "8896"
+  },
+  {
+    "IlceAdi": "BUFFALO",
+    "IlceAdiEn": "BUFFALO",
+    "IlceID": "8897"
+  },
+  {
+    "IlceAdi": "CANANDAIGUA",
+    "IlceAdiEn": "CANANDAIGUA",
+    "IlceID": "8898"
+  },
+  {
+    "IlceAdi": "ELMIRA",
+    "IlceAdiEn": "ELMIRA",
+    "IlceID": "8899"
+  },
+  {
+    "IlceAdi": "GENEVA",
+    "IlceAdiEn": "GENEVA",
+    "IlceID": "8900"
+  },
+  {
+    "IlceAdi": "ITHACA",
+    "IlceAdiEn": "ITHACA",
+    "IlceID": "8901"
+  },
+  {
+    "IlceAdi": "LOCKPORT",
+    "IlceAdiEn": "LOCKPORT",
+    "IlceID": "8902"
+  },
+  {
+    "IlceAdi": "NEW YORK",
+    "IlceAdiEn": "NEW YORK",
+    "IlceID": "8903"
+  },
+  {
+    "IlceAdi": "NEWARK",
+    "IlceAdiEn": "NEWARK",
+    "IlceID": "8904"
+  },
+  {
+    "IlceAdi": "PORT JEFFERSON STATION",
+    "IlceAdiEn": "PORT JEFFERSON STATION",
+    "IlceID": "8892"
+  },
+  {
+    "IlceAdi": "ROCHESTER",
+    "IlceAdiEn": "ROCHESTER",
+    "IlceID": "8905"
+  },
+  {
+    "IlceAdi": "RONKONKOMA",
+    "IlceAdiEn": "RONKONKOMA",
+    "IlceID": "8906"
+  },
+  {
+    "IlceAdi": "SYRACUSE",
+    "IlceAdiEn": "SYRACUSE",
+    "IlceID": "8907"
+  },
+  {
+    "IlceAdi": "YONKERS",
+    "IlceAdiEn": "YONKERS",
+    "IlceID": "8908"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "IlceAdi": "ABERDEEN",
+    "IlceAdiEn": "ABERDEEN",
+    "IlceID": "13999"
+  },
+  {
+    "IlceAdi": "HONG KONG",
+    "IlceAdiEn": "HONG KONG",
+    "IlceID": "14001"
+  },
+  {
+    "IlceAdi": "KOWLOON",
+    "IlceAdiEn": "KOWLOON",
+    "IlceID": "14000"
+  },
+  {
+    "IlceAdi": "LAMMA ADASI",
+    "IlceAdiEn": "LAMMA ADASI",
+    "IlceID": "14002"
+  },
+  {
+    "IlceAdi": "VICTORIA",
+    "IlceAdiEn": "VICTORIA",
+    "IlceID": "14003"
+  }
+]

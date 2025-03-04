@@ -1,0 +1,72 @@
+[
+  {
+    "IlceAdi": "ALEXANDRIA",
+    "IlceAdiEn": "ALEXANDRIA",
+    "IlceID": "18992"
+  },
+  {
+    "IlceAdi": "BLACKSBURG",
+    "IlceAdiEn": "BLACKSBURG",
+    "IlceID": "9000"
+  },
+  {
+    "IlceAdi": "BON AIR",
+    "IlceAdiEn": "BON AIR",
+    "IlceID": "9001"
+  },
+  {
+    "IlceAdi": "CHARLOTTESVILLE",
+    "IlceAdiEn": "CHARLOTTESVILLE",
+    "IlceID": "9002"
+  },
+  {
+    "IlceAdi": "HAMPTON",
+    "IlceAdiEn": "HAMPTON",
+    "IlceID": "9003"
+  },
+  {
+    "IlceAdi": "HOPEWELL",
+    "IlceAdiEn": "HOPEWELL",
+    "IlceID": "9004"
+  },
+  {
+    "IlceAdi": "LAKESIDE",
+    "IlceAdiEn": "LAKESIDE",
+    "IlceID": "9005"
+  },
+  {
+    "IlceAdi": "NEWPORT NEWS",
+    "IlceAdiEn": "NEWPORT NEWS",
+    "IlceID": "8999"
+  },
+  {
+    "IlceAdi": "NORFOLK",
+    "IlceAdiEn": "NORFOLK",
+    "IlceID": "9006"
+  },
+  {
+    "IlceAdi": "PETERSBURG",
+    "IlceAdiEn": "PETERSBURG",
+    "IlceID": "9007"
+  },
+  {
+    "IlceAdi": "PORTSMOUTH",
+    "IlceAdiEn": "PORTSMOUTH",
+    "IlceID": "9008"
+  },
+  {
+    "IlceAdi": "RICHMOND",
+    "IlceAdiEn": "RICHMOND",
+    "IlceID": "9009"
+  },
+  {
+    "IlceAdi": "WAYNESBRO",
+    "IlceAdiEn": "WAYNESBRO",
+    "IlceID": "16739"
+  },
+  {
+    "IlceAdi": "WILLIAMSBURG",
+    "IlceAdiEn": "WILLIAMSBURG",
+    "IlceID": "9010"
+  }
+]

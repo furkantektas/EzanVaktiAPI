@@ -1,0 +1,357 @@
+[
+  {
+    "IlceAdi": "ESPOO",
+    "IlceAdiEn": "ESPOO",
+    "IlceID": "12941"
+  },
+  {
+    "IlceAdi": "HAMEENKYLA (Helsinki)",
+    "IlceAdiEn": "HAMEENKYLA (Helsinki)",
+    "IlceID": "12873"
+  },
+  {
+    "IlceAdi": "HAMEENKYRO ",
+    "IlceAdiEn": "HAMEENKYRO ",
+    "IlceID": "12885"
+  },
+  {
+    "IlceAdi": "HAMEENLINNA",
+    "IlceAdiEn": "HAMEENLINNA",
+    "IlceID": "12905"
+  },
+  {
+    "IlceAdi": "HAUHO",
+    "IlceAdiEn": "HAUHO",
+    "IlceID": "12886"
+  },
+  {
+    "IlceAdi": "HEINOLA",
+    "IlceAdiEn": "HEINOLA",
+    "IlceID": "12879"
+  },
+  {
+    "IlceAdi": "HELSINKI",
+    "IlceAdiEn": "HELSINKI",
+    "IlceID": "12929"
+  },
+  {
+    "IlceAdi": "HOLLOLA",
+    "IlceAdiEn": "HOLLOLA",
+    "IlceID": "12880"
+  },
+  {
+    "IlceAdi": "HOUTSKAR",
+    "IlceAdiEn": "HOUTSKAR",
+    "IlceID": "12892"
+  },
+  {
+    "IlceAdi": "HYVINKAA",
+    "IlceAdiEn": "HYVINKAA",
+    "IlceID": "12906"
+  },
+  {
+    "IlceAdi": "IISALMI",
+    "IlceAdiEn": "IISALMI",
+    "IlceID": "12907"
+  },
+  {
+    "IlceAdi": "IMATRA",
+    "IlceAdiEn": "IMATRA",
+    "IlceID": "12881"
+  },
+  {
+    "IlceAdi": "JARVENPAA",
+    "IlceAdiEn": "JARVENPAA",
+    "IlceID": "12909"
+  },
+  {
+    "IlceAdi": "JOENSUU",
+    "IlceAdiEn": "JOENSUU",
+    "IlceID": "12910"
+  },
+  {
+    "IlceAdi": "JYVASKYLA(YVSK)",
+    "IlceAdiEn": "JYVASKYLA(YVSK)",
+    "IlceID": "12933"
+  },
+  {
+    "IlceAdi": "KAAJANI",
+    "IlceAdiEn": "KAAJANI",
+    "IlceID": "12934"
+  },
+  {
+    "IlceAdi": "KAARINA",
+    "IlceAdiEn": "KAARINA",
+    "IlceID": "12893"
+  },
+  {
+    "IlceAdi": "KANGASALA",
+    "IlceAdiEn": "KANGASALA",
+    "IlceID": "12888"
+  },
+  {
+    "IlceAdi": "KANGASNIEMI",
+    "IlceAdiEn": "KANGASNIEMI",
+    "IlceID": "12935"
+  },
+  {
+    "IlceAdi": "KARKKILA",
+    "IlceAdiEn": "KARKKILA",
+    "IlceID": "12903"
+  },
+  {
+    "IlceAdi": "KARTTULA",
+    "IlceAdiEn": "KARTTULA",
+    "IlceID": "12942"
+  },
+  {
+    "IlceAdi": "KEMI",
+    "IlceAdiEn": "KEMI",
+    "IlceID": "12911"
+  },
+  {
+    "IlceAdi": "KERAVA",
+    "IlceAdiEn": "KERAVA",
+    "IlceID": "12904"
+  },
+  {
+    "IlceAdi": "KIRKKONUMMI",
+    "IlceAdiEn": "KIRKKONUMMI",
+    "IlceID": "12874"
+  },
+  {
+    "IlceAdi": "KOKKOLA",
+    "IlceAdiEn": "KOKKOLA",
+    "IlceID": "12912"
+  },
+  {
+    "IlceAdi": "KOSKI (Turku)",
+    "IlceAdiEn": "KOSKI (Turku)",
+    "IlceID": "12894"
+  },
+  {
+    "IlceAdi": "KOTKA",
+    "IlceAdiEn": "KOTKA",
+    "IlceID": "12913"
+  },
+  {
+    "IlceAdi": "KOUVOLA",
+    "IlceAdiEn": "KOUVOLA",
+    "IlceID": "12914"
+  },
+  {
+    "IlceAdi": "KUOPIO",
+    "IlceAdiEn": "KUOPIO",
+    "IlceID": "12931"
+  },
+  {
+    "IlceAdi": "KUSTAVI",
+    "IlceAdiEn": "KUSTAVI",
+    "IlceID": "12895"
+  },
+  {
+    "IlceAdi": "LAHTI",
+    "IlceAdiEn": "LAHTI",
+    "IlceID": "12936"
+  },
+  {
+    "IlceAdi": "LAITILA",
+    "IlceAdiEn": "LAITILA",
+    "IlceID": "12896"
+  },
+  {
+    "IlceAdi": "LAPPEENRANTA",
+    "IlceAdiEn": "LAPPEENRANTA",
+    "IlceID": "12915"
+  },
+  {
+    "IlceAdi": "LEMPAALA",
+    "IlceAdiEn": "LEMPAALA",
+    "IlceID": "12887"
+  },
+  {
+    "IlceAdi": "LOHJA",
+    "IlceAdiEn": "LOHJA",
+    "IlceID": "12940"
+  },
+  {
+    "IlceAdi": "LUUMAKI",
+    "IlceAdiEn": "LUUMAKI",
+    "IlceID": "12882"
+  },
+  {
+    "IlceAdi": "MARIEHAMN",
+    "IlceAdiEn": "MARIEHAMN",
+    "IlceID": "12916"
+  },
+  {
+    "IlceAdi": "MIKKELI",
+    "IlceAdiEn": "MIKKELI",
+    "IlceID": "12917"
+  },
+  {
+    "IlceAdi": "NAANTALI",
+    "IlceAdiEn": "NAANTALI",
+    "IlceID": "12897"
+  },
+  {
+    "IlceAdi": "NASTOLA",
+    "IlceAdiEn": "NASTOLA",
+    "IlceID": "12883"
+  },
+  {
+    "IlceAdi": "NAUVO",
+    "IlceAdiEn": "NAUVO",
+    "IlceID": "12898"
+  },
+  {
+    "IlceAdi": "NOKIA",
+    "IlceAdiEn": "NOKIA",
+    "IlceID": "12918"
+  },
+  {
+    "IlceAdi": "NUMMELA (Helsinki)",
+    "IlceAdiEn": "NUMMELA (Helsinki)",
+    "IlceID": "12875"
+  },
+  {
+    "IlceAdi": "ORIVESI ",
+    "IlceAdiEn": "ORIVESI ",
+    "IlceID": "12889"
+  },
+  {
+    "IlceAdi": "OULU",
+    "IlceAdiEn": "OULU",
+    "IlceID": "12919"
+  },
+  {
+    "IlceAdi": "PARGAS",
+    "IlceAdiEn": "PARGAS",
+    "IlceID": "12899"
+  },
+  {
+    "IlceAdi": "PARIKKALA",
+    "IlceAdiEn": "PARIKKALA",
+    "IlceID": "12932"
+  },
+  {
+    "IlceAdi": "PORI",
+    "IlceAdiEn": "PORI",
+    "IlceID": "12938"
+  },
+  {
+    "IlceAdi": "PORVOO",
+    "IlceAdiEn": "PORVOO",
+    "IlceID": "12939"
+  },
+  {
+    "IlceAdi": "POSIO",
+    "IlceAdiEn": "POSIO",
+    "IlceID": "33346"
+  },
+  {
+    "IlceAdi": "RAAHE",
+    "IlceAdiEn": "RAAHE",
+    "IlceID": "12920"
+  },
+  {
+    "IlceAdi": "RAISIO",
+    "IlceAdiEn": "RAISIO",
+    "IlceID": "12900"
+  },
+  {
+    "IlceAdi": "RAUMA",
+    "IlceAdiEn": "RAUMA",
+    "IlceID": "12921"
+  },
+  {
+    "IlceAdi": "RIIHIMAKI",
+    "IlceAdiEn": "RIIHIMAKI",
+    "IlceID": "12922"
+  },
+  {
+    "IlceAdi": "ROVANIEMI",
+    "IlceAdiEn": "ROVANIEMI",
+    "IlceID": "12923"
+  },
+  {
+    "IlceAdi": "SALO",
+    "IlceAdiEn": "SALO",
+    "IlceID": "12924"
+  },
+  {
+    "IlceAdi": "SAUVO",
+    "IlceAdiEn": "SAUVO",
+    "IlceID": "12901"
+  },
+  {
+    "IlceAdi": "SEINAJOKI",
+    "IlceAdiEn": "SEINAJOKI",
+    "IlceID": "12930"
+  },
+  {
+    "IlceAdi": "SEUTULA",
+    "IlceAdiEn": "SEUTULA",
+    "IlceID": "12876"
+  },
+  {
+    "IlceAdi": "SIPOO",
+    "IlceAdiEn": "SIPOO",
+    "IlceID": "12877"
+  },
+  {
+    "IlceAdi": "TAMPERE",
+    "IlceAdiEn": "TAMPERE",
+    "IlceID": "12928"
+  },
+  {
+    "IlceAdi": "TORNIO",
+    "IlceAdiEn": "TORNIO",
+    "IlceID": "12925"
+  },
+  {
+    "IlceAdi": "TURKU",
+    "IlceAdiEn": "TURKU",
+    "IlceID": "12943"
+  },
+  {
+    "IlceAdi": "TUUSULA",
+    "IlceAdiEn": "TUUSULA",
+    "IlceID": "12878"
+  },
+  {
+    "IlceAdi": "VAASA",
+    "IlceAdiEn": "VAASA",
+    "IlceID": "12937"
+  },
+  {
+    "IlceAdi": "VALKEAKOSKI",
+    "IlceAdiEn": "VALKEAKOSKI",
+    "IlceID": "12926"
+  },
+  {
+    "IlceAdi": "VALKEALA",
+    "IlceAdiEn": "VALKEALA",
+    "IlceID": "12884"
+  },
+  {
+    "IlceAdi": "VAMMALA",
+    "IlceAdiEn": "VAMMALA",
+    "IlceID": "12890"
+  },
+  {
+    "IlceAdi": "VANTAA",
+    "IlceAdiEn": "VANTAA",
+    "IlceID": "12902"
+  },
+  {
+    "IlceAdi": "VARKAUS",
+    "IlceAdiEn": "VARKAUS",
+    "IlceID": "12927"
+  },
+  {
+    "IlceAdi": "YLOJARVI",
+    "IlceAdiEn": "YLOJARVI",
+    "IlceID": "12891"
+  }
+]

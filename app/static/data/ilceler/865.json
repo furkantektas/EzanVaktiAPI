@@ -1,0 +1,282 @@
+[
+  {
+    "IlceAdi": "AHRENSBURG",
+    "IlceAdiEn": "AHRENSBURG",
+    "IlceID": "20031"
+  },
+  {
+    "IlceAdi": "BAD BRAMSTEDT",
+    "IlceAdiEn": "BAD BRAMSTEDT",
+    "IlceID": "10899"
+  },
+  {
+    "IlceAdi": "BAD OLDESLOE",
+    "IlceAdiEn": "BAD OLDESLOE",
+    "IlceID": "10051"
+  },
+  {
+    "IlceAdi": "BAD SCHWARTAU",
+    "IlceAdiEn": "BAD SCHWARTAU",
+    "IlceID": "10683"
+  },
+  {
+    "IlceAdi": "BAD SEGEBERG",
+    "IlceAdiEn": "BAD SEGEBERG",
+    "IlceID": "10682"
+  },
+  {
+    "IlceAdi": "BREDSTEDT",
+    "IlceAdiEn": "BREDSTEDT",
+    "IlceID": "10631"
+  },
+  {
+    "IlceAdi": "BRUNSBUTTEL",
+    "IlceAdiEn": "BRUNSBUTTEL",
+    "IlceID": "10668"
+  },
+  {
+    "IlceAdi": "BUDLESDORF",
+    "IlceAdiEn": "BUDLESDORF",
+    "IlceID": "10957"
+  },
+  {
+    "IlceAdi": "ECKERNFORDE",
+    "IlceAdiEn": "ECKERNFORDE",
+    "IlceID": "10985"
+  },
+  {
+    "IlceAdi": "ELMSHORN",
+    "IlceAdiEn": "ELMSHORN",
+    "IlceID": "10989"
+  },
+  {
+    "IlceAdi": "EUTIN",
+    "IlceAdiEn": "EUTIN",
+    "IlceID": "10090"
+  },
+  {
+    "IlceAdi": "FLENSBURG",
+    "IlceAdiEn": "FLENSBURG",
+    "IlceID": "11118"
+  },
+  {
+    "IlceAdi": "GEESTHACHT",
+    "IlceAdiEn": "GEESTHACHT",
+    "IlceID": "10102"
+  },
+  {
+    "IlceAdi": "GLINDE (HAMBURG)",
+    "IlceAdiEn": "GLINDE (HAMBURG)",
+    "IlceID": "10654"
+  },
+  {
+    "IlceAdi": "GLUCKSBURG",
+    "IlceAdiEn": "GLUCKSBURG",
+    "IlceID": "10632"
+  },
+  {
+    "IlceAdi": "GLUCKSTADT",
+    "IlceAdiEn": "GLUCKSTADT",
+    "IlceID": "10016"
+  },
+  {
+    "IlceAdi": "GROMITZ",
+    "IlceAdiEn": "GROMITZ",
+    "IlceID": "10110"
+  },
+  {
+    "IlceAdi": "HEIDE",
+    "IlceAdiEn": "HEIDE",
+    "IlceID": "10117"
+  },
+  {
+    "IlceAdi": "HOHENWESTEDT",
+    "IlceAdiEn": "HOHENWESTEDT",
+    "IlceID": "10669"
+  },
+  {
+    "IlceAdi": "HUSUM",
+    "IlceAdiEn": "HUSUM",
+    "IlceID": "10145"
+  },
+  {
+    "IlceAdi": "ITZEHOE",
+    "IlceAdiEn": "ITZEHOE",
+    "IlceID": "10150"
+  },
+  {
+    "IlceAdi": "KALTENKIRCHEN",
+    "IlceAdiEn": "KALTENKIRCHEN",
+    "IlceID": "10153"
+  },
+  {
+    "IlceAdi": "KAPPELN",
+    "IlceAdiEn": "KAPPELN",
+    "IlceID": "10633"
+  },
+  {
+    "IlceAdi": "KELLINGHUSEN",
+    "IlceAdiEn": "KELLINGHUSEN",
+    "IlceID": "10670"
+  },
+  {
+    "IlceAdi": "KIEL",
+    "IlceAdiEn": "KIEL",
+    "IlceID": "11016"
+  },
+  {
+    "IlceAdi": "KRONSHAGEN",
+    "IlceAdiEn": "KRONSHAGEN",
+    "IlceID": "10170"
+  },
+  {
+    "IlceAdi": "LAUENBURG",
+    "IlceAdiEn": "LAUENBURG",
+    "IlceID": "10414"
+  },
+  {
+    "IlceAdi": "LECK",
+    "IlceAdiEn": "LECK",
+    "IlceID": "10634"
+  },
+  {
+    "IlceAdi": "LENSAHN",
+    "IlceAdiEn": "LENSAHN",
+    "IlceID": "10673"
+  },
+  {
+    "IlceAdi": "LUBECK",
+    "IlceAdiEn": "LUBECK",
+    "IlceID": "11117"
+  },
+  {
+    "IlceAdi": "LUTJENBURG",
+    "IlceAdiEn": "LUTJENBURG",
+    "IlceID": "10674"
+  },
+  {
+    "IlceAdi": "MALENTE",
+    "IlceAdiEn": "MALENTE",
+    "IlceID": "10675"
+  },
+  {
+    "IlceAdi": "MARNE",
+    "IlceAdiEn": "MARNE",
+    "IlceID": "10671"
+  },
+  {
+    "IlceAdi": "MELDORF",
+    "IlceAdiEn": "MELDORF",
+    "IlceID": "10672"
+  },
+  {
+    "IlceAdi": "MOLLN",
+    "IlceAdiEn": "MOLLN",
+    "IlceID": "10450"
+  },
+  {
+    "IlceAdi": "NEUMUNSTER",
+    "IlceAdiEn": "NEUMUNSTER",
+    "IlceID": "10223"
+  },
+  {
+    "IlceAdi": "NIEBULL",
+    "IlceAdiEn": "NIEBULL",
+    "IlceID": "10635"
+  },
+  {
+    "IlceAdi": "NORDERSTEDT",
+    "IlceAdiEn": "NORDERSTEDT",
+    "IlceID": "10466"
+  },
+  {
+    "IlceAdi": "OSTSTEINBEK",
+    "IlceAdiEn": "OSTSTEINBEK",
+    "IlceID": "10880"
+  },
+  {
+    "IlceAdi": "PINNEBERG",
+    "IlceAdiEn": "PINNEBERG",
+    "IlceID": "10250"
+  },
+  {
+    "IlceAdi": "PLON",
+    "IlceAdiEn": "PLON",
+    "IlceID": "10676"
+  },
+  {
+    "IlceAdi": "PREETZ",
+    "IlceAdiEn": "PREETZ",
+    "IlceID": "10479"
+  },
+  {
+    "IlceAdi": "QUICKBORN",
+    "IlceAdiEn": "QUICKBORN",
+    "IlceID": "10253"
+  },
+  {
+    "IlceAdi": "RAISDORF",
+    "IlceAdiEn": "RAISDORF",
+    "IlceID": "10481"
+  },
+  {
+    "IlceAdi": "RATZEBURG",
+    "IlceAdiEn": "RATZEBURG",
+    "IlceID": "10656"
+  },
+  {
+    "IlceAdi": "REINBEK",
+    "IlceAdiEn": "REINBEK",
+    "IlceID": "10657"
+  },
+  {
+    "IlceAdi": "RENDSBURG",
+    "IlceAdiEn": "RENDSBURG",
+    "IlceID": "10259"
+  },
+  {
+    "IlceAdi": "SCHLESWIG",
+    "IlceAdiEn": "SCHLESWIG",
+    "IlceID": "10275"
+  },
+  {
+    "IlceAdi": "SCHWARZENBEK",
+    "IlceAdiEn": "SCHWARZENBEK",
+    "IlceID": "10499"
+  },
+  {
+    "IlceAdi": "STOCKELSDORF",
+    "IlceAdiEn": "STOCKELSDORF",
+    "IlceID": "10685"
+  },
+  {
+    "IlceAdi": "TARP",
+    "IlceAdiEn": "TARP",
+    "IlceID": "10636"
+  },
+  {
+    "IlceAdi": "UETERSEN",
+    "IlceAdiEn": "UETERSEN",
+    "IlceID": "10316"
+  },
+  {
+    "IlceAdi": "WAHLSTEDT",
+    "IlceAdiEn": "WAHLSTEDT",
+    "IlceID": "10686"
+  },
+  {
+    "IlceAdi": "WEDEL",
+    "IlceAdiEn": "WEDEL",
+    "IlceID": "10339"
+  },
+  {
+    "IlceAdi": "WESTERLAND",
+    "IlceAdiEn": "WESTERLAND",
+    "IlceID": "10637"
+  },
+  {
+    "IlceAdi": "WYK",
+    "IlceAdiEn": "WYK",
+    "IlceID": "10638"
+  }
+]

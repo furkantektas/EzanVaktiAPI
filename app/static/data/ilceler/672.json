@@ -1,0 +1,817 @@
+[
+  {
+    "IlceAdi": "ABA ETETUBA",
+    "IlceAdiEn": "ABA ETETUBA",
+    "IlceID": "12176"
+  },
+  {
+    "IlceAdi": "AMERICANA",
+    "IlceAdiEn": "AMERICANA",
+    "IlceID": "12144"
+  },
+  {
+    "IlceAdi": "APARECIDA DE GOIANIA",
+    "IlceAdiEn": "APARECIDA DE GOIANIA",
+    "IlceID": "12140"
+  },
+  {
+    "IlceAdi": "ARACATUBA",
+    "IlceAdiEn": "ARACATUBA",
+    "IlceID": "12040"
+  },
+  {
+    "IlceAdi": "ARAJACU",
+    "IlceAdiEn": "ARAJACU",
+    "IlceID": "12039"
+  },
+  {
+    "IlceAdi": "ARARANGUA",
+    "IlceAdiEn": "ARARANGUA",
+    "IlceID": "12191"
+  },
+  {
+    "IlceAdi": "ARARAQUARA",
+    "IlceAdiEn": "ARARAQUARA",
+    "IlceID": "12041"
+  },
+  {
+    "IlceAdi": "ATALAIA",
+    "IlceAdiEn": "ATALAIA",
+    "IlceID": "12133"
+  },
+  {
+    "IlceAdi": "ATIBAIA",
+    "IlceAdiEn": "ATIBAIA",
+    "IlceID": "12184"
+  },
+  {
+    "IlceAdi": "BAGE",
+    "IlceAdiEn": "BAGE",
+    "IlceID": "12042"
+  },
+  {
+    "IlceAdi": "BARBACENA",
+    "IlceAdiEn": "BARBACENA",
+    "IlceID": "12043"
+  },
+  {
+    "IlceAdi": "BARCARENA",
+    "IlceAdiEn": "BARCARENA",
+    "IlceID": "12177"
+  },
+  {
+    "IlceAdi": "BARRA DO CORDA",
+    "IlceAdiEn": "BARRA DO CORDA",
+    "IlceID": "12044"
+  },
+  {
+    "IlceAdi": "BARRA MANSA",
+    "IlceAdiEn": "BARRA MANSA",
+    "IlceID": "12160"
+  },
+  {
+    "IlceAdi": "BARREIRAS (Bahia)",
+    "IlceAdiEn": "BARREIRAS (Bahia)",
+    "IlceID": "12045"
+  },
+  {
+    "IlceAdi": "BAURU",
+    "IlceAdiEn": "BAURU",
+    "IlceID": "12046"
+  },
+  {
+    "IlceAdi": "BELEM",
+    "IlceAdiEn": "BELEM",
+    "IlceID": "12047"
+  },
+  {
+    "IlceAdi": "BELO HORIZONTE",
+    "IlceAdiEn": "BELO HORIZONTE",
+    "IlceID": "12048"
+  },
+  {
+    "IlceAdi": "BENTO GONCALVES",
+    "IlceAdiEn": "BENTO GONCALVES",
+    "IlceID": "12190"
+  },
+  {
+    "IlceAdi": "BETIM",
+    "IlceAdiEn": "BETIM",
+    "IlceID": "12180"
+  },
+  {
+    "IlceAdi": "BOA VISTA",
+    "IlceAdiEn": "BOA VISTA",
+    "IlceID": "12049"
+  },
+  {
+    "IlceAdi": "BRAGANCA PAULISTA",
+    "IlceAdiEn": "BRAGANCA PAULISTA",
+    "IlceID": "12050"
+  },
+  {
+    "IlceAdi": "BREZILYA",
+    "IlceAdiEn": "BRAZIL",
+    "IlceID": "12194"
+  },
+  {
+    "IlceAdi": "CAMPINA GRANDE",
+    "IlceAdiEn": "CAMPINA GRANDE",
+    "IlceID": "12051"
+  },
+  {
+    "IlceAdi": "CAMPINAS",
+    "IlceAdiEn": "CAMPINAS",
+    "IlceID": "12052"
+  },
+  {
+    "IlceAdi": "CAMPO GRANDE",
+    "IlceAdiEn": "CAMPO GRANDE",
+    "IlceID": "12053"
+  },
+  {
+    "IlceAdi": "CAMPOS DO JORDAO",
+    "IlceAdiEn": "CAMPOS DO JORDAO",
+    "IlceID": "12054"
+  },
+  {
+    "IlceAdi": "CANELA (R.G.S.)",
+    "IlceAdiEn": "CANELA (R.G.S.)",
+    "IlceID": "12187"
+  },
+  {
+    "IlceAdi": "CANOAS (R.G.S.)",
+    "IlceAdiEn": "CANOAS (R.G.S.)",
+    "IlceID": "12157"
+  },
+  {
+    "IlceAdi": "CARIACICA",
+    "IlceAdiEn": "CARIACICA",
+    "IlceID": "12159"
+  },
+  {
+    "IlceAdi": "CASCAVEL (Parana)",
+    "IlceAdiEn": "CASCAVEL (Parana)",
+    "IlceID": "12055"
+  },
+  {
+    "IlceAdi": "CATALAO (Goias)",
+    "IlceAdiEn": "CATALAO (Goias)",
+    "IlceID": "12056"
+  },
+  {
+    "IlceAdi": "CAXIAS DO SUL",
+    "IlceAdiEn": "CAXIAS DO SUL",
+    "IlceID": "12057"
+  },
+  {
+    "IlceAdi": "COARI (A)",
+    "IlceAdiEn": "COARI (A)",
+    "IlceID": "12173"
+  },
+  {
+    "IlceAdi": "COLOMBO (P)",
+    "IlceAdiEn": "COLOMBO (P)",
+    "IlceID": "12193"
+  },
+  {
+    "IlceAdi": "CONTAGEM",
+    "IlceAdiEn": "CONTAGEM",
+    "IlceID": "12179"
+  },
+  {
+    "IlceAdi": "CORURIPE",
+    "IlceAdiEn": "CORURIPE",
+    "IlceID": "12168"
+  },
+  {
+    "IlceAdi": "CRICIUMA",
+    "IlceAdiEn": "CRICIUMA",
+    "IlceID": "12058"
+  },
+  {
+    "IlceAdi": "CRUZEIRO DO SUL (ACRE)",
+    "IlceAdiEn": "CRUZEIRO DO SUL (ACRE)",
+    "IlceID": "12128"
+  },
+  {
+    "IlceAdi": "CUIABA",
+    "IlceAdiEn": "CUIABA",
+    "IlceID": "12059"
+  },
+  {
+    "IlceAdi": "CURITIBA",
+    "IlceAdiEn": "CURITIBA",
+    "IlceID": "12060"
+  },
+  {
+    "IlceAdi": "DELMIRO GOUVEIA",
+    "IlceAdiEn": "DELMIRO GOUVEIA",
+    "IlceID": "12164"
+  },
+  {
+    "IlceAdi": "DIVINOPOLIS",
+    "IlceAdiEn": "DIVINOPOLIS",
+    "IlceID": "12061"
+  },
+  {
+    "IlceAdi": "FLORIANOPOLIS",
+    "IlceAdiEn": "FLORIANOPOLIS",
+    "IlceID": "12062"
+  },
+  {
+    "IlceAdi": "FORTALEZA",
+    "IlceAdiEn": "FORTALEZA",
+    "IlceID": "12200"
+  },
+  {
+    "IlceAdi": "FOZ DE IGUACU",
+    "IlceAdiEn": "FOZ DE IGUACU",
+    "IlceID": "12201"
+  },
+  {
+    "IlceAdi": "GARANHUNS",
+    "IlceAdiEn": "GARANHUNS",
+    "IlceID": "12063"
+  },
+  {
+    "IlceAdi": "GARIBALDI (R.G.S.)",
+    "IlceAdiEn": "GARIBALDI (R.G.S.)",
+    "IlceID": "12189"
+  },
+  {
+    "IlceAdi": "GOIANIA",
+    "IlceAdiEn": "GOIANIA",
+    "IlceID": "12064"
+  },
+  {
+    "IlceAdi": "GRAMADO (R.G.S.)",
+    "IlceAdiEn": "GRAMADO (R.G.S.)",
+    "IlceID": "12188"
+  },
+  {
+    "IlceAdi": "GRAVATAI",
+    "IlceAdiEn": "GRAVATAI",
+    "IlceID": "12148"
+  },
+  {
+    "IlceAdi": "GUARATINGUETA",
+    "IlceAdiEn": "GUARATINGUETA",
+    "IlceID": "12065"
+  },
+  {
+    "IlceAdi": "GUARUJA (S.P.)",
+    "IlceAdiEn": "GUARUJA (S.P.)",
+    "IlceID": "12154"
+  },
+  {
+    "IlceAdi": "IBIRITE (Minas..)",
+    "IlceAdiEn": "IBIRITE (Minas..)",
+    "IlceID": "12066"
+  },
+  {
+    "IlceAdi": "IGACI",
+    "IlceAdiEn": "IGACI",
+    "IlceID": "12139"
+  },
+  {
+    "IlceAdi": "ILHEUS",
+    "IlceAdiEn": "ILHEUS",
+    "IlceID": "12067"
+  },
+  {
+    "IlceAdi": "INAJA",
+    "IlceAdiEn": "INAJA",
+    "IlceID": "12163"
+  },
+  {
+    "IlceAdi": "INDAIATUBA",
+    "IlceAdiEn": "INDAIATUBA",
+    "IlceID": "12183"
+  },
+  {
+    "IlceAdi": "ITABUNA",
+    "IlceAdiEn": "ITABUNA",
+    "IlceID": "12141"
+  },
+  {
+    "IlceAdi": "ITAGUAI",
+    "IlceAdiEn": "ITAGUAI",
+    "IlceID": "12152"
+  },
+  {
+    "IlceAdi": "ITAPETININGA",
+    "IlceAdiEn": "ITAPETININGA",
+    "IlceID": "12069"
+  },
+  {
+    "IlceAdi": "ITATIBA",
+    "IlceAdiEn": "ITATIBA",
+    "IlceID": "12070"
+  },
+  {
+    "IlceAdi": "JEQUIE (B)",
+    "IlceAdiEn": "JEQUIE (B)",
+    "IlceID": "12142"
+  },
+  {
+    "IlceAdi": "JOAO PESSOA",
+    "IlceAdiEn": "JOAO PESSOA",
+    "IlceID": "12071"
+  },
+  {
+    "IlceAdi": "JOINVILLE",
+    "IlceAdiEn": "JOINVILLE",
+    "IlceID": "12072"
+  },
+  {
+    "IlceAdi": "JUIZ DE FORA",
+    "IlceAdiEn": "JUIZ DE FORA",
+    "IlceID": "12073"
+  },
+  {
+    "IlceAdi": "JUNDIAI",
+    "IlceAdiEn": "JUNDIAI",
+    "IlceID": "12074"
+  },
+  {
+    "IlceAdi": "LARANJAL DO JARI",
+    "IlceAdiEn": "LARANJAL DO JARI",
+    "IlceID": "12170"
+  },
+  {
+    "IlceAdi": "LIMEIRA",
+    "IlceAdiEn": "LIMEIRA",
+    "IlceID": "12075"
+  },
+  {
+    "IlceAdi": "LONDRINA",
+    "IlceAdiEn": "LONDRINA",
+    "IlceID": "12076"
+  },
+  {
+    "IlceAdi": "MACAPA",
+    "IlceAdiEn": "MACAPA",
+    "IlceID": "12077"
+  },
+  {
+    "IlceAdi": "MACEIO",
+    "IlceAdiEn": "MACEIO",
+    "IlceID": "12078"
+  },
+  {
+    "IlceAdi": "MANACAPURU",
+    "IlceAdiEn": "MANACAPURU",
+    "IlceID": "12171"
+  },
+  {
+    "IlceAdi": "MANAUS",
+    "IlceAdiEn": "MANAUS",
+    "IlceID": "12079"
+  },
+  {
+    "IlceAdi": "MANICORE",
+    "IlceAdiEn": "MANICORE",
+    "IlceID": "12175"
+  },
+  {
+    "IlceAdi": "MARINGA",
+    "IlceAdiEn": "MARINGA",
+    "IlceID": "12080"
+  },
+  {
+    "IlceAdi": "MATA GRANDE",
+    "IlceAdiEn": "MATA GRANDE",
+    "IlceID": "12162"
+  },
+  {
+    "IlceAdi": "MATRIZ DE CAMARAJIBE",
+    "IlceAdiEn": "MATRIZ DE CAMARAJIBE",
+    "IlceID": "12136"
+  },
+  {
+    "IlceAdi": "MAUES",
+    "IlceAdiEn": "MAUES",
+    "IlceID": "12172"
+  },
+  {
+    "IlceAdi": "MONTENEGRO (R.G.S.)",
+    "IlceAdiEn": "MONTENEGRO (R.G.S.)",
+    "IlceID": "12082"
+  },
+  {
+    "IlceAdi": "MURICI (A)",
+    "IlceAdiEn": "MURICI (A)",
+    "IlceID": "12134"
+  },
+  {
+    "IlceAdi": "NATAL",
+    "IlceAdiEn": "NATAL",
+    "IlceID": "12083"
+  },
+  {
+    "IlceAdi": "NEPOMUCENO (M.G)",
+    "IlceAdiEn": "NEPOMUCENO (M.G)",
+    "IlceID": "12084"
+  },
+  {
+    "IlceAdi": "NILOPOLIS",
+    "IlceAdiEn": "NILOPOLIS",
+    "IlceID": "12153"
+  },
+  {
+    "IlceAdi": "NOVA IGUACU",
+    "IlceAdiEn": "NOVA IGUACU",
+    "IlceID": "12086"
+  },
+  {
+    "IlceAdi": "NOVA LIMA (M.G)",
+    "IlceAdiEn": "NOVA LIMA (M.G)",
+    "IlceID": "12085"
+  },
+  {
+    "IlceAdi": "NOVO HANBURGO",
+    "IlceAdiEn": "NOVO HANBURGO",
+    "IlceID": "12081"
+  },
+  {
+    "IlceAdi": "PALMAS",
+    "IlceAdiEn": "PALMAS",
+    "IlceID": "12087"
+  },
+  {
+    "IlceAdi": "PALMEIRA DOS INDIOS",
+    "IlceAdiEn": "PALMEIRA DOS INDIOS",
+    "IlceID": "12138"
+  },
+  {
+    "IlceAdi": "PAO DE ACUCAR (A)",
+    "IlceAdiEn": "PAO DE ACUCAR (A)",
+    "IlceID": "12165"
+  },
+  {
+    "IlceAdi": "PARNAIBA",
+    "IlceAdiEn": "PARNAIBA",
+    "IlceID": "12088"
+  },
+  {
+    "IlceAdi": "PARNAMIRIM",
+    "IlceAdiEn": "PARNAMIRIM",
+    "IlceID": "12150"
+  },
+  {
+    "IlceAdi": "PASSO FUNDO",
+    "IlceAdiEn": "PASSO FUNDO",
+    "IlceID": "12089"
+  },
+  {
+    "IlceAdi": "PELOTAS",
+    "IlceAdiEn": "PELOTAS",
+    "IlceID": "12090"
+  },
+  {
+    "IlceAdi": "PENEDO",
+    "IlceAdiEn": "PENEDO",
+    "IlceID": "12167"
+  },
+  {
+    "IlceAdi": "PETROPOLIS",
+    "IlceAdiEn": "PETROPOLIS",
+    "IlceID": "12091"
+  },
+  {
+    "IlceAdi": "PILAR (A)",
+    "IlceAdiEn": "PILAR (A)",
+    "IlceID": "12132"
+  },
+  {
+    "IlceAdi": "PINDAMONHANGABA",
+    "IlceAdiEn": "PINDAMONHANGABA",
+    "IlceID": "12185"
+  },
+  {
+    "IlceAdi": "PIRACICABA",
+    "IlceAdiEn": "PIRACICABA",
+    "IlceID": "12092"
+  },
+  {
+    "IlceAdi": "PIRAPORA",
+    "IlceAdiEn": "PIRAPORA",
+    "IlceID": "12093"
+  },
+  {
+    "IlceAdi": "PIRASSUNUNGA",
+    "IlceAdiEn": "PIRASSUNUNGA",
+    "IlceID": "12094"
+  },
+  {
+    "IlceAdi": "PLANALTINA",
+    "IlceAdiEn": "PLANALTINA",
+    "IlceID": "12095"
+  },
+  {
+    "IlceAdi": "PORTO ALEGRE (R.G.S.)",
+    "IlceAdiEn": "PORTO ALEGRE (R.G.S.)",
+    "IlceID": "12195"
+  },
+  {
+    "IlceAdi": "PORTO NACIONAL",
+    "IlceAdiEn": "PORTO NACIONAL",
+    "IlceID": "12096"
+  },
+  {
+    "IlceAdi": "PORTO VELHO",
+    "IlceAdiEn": "PORTO VELHO",
+    "IlceID": "12097"
+  },
+  {
+    "IlceAdi": "PRAIA GRANDE (S.P.)",
+    "IlceAdiEn": "PRAIA GRANDE (S.P.)",
+    "IlceID": "12156"
+  },
+  {
+    "IlceAdi": "QUEIMADOS (R.J.)",
+    "IlceAdiEn": "QUEIMADOS (R.J.)",
+    "IlceID": "12151"
+  },
+  {
+    "IlceAdi": "RECIFE (P)",
+    "IlceAdiEn": "RECIFE (P)",
+    "IlceID": "12198"
+  },
+  {
+    "IlceAdi": "RIBEIRAO DAS NEVES",
+    "IlceAdiEn": "RIBEIRAO DAS NEVES",
+    "IlceID": "12181"
+  },
+  {
+    "IlceAdi": "RIBEIRAO PIRES",
+    "IlceAdiEn": "RIBEIRAO PIRES",
+    "IlceID": "12098"
+  },
+  {
+    "IlceAdi": "RIBEIRAO PRETO",
+    "IlceAdiEn": "RIBEIRAO PRETO",
+    "IlceID": "12099"
+  },
+  {
+    "IlceAdi": "RIO BRANCO",
+    "IlceAdiEn": "RIO BRANCO",
+    "IlceID": "12100"
+  },
+  {
+    "IlceAdi": "RIO CLARO (S.P.)",
+    "IlceAdiEn": "RIO CLARO (S.P.)",
+    "IlceID": "12146"
+  },
+  {
+    "IlceAdi": "RIO DE JANEIRO",
+    "IlceAdiEn": "RIO DE JANEIRO",
+    "IlceID": "12196"
+  },
+  {
+    "IlceAdi": "RIO LARGO",
+    "IlceAdiEn": "RIO LARGO",
+    "IlceID": "12131"
+  },
+  {
+    "IlceAdi": "SALVADOR",
+    "IlceAdiEn": "SALVADOR",
+    "IlceID": "12101"
+  },
+  {
+    "IlceAdi": "SANTA BARBARA D OESTE",
+    "IlceAdiEn": "SANTA BARBARA D OESTE",
+    "IlceID": "12143"
+  },
+  {
+    "IlceAdi": "SANTA CRUZ DO SUL",
+    "IlceAdiEn": "SANTA CRUZ DO SUL",
+    "IlceID": "12102"
+  },
+  {
+    "IlceAdi": "SANTA LUZIA (M.G.)",
+    "IlceAdiEn": "SANTA LUZIA (M.G.)",
+    "IlceID": "12182"
+  },
+  {
+    "IlceAdi": "SANTA RITA DO S.",
+    "IlceAdiEn": "SANTA RITA DO S.",
+    "IlceID": "12202"
+  },
+  {
+    "IlceAdi": "SANTANA (A)",
+    "IlceAdiEn": "SANTANA (A)",
+    "IlceID": "12169"
+  },
+  {
+    "IlceAdi": "SANTANA DO IPANEMA",
+    "IlceAdiEn": "SANTANA DO IPANEMA",
+    "IlceID": "12161"
+  },
+  {
+    "IlceAdi": "SANTAREM",
+    "IlceAdiEn": "SANTAREM",
+    "IlceID": "12103"
+  },
+  {
+    "IlceAdi": "SANTO ANGELO",
+    "IlceAdiEn": "SANTO ANGELO",
+    "IlceID": "12104"
+  },
+  {
+    "IlceAdi": "SANTOS",
+    "IlceAdiEn": "SANTOS",
+    "IlceID": "12105"
+  },
+  {
+    "IlceAdi": "SAO CARLOS (Sao Poulo)",
+    "IlceAdiEn": "SAO CARLOS (Sao Poulo)",
+    "IlceID": "12106"
+  },
+  {
+    "IlceAdi": "SAO JOSE",
+    "IlceAdiEn": "SAO JOSE",
+    "IlceID": "12108"
+  },
+  {
+    "IlceAdi": "SAO JOSE DA LAJE",
+    "IlceAdiEn": "SAO JOSE DA LAJE",
+    "IlceID": "12107"
+  },
+  {
+    "IlceAdi": "SAO JOSE DO RIO PRETO",
+    "IlceAdiEn": "SAO JOSE DO RIO PRETO",
+    "IlceID": "12119"
+  },
+  {
+    "IlceAdi": "SAO JOSE DOS PINHAIS",
+    "IlceAdiEn": "SAO JOSE DOS PINHAIS",
+    "IlceID": "12109"
+  },
+  {
+    "IlceAdi": "SAO LEOPOLDO",
+    "IlceAdiEn": "SAO LEOPOLDO",
+    "IlceID": "12110"
+  },
+  {
+    "IlceAdi": "SAO LUIS (Maranhao)",
+    "IlceAdiEn": "SAO LUIS (Maranhao)",
+    "IlceID": "12111"
+  },
+  {
+    "IlceAdi": "SAO LUIS DO QUITUNDE",
+    "IlceAdiEn": "SAO LUIS DO QUITUNDE",
+    "IlceID": "12135"
+  },
+  {
+    "IlceAdi": "SAO MIGUEL DOS CAMPOS",
+    "IlceAdiEn": "SAO MIGUEL DOS CAMPOS",
+    "IlceID": "12112"
+  },
+  {
+    "IlceAdi": "SAO PAULO (S.P.)",
+    "IlceAdiEn": "SAO PAULO (S.P.)",
+    "IlceID": "12197"
+  },
+  {
+    "IlceAdi": "SAO SEBASTIAO (Alogora)",
+    "IlceAdiEn": "SAO SEBASTIAO (Alogora)",
+    "IlceID": "12113"
+  },
+  {
+    "IlceAdi": "SAO VICENTE (S.P.)",
+    "IlceAdiEn": "SAO VICENTE (S.P.)",
+    "IlceID": "12155"
+  },
+  {
+    "IlceAdi": "SAPUCAIA DO SUL",
+    "IlceAdiEn": "SAPUCAIA DO SUL",
+    "IlceID": "12147"
+  },
+  {
+    "IlceAdi": "SENA MADUREIRA",
+    "IlceAdiEn": "SENA MADUREIRA",
+    "IlceID": "12130"
+  },
+  {
+    "IlceAdi": "SETE LAGOAS (M.GoroIs)",
+    "IlceAdiEn": "SETE LAGOAS (M.GoroIs)",
+    "IlceID": "12114"
+  },
+  {
+    "IlceAdi": "SOBRAL (Cearal)",
+    "IlceAdiEn": "SOBRAL (Cearal)",
+    "IlceID": "12115"
+  },
+  {
+    "IlceAdi": "SUMARE",
+    "IlceAdiEn": "SUMARE",
+    "IlceID": "12145"
+  },
+  {
+    "IlceAdi": "TANGARA DA SERRA (M.G.)",
+    "IlceAdiEn": "TANGARA DA SERRA (M.G.)",
+    "IlceID": "12116"
+  },
+  {
+    "IlceAdi": "TAPAUA",
+    "IlceAdiEn": "TAPAUA",
+    "IlceID": "12174"
+  },
+  {
+    "IlceAdi": "TARAUACA",
+    "IlceAdiEn": "TARAUACA",
+    "IlceID": "12129"
+  },
+  {
+    "IlceAdi": "TAUBATE",
+    "IlceAdiEn": "TAUBATE",
+    "IlceID": "12117"
+  },
+  {
+    "IlceAdi": "TERESINA",
+    "IlceAdiEn": "TERESINA",
+    "IlceID": "12199"
+  },
+  {
+    "IlceAdi": "TERESOPOLIS (R.D.J.)",
+    "IlceAdiEn": "TERESOPOLIS (R.D.J.)",
+    "IlceID": "12118"
+  },
+  {
+    "IlceAdi": "TOLEDO",
+    "IlceAdiEn": "TOLEDO",
+    "IlceID": "12186"
+  },
+  {
+    "IlceAdi": "TRAIPU",
+    "IlceAdiEn": "TRAIPU",
+    "IlceID": "12166"
+  },
+  {
+    "IlceAdi": "TRES LAGOAS (M.G.D.S.)",
+    "IlceAdiEn": "TRES LAGOAS (M.G.D.S.)",
+    "IlceID": "12120"
+  },
+  {
+    "IlceAdi": "UBERABA",
+    "IlceAdiEn": "UBERABA",
+    "IlceID": "12121"
+  },
+  {
+    "IlceAdi": "UBERLANDIA",
+    "IlceAdiEn": "UBERLANDIA",
+    "IlceID": "12122"
+  },
+  {
+    "IlceAdi": "UNIAO DA VITORIA",
+    "IlceAdiEn": "UNIAO DA VITORIA",
+    "IlceID": "12123"
+  },
+  {
+    "IlceAdi": "UNIAO DOS PALMARES",
+    "IlceAdiEn": "UNIAO DOS PALMARES",
+    "IlceID": "12137"
+  },
+  {
+    "IlceAdi": "VALINHOS",
+    "IlceAdiEn": "VALINHOS",
+    "IlceID": "12124"
+  },
+  {
+    "IlceAdi": "VARZEA GRANDE (M.G)",
+    "IlceAdiEn": "VARZEA GRANDE (M.G)",
+    "IlceID": "12192"
+  },
+  {
+    "IlceAdi": "VENDA NOVA",
+    "IlceAdiEn": "VENDA NOVA",
+    "IlceID": "12178"
+  },
+  {
+    "IlceAdi": "VIAMAO",
+    "IlceAdiEn": "VIAMAO",
+    "IlceID": "12149"
+  },
+  {
+    "IlceAdi": "VICOSA",
+    "IlceAdiEn": "VICOSA",
+    "IlceID": "12125"
+  },
+  {
+    "IlceAdi": "VILA VELHA (E.S.)",
+    "IlceAdiEn": "VILA VELHA (E.S.)",
+    "IlceID": "12158"
+  },
+  {
+    "IlceAdi": "VITORIA",
+    "IlceAdiEn": "VITORIA",
+    "IlceID": "12126"
+  },
+  {
+    "IlceAdi": "VOLTA REDONDA (R.J.)",
+    "IlceAdiEn": "VOLTA REDONDA (R.J.)",
+    "IlceID": "12127"
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "IlceAdi": "AK BULAK",
+    "IlceAdiEn": "AK BULAK",
+    "IlceID": "15023"
+  },
+  {
+    "IlceAdi": "AK TEREK",
+    "IlceAdiEn": "AK TEREK",
+    "IlceID": "15024"
+  },
+  {
+    "IlceAdi": "AKHCHI-KARASU",
+    "IlceAdiEn": "AKHCHI-KARASU",
+    "IlceID": "15055"
+  },
+  {
+    "IlceAdi": "AK-MUZ",
+    "IlceAdiEn": "AK-MUZ",
+    "IlceID": "15033"
+  },
+  {
+    "IlceAdi": "AKTAL",
+    "IlceAdiEn": "AKTAL",
+    "IlceID": "15034"
+  },
+  {
+    "IlceAdi": "ALTYNAMACH",
+    "IlceAdiEn": "ALTYNAMACH",
+    "IlceID": "15056"
+  },
+  {
+    "IlceAdi": "ARPA",
+    "IlceAdiEn": "ARPA",
+    "IlceID": "15035"
+  },
+  {
+    "IlceAdi": "AT-BASHI",
+    "IlceAdiEn": "AT-BASHI",
+    "IlceID": "15036"
+  },
+  {
+    "IlceAdi": "BAETOV",
+    "IlceAdiEn": "BAETOV",
+    "IlceID": "15037"
+  },
+  {
+    "IlceAdi": "BARSKOON",
+    "IlceAdiEn": "BARSKOON",
+    "IlceID": "15025"
+  },
+  {
+    "IlceAdi": "BASHKAINDY",
+    "IlceAdiEn": "BASHKAINDY",
+    "IlceID": "15039"
+  },
+  {
+    "IlceAdi": "BATKEN",
+    "IlceAdiEn": "BATKEN",
+    "IlceID": "15065"
+  },
+  {
+    "IlceAdi": "BAYGONCHOK",
+    "IlceAdiEn": "BAYGONCHOK",
+    "IlceID": "15038"
+  },
+  {
+    "IlceAdi": "BAZAR KURGAN ",
+    "IlceAdiEn": "BAZAR KURGAN ",
+    "IlceID": "15046"
+  },
+  {
+    "IlceAdi": "BISKEK",
+    "IlceAdiEn": "BISHKEK",
+    "IlceID": "15071"
+  },
+  {
+    "IlceAdi": "CELALABAD",
+    "IlceAdiEn": "JALAL ABAD",
+    "IlceID": "15066"
+  },
+  {
+    "IlceAdi": "DARKHAN",
+    "IlceAdiEn": "DARKHAN",
+    "IlceID": "15026"
+  },
+  {
+    "IlceAdi": "DOSTUK",
+    "IlceAdiEn": "DOSTUK",
+    "IlceID": "15040"
+  },
+  {
+    "IlceAdi": "GULCHA ",
+    "IlceAdiEn": "GULCHA ",
+    "IlceID": "15047"
+  },
+  {
+    "IlceAdi": "KARA-BALTA",
+    "IlceAdiEn": "KARA-BALTA",
+    "IlceID": "15019"
+  },
+  {
+    "IlceAdi": "KARA-BURGEN",
+    "IlceAdiEn": "KARA-BURGEN",
+    "IlceID": "15041"
+  },
+  {
+    "IlceAdi": "KARA-KAVAK ",
+    "IlceAdiEn": "KARA-KAVAK ",
+    "IlceID": "15048"
+  },
+  {
+    "IlceAdi": "KARAKOL",
+    "IlceAdiEn": "KARAKOL",
+    "IlceID": "15068"
+  },
+  {
+    "IlceAdi": "KARA-KOL(Talas)",
+    "IlceAdiEn": "KARA-KOL(Talas)",
+    "IlceID": "15057"
+  },
+  {
+    "IlceAdi": "KARASU(Biskek)",
+    "IlceAdiEn": "KARASU(Biskek)",
+    "IlceID": "15020"
+  },
+  {
+    "IlceAdi": "KARASU(Narin)",
+    "IlceAdiEn": "KARASU(Narin)",
+    "IlceID": "15042"
+  },
+  {
+    "IlceAdi": "KARAUNKUR",
+    "IlceAdiEn": "KARAUNKUR",
+    "IlceID": "15043"
+  },
+  {
+    "IlceAdi": "KHAYDARKEN ",
+    "IlceAdiEn": "KHAYDARKEN ",
+    "IlceID": "15049"
+  },
+  {
+    "IlceAdi": "KIROVSKOYE",
+    "IlceAdiEn": "KIROVSKOYE",
+    "IlceID": "15058"
+  },
+  {
+    "IlceAdi": "KOCHKORKA",
+    "IlceAdiEn": "KOCHKORKA",
+    "IlceID": "15017"
+  },
+  {
+    "IlceAdi": "KOK-YANGAK ",
+    "IlceAdiEn": "KOK-YANGAK ",
+    "IlceID": "15050"
+  },
+  {
+    "IlceAdi": "KULANAK",
+    "IlceAdiEn": "KULANAK",
+    "IlceID": "15044"
+  },
+  {
+    "IlceAdi": "KUTURGA",
+    "IlceAdiEn": "KUTURGA",
+    "IlceID": "15027"
+  },
+  {
+    "IlceAdi": "LENINPOL",
+    "IlceAdiEn": "LENINPOL",
+    "IlceID": "15059"
+  },
+  {
+    "IlceAdi": "MIKHAYLOVKA",
+    "IlceAdiEn": "MIKHAYLOVKA",
+    "IlceID": "15028"
+  },
+  {
+    "IlceAdi": "MING-BULAK",
+    "IlceAdiEn": "MING-BULAK",
+    "IlceID": "15045"
+  },
+  {
+    "IlceAdi": "NARYN",
+    "IlceAdiEn": "NARYN",
+    "IlceID": "15016"
+  },
+  {
+    "IlceAdi": "NOVOVOZNESENOVKA",
+    "IlceAdiEn": "NOVOVOZNESENOVKA",
+    "IlceID": "15029"
+  },
+  {
+    "IlceAdi": "OSH",
+    "IlceAdiEn": "OSH",
+    "IlceID": "15070"
+  },
+  {
+    "IlceAdi": "OYTAL(Osh)",
+    "IlceAdiEn": "OYTAL(Osh)",
+    "IlceID": "15051"
+  },
+  {
+    "IlceAdi": "OZGON ",
+    "IlceAdiEn": "OZGON ",
+    "IlceID": "15052"
+  },
+  {
+    "IlceAdi": "POKROVKA(Karakol)",
+    "IlceAdiEn": "POKROVKA(Karakol)",
+    "IlceID": "15030"
+  },
+  {
+    "IlceAdi": "POKROVKA(Talas)",
+    "IlceAdiEn": "POKROVKA(Talas)",
+    "IlceID": "15060"
+  },
+  {
+    "IlceAdi": "RYBACH YE",
+    "IlceAdiEn": "RYBACH YE",
+    "IlceID": "15067"
+  },
+  {
+    "IlceAdi": "SARY-TASH ",
+    "IlceAdiEn": "SARY-TASH ",
+    "IlceID": "15053"
+  },
+  {
+    "IlceAdi": "SEMENOVKA",
+    "IlceAdiEn": "SEMENOVKA",
+    "IlceID": "15031"
+  },
+  {
+    "IlceAdi": "SHEKER",
+    "IlceAdiEn": "SHEKER",
+    "IlceID": "15061"
+  },
+  {
+    "IlceAdi": "SOKULUK",
+    "IlceAdiEn": "SOKULUK",
+    "IlceID": "15022"
+  },
+  {
+    "IlceAdi": "TALAS",
+    "IlceAdiEn": "TALAS",
+    "IlceID": "15069"
+  },
+  {
+    "IlceAdi": "TOKMOK",
+    "IlceAdiEn": "TOKMOK",
+    "IlceID": "15018"
+  },
+  {
+    "IlceAdi": "TOKTOGUL",
+    "IlceAdiEn": "TOKTOGUL",
+    "IlceID": "15062"
+  },
+  {
+    "IlceAdi": "TORKENT",
+    "IlceAdiEn": "TORKENT",
+    "IlceID": "15063"
+  },
+  {
+    "IlceAdi": "TYUP",
+    "IlceAdiEn": "TYUP",
+    "IlceID": "15032"
+  },
+  {
+    "IlceAdi": "UCHKORQON ",
+    "IlceAdiEn": "UCHKORQON ",
+    "IlceID": "15054"
+  },
+  {
+    "IlceAdi": "ULUKENT",
+    "IlceAdiEn": "ULUKENT",
+    "IlceID": "15064"
+  }
+]

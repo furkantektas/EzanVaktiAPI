@@ -1,0 +1,212 @@
+[
+  {
+    "IlceAdi": "AHVAZ",
+    "IlceAdiEn": "AHVAZ",
+    "IlceID": "14176"
+  },
+  {
+    "IlceAdi": "AMOL",
+    "IlceAdiEn": "AMOL",
+    "IlceID": "14185"
+  },
+  {
+    "IlceAdi": "ARAK",
+    "IlceAdiEn": "ARAK",
+    "IlceID": "14180"
+  },
+  {
+    "IlceAdi": "ARDABIL",
+    "IlceAdiEn": "ARDABIL",
+    "IlceID": "14194"
+  },
+  {
+    "IlceAdi": "AZIZABAD",
+    "IlceAdiEn": "AZIZABAD",
+    "IlceID": "17812"
+  },
+  {
+    "IlceAdi": "BABOL",
+    "IlceAdiEn": "BABOL",
+    "IlceID": "14183"
+  },
+  {
+    "IlceAdi": "BANE",
+    "IlceAdiEn": "BANEH",
+    "IlceID": "16778"
+  },
+  {
+    "IlceAdi": "BİCAR",
+    "IlceAdiEn": "BİCAR",
+    "IlceID": "16779"
+  },
+  {
+    "IlceAdi": "BOJNURD",
+    "IlceAdiEn": "BOJNURD",
+    "IlceID": "14181"
+  },
+  {
+    "IlceAdi": "BORUJERD",
+    "IlceAdiEn": "BORUJERD",
+    "IlceID": "14199"
+  },
+  {
+    "IlceAdi": "DEZFUL",
+    "IlceAdiEn": "DEZFUL",
+    "IlceID": "14202"
+  },
+  {
+    "IlceAdi": "DIVANDARE",
+    "IlceAdiEn": "DIVANDARREH",
+    "IlceID": "16780"
+  },
+  {
+    "IlceAdi": "GORGAN",
+    "IlceAdiEn": "GORGAN",
+    "IlceID": "14182"
+  },
+  {
+    "IlceAdi": "GORVE",
+    "IlceAdiEn": "QORVEH",
+    "IlceID": "16781"
+  },
+  {
+    "IlceAdi": "HAMADAN",
+    "IlceAdiEn": "HAMADAN",
+    "IlceID": "14197"
+  },
+  {
+    "IlceAdi": "HURREMABAD",
+    "IlceAdiEn": "KHORRAMABAD",
+    "IlceID": "14200"
+  },
+  {
+    "IlceAdi": "ILAM",
+    "IlceAdiEn": "ILAM",
+    "IlceID": "14201"
+  },
+  {
+    "IlceAdi": "ISFEHAN",
+    "IlceAdiEn": "ISFEHAN",
+    "IlceID": "14203"
+  },
+  {
+    "IlceAdi": "KAMYARAN",
+    "IlceAdiEn": "KAMYARAN",
+    "IlceID": "16782"
+  },
+  {
+    "IlceAdi": "KARAJ",
+    "IlceAdiEn": "KARAJ",
+    "IlceID": "14186"
+  },
+  {
+    "IlceAdi": "KERMAN",
+    "IlceAdiEn": "KERMAN",
+    "IlceID": "14173"
+  },
+  {
+    "IlceAdi": "KERMANSHAH",
+    "IlceAdiEn": "KERMANSHAH",
+    "IlceID": "14174"
+  },
+  {
+    "IlceAdi": "KHVOY",
+    "IlceAdiEn": "KHVOY",
+    "IlceID": "14195"
+  },
+  {
+    "IlceAdi": "MALAYER",
+    "IlceAdiEn": "MALAYER",
+    "IlceID": "14198"
+  },
+  {
+    "IlceAdi": "MARAGHEH",
+    "IlceAdiEn": "MARAGHEH",
+    "IlceID": "14193"
+  },
+  {
+    "IlceAdi": "MASHHAD",
+    "IlceAdiEn": "MASHHAD",
+    "IlceID": "14175"
+  },
+  {
+    "IlceAdi": "MEHABAD",
+    "IlceAdiEn": "MAHABAD",
+    "IlceID": "16791"
+  },
+  {
+    "IlceAdi": "MERIVAN",
+    "IlceAdiEn": "MARIVAN",
+    "IlceID": "16790"
+  },
+  {
+    "IlceAdi": "QAEMSHAHR",
+    "IlceAdiEn": "QAEMSHAHR",
+    "IlceID": "14187"
+  },
+  {
+    "IlceAdi": "QAZVIN",
+    "IlceAdiEn": "QAZVIN",
+    "IlceID": "14188"
+  },
+  {
+    "IlceAdi": "RAJAISHAHR",
+    "IlceAdiEn": "RAJAISHAHR",
+    "IlceID": "14184"
+  },
+  {
+    "IlceAdi": "RASHT",
+    "IlceAdiEn": "RASHT",
+    "IlceID": "14190"
+  },
+  {
+    "IlceAdi": "REZAIYEH",
+    "IlceAdiEn": "REZAIYEH",
+    "IlceID": "14179"
+  },
+  {
+    "IlceAdi": "SAKKIZ",
+    "IlceAdiEn": "SAQQEZ",
+    "IlceID": "16783"
+  },
+  {
+    "IlceAdi": "SANANDAJ",
+    "IlceAdiEn": "SANANDAJ",
+    "IlceID": "14196"
+  },
+  {
+    "IlceAdi": "SHIRAZ",
+    "IlceAdiEn": "SHIRAZ",
+    "IlceID": "14172"
+  },
+  {
+    "IlceAdi": "TABRIZ",
+    "IlceAdiEn": "TABRIZ",
+    "IlceID": "14178"
+  },
+  {
+    "IlceAdi": "TAHRAN",
+    "IlceAdiEn": "TEHRAN",
+    "IlceID": "14177"
+  },
+  {
+    "IlceAdi": "URMIA",
+    "IlceAdiEn": "URMIA",
+    "IlceID": "14189"
+  },
+  {
+    "IlceAdi": "YAZD",
+    "IlceAdiEn": "YAZD",
+    "IlceID": "14204"
+  },
+  {
+    "IlceAdi": "ZAHEDAN",
+    "IlceAdiEn": "ZAHEDAN",
+    "IlceID": "14191"
+  },
+  {
+    "IlceAdi": "ZANJAN",
+    "IlceAdiEn": "ZANJAN",
+    "IlceID": "14192"
+  }
+]

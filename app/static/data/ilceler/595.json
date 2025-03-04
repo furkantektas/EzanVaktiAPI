@@ -1,0 +1,52 @@
+[
+  {
+    "IlceAdi": "AURORA",
+    "IlceAdiEn": "AURORA",
+    "IlceID": "8758"
+  },
+  {
+    "IlceAdi": "CHAMPAIGN",
+    "IlceAdiEn": "CHAMPAIGN",
+    "IlceID": "8759"
+  },
+  {
+    "IlceAdi": "CHICAGO",
+    "IlceAdiEn": "CHICAGO",
+    "IlceID": "8760"
+  },
+  {
+    "IlceAdi": "ELGIN",
+    "IlceAdiEn": "ELGIN",
+    "IlceID": "8761"
+  },
+  {
+    "IlceAdi": "GALESBURG",
+    "IlceAdiEn": "GALESBURG",
+    "IlceID": "8762"
+  },
+  {
+    "IlceAdi": "JOLIET",
+    "IlceAdiEn": "JOLIET",
+    "IlceID": "8763"
+  },
+  {
+    "IlceAdi": "KANKAKEE",
+    "IlceAdiEn": "KANKAKEE",
+    "IlceID": "8764"
+  },
+  {
+    "IlceAdi": "NAPERVILLE",
+    "IlceAdiEn": "NAPERVILLE",
+    "IlceID": "8765"
+  },
+  {
+    "IlceAdi": "URBANA",
+    "IlceAdiEn": "URBANA",
+    "IlceID": "8766"
+  },
+  {
+    "IlceAdi": "WAUKEGAN",
+    "IlceAdiEn": "WAUKEGAN",
+    "IlceID": "8767"
+  }
+]

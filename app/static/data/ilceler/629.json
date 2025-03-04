@@ -1,0 +1,27 @@
+[
+  {
+    "IlceAdi": "KENT",
+    "IlceAdiEn": "KENT",
+    "IlceID": "18942"
+  },
+  {
+    "IlceAdi": "OLYMPIA",
+    "IlceAdiEn": "OLYMPIA",
+    "IlceID": "9011"
+  },
+  {
+    "IlceAdi": "SEATTLE",
+    "IlceAdiEn": "SEATTLE",
+    "IlceID": "9012"
+  },
+  {
+    "IlceAdi": "SPOKANE",
+    "IlceAdiEn": "SPOKANE",
+    "IlceID": "9013"
+  },
+  {
+    "IlceAdi": "VANCOUVER",
+    "IlceAdiEn": "VANCOUVER",
+    "IlceID": "21173"
+  }
+]

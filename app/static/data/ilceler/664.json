@@ -1,0 +1,1102 @@
+[
+  {
+    "IlceAdi": "AALST",
+    "IlceAdiEn": "AALST",
+    "IlceID": "11704"
+  },
+  {
+    "IlceAdi": "AARSCHOT",
+    "IlceAdiEn": "AARSCHOT",
+    "IlceID": "11707"
+  },
+  {
+    "IlceAdi": "ACHEL",
+    "IlceAdiEn": "ACHEL",
+    "IlceID": "11796"
+  },
+  {
+    "IlceAdi": "ADEGEM",
+    "IlceAdiEn": "ADEGEM",
+    "IlceID": "11853"
+  },
+  {
+    "IlceAdi": "ALKEN",
+    "IlceAdiEn": "ALKEN",
+    "IlceID": "11877"
+  },
+  {
+    "IlceAdi": "ALLEUD",
+    "IlceAdiEn": "ALLEUD",
+    "IlceID": "11722"
+  },
+  {
+    "IlceAdi": "AMAY ",
+    "IlceAdiEn": "AMAY ",
+    "IlceID": "11790"
+  },
+  {
+    "IlceAdi": "ANDENNE",
+    "IlceAdiEn": "ANDENNE",
+    "IlceID": "11716"
+  },
+  {
+    "IlceAdi": "ANDERLUES",
+    "IlceAdiEn": "ANDERLUES",
+    "IlceID": "11862"
+  },
+  {
+    "IlceAdi": "ANS",
+    "IlceAdiEn": "ANS",
+    "IlceID": "11791"
+  },
+  {
+    "IlceAdi": "ANTWERPEN",
+    "IlceAdiEn": "ANTWERPEN",
+    "IlceID": "11914"
+  },
+  {
+    "IlceAdi": "ARENDONK",
+    "IlceAdiEn": "ARENDONK",
+    "IlceID": "11708"
+  },
+  {
+    "IlceAdi": "ARLON",
+    "IlceAdiEn": "ARLON",
+    "IlceID": "11709"
+  },
+  {
+    "IlceAdi": "ASSE (Bruksel)",
+    "IlceAdiEn": "ASSE (Bruksel)",
+    "IlceID": "11847"
+  },
+  {
+    "IlceAdi": "ATH",
+    "IlceAdiEn": "ATH",
+    "IlceID": "11710"
+  },
+  {
+    "IlceAdi": "ATHUS",
+    "IlceAdiEn": "ATHUS",
+    "IlceID": "11835"
+  },
+  {
+    "IlceAdi": "BALEN",
+    "IlceAdiEn": "BALEN",
+    "IlceID": "11797"
+  },
+  {
+    "IlceAdi": "BASTOGNE",
+    "IlceAdiEn": "BASTOGNE",
+    "IlceID": "11808"
+  },
+  {
+    "IlceAdi": "BAUDOUR",
+    "IlceAdiEn": "BAUDOUR",
+    "IlceID": "11816"
+  },
+  {
+    "IlceAdi": "BEAURAING",
+    "IlceAdiEn": "BEAURAING",
+    "IlceID": "11807"
+  },
+  {
+    "IlceAdi": "BEERNEM",
+    "IlceAdiEn": "BEERNEM",
+    "IlceID": "11854"
+  },
+  {
+    "IlceAdi": "BERINGEN",
+    "IlceAdiEn": "BERINGEN",
+    "IlceID": "11703"
+  },
+  {
+    "IlceAdi": "BERLAAR",
+    "IlceAdiEn": "BERLAAR",
+    "IlceID": "11711"
+  },
+  {
+    "IlceAdi": "BERTRIX",
+    "IlceAdiEn": "BERTRIX",
+    "IlceID": "11836"
+  },
+  {
+    "IlceAdi": "BEVEREN",
+    "IlceAdiEn": "BEVEREN",
+    "IlceID": "11764"
+  },
+  {
+    "IlceAdi": "BEVERLO",
+    "IlceAdiEn": "BEVERLO",
+    "IlceID": "11882"
+  },
+  {
+    "IlceAdi": "BILZEN",
+    "IlceAdiEn": "BILZEN",
+    "IlceID": "11724"
+  },
+  {
+    "IlceAdi": "BINCHE",
+    "IlceAdiEn": "BINCHE",
+    "IlceID": "11712"
+  },
+  {
+    "IlceAdi": "BLANKENBERGE ",
+    "IlceAdiEn": "BLANKENBERGE ",
+    "IlceID": "11855"
+  },
+  {
+    "IlceAdi": "BOCHOLT",
+    "IlceAdiEn": "BOCHOLT",
+    "IlceID": "11798"
+  },
+  {
+    "IlceAdi": "BOECHOUT",
+    "IlceAdiEn": "BOECHOUT",
+    "IlceID": "11841"
+  },
+  {
+    "IlceAdi": "BOOM",
+    "IlceAdiEn": "BOOM",
+    "IlceID": "11842"
+  },
+  {
+    "IlceAdi": "BOORTMEERBEEK",
+    "IlceAdiEn": "BOORTMEERBEEK",
+    "IlceID": "11713"
+  },
+  {
+    "IlceAdi": "BORGLOON",
+    "IlceAdiEn": "BORGLOON",
+    "IlceID": "11805"
+  },
+  {
+    "IlceAdi": "BORNEM",
+    "IlceAdiEn": "BORNEM",
+    "IlceID": "11825"
+  },
+  {
+    "IlceAdi": "BOUILLON",
+    "IlceAdiEn": "BOUILLON",
+    "IlceID": "11837"
+  },
+  {
+    "IlceAdi": "BOUSSU",
+    "IlceAdiEn": "BOUSSU",
+    "IlceID": "11737"
+  },
+  {
+    "IlceAdi": "BRASSCHAAT",
+    "IlceAdiEn": "BRASSCHAAT",
+    "IlceID": "11775"
+  },
+  {
+    "IlceAdi": "BRECHT",
+    "IlceAdiEn": "BRECHT",
+    "IlceID": "11777"
+  },
+  {
+    "IlceAdi": "BREDENE",
+    "IlceAdiEn": "BREDENE",
+    "IlceID": "11856"
+  },
+  {
+    "IlceAdi": "BREE",
+    "IlceAdiEn": "BREE",
+    "IlceID": "11715"
+  },
+  {
+    "IlceAdi": "BRUGGE",
+    "IlceAdiEn": "BRUGGE",
+    "IlceID": "11891"
+  },
+  {
+    "IlceAdi": "BRUKSEL",
+    "IlceAdiEn": "BRUXELLES",
+    "IlceID": "11915"
+  },
+  {
+    "IlceAdi": "BUGGENHOUT",
+    "IlceAdiEn": "BUGGENHOUT",
+    "IlceID": "11848"
+  },
+  {
+    "IlceAdi": "CHARLEROI",
+    "IlceAdiEn": "CHARLEROI",
+    "IlceID": "11895"
+  },
+  {
+    "IlceAdi": "CHATELET",
+    "IlceAdiEn": "CHATELET",
+    "IlceID": "11906"
+  },
+  {
+    "IlceAdi": "CHATELINEAU",
+    "IlceAdiEn": "CHATELINEAU",
+    "IlceID": "11863"
+  },
+  {
+    "IlceAdi": "CINEY",
+    "IlceAdiEn": "CINEY",
+    "IlceID": "11812"
+  },
+  {
+    "IlceAdi": "COLFONTAINE",
+    "IlceAdiEn": "COLFONTAINE",
+    "IlceID": "11729"
+  },
+  {
+    "IlceAdi": "CORON",
+    "IlceAdiEn": "CORON",
+    "IlceID": "11817"
+  },
+  {
+    "IlceAdi": "CUESMES",
+    "IlceAdiEn": "CUESMES",
+    "IlceID": "11864"
+  },
+  {
+    "IlceAdi": "DE HAAN",
+    "IlceAdiEn": "DE HAAN",
+    "IlceID": "11857"
+  },
+  {
+    "IlceAdi": "DEERLIJK",
+    "IlceAdiEn": "DEERLIJK",
+    "IlceID": "11782"
+  },
+  {
+    "IlceAdi": "DEINZE",
+    "IlceAdiEn": "DEINZE",
+    "IlceID": "11759"
+  },
+  {
+    "IlceAdi": "DENDERMONDE",
+    "IlceAdiEn": "DENDERMONDE",
+    "IlceID": "11896"
+  },
+  {
+    "IlceAdi": "DESSEL",
+    "IlceAdiEn": "DESSEL",
+    "IlceID": "11799"
+  },
+  {
+    "IlceAdi": "DIEPENBEEK",
+    "IlceAdiEn": "DIEPENBEEK",
+    "IlceID": "11878"
+  },
+  {
+    "IlceAdi": "DIEST",
+    "IlceAdiEn": "DIEST",
+    "IlceID": "11897"
+  },
+  {
+    "IlceAdi": "DIKSMUIDE",
+    "IlceAdiEn": "DIKSMUIDE",
+    "IlceID": "11717"
+  },
+  {
+    "IlceAdi": "DILBEEK",
+    "IlceAdiEn": "DILBEEK",
+    "IlceID": "11718"
+  },
+  {
+    "IlceAdi": "DILSEN",
+    "IlceAdiEn": "DILSEN",
+    "IlceID": "11870"
+  },
+  {
+    "IlceAdi": "DINANT",
+    "IlceAdiEn": "DINANT",
+    "IlceID": "11813"
+  },
+  {
+    "IlceAdi": "DISON",
+    "IlceAdiEn": "DISON",
+    "IlceID": "11829"
+  },
+  {
+    "IlceAdi": "DOUR",
+    "IlceAdiEn": "DOUR",
+    "IlceID": "11818"
+  },
+  {
+    "IlceAdi": "EDEGEM",
+    "IlceAdiEn": "EDEGEM",
+    "IlceID": "11778"
+  },
+  {
+    "IlceAdi": "EDINGEN (Enghien)",
+    "IlceAdiEn": "EDINGEN (Enghien)",
+    "IlceID": "11849"
+  },
+  {
+    "IlceAdi": "EISDEN",
+    "IlceAdiEn": "EISDEN",
+    "IlceID": "11887"
+  },
+  {
+    "IlceAdi": "ENSIVAL",
+    "IlceAdiEn": "ENSIVAL",
+    "IlceID": "11830"
+  },
+  {
+    "IlceAdi": "ERBAUT",
+    "IlceAdiEn": "ERBAUT",
+    "IlceID": "11819"
+  },
+  {
+    "IlceAdi": "ERTVELDE",
+    "IlceAdiEn": "ERTVELDE",
+    "IlceID": "11871"
+  },
+  {
+    "IlceAdi": "ESNEUX",
+    "IlceAdiEn": "ESNEUX",
+    "IlceID": "11792"
+  },
+  {
+    "IlceAdi": "EUPEN",
+    "IlceAdiEn": "EUPEN",
+    "IlceID": "11831"
+  },
+  {
+    "IlceAdi": "EVERGEM",
+    "IlceAdiEn": "EVERGEM",
+    "IlceID": "11744"
+  },
+  {
+    "IlceAdi": "FLEURUS",
+    "IlceAdiEn": "FLEURUS",
+    "IlceID": "11865"
+  },
+  {
+    "IlceAdi": "FLOREFFE",
+    "IlceAdiEn": "FLOREFFE",
+    "IlceID": "11814"
+  },
+  {
+    "IlceAdi": "FLORENNES",
+    "IlceAdiEn": "FLORENNES",
+    "IlceID": "11866"
+  },
+  {
+    "IlceAdi": "FLORENVILLE",
+    "IlceAdiEn": "FLORENVILLE",
+    "IlceID": "11838"
+  },
+  {
+    "IlceAdi": "FRAMERIES",
+    "IlceAdiEn": "FRAMERIES",
+    "IlceID": "11719"
+  },
+  {
+    "IlceAdi": "GAVERE",
+    "IlceAdiEn": "GAVERE",
+    "IlceID": "11720"
+  },
+  {
+    "IlceAdi": "GEEL",
+    "IlceAdiEn": "GEEL",
+    "IlceID": "11721"
+  },
+  {
+    "IlceAdi": "GEMBLOUX",
+    "IlceAdiEn": "GEMBLOUX",
+    "IlceID": "11850"
+  },
+  {
+    "IlceAdi": "GENK",
+    "IlceAdiEn": "GENK",
+    "IlceID": "11898"
+  },
+  {
+    "IlceAdi": "GENT",
+    "IlceAdiEn": "GENT",
+    "IlceID": "11916"
+  },
+  {
+    "IlceAdi": "GERAARDSBERGEN",
+    "IlceAdiEn": "GERAARDSBERGEN",
+    "IlceID": "11774"
+  },
+  {
+    "IlceAdi": "GISTEL",
+    "IlceAdiEn": "GISTEL",
+    "IlceID": "11858"
+  },
+  {
+    "IlceAdi": "GRIMBERGEN",
+    "IlceAdiEn": "GRIMBERGEN",
+    "IlceID": "11725"
+  },
+  {
+    "IlceAdi": "HABAY LA NEUVE",
+    "IlceAdiEn": "HABAY LA NEUVE",
+    "IlceID": "11839"
+  },
+  {
+    "IlceAdi": "HALLE",
+    "IlceAdiEn": "HALLE",
+    "IlceID": "22178"
+  },
+  {
+    "IlceAdi": "HAMME",
+    "IlceAdiEn": "HAMME",
+    "IlceID": "11714"
+  },
+  {
+    "IlceAdi": "HAMONT",
+    "IlceAdiEn": "HAMONT",
+    "IlceID": "11800"
+  },
+  {
+    "IlceAdi": "HARELBEKE",
+    "IlceAdiEn": "HARELBEKE",
+    "IlceID": "11727"
+  },
+  {
+    "IlceAdi": "HASSELT",
+    "IlceAdiEn": "HASSELT",
+    "IlceID": "11899"
+  },
+  {
+    "IlceAdi": "HAVRE",
+    "IlceAdiEn": "HAVRE",
+    "IlceID": "11821"
+  },
+  {
+    "IlceAdi": "HECHTEL",
+    "IlceAdiEn": "HECHTEL",
+    "IlceID": "11801"
+  },
+  {
+    "IlceAdi": "HEIST-OP-DEN-BERG",
+    "IlceAdiEn": "HEIST-OP-DEN-BERG",
+    "IlceID": "11728"
+  },
+  {
+    "IlceAdi": "HEMIKSEM",
+    "IlceAdiEn": "HEMIKSEM",
+    "IlceID": "11843"
+  },
+  {
+    "IlceAdi": "HERENTALS",
+    "IlceAdiEn": "HERENTALS",
+    "IlceID": "11730"
+  },
+  {
+    "IlceAdi": "HERK-DE-STAD",
+    "IlceAdiEn": "HERK-DE-STAD",
+    "IlceID": "11879"
+  },
+  {
+    "IlceAdi": "HERSTAL",
+    "IlceAdiEn": "HERSTAL",
+    "IlceID": "11793"
+  },
+  {
+    "IlceAdi": "HEULE",
+    "IlceAdiEn": "HEULE",
+    "IlceID": "11783"
+  },
+  {
+    "IlceAdi": "HEUSDEN",
+    "IlceAdiEn": "HEUSDEN",
+    "IlceID": "11910"
+  },
+  {
+    "IlceAdi": "HOBOKEN",
+    "IlceAdiEn": "HOBOKEN",
+    "IlceID": "11905"
+  },
+  {
+    "IlceAdi": "HOESELT",
+    "IlceAdiEn": "HOESELT",
+    "IlceID": "11806"
+  },
+  {
+    "IlceAdi": "HOOGLEDE",
+    "IlceAdiEn": "HOOGLEDE",
+    "IlceID": "11784"
+  },
+  {
+    "IlceAdi": "HORNU",
+    "IlceAdiEn": "HORNU",
+    "IlceID": "11822"
+  },
+  {
+    "IlceAdi": "HOUTHALEN",
+    "IlceAdiEn": "HOUTHALEN",
+    "IlceID": "11781"
+  },
+  {
+    "IlceAdi": "HUY",
+    "IlceAdiEn": "HUY",
+    "IlceID": "11732"
+  },
+  {
+    "IlceAdi": "IEPER",
+    "IlceAdiEn": "IEPER",
+    "IlceID": "11748"
+  },
+  {
+    "IlceAdi": "IZEGEM",
+    "IlceAdiEn": "IZEGEM",
+    "IlceID": "11733"
+  },
+  {
+    "IlceAdi": "JEMAPPES",
+    "IlceAdiEn": "JEMAPPES",
+    "IlceID": "11820"
+  },
+  {
+    "IlceAdi": "JODOIGNE",
+    "IlceAdiEn": "JODOIGNE",
+    "IlceID": "11734"
+  },
+  {
+    "IlceAdi": "KAPELLEN",
+    "IlceAdiEn": "KAPELLEN",
+    "IlceID": "11769"
+  },
+  {
+    "IlceAdi": "KEERBERGEN",
+    "IlceAdiEn": "KEERBERGEN",
+    "IlceID": "11735"
+  },
+  {
+    "IlceAdi": "KINROOI",
+    "IlceAdiEn": "KINROOI",
+    "IlceID": "11802"
+  },
+  {
+    "IlceAdi": "KNOKKE-HEIST",
+    "IlceAdiEn": "KNOKKE-HEIST",
+    "IlceID": "11738"
+  },
+  {
+    "IlceAdi": "KOERSEL",
+    "IlceAdiEn": "KOERSEL",
+    "IlceID": "11883"
+  },
+  {
+    "IlceAdi": "KONTICH",
+    "IlceAdiEn": "KONTICH",
+    "IlceID": "11844"
+  },
+  {
+    "IlceAdi": "KORTRIJK",
+    "IlceAdiEn": "KORTRIJK",
+    "IlceID": "11888"
+  },
+  {
+    "IlceAdi": "KRUIBEKE",
+    "IlceAdiEn": "KRUIBEKE",
+    "IlceID": "11826"
+  },
+  {
+    "IlceAdi": "LA CALAMINE",
+    "IlceAdiEn": "LA CALAMINE",
+    "IlceID": "11832"
+  },
+  {
+    "IlceAdi": "LA LOUVIERE",
+    "IlceAdiEn": "LA LOUVIERE",
+    "IlceID": "11907"
+  },
+  {
+    "IlceAdi": "LA ROCHE EN ARDENNE",
+    "IlceAdiEn": "LA ROCHE EN ARDENNE",
+    "IlceID": "11809"
+  },
+  {
+    "IlceAdi": "LAARNE",
+    "IlceAdiEn": "LAARNE",
+    "IlceID": "11872"
+  },
+  {
+    "IlceAdi": "LANAKEN",
+    "IlceAdiEn": "LANAKEN",
+    "IlceID": "11739"
+  },
+  {
+    "IlceAdi": "LAUWE",
+    "IlceAdiEn": "LAUWE",
+    "IlceID": "11785"
+  },
+  {
+    "IlceAdi": "LE HOUISSE",
+    "IlceAdiEn": "LE HOUISSE",
+    "IlceID": "11810"
+  },
+  {
+    "IlceAdi": "LEOPOLDSBURG",
+    "IlceAdiEn": "LEOPOLDSBURG",
+    "IlceID": "11884"
+  },
+  {
+    "IlceAdi": "LEUVEN (LOUVAIN)",
+    "IlceAdiEn": "LEUVEN (LOUVAIN)",
+    "IlceID": "11706"
+  },
+  {
+    "IlceAdi": "LIEGE",
+    "IlceAdiEn": "LIEGE",
+    "IlceID": "11917"
+  },
+  {
+    "IlceAdi": "LIER",
+    "IlceAdiEn": "LIER",
+    "IlceID": "11701"
+  },
+  {
+    "IlceAdi": "LOCHRISTI",
+    "IlceAdiEn": "LOCHRISTI",
+    "IlceID": "11873"
+  },
+  {
+    "IlceAdi": "LOKEREN",
+    "IlceAdiEn": "LOKEREN",
+    "IlceID": "11741"
+  },
+  {
+    "IlceAdi": "LOMMEL",
+    "IlceAdiEn": "LOMMEL",
+    "IlceID": "11736"
+  },
+  {
+    "IlceAdi": "M.FAMENNE",
+    "IlceAdiEn": "M.FAMENNE",
+    "IlceID": "11890"
+  },
+  {
+    "IlceAdi": "MAASEIK",
+    "IlceAdiEn": "MAASEIK",
+    "IlceID": "11742"
+  },
+  {
+    "IlceAdi": "MAASMECHELEN",
+    "IlceAdiEn": "MAASMECHELEN",
+    "IlceID": "11909"
+  },
+  {
+    "IlceAdi": "MALDEGEM",
+    "IlceAdiEn": "MALDEGEM",
+    "IlceID": "11743"
+  },
+  {
+    "IlceAdi": "MALMEDY",
+    "IlceAdiEn": "MALMEDY",
+    "IlceID": "11900"
+  },
+  {
+    "IlceAdi": "MANAGE",
+    "IlceAdiEn": "MANAGE",
+    "IlceID": "11867"
+  },
+  {
+    "IlceAdi": "MECHELEN (MalInes)",
+    "IlceAdiEn": "MECHELEN (MalInes)",
+    "IlceID": "11745"
+  },
+  {
+    "IlceAdi": "MENEN",
+    "IlceAdiEn": "MENEN",
+    "IlceID": "11757"
+  },
+  {
+    "IlceAdi": "MERELBEKE",
+    "IlceAdiEn": "MERELBEKE",
+    "IlceID": "11746"
+  },
+  {
+    "IlceAdi": "MEULEBEKE",
+    "IlceAdiEn": "MEULEBEKE",
+    "IlceID": "11786"
+  },
+  {
+    "IlceAdi": "MOL",
+    "IlceAdiEn": "MOL",
+    "IlceID": "11773"
+  },
+  {
+    "IlceAdi": "MONS",
+    "IlceAdiEn": "MONS",
+    "IlceID": "11901"
+  },
+  {
+    "IlceAdi": "MOORSLEDE",
+    "IlceAdiEn": "MOORSLEDE",
+    "IlceID": "11787"
+  },
+  {
+    "IlceAdi": "MORTSEL",
+    "IlceAdiEn": "MORTSEL",
+    "IlceID": "11749"
+  },
+  {
+    "IlceAdi": "MOUSCRON",
+    "IlceAdiEn": "MOUSCRON",
+    "IlceID": "11726"
+  },
+  {
+    "IlceAdi": "NAMUR",
+    "IlceAdiEn": "NAMUR",
+    "IlceID": "11889"
+  },
+  {
+    "IlceAdi": "NEUFCHATEAU",
+    "IlceAdiEn": "NEUFCHATEAU",
+    "IlceID": "11840"
+  },
+  {
+    "IlceAdi": "NIJLEN",
+    "IlceAdiEn": "NIJLEN",
+    "IlceID": "11845"
+  },
+  {
+    "IlceAdi": "NINOVE",
+    "IlceAdiEn": "NINOVE",
+    "IlceID": "11750"
+  },
+  {
+    "IlceAdi": "NIVELLES",
+    "IlceAdiEn": "NIVELLES",
+    "IlceID": "11751"
+  },
+  {
+    "IlceAdi": "OODELEM",
+    "IlceAdiEn": "OODELEM",
+    "IlceID": "11859"
+  },
+  {
+    "IlceAdi": "OOSTENDE",
+    "IlceAdiEn": "OOSTENDE",
+    "IlceID": "11705"
+  },
+  {
+    "IlceAdi": "OOSTKAMP",
+    "IlceAdiEn": "OOSTKAMP",
+    "IlceID": "11755"
+  },
+  {
+    "IlceAdi": "OTTIGNIES-LAUVAIN-LA-NUVE",
+    "IlceAdiEn": "OTTIGNIES-LAUVAIN-LA-NUVE",
+    "IlceID": "11752"
+  },
+  {
+    "IlceAdi": "OUDENAARDE",
+    "IlceAdiEn": "OUDENAARDE",
+    "IlceID": "11753"
+  },
+  {
+    "IlceAdi": "OVERIJSE",
+    "IlceAdiEn": "OVERIJSE",
+    "IlceID": "11754"
+  },
+  {
+    "IlceAdi": "OVERPELT",
+    "IlceAdiEn": "OVERPELT",
+    "IlceID": "11803"
+  },
+  {
+    "IlceAdi": "PAAL",
+    "IlceAdiEn": "PAAL",
+    "IlceID": "11885"
+  },
+  {
+    "IlceAdi": "PATURAGES",
+    "IlceAdiEn": "PATURAGES",
+    "IlceID": "11823"
+  },
+  {
+    "IlceAdi": "PEER",
+    "IlceAdiEn": "PEER",
+    "IlceID": "11804"
+  },
+  {
+    "IlceAdi": "PERUWELZ",
+    "IlceAdiEn": "PERUWELZ",
+    "IlceID": "11824"
+  },
+  {
+    "IlceAdi": "PHILIPPEVILLE",
+    "IlceAdiEn": "PHILIPPEVILLE",
+    "IlceID": "11868"
+  },
+  {
+    "IlceAdi": "PROFONDEVILLE",
+    "IlceAdiEn": "PROFONDEVILLE",
+    "IlceID": "11815"
+  },
+  {
+    "IlceAdi": "QUAREGNON",
+    "IlceAdiEn": "QUAREGNON",
+    "IlceID": "17842"
+  },
+  {
+    "IlceAdi": "RIXENSARD",
+    "IlceAdiEn": "RIXENSARD",
+    "IlceID": "11723"
+  },
+  {
+    "IlceAdi": "ROESELARE",
+    "IlceAdiEn": "ROESELARE",
+    "IlceID": "11747"
+  },
+  {
+    "IlceAdi": "RONSE",
+    "IlceAdiEn": "RONSE",
+    "IlceID": "11760"
+  },
+  {
+    "IlceAdi": "RUDDERVOORDE",
+    "IlceAdiEn": "RUDDERVOORDE",
+    "IlceID": "11860"
+  },
+  {
+    "IlceAdi": "RUISELEDE",
+    "IlceAdiEn": "RUISELEDE",
+    "IlceID": "11874"
+  },
+  {
+    "IlceAdi": "RUMBEKE",
+    "IlceAdiEn": "RUMBEKE",
+    "IlceID": "11788"
+  },
+  {
+    "IlceAdi": "RUMST",
+    "IlceAdiEn": "RUMST",
+    "IlceID": "11846"
+  },
+  {
+    "IlceAdi": "SAINT-GHISLAIN",
+    "IlceAdiEn": "SAINT-GHISLAIN",
+    "IlceID": "11731"
+  },
+  {
+    "IlceAdi": "SCHERPENHEUVEL",
+    "IlceAdiEn": "SCHERPENHEUVEL",
+    "IlceID": "11779"
+  },
+  {
+    "IlceAdi": "SCHOTEN",
+    "IlceAdiEn": "SCHOTEN",
+    "IlceID": "11776"
+  },
+  {
+    "IlceAdi": "SINT-TRUIDEN",
+    "IlceAdiEn": "SINT-TRUIDEN",
+    "IlceID": "11852"
+  },
+  {
+    "IlceAdi": "SOIGNIES",
+    "IlceAdiEn": "SOIGNIES",
+    "IlceID": "11913"
+  },
+  {
+    "IlceAdi": "SPA",
+    "IlceAdiEn": "SPA",
+    "IlceID": "11794"
+  },
+  {
+    "IlceAdi": "ST. HUBERT",
+    "IlceAdiEn": "ST. HUBERT",
+    "IlceID": "11811"
+  },
+  {
+    "IlceAdi": "ST. NIKLAAS",
+    "IlceAdiEn": "ST. NIKLAAS",
+    "IlceID": "11912"
+  },
+  {
+    "IlceAdi": "ST. TRUIDEN",
+    "IlceAdiEn": "ST. TRUIDEN",
+    "IlceID": "11740"
+  },
+  {
+    "IlceAdi": "STAVELOT",
+    "IlceAdiEn": "STAVELOT",
+    "IlceID": "11795"
+  },
+  {
+    "IlceAdi": "STEKENE",
+    "IlceAdiEn": "STEKENE",
+    "IlceID": "11827"
+  },
+  {
+    "IlceAdi": "TEMSE",
+    "IlceAdiEn": "TEMSE",
+    "IlceID": "11902"
+  },
+  {
+    "IlceAdi": "TESSENDERLO",
+    "IlceAdiEn": "TESSENDERLO",
+    "IlceID": "11886"
+  },
+  {
+    "IlceAdi": "THEUX",
+    "IlceAdiEn": "THEUX",
+    "IlceID": "11833"
+  },
+  {
+    "IlceAdi": "THUIN",
+    "IlceAdiEn": "THUIN",
+    "IlceID": "11869"
+  },
+  {
+    "IlceAdi": "TIELT(FB)",
+    "IlceAdiEn": "TIELT(FB)",
+    "IlceID": "11851"
+  },
+  {
+    "IlceAdi": "TIENEN",
+    "IlceAdiEn": "TIENEN",
+    "IlceID": "11761"
+  },
+  {
+    "IlceAdi": "TONGEREN",
+    "IlceAdiEn": "TONGEREN",
+    "IlceID": "11762"
+  },
+  {
+    "IlceAdi": "TOURNAI",
+    "IlceAdiEn": "TOURNAI",
+    "IlceID": "11763"
+  },
+  {
+    "IlceAdi": "TURNHOUT",
+    "IlceAdiEn": "TURNHOUT",
+    "IlceID": "11893"
+  },
+  {
+    "IlceAdi": "VERVIERS",
+    "IlceAdiEn": "VERVIERS",
+    "IlceID": "11903"
+  },
+  {
+    "IlceAdi": "VILVOORDE",
+    "IlceAdiEn": "VILVOORDE",
+    "IlceID": "11765"
+  },
+  {
+    "IlceAdi": "VIRTON",
+    "IlceAdiEn": "VIRTON",
+    "IlceID": "11892"
+  },
+  {
+    "IlceAdi": "WAARSCHOOT",
+    "IlceAdiEn": "WAARSCHOOT",
+    "IlceID": "11875"
+  },
+  {
+    "IlceAdi": "WACHTEBEKE",
+    "IlceAdiEn": "WACHTEBEKE",
+    "IlceID": "11828"
+  },
+  {
+    "IlceAdi": "WAREGEM",
+    "IlceAdiEn": "WAREGEM",
+    "IlceID": "11766"
+  },
+  {
+    "IlceAdi": "WATERLOO",
+    "IlceAdiEn": "WATERLOO",
+    "IlceID": "11767"
+  },
+  {
+    "IlceAdi": "WATERSCHEI",
+    "IlceAdiEn": "WATERSCHEI",
+    "IlceID": "11908"
+  },
+  {
+    "IlceAdi": "WAVRE",
+    "IlceAdiEn": "WAVRE",
+    "IlceID": "11768"
+  },
+  {
+    "IlceAdi": "WELKENRAEDT",
+    "IlceAdiEn": "WELKENRAEDT",
+    "IlceID": "11834"
+  },
+  {
+    "IlceAdi": "WENDUINE",
+    "IlceAdiEn": "WENDUINE",
+    "IlceID": "11861"
+  },
+  {
+    "IlceAdi": "WESTERLOO",
+    "IlceAdiEn": "WESTERLOO",
+    "IlceID": "11780"
+  },
+  {
+    "IlceAdi": "WETTEREN",
+    "IlceAdiEn": "WETTEREN",
+    "IlceID": "11876"
+  },
+  {
+    "IlceAdi": "WEVELGEM",
+    "IlceAdiEn": "WEVELGEM",
+    "IlceID": "11756"
+  },
+  {
+    "IlceAdi": "WILLEBROEK",
+    "IlceAdiEn": "WILLEBROEK",
+    "IlceID": "33315"
+  },
+  {
+    "IlceAdi": "WINTERSLAG",
+    "IlceAdiEn": "WINTERSLAG",
+    "IlceID": "11702"
+  },
+  {
+    "IlceAdi": "WOLUWE-SAINT-LAMBERT",
+    "IlceAdiEn": "WOLUWE-SAINT-LAMBERT",
+    "IlceID": "11770"
+  },
+  {
+    "IlceAdi": "WOLUWE-SAINT-PIERRE",
+    "IlceAdiEn": "WOLUWE-SAINT-PIERRE",
+    "IlceID": "11771"
+  },
+  {
+    "IlceAdi": "ZEEBRUGGE",
+    "IlceAdiEn": "ZEEBRUGGE",
+    "IlceID": "11894"
+  },
+  {
+    "IlceAdi": "ZELE",
+    "IlceAdiEn": "ZELE",
+    "IlceID": "11904"
+  },
+  {
+    "IlceAdi": "ZOLDER",
+    "IlceAdiEn": "ZOLDER",
+    "IlceID": "11911"
+  },
+  {
+    "IlceAdi": "ZONHOVEN",
+    "IlceAdiEn": "ZONHOVEN",
+    "IlceID": "11880"
+  },
+  {
+    "IlceAdi": "ZOTTEGEM",
+    "IlceAdiEn": "ZOTTEGEM",
+    "IlceID": "11772"
+  },
+  {
+    "IlceAdi": "ZOUTLEEUW",
+    "IlceAdiEn": "ZOUTLEEUW",
+    "IlceID": "11881"
+  },
+  {
+    "IlceAdi": "ZULTE",
+    "IlceAdiEn": "ZULTE",
+    "IlceID": "11789"
+  },
+  {
+    "IlceAdi": "ZWEVEGEM",
+    "IlceAdiEn": "ZWEVEGEM",
+    "IlceID": "11758"
+  }
+]

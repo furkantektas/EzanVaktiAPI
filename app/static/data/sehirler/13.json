@@ -1,0 +1,82 @@
+[
+  {
+    "SehirAdi": "BADEN WURTTEMBERG",
+    "SehirAdiEn": "BADEN WURTTEMBERG",
+    "SehirID": "850"
+  },
+  {
+    "SehirAdi": "BAYERN",
+    "SehirAdiEn": "BAVARIA",
+    "SehirID": "851"
+  },
+  {
+    "SehirAdi": "BERLIN",
+    "SehirAdiEn": "BERLIN",
+    "SehirID": "852"
+  },
+  {
+    "SehirAdi": "BRANDENBURG",
+    "SehirAdiEn": "BRANDENBURG",
+    "SehirID": "853"
+  },
+  {
+    "SehirAdi": "BREMEN",
+    "SehirAdiEn": "BREMEN",
+    "SehirID": "854"
+  },
+  {
+    "SehirAdi": "HAMBURG",
+    "SehirAdiEn": "HAMBURG",
+    "SehirID": "855"
+  },
+  {
+    "SehirAdi": "HESSEN",
+    "SehirAdiEn": "HESSEN",
+    "SehirID": "856"
+  },
+  {
+    "SehirAdi": "MECKLENBURG-VORPOMMERN",
+    "SehirAdiEn": "MECKLENBURG-VORPOMMERN",
+    "SehirID": "858"
+  },
+  {
+    "SehirAdi": "NIEDERSACHSEN",
+    "SehirAdiEn": "LOWER SAXONY",
+    "SehirID": "857"
+  },
+  {
+    "SehirAdi": "NORDRHEIN-WESTFALEN",
+    "SehirAdiEn": "NORTH RHEIN WESTPHALIA",
+    "SehirID": "859"
+  },
+  {
+    "SehirAdi": "RHEINLAND-PFALZ",
+    "SehirAdiEn": "RHINELAND-PALATINATE",
+    "SehirID": "860"
+  },
+  {
+    "SehirAdi": "SAARLAND",
+    "SehirAdiEn": "SAARLAND",
+    "SehirID": "861"
+  },
+  {
+    "SehirAdi": "SACHSEN",
+    "SehirAdiEn": "SAXONY",
+    "SehirID": "863"
+  },
+  {
+    "SehirAdi": "SACHSEN ANHALT",
+    "SehirAdiEn": "SACHSEN ANHALT",
+    "SehirID": "864"
+  },
+  {
+    "SehirAdi": "SCHLESWIG HOLSTEIN",
+    "SehirAdiEn": "SCHLESWIG HOLSTEIN",
+    "SehirID": "865"
+  },
+  {
+    "SehirAdi": "THURINGEN",
+    "SehirAdiEn": "THURINGEN",
+    "SehirID": "862"
+  }
+]

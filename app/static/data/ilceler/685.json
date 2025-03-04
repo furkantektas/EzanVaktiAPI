@@ -1,0 +1,417 @@
+[
+  {
+    "IlceAdi": "AABENRAA",
+    "IlceAdiEn": "AABENRAA",
+    "IlceID": "12646"
+  },
+  {
+    "IlceAdi": "AALBORG",
+    "IlceAdiEn": "AALBORG",
+    "IlceID": "12647"
+  },
+  {
+    "IlceAdi": "AARHUS",
+    "IlceAdiEn": "AARHUS",
+    "IlceID": "12620"
+  },
+  {
+    "IlceAdi": "ALBERTSLUND",
+    "IlceAdiEn": "ALBERTSLUND",
+    "IlceID": "17795"
+  },
+  {
+    "IlceAdi": "ASSENS (F)",
+    "IlceAdiEn": "ASSENS (F)",
+    "IlceID": "12611"
+  },
+  {
+    "IlceAdi": "BALLERUP",
+    "IlceAdiEn": "BALLERUP",
+    "IlceID": "17801"
+  },
+  {
+    "IlceAdi": "BILLUM",
+    "IlceAdiEn": "BILLUM",
+    "IlceID": "12595"
+  },
+  {
+    "IlceAdi": "BILLUND",
+    "IlceAdiEn": "BILLUND",
+    "IlceID": "12636"
+  },
+  {
+    "IlceAdi": "BIRKEROD",
+    "IlceAdiEn": "BIRKEROD",
+    "IlceID": "12649"
+  },
+  {
+    "IlceAdi": "BLAVAND",
+    "IlceAdiEn": "BLAVAND",
+    "IlceID": "12596"
+  },
+  {
+    "IlceAdi": "BOGENSE",
+    "IlceAdiEn": "BOGENSE",
+    "IlceID": "12612"
+  },
+  {
+    "IlceAdi": "BORDING STATIONSBY",
+    "IlceAdiEn": "BORDING STATIONSBY",
+    "IlceID": "12605"
+  },
+  {
+    "IlceAdi": "ESBJERG",
+    "IlceAdiEn": "ESBJERG",
+    "IlceID": "12638"
+  },
+  {
+    "IlceAdi": "FAABORG",
+    "IlceAdiEn": "FAABORG",
+    "IlceID": "33331"
+  },
+  {
+    "IlceAdi": "FARUM",
+    "IlceAdiEn": "FARUM",
+    "IlceID": "17799"
+  },
+  {
+    "IlceAdi": "FREDERICIA",
+    "IlceAdiEn": "FREDERICIA",
+    "IlceID": "12623"
+  },
+  {
+    "IlceAdi": "FREDERIKSHAVN",
+    "IlceAdiEn": "FREDERIKSHAVN",
+    "IlceID": "12650"
+  },
+  {
+    "IlceAdi": "FREDERIKSSUND",
+    "IlceAdiEn": "FREDERIKSSUND",
+    "IlceID": "12627"
+  },
+  {
+    "IlceAdi": "GENTOFTE",
+    "IlceAdiEn": "GENTOFTE",
+    "IlceID": "12607"
+  },
+  {
+    "IlceAdi": "GRENA",
+    "IlceAdiEn": "GRENA",
+    "IlceID": "12589"
+  },
+  {
+    "IlceAdi": "HADERSLEV",
+    "IlceAdiEn": "HADERSLEV",
+    "IlceID": "12639"
+  },
+  {
+    "IlceAdi": "HADSUND",
+    "IlceAdiEn": "HADSUND",
+    "IlceID": "12590"
+  },
+  {
+    "IlceAdi": "HASLEV",
+    "IlceAdiEn": "HASLEV",
+    "IlceID": "12608"
+  },
+  {
+    "IlceAdi": "HEDEHUSENE",
+    "IlceAdiEn": "HEDEHUSENE",
+    "IlceID": "17796"
+  },
+  {
+    "IlceAdi": "HELSINGE TOFTE",
+    "IlceAdiEn": "HELSINGE TOFTE",
+    "IlceID": "12588"
+  },
+  {
+    "IlceAdi": "HELSINGOR",
+    "IlceAdiEn": "HELSINGOR",
+    "IlceID": "12626"
+  },
+  {
+    "IlceAdi": "HERLEV",
+    "IlceAdiEn": "HERLEV",
+    "IlceID": "33335"
+  },
+  {
+    "IlceAdi": "HERNING",
+    "IlceAdiEn": "HERNING",
+    "IlceID": "12631"
+  },
+  {
+    "IlceAdi": "HILLEROD",
+    "IlceAdiEn": "HILLEROD",
+    "IlceID": "12640"
+  },
+  {
+    "IlceAdi": "HJORRING",
+    "IlceAdiEn": "HJORRING",
+    "IlceID": "12651"
+  },
+  {
+    "IlceAdi": "HOBRO",
+    "IlceAdiEn": "HOBRO",
+    "IlceID": "12591"
+  },
+  {
+    "IlceAdi": "HOLBAEK",
+    "IlceAdiEn": "HOLBAEK",
+    "IlceID": "12622"
+  },
+  {
+    "IlceAdi": "HOLSTEBRO",
+    "IlceAdiEn": "HOLSTEBRO",
+    "IlceID": "12648"
+  },
+  {
+    "IlceAdi": "HOLTE (K)",
+    "IlceAdiEn": "HOLTE (K)",
+    "IlceID": "12610"
+  },
+  {
+    "IlceAdi": "HORSENS (Aalborg)",
+    "IlceAdiEn": "HORSENS (Aalborg)",
+    "IlceID": "12632"
+  },
+  {
+    "IlceAdi": "HORSENS (Vejle)",
+    "IlceAdiEn": "HORSENS (Vejle)",
+    "IlceID": "12633"
+  },
+  {
+    "IlceAdi": "HUNDESTED",
+    "IlceAdiEn": "HUNDESTED",
+    "IlceID": "12609"
+  },
+  {
+    "IlceAdi": "HVIDOVRE",
+    "IlceAdiEn": "HVIDOVRE",
+    "IlceID": "17798"
+  },
+  {
+    "IlceAdi": "IKAST",
+    "IlceAdiEn": "IKAST",
+    "IlceID": "12625"
+  },
+  {
+    "IlceAdi": "ISHOJ",
+    "IlceAdiEn": "ISHOJ",
+    "IlceID": "17797"
+  },
+  {
+    "IlceAdi": "JERNE",
+    "IlceAdiEn": "JERNE",
+    "IlceID": "12597"
+  },
+  {
+    "IlceAdi": "KALUNDBORG",
+    "IlceAdiEn": "KALUNDBORG",
+    "IlceID": "33334"
+  },
+  {
+    "IlceAdi": "KALUNDBORG",
+    "IlceAdiEn": "KALUNDBORG",
+    "IlceID": "33293"
+  },
+  {
+    "IlceAdi": "KARUP (V)",
+    "IlceAdiEn": "KARUP (V)",
+    "IlceID": "12606"
+  },
+  {
+    "IlceAdi": "KERTEMINDE",
+    "IlceAdiEn": "KERTEMINDE",
+    "IlceID": "33332"
+  },
+  {
+    "IlceAdi": "KOGE",
+    "IlceAdiEn": "KOGE",
+    "IlceID": "12629"
+  },
+  {
+    "IlceAdi": "KOLDING",
+    "IlceAdiEn": "KOLDING",
+    "IlceID": "12630"
+  },
+  {
+    "IlceAdi": "KOPENHAG",
+    "IlceAdiEn": "KOPENHAGEN",
+    "IlceID": "12618"
+  },
+  {
+    "IlceAdi": "KORSOR",
+    "IlceAdiEn": "KORSOR",
+    "IlceID": "12613"
+  },
+  {
+    "IlceAdi": "LIFSTRUP",
+    "IlceAdiEn": "LIFSTRUP",
+    "IlceID": "12598"
+  },
+  {
+    "IlceAdi": "LILLE NAESTWED",
+    "IlceAdiEn": "LILLE NAESTWED",
+    "IlceID": "12616"
+  },
+  {
+    "IlceAdi": "LOJT KIRKEBY",
+    "IlceAdiEn": "LOJT KIRKEBY",
+    "IlceID": "12592"
+  },
+  {
+    "IlceAdi": "MIDDELFART",
+    "IlceAdiEn": "MIDDELFART",
+    "IlceID": "33330"
+  },
+  {
+    "IlceAdi": "NAESTVED",
+    "IlceAdiEn": "NAESTVED",
+    "IlceID": "12641"
+  },
+  {
+    "IlceAdi": "NIVEROD",
+    "IlceAdiEn": "NIVEROD",
+    "IlceID": "12642"
+  },
+  {
+    "IlceAdi": "NORDBY ( R )",
+    "IlceAdiEn": "NORDBY ( R )",
+    "IlceID": "12599"
+  },
+  {
+    "IlceAdi": "NORRESUNDBY",
+    "IlceAdiEn": "NORRESUNDBY",
+    "IlceID": "12652"
+  },
+  {
+    "IlceAdi": "NYBO",
+    "IlceAdiEn": "NYBO",
+    "IlceID": "12637"
+  },
+  {
+    "IlceAdi": "NYBORG (F)",
+    "IlceAdiEn": "NYBORG (F)",
+    "IlceID": "12614"
+  },
+  {
+    "IlceAdi": "ODENSE",
+    "IlceAdiEn": "ODENSE",
+    "IlceID": "12619"
+  },
+  {
+    "IlceAdi": "PADBORG",
+    "IlceAdiEn": "PADBORG",
+    "IlceID": "12593"
+  },
+  {
+    "IlceAdi": "RANDERS",
+    "IlceAdiEn": "RANDERS",
+    "IlceID": "12643"
+  },
+  {
+    "IlceAdi": "RIBE",
+    "IlceAdiEn": "RIBE",
+    "IlceID": "12653"
+  },
+  {
+    "IlceAdi": "RINDBY",
+    "IlceAdiEn": "RINDBY",
+    "IlceID": "12600"
+  },
+  {
+    "IlceAdi": "RINGE",
+    "IlceAdiEn": "RINGE",
+    "IlceID": "33333"
+  },
+  {
+    "IlceAdi": "RINGKOBING",
+    "IlceAdiEn": "RINGKOBING",
+    "IlceID": "12654"
+  },
+  {
+    "IlceAdi": "RINGSTED",
+    "IlceAdiEn": "RINGSTED",
+    "IlceID": "12628"
+  },
+  {
+    "IlceAdi": "ROSKILDE",
+    "IlceAdiEn": "ROSKILDE",
+    "IlceID": "12624"
+  },
+  {
+    "IlceAdi": "SADDERUP",
+    "IlceAdiEn": "SADDERUP",
+    "IlceID": "12601"
+  },
+  {
+    "IlceAdi": "SILKEBORG",
+    "IlceAdiEn": "SILKEBORG",
+    "IlceID": "12634"
+  },
+  {
+    "IlceAdi": "SKIVE",
+    "IlceAdiEn": "SKIVE",
+    "IlceID": "12655"
+  },
+  {
+    "IlceAdi": "SLAGELSE",
+    "IlceAdiEn": "SLAGELSE",
+    "IlceID": "12621"
+  },
+  {
+    "IlceAdi": "SONDERBORG",
+    "IlceAdiEn": "SONDERBORG",
+    "IlceID": "12644"
+  },
+  {
+    "IlceAdi": "SORO",
+    "IlceAdiEn": "SORO",
+    "IlceID": "12615"
+  },
+  {
+    "IlceAdi": "SVENDBORG",
+    "IlceAdiEn": "SVENDBORG",
+    "IlceID": "12635"
+  },
+  {
+    "IlceAdi": "TAASTRUP",
+    "IlceAdiEn": "TAASTRUP",
+    "IlceID": "17800"
+  },
+  {
+    "IlceAdi": "TJAEREBORG",
+    "IlceAdiEn": "TJAEREBORG",
+    "IlceID": "12602"
+  },
+  {
+    "IlceAdi": "VANDFLOD",
+    "IlceAdiEn": "VANDFLOD",
+    "IlceID": "12603"
+  },
+  {
+    "IlceAdi": "VARDE",
+    "IlceAdiEn": "VARDE",
+    "IlceID": "12604"
+  },
+  {
+    "IlceAdi": "VEJLE",
+    "IlceAdiEn": "VEJLE",
+    "IlceID": "12645"
+  },
+  {
+    "IlceAdi": "VIBORG",
+    "IlceAdiEn": "VIBORG",
+    "IlceID": "12656"
+  },
+  {
+    "IlceAdi": "VISBY (S)",
+    "IlceAdiEn": "VISBY (S)",
+    "IlceID": "12594"
+  },
+  {
+    "IlceAdi": "VORDINGBORD",
+    "IlceAdiEn": "VORDINGBORD",
+    "IlceID": "12617"
+  }
+]

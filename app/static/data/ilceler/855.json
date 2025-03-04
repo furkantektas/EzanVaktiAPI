@@ -1,0 +1,32 @@
+[
+  {
+    "IlceAdi": "BERGEDORF",
+    "IlceAdiEn": "BERGEDORF",
+    "IlceID": "10115"
+  },
+  {
+    "IlceAdi": "BILLSTEDT",
+    "IlceAdiEn": "BILLSTEDT",
+    "IlceID": "10116"
+  },
+  {
+    "IlceAdi": "FINKENWERDER",
+    "IlceAdiEn": "FINKENWERDER",
+    "IlceID": "10031"
+  },
+  {
+    "IlceAdi": "HAMBURG",
+    "IlceAdiEn": "HAMBURG",
+    "IlceID": "11012"
+  },
+  {
+    "IlceAdi": "HARBURG",
+    "IlceAdiEn": "HARBURG",
+    "IlceID": "10032"
+  },
+  {
+    "IlceAdi": "WILHELMSBURG",
+    "IlceAdiEn": "WILHELMSBURG",
+    "IlceID": "10034"
+  }
+]

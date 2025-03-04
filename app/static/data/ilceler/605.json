@@ -1,0 +1,27 @@
+[
+  {
+    "IlceAdi": "BRAINERD",
+    "IlceAdiEn": "BRAINERD",
+    "IlceID": "8837"
+  },
+  {
+    "IlceAdi": "DULUTH",
+    "IlceAdiEn": "DULUTH",
+    "IlceID": "8838"
+  },
+  {
+    "IlceAdi": "MINNEAPOLIS",
+    "IlceAdiEn": "MINNEAPOLIS",
+    "IlceID": "8839"
+  },
+  {
+    "IlceAdi": "ROCHESTER",
+    "IlceAdiEn": "ROCHESTER",
+    "IlceID": "8840"
+  },
+  {
+    "IlceAdi": "SAINT PAUL",
+    "IlceAdiEn": "SAINT PAUL",
+    "IlceID": "8841"
+  }
+]

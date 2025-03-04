@@ -1,0 +1,247 @@
+[
+  {
+    "IlceAdi": "ARDINO ",
+    "IlceAdiEn": "ARDINO ",
+    "IlceID": "12224"
+  },
+  {
+    "IlceAdi": "ASENOVGRAD ",
+    "IlceAdiEn": "ASENOVGRAD ",
+    "IlceID": "12221"
+  },
+  {
+    "IlceAdi": "AYTOS ",
+    "IlceAdiEn": "AYTOS ",
+    "IlceID": "12218"
+  },
+  {
+    "IlceAdi": "BANSKO ",
+    "IlceAdiEn": "BANSKO ",
+    "IlceID": "12223"
+  },
+  {
+    "IlceAdi": "BELOZEM ",
+    "IlceAdiEn": "BELOZEM ",
+    "IlceID": "12222"
+  },
+  {
+    "IlceAdi": "BLAGOEVGRAD",
+    "IlceAdiEn": "BLAGOEVGRAD",
+    "IlceID": "12205"
+  },
+  {
+    "IlceAdi": "BREZNIK ",
+    "IlceAdiEn": "BREZNIK ",
+    "IlceID": "12233"
+  },
+  {
+    "IlceAdi": "BURGAS",
+    "IlceAdiEn": "BURGAS",
+    "IlceID": "12238"
+  },
+  {
+    "IlceAdi": "CHEPELARE ",
+    "IlceAdiEn": "CHEPELARE ",
+    "IlceID": "12230"
+  },
+  {
+    "IlceAdi": "DEVIN ",
+    "IlceAdiEn": "DEVIN ",
+    "IlceID": "12231"
+  },
+  {
+    "IlceAdi": "DIMITROVORAD",
+    "IlceAdiEn": "DIMITROVORAD",
+    "IlceID": "12211"
+  },
+  {
+    "IlceAdi": "DOBRUCA (Tolbukhin)",
+    "IlceAdiEn": "DOBRUCA (Tolbukhin)",
+    "IlceID": "12239"
+  },
+  {
+    "IlceAdi": "ESKICUMA",
+    "IlceAdiEn": "ESKICUMA(TURGOVISHTE)",
+    "IlceID": "12241"
+  },
+  {
+    "IlceAdi": "ESKIZAGRA",
+    "IlceAdiEn": "ESKIZAGRA(STARA ZAGORA)",
+    "IlceID": "12242"
+  },
+  {
+    "IlceAdi": "FILIBE(Plovdiv)",
+    "IlceAdiEn": "PLOVDIV",
+    "IlceID": "12243"
+  },
+  {
+    "IlceAdi": "HASKOY (Khaskovo)",
+    "IlceAdiEn": "HASKOY (Khaskovo)",
+    "IlceID": "12244"
+  },
+  {
+    "IlceAdi": "ISLIMYELI(Sliven)",
+    "IlceAdiEn": "ISLIMYELI(Sliven)",
+    "IlceID": "12246"
+  },
+  {
+    "IlceAdi": "IVAYLOVGRAD ",
+    "IlceAdiEn": "IVAYLOVGRAD ",
+    "IlceID": "12225"
+  },
+  {
+    "IlceAdi": "KAZANLUK",
+    "IlceAdiEn": "KAZANLUK",
+    "IlceID": "12250"
+  },
+  {
+    "IlceAdi": "KIRCAALI",
+    "IlceAdiEn": "KIRCAALI(KURDZHALI)",
+    "IlceID": "12245"
+  },
+  {
+    "IlceAdi": "KRUMOVGRAD ",
+    "IlceAdiEn": "KRUMOVGRAD ",
+    "IlceID": "12227"
+  },
+  {
+    "IlceAdi": "KUSHLA ",
+    "IlceAdiEn": "KUSHLA ",
+    "IlceID": "12226"
+  },
+  {
+    "IlceAdi": "LOVECH",
+    "IlceAdiEn": "LOVECH",
+    "IlceID": "12212"
+  },
+  {
+    "IlceAdi": "LUKOVIT",
+    "IlceAdiEn": "LUKOVIT",
+    "IlceID": "12206"
+  },
+  {
+    "IlceAdi": "MADAN ",
+    "IlceAdiEn": "MADAN ",
+    "IlceID": "12232"
+  },
+  {
+    "IlceAdi": "MESTANLI (Montana)",
+    "IlceAdiEn": "MESTANLI (Montana)",
+    "IlceID": "12253"
+  },
+  {
+    "IlceAdi": "NEDELINO ",
+    "IlceAdiEn": "NEDELINO ",
+    "IlceID": "12228"
+  },
+  {
+    "IlceAdi": "NESSEBAR",
+    "IlceAdiEn": "NESSEBAR",
+    "IlceID": "12214"
+  },
+  {
+    "IlceAdi": "NOVIPAZAR (Sumnu)",
+    "IlceAdiEn": "NOVIPAZAR (Sumnu)",
+    "IlceID": "12219"
+  },
+  {
+    "IlceAdi": "PAZARCIK (pazardzhik)",
+    "IlceAdiEn": "PAZARCIK (pazardzhik)",
+    "IlceID": "12247"
+  },
+  {
+    "IlceAdi": "PERNIK ",
+    "IlceAdiEn": "PERNIK ",
+    "IlceID": "12216"
+  },
+  {
+    "IlceAdi": "PETRICH",
+    "IlceAdiEn": "PETRICH",
+    "IlceID": "12209"
+  },
+  {
+    "IlceAdi": "PLEVNE (Pleven)",
+    "IlceAdiEn": "PLEVNE (Pleven)",
+    "IlceID": "12248"
+  },
+  {
+    "IlceAdi": "RADOMIR ",
+    "IlceAdiEn": "RADOMIR ",
+    "IlceID": "12217"
+  },
+  {
+    "IlceAdi": "RAZGRAD",
+    "IlceAdiEn": "RAZGRAD",
+    "IlceID": "12249"
+  },
+  {
+    "IlceAdi": "RUSCUK (Ruse)",
+    "IlceAdiEn": "RUSCUK (Ruse)",
+    "IlceID": "12234"
+  },
+  {
+    "IlceAdi": "SAMOKOV",
+    "IlceAdiEn": "SAMOKOV",
+    "IlceID": "12210"
+  },
+  {
+    "IlceAdi": "SELVI",
+    "IlceAdiEn": "SELVI",
+    "IlceID": "33342"
+  },
+  {
+    "IlceAdi": "SILISTRA",
+    "IlceAdiEn": "SILISTRA",
+    "IlceID": "12240"
+  },
+  {
+    "IlceAdi": "SMOLYAN",
+    "IlceAdiEn": "SMOLYAN",
+    "IlceID": "12252"
+  },
+  {
+    "IlceAdi": "SOFYA",
+    "IlceAdiEn": "SOFYA",
+    "IlceID": "12237"
+  },
+  {
+    "IlceAdi": "SUMNU (shumen)",
+    "IlceAdiEn": "SUMNU (shumen)",
+    "IlceID": "12235"
+  },
+  {
+    "IlceAdi": "TIRGOVISTE",
+    "IlceAdiEn": "TIRGOVISTE",
+    "IlceID": "33344"
+  },
+  {
+    "IlceAdi": "TUTRAKAN ",
+    "IlceAdiEn": "TUTRAKAN ",
+    "IlceID": "12220"
+  },
+  {
+    "IlceAdi": "VARNA",
+    "IlceAdiEn": "VARNA",
+    "IlceID": "12215"
+  },
+  {
+    "IlceAdi": "VELIKO TURNOVO",
+    "IlceAdiEn": "VELIKO TURNOVO",
+    "IlceID": "12236"
+  },
+  {
+    "IlceAdi": "VIDIN",
+    "IlceAdiEn": "VIDIN",
+    "IlceID": "33343"
+  },
+  {
+    "IlceAdi": "VRATSA",
+    "IlceAdiEn": "VRATSA",
+    "IlceID": "12207"
+  },
+  {
+    "IlceAdi": "ZLATOGRAD ",
+    "IlceAdiEn": "ZLATOGRAD ",
+    "IlceID": "12229"
+  }
+]

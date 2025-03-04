@@ -1,0 +1,32 @@
+[
+  {
+    "IlceAdi": "ELDORET",
+    "IlceAdiEn": "ELDORET",
+    "IlceID": "15011"
+  },
+  {
+    "IlceAdi": "KISUMU",
+    "IlceAdiEn": "KISUMU",
+    "IlceID": "15012"
+  },
+  {
+    "IlceAdi": "MACHAKOS",
+    "IlceAdiEn": "MACHAKOS",
+    "IlceID": "15013"
+  },
+  {
+    "IlceAdi": "MOMBASA",
+    "IlceAdiEn": "MOMBASA",
+    "IlceID": "15010"
+  },
+  {
+    "IlceAdi": "NAIROBI",
+    "IlceAdiEn": "NAIROBI",
+    "IlceID": "15015"
+  },
+  {
+    "IlceAdi": "NAKURU",
+    "IlceAdiEn": "NAKURU",
+    "IlceID": "15014"
+  }
+]

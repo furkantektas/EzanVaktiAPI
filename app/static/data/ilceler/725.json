@@ -1,0 +1,772 @@
+[
+  {
+    "IlceAdi": "ABERDEEN",
+    "IlceAdiEn": "ABERDEEN",
+    "IlceID": "14015"
+  },
+  {
+    "IlceAdi": "ALLOA",
+    "IlceAdiEn": "ALLOA",
+    "IlceID": "14055"
+  },
+  {
+    "IlceAdi": "ASHFORD",
+    "IlceAdiEn": "ASHFORD",
+    "IlceID": "14108"
+  },
+  {
+    "IlceAdi": "BANBURY",
+    "IlceAdiEn": "BANBURY",
+    "IlceID": "14094"
+  },
+  {
+    "IlceAdi": "BANGOR",
+    "IlceAdiEn": "BANGOR",
+    "IlceID": "14101"
+  },
+  {
+    "IlceAdi": "BARNSLEY",
+    "IlceAdiEn": "BARNSLEY",
+    "IlceID": "14109"
+  },
+  {
+    "IlceAdi": "BASILDON",
+    "IlceAdiEn": "BASILDON",
+    "IlceID": "14110"
+  },
+  {
+    "IlceAdi": "BATH",
+    "IlceAdiEn": "BATH",
+    "IlceID": "14089"
+  },
+  {
+    "IlceAdi": "BATHGATE",
+    "IlceAdiEn": "BATHGATE",
+    "IlceID": "14056"
+  },
+  {
+    "IlceAdi": "BEDFORD",
+    "IlceAdiEn": "BEDFORD",
+    "IlceID": "14021"
+  },
+  {
+    "IlceAdi": "BELFAST",
+    "IlceAdiEn": "BELFAST",
+    "IlceID": "14028"
+  },
+  {
+    "IlceAdi": "BIRMINGHAM",
+    "IlceAdiEn": "BIRMINGHAM",
+    "IlceID": "14105"
+  },
+  {
+    "IlceAdi": "BLACKBURN",
+    "IlceAdiEn": "BLACKBURN",
+    "IlceID": "14111"
+  },
+  {
+    "IlceAdi": "BLACKPOOL",
+    "IlceAdiEn": "BLACKPOOL",
+    "IlceID": "14112"
+  },
+  {
+    "IlceAdi": "BOURNEMOUTH",
+    "IlceAdiEn": "BOURNEMOUTH",
+    "IlceID": "14091"
+  },
+  {
+    "IlceAdi": "BRADFORD",
+    "IlceAdiEn": "BRADFORD",
+    "IlceID": "14114"
+  },
+  {
+    "IlceAdi": "BRIDGWATER",
+    "IlceAdiEn": "BRIDGWATER",
+    "IlceID": "14008"
+  },
+  {
+    "IlceAdi": "BRIDLINGTON",
+    "IlceAdiEn": "BRIDLINGTON",
+    "IlceID": "14023"
+  },
+  {
+    "IlceAdi": "BRIGHTON",
+    "IlceAdiEn": "BRIGHTON",
+    "IlceID": "14079"
+  },
+  {
+    "IlceAdi": "BRISTOL",
+    "IlceAdiEn": "BRISTOL",
+    "IlceID": "14090"
+  },
+  {
+    "IlceAdi": "BURY",
+    "IlceAdiEn": "BURY",
+    "IlceID": "14068"
+  },
+  {
+    "IlceAdi": "CALNE",
+    "IlceAdiEn": "CALNE",
+    "IlceID": "14042"
+  },
+  {
+    "IlceAdi": "CAMBRIDGE",
+    "IlceAdiEn": "CAMBRIDGE",
+    "IlceID": "14093"
+  },
+  {
+    "IlceAdi": "CANTERBURY",
+    "IlceAdiEn": "CANTERBURY",
+    "IlceID": "14115"
+  },
+  {
+    "IlceAdi": "CARDIFF",
+    "IlceAdiEn": "CARDIFF",
+    "IlceID": "14011"
+  },
+  {
+    "IlceAdi": "CARLISLE",
+    "IlceAdiEn": "CARLISLE",
+    "IlceID": "14116"
+  },
+  {
+    "IlceAdi": "CHATHAM",
+    "IlceAdiEn": "CHATHAM",
+    "IlceID": "14034"
+  },
+  {
+    "IlceAdi": "CHELMSFORD",
+    "IlceAdiEn": "CHELMSFORD",
+    "IlceID": "14117"
+  },
+  {
+    "IlceAdi": "CHELTENHAM",
+    "IlceAdiEn": "CHELTENHAM",
+    "IlceID": "14118"
+  },
+  {
+    "IlceAdi": "CHESTER",
+    "IlceAdiEn": "CHESTER",
+    "IlceID": "14010"
+  },
+  {
+    "IlceAdi": "CHICHESTER",
+    "IlceAdiEn": "CHICHESTER",
+    "IlceID": "14119"
+  },
+  {
+    "IlceAdi": "CHIPPENHAM (Bristol)",
+    "IlceAdiEn": "CHIPPENHAM (Bristol)",
+    "IlceID": "14043"
+  },
+  {
+    "IlceAdi": "CLEVEDON",
+    "IlceAdiEn": "CLEVEDON",
+    "IlceID": "14044"
+  },
+  {
+    "IlceAdi": "CODSALL",
+    "IlceAdiEn": "CODSALL",
+    "IlceID": "14038"
+  },
+  {
+    "IlceAdi": "COLCHESTER",
+    "IlceAdiEn": "COLCHESTER",
+    "IlceID": "14087"
+  },
+  {
+    "IlceAdi": "COVENTRY",
+    "IlceAdiEn": "COVENTRY",
+    "IlceID": "14084"
+  },
+  {
+    "IlceAdi": "DALKEITH",
+    "IlceAdiEn": "DALKEITH",
+    "IlceID": "14057"
+  },
+  {
+    "IlceAdi": "DARLINGTON",
+    "IlceAdiEn": "DARLINGTON",
+    "IlceID": "14120"
+  },
+  {
+    "IlceAdi": "DERBY",
+    "IlceAdiEn": "DERBY",
+    "IlceID": "14025"
+  },
+  {
+    "IlceAdi": "DEVIZES",
+    "IlceAdiEn": "DEVIZES",
+    "IlceID": "14045"
+  },
+  {
+    "IlceAdi": "DONCASTER",
+    "IlceAdiEn": "DONCASTER",
+    "IlceID": "14121"
+  },
+  {
+    "IlceAdi": "DOVER",
+    "IlceAdiEn": "DOVER",
+    "IlceID": "14085"
+  },
+  {
+    "IlceAdi": "DUDLEY",
+    "IlceAdiEn": "DUDLEY",
+    "IlceID": "14122"
+  },
+  {
+    "IlceAdi": "DUNDEE",
+    "IlceAdiEn": "DUNDEE",
+    "IlceID": "14123"
+  },
+  {
+    "IlceAdi": "DUNFERMLINE",
+    "IlceAdiEn": "DUNFERMLINE",
+    "IlceID": "14058"
+  },
+  {
+    "IlceAdi": "DURHAM",
+    "IlceAdiEn": "DURHAM",
+    "IlceID": "14083"
+  },
+  {
+    "IlceAdi": "EASTBOURNE",
+    "IlceAdiEn": "EASTBOURNE",
+    "IlceID": "14012"
+  },
+  {
+    "IlceAdi": "EDINBURGH",
+    "IlceAdiEn": "EDINBURGH",
+    "IlceID": "14124"
+  },
+  {
+    "IlceAdi": "EPSOM",
+    "IlceAdiEn": "EPSOM",
+    "IlceID": "14030"
+  },
+  {
+    "IlceAdi": "EXETER",
+    "IlceAdiEn": "EXETER",
+    "IlceID": "14125"
+  },
+  {
+    "IlceAdi": "FALKIRK",
+    "IlceAdiEn": "FALKIRK",
+    "IlceID": "14059"
+  },
+  {
+    "IlceAdi": "FILTON ",
+    "IlceAdiEn": "FILTON ",
+    "IlceID": "14046"
+  },
+  {
+    "IlceAdi": "FOLKESTONE",
+    "IlceAdiEn": "FOLKESTONE",
+    "IlceID": "14081"
+  },
+  {
+    "IlceAdi": "GLASGOW",
+    "IlceAdiEn": "GLASGOW",
+    "IlceID": "14097"
+  },
+  {
+    "IlceAdi": "GLENROTHES",
+    "IlceAdiEn": "GLENROTHES",
+    "IlceID": "14060"
+  },
+  {
+    "IlceAdi": "GLOUCESTER",
+    "IlceAdiEn": "GLOUCESTER",
+    "IlceID": "14126"
+  },
+  {
+    "IlceAdi": "GRANTHAM",
+    "IlceAdiEn": "GRANTHAM",
+    "IlceID": "14031"
+  },
+  {
+    "IlceAdi": "GUILDFORD",
+    "IlceAdiEn": "GUILDFORD",
+    "IlceID": "14127"
+  },
+  {
+    "IlceAdi": "HAMILTON",
+    "IlceAdiEn": "HAMILTON",
+    "IlceID": "14061"
+  },
+  {
+    "IlceAdi": "HARROGATE",
+    "IlceAdiEn": "HARROGATE",
+    "IlceID": "14128"
+  },
+  {
+    "IlceAdi": "HENLEY ON THEM.",
+    "IlceAdiEn": "HENLEY ON THEM.",
+    "IlceID": "14074"
+  },
+  {
+    "IlceAdi": "HENLOW",
+    "IlceAdiEn": "HENLOW",
+    "IlceID": "14005"
+  },
+  {
+    "IlceAdi": "HORSHAM",
+    "IlceAdiEn": "HORSHAM",
+    "IlceID": "14033"
+  },
+  {
+    "IlceAdi": "HUDDERSFIELD",
+    "IlceAdiEn": "HUDDERSFIELD",
+    "IlceID": "14129"
+  },
+  {
+    "IlceAdi": "HULL",
+    "IlceAdiEn": "HULL",
+    "IlceID": "14075"
+  },
+  {
+    "IlceAdi": "IPSWICH",
+    "IlceAdiEn": "IPSWICH",
+    "IlceID": "14130"
+  },
+  {
+    "IlceAdi": "KIRKCALDY",
+    "IlceAdiEn": "KIRKCALDY",
+    "IlceID": "14062"
+  },
+  {
+    "IlceAdi": "LANCASTER",
+    "IlceAdiEn": "LANCASTER",
+    "IlceID": "14086"
+  },
+  {
+    "IlceAdi": "LARBERT",
+    "IlceAdiEn": "LARBERT",
+    "IlceID": "14063"
+  },
+  {
+    "IlceAdi": "LEEDS",
+    "IlceAdiEn": "LEEDS",
+    "IlceID": "14107"
+  },
+  {
+    "IlceAdi": "LEICESTER",
+    "IlceAdiEn": "LEICESTER",
+    "IlceID": "14013"
+  },
+  {
+    "IlceAdi": "LEWES",
+    "IlceAdiEn": "LEWES",
+    "IlceID": "14035"
+  },
+  {
+    "IlceAdi": "LIVERPOOL",
+    "IlceAdiEn": "LIVERPOOL",
+    "IlceID": "14073"
+  },
+  {
+    "IlceAdi": "LIVINGSTON",
+    "IlceAdiEn": "LIVINGSTON",
+    "IlceID": "14064"
+  },
+  {
+    "IlceAdi": "LONDONDERRY",
+    "IlceAdiEn": "LONDONDERRY",
+    "IlceID": "14029"
+  },
+  {
+    "IlceAdi": "LONDRA",
+    "IlceAdiEn": "LONDON",
+    "IlceID": "14096"
+  },
+  {
+    "IlceAdi": "LONG ASHTON",
+    "IlceAdiEn": "LONG ASHTON",
+    "IlceID": "14047"
+  },
+  {
+    "IlceAdi": "LOWESTOFT",
+    "IlceAdiEn": "LOWESTOFT",
+    "IlceID": "14032"
+  },
+  {
+    "IlceAdi": "LUTON",
+    "IlceAdiEn": "LUTON",
+    "IlceID": "14016"
+  },
+  {
+    "IlceAdi": "MAIDSTONE",
+    "IlceAdiEn": "MAIDSTONE",
+    "IlceID": "14131"
+  },
+  {
+    "IlceAdi": "MANCHESTER",
+    "IlceAdiEn": "MANCHESTER",
+    "IlceID": "14098"
+  },
+  {
+    "IlceAdi": "MANGOTSFIELD",
+    "IlceAdiEn": "MANGOTSFIELD",
+    "IlceID": "14048"
+  },
+  {
+    "IlceAdi": "MARGATE",
+    "IlceAdiEn": "MARGATE",
+    "IlceID": "14078"
+  },
+  {
+    "IlceAdi": "MARKETHARBOROUGH",
+    "IlceAdiEn": "MARKETHARBOROUGH",
+    "IlceID": "14006"
+  },
+  {
+    "IlceAdi": "MELKSHAM",
+    "IlceAdiEn": "MELKSHAM",
+    "IlceID": "14049"
+  },
+  {
+    "IlceAdi": "MIDDLESBROUGH",
+    "IlceAdiEn": "MIDDLESBROUGH",
+    "IlceID": "14132"
+  },
+  {
+    "IlceAdi": "MILTON KEYNES",
+    "IlceAdiEn": "MILTON KEYNES",
+    "IlceID": "14133"
+  },
+  {
+    "IlceAdi": "MOLD",
+    "IlceAdiEn": "MOLD",
+    "IlceID": "14069"
+  },
+  {
+    "IlceAdi": "NAILSEA",
+    "IlceAdiEn": "NAILSEA",
+    "IlceID": "14050"
+  },
+  {
+    "IlceAdi": "NEWCASTLE UPON TYNE",
+    "IlceAdiEn": "NEWCASTLE UPON TYNE",
+    "IlceID": "14077"
+  },
+  {
+    "IlceAdi": "NEWPORT",
+    "IlceAdiEn": "NEWPORT",
+    "IlceID": "14134"
+  },
+  {
+    "IlceAdi": "NORTHAMPTON",
+    "IlceAdiEn": "NORTHAMPTON",
+    "IlceID": "14080"
+  },
+  {
+    "IlceAdi": "NORWICH",
+    "IlceAdiEn": "NORWICH",
+    "IlceID": "14135"
+  },
+  {
+    "IlceAdi": "NOTTINGHAM",
+    "IlceAdiEn": "NOTTINGHAM",
+    "IlceID": "14103"
+  },
+  {
+    "IlceAdi": "OLDHAM",
+    "IlceAdiEn": "OLDHAM",
+    "IlceID": "14070"
+  },
+  {
+    "IlceAdi": "OXFORD",
+    "IlceAdiEn": "OXFORD",
+    "IlceID": "14104"
+  },
+  {
+    "IlceAdi": "PATCHWAY",
+    "IlceAdiEn": "PATCHWAY",
+    "IlceID": "14051"
+  },
+  {
+    "IlceAdi": "PENICUIK",
+    "IlceAdiEn": "PENICUIK",
+    "IlceID": "14065"
+  },
+  {
+    "IlceAdi": "PENZANCE",
+    "IlceAdiEn": "PENZANCE",
+    "IlceID": "14007"
+  },
+  {
+    "IlceAdi": "PERTH",
+    "IlceAdiEn": "PERTH",
+    "IlceID": "14066"
+  },
+  {
+    "IlceAdi": "PETERBOROUGH",
+    "IlceAdiEn": "PETERBOROUGH",
+    "IlceID": "14136"
+  },
+  {
+    "IlceAdi": "PLYMMOUTH",
+    "IlceAdiEn": "PLYMMOUTH",
+    "IlceID": "14088"
+  },
+  {
+    "IlceAdi": "POOLE",
+    "IlceAdiEn": "POOLE",
+    "IlceID": "14022"
+  },
+  {
+    "IlceAdi": "PORTISHEAD",
+    "IlceAdiEn": "PORTISHEAD",
+    "IlceID": "14052"
+  },
+  {
+    "IlceAdi": "PORTSMOUTH",
+    "IlceAdiEn": "PORTSMOUTH",
+    "IlceID": "14099"
+  },
+  {
+    "IlceAdi": "POYNTON",
+    "IlceAdiEn": "POYNTON",
+    "IlceID": "14076"
+  },
+  {
+    "IlceAdi": "PRESTON",
+    "IlceAdiEn": "PRESTON",
+    "IlceID": "14137"
+  },
+  {
+    "IlceAdi": "RAMSGATE",
+    "IlceAdiEn": "RAMSGATE",
+    "IlceID": "14009"
+  },
+  {
+    "IlceAdi": "READING",
+    "IlceAdiEn": "READING",
+    "IlceID": "14014"
+  },
+  {
+    "IlceAdi": "ROTTERHAM",
+    "IlceAdiEn": "ROTTERHAM",
+    "IlceID": "14138"
+  },
+  {
+    "IlceAdi": "SALFORD",
+    "IlceAdiEn": "SALFORD",
+    "IlceID": "14071"
+  },
+  {
+    "IlceAdi": "SALISBURY",
+    "IlceAdiEn": "SALISBURY",
+    "IlceID": "14139"
+  },
+  {
+    "IlceAdi": "SCARBOROUGH",
+    "IlceAdiEn": "SCARBOROUGH",
+    "IlceID": "14140"
+  },
+  {
+    "IlceAdi": "SHEFFIELD",
+    "IlceAdiEn": "SHEFFIELD",
+    "IlceID": "14018"
+  },
+  {
+    "IlceAdi": "SHREWSBURY",
+    "IlceAdiEn": "SHREWSBURY",
+    "IlceID": "14039"
+  },
+  {
+    "IlceAdi": "SOLIHULL",
+    "IlceAdiEn": "SOLIHULL",
+    "IlceID": "14141"
+  },
+  {
+    "IlceAdi": "SOUTHAMPTON",
+    "IlceAdiEn": "SOUTHAMPTON",
+    "IlceID": "14142"
+  },
+  {
+    "IlceAdi": "SOUTHEND-ON SEA",
+    "IlceAdiEn": "SOUTHEND-ON SEA",
+    "IlceID": "14143"
+  },
+  {
+    "IlceAdi": "ST. HELENS",
+    "IlceAdiEn": "ST. HELENS",
+    "IlceID": "14144"
+  },
+  {
+    "IlceAdi": "STAFFORD",
+    "IlceAdiEn": "STAFFORD",
+    "IlceID": "14019"
+  },
+  {
+    "IlceAdi": "STIRLING",
+    "IlceAdiEn": "STIRLING",
+    "IlceID": "14067"
+  },
+  {
+    "IlceAdi": "STOCKPORT",
+    "IlceAdiEn": "STOCKPORT",
+    "IlceID": "14024"
+  },
+  {
+    "IlceAdi": "STOKE ON TRENT",
+    "IlceAdiEn": "STOKE ON TRENT",
+    "IlceID": "14145"
+  },
+  {
+    "IlceAdi": "STRATFORD-UPON-AVON",
+    "IlceAdiEn": "STRATFORD-UPON-AVON",
+    "IlceID": "14146"
+  },
+  {
+    "IlceAdi": "STROUD",
+    "IlceAdiEn": "STROUD",
+    "IlceID": "14147"
+  },
+  {
+    "IlceAdi": "SUNDERLAND",
+    "IlceAdiEn": "SUNDERLAND",
+    "IlceID": "14148"
+  },
+  {
+    "IlceAdi": "SWANSEA",
+    "IlceAdiEn": "SWANSEA",
+    "IlceID": "14102"
+  },
+  {
+    "IlceAdi": "SWINDON",
+    "IlceAdiEn": "SWINDON",
+    "IlceID": "14149"
+  },
+  {
+    "IlceAdi": "TAMWORTH",
+    "IlceAdiEn": "TAMWORTH",
+    "IlceID": "14027"
+  },
+  {
+    "IlceAdi": "TAUNTON",
+    "IlceAdiEn": "TAUNTON",
+    "IlceID": "17825"
+  },
+  {
+    "IlceAdi": "THORNBURY",
+    "IlceAdiEn": "THORNBURY",
+    "IlceID": "14053"
+  },
+  {
+    "IlceAdi": "TORQUAY",
+    "IlceAdiEn": "TORQUAY",
+    "IlceID": "14082"
+  },
+  {
+    "IlceAdi": "TROWBRIDGE",
+    "IlceAdiEn": "TROWBRIDGE",
+    "IlceID": "14054"
+  },
+  {
+    "IlceAdi": "TUNBRIDGE WELS",
+    "IlceAdiEn": "TUNBRIDGE WELS",
+    "IlceID": "14092"
+  },
+  {
+    "IlceAdi": "TWICKENHAM",
+    "IlceAdiEn": "TWICKENHAM",
+    "IlceID": "14100"
+  },
+  {
+    "IlceAdi": "VENTNOR",
+    "IlceAdiEn": "VENTNOR",
+    "IlceID": "33348"
+  },
+  {
+    "IlceAdi": "WAKEFIELD",
+    "IlceAdiEn": "WAKEFIELD",
+    "IlceID": "14150"
+  },
+  {
+    "IlceAdi": "WALLINGFORD",
+    "IlceAdiEn": "WALLINGFORD",
+    "IlceID": "14017"
+  },
+  {
+    "IlceAdi": "WALSALL",
+    "IlceAdiEn": "WALSALL",
+    "IlceID": "14040"
+  },
+  {
+    "IlceAdi": "WARRINGTON",
+    "IlceAdiEn": "WARRINGTON",
+    "IlceID": "14151"
+  },
+  {
+    "IlceAdi": "WARWICK",
+    "IlceAdiEn": "WARWICK",
+    "IlceID": "14152"
+  },
+  {
+    "IlceAdi": "WATFORD (LONDRA)",
+    "IlceAdiEn": "WATFORD (LONDRA)",
+    "IlceID": "14036"
+  },
+  {
+    "IlceAdi": "WELLINGTON",
+    "IlceAdiEn": "WELLINGTON",
+    "IlceID": "14041"
+  },
+  {
+    "IlceAdi": "WELLS",
+    "IlceAdiEn": "WELLS",
+    "IlceID": "14026"
+  },
+  {
+    "IlceAdi": "WIGAN",
+    "IlceAdiEn": "WIGAN",
+    "IlceID": "14072"
+  },
+  {
+    "IlceAdi": "WILMSLOW",
+    "IlceAdiEn": "WILMSLOW",
+    "IlceID": "14020"
+  },
+  {
+    "IlceAdi": "WIMBLEDON",
+    "IlceAdiEn": "WIMBLEDON",
+    "IlceID": "14106"
+  },
+  {
+    "IlceAdi": "WINCHESTER",
+    "IlceAdiEn": "WINCHESTER",
+    "IlceID": "14153"
+  },
+  {
+    "IlceAdi": "WINDSOR",
+    "IlceAdiEn": "WINDSOR",
+    "IlceID": "14037"
+  },
+  {
+    "IlceAdi": "WOLVERHAMPTON",
+    "IlceAdiEn": "WOLVERHAMPTON",
+    "IlceID": "14154"
+  },
+  {
+    "IlceAdi": "WORCESTERSHIRE",
+    "IlceAdiEn": "WORCESTERSHIRE",
+    "IlceID": "17817"
+  },
+  {
+    "IlceAdi": "WORTHING",
+    "IlceAdiEn": "WORTHING",
+    "IlceID": "14095"
+  },
+  {
+    "IlceAdi": "YEOVIL",
+    "IlceAdiEn": "YEOVIL",
+    "IlceID": "14004"
+  },
+  {
+    "IlceAdi": "YORK",
+    "IlceAdiEn": "YORK",
+    "IlceID": "14155"
+  }
+]

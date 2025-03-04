@@ -1,0 +1,37 @@
+[
+  {
+    "IlceAdi": "ASHDOD",
+    "IlceAdiEn": "ASHDOD",
+    "IlceID": "14265"
+  },
+  {
+    "IlceAdi": "BEERSHEBA",
+    "IlceAdiEn": "BEERSHEBA",
+    "IlceID": "14266"
+  },
+  {
+    "IlceAdi": "HAIFA",
+    "IlceAdiEn": "HAIFA",
+    "IlceID": "14271"
+  },
+  {
+    "IlceAdi": "NAZARETH",
+    "IlceAdiEn": "NAZARETH",
+    "IlceID": "14268"
+  },
+  {
+    "IlceAdi": "NETANYA",
+    "IlceAdiEn": "NETANYA",
+    "IlceID": "14267"
+  },
+  {
+    "IlceAdi": "RISHON LE ZIYYON",
+    "IlceAdiEn": "RISHON LE ZIYYON",
+    "IlceID": "14270"
+  },
+  {
+    "IlceAdi": "TEL AVIV",
+    "IlceAdiEn": "TEL AVIV",
+    "IlceID": "14269"
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "IlceAdi": "AVALLANEDA",
+    "IlceAdiEn": "AVALLANEDA",
+    "IlceID": "11186"
+  },
+  {
+    "IlceAdi": "BAHIA BLANCA",
+    "IlceAdiEn": "BAHIA BLANCA",
+    "IlceID": "11146"
+  },
+  {
+    "IlceAdi": "BARILOCHE",
+    "IlceAdiEn": "BARILOCHE",
+    "IlceID": "11147"
+  },
+  {
+    "IlceAdi": "BERAZATEGUI",
+    "IlceAdiEn": "BERAZATEGUI",
+    "IlceID": "11148"
+  },
+  {
+    "IlceAdi": "BUENOS AIRES",
+    "IlceAdiEn": "BUENOS AIRES",
+    "IlceID": "11202"
+  },
+  {
+    "IlceAdi": "CASEROS",
+    "IlceAdiEn": "CASEROS",
+    "IlceID": "11149"
+  },
+  {
+    "IlceAdi": "CERES",
+    "IlceAdiEn": "CERES",
+    "IlceID": "11151"
+  },
+  {
+    "IlceAdi": "CHACABUCO",
+    "IlceAdiEn": "CHACABUCO",
+    "IlceID": "11152"
+  },
+  {
+    "IlceAdi": "CIPOLLETTI",
+    "IlceAdiEn": "CIPOLLETTI",
+    "IlceID": "11153"
+  },
+  {
+    "IlceAdi": "COMODORA RIVADAVIA",
+    "IlceAdiEn": "COMODORA RIVADAVIA",
+    "IlceID": "11200"
+  },
+  {
+    "IlceAdi": "CONCORDIA",
+    "IlceAdiEn": "CONCORDIA",
+    "IlceID": "11154"
+  },
+  {
+    "IlceAdi": "CORDOBA",
+    "IlceAdiEn": "CORDOBA",
+    "IlceID": "11155"
+  },
+  {
+    "IlceAdi": "CORRIENTES",
+    "IlceAdiEn": "CORRIENTES",
+    "IlceID": "11156"
+  },
+  {
+    "IlceAdi": "CRESPO",
+    "IlceAdiEn": "CRESPO",
+    "IlceID": "11157"
+  },
+  {
+    "IlceAdi": "GENERAL ROCA",
+    "IlceAdiEn": "GENERAL ROCA",
+    "IlceID": "11159"
+  },
+  {
+    "IlceAdi": "GENERAL SAN MARTIN",
+    "IlceAdiEn": "GENERAL SAN MARTIN",
+    "IlceID": "11187"
+  },
+  {
+    "IlceAdi": "GENERAL SARMIENTO",
+    "IlceAdiEn": "GENERAL SARMIENTO",
+    "IlceID": "11162"
+  },
+  {
+    "IlceAdi": "GODOY CRUZ",
+    "IlceAdiEn": "GODOY CRUZ",
+    "IlceID": "11199"
+  },
+  {
+    "IlceAdi": "GUALEGUAYCHU",
+    "IlceAdiEn": "GUALEGUAYCHU",
+    "IlceID": "11160"
+  },
+  {
+    "IlceAdi": "LA PLATA",
+    "IlceAdiEn": "LA PLATA",
+    "IlceID": "11163"
+  },
+  {
+    "IlceAdi": "LAS HERAS",
+    "IlceAdiEn": "LAS HERAS",
+    "IlceID": "11194"
+  },
+  {
+    "IlceAdi": "LOMAS DE ZAMORA",
+    "IlceAdiEn": "LOMAS DE ZAMORA",
+    "IlceID": "11164"
+  },
+  {
+    "IlceAdi": "LUJAN DE CUYO",
+    "IlceAdiEn": "LUJAN DE CUYO",
+    "IlceID": "11165"
+  },
+  {
+    "IlceAdi": "MALARGUE",
+    "IlceAdiEn": "MALARGUE",
+    "IlceID": "11167"
+  },
+  {
+    "IlceAdi": "MAR DEL PLATA",
+    "IlceAdiEn": "MAR DEL PLATA",
+    "IlceID": "11145"
+  },
+  {
+    "IlceAdi": "MARCOS JUAREZ",
+    "IlceAdiEn": "MARCOS JUAREZ",
+    "IlceID": "11166"
+  },
+  {
+    "IlceAdi": "MARIANO MORENO",
+    "IlceAdiEn": "MARIANO MORENO",
+    "IlceID": "11161"
+  },
+  {
+    "IlceAdi": "MENDOZA",
+    "IlceAdiEn": "MENDOZA",
+    "IlceID": "11168"
+  },
+  {
+    "IlceAdi": "MIRAMAR",
+    "IlceAdiEn": "MIRAMAR",
+    "IlceID": "11169"
+  },
+  {
+    "IlceAdi": "MONTE GRANDE",
+    "IlceAdiEn": "MONTE GRANDE",
+    "IlceID": "11158"
+  },
+  {
+    "IlceAdi": "MORON",
+    "IlceAdiEn": "MORON",
+    "IlceID": "11150"
+  },
+  {
+    "IlceAdi": "NEUQUEN",
+    "IlceAdiEn": "NEUQUEN",
+    "IlceID": "11170"
+  },
+  {
+    "IlceAdi": "PARANA",
+    "IlceAdiEn": "PARANA",
+    "IlceID": "11171"
+  },
+  {
+    "IlceAdi": "PASO DE LOS LIBRES",
+    "IlceAdiEn": "PASO DE LOS LIBRES",
+    "IlceID": "11172"
+  },
+  {
+    "IlceAdi": "PINAMAR",
+    "IlceAdiEn": "PINAMAR",
+    "IlceID": "11173"
+  },
+  {
+    "IlceAdi": "PUERTO MADRYN",
+    "IlceAdiEn": "PUERTO MADRYN",
+    "IlceID": "11174"
+  },
+  {
+    "IlceAdi": "RESISTENCIA",
+    "IlceAdiEn": "RESISTENCIA",
+    "IlceID": "11197"
+  },
+  {
+    "IlceAdi": "RIO CUARTO",
+    "IlceAdiEn": "RIO CUARTO",
+    "IlceID": "11177"
+  },
+  {
+    "IlceAdi": "RIO GALLEGOS",
+    "IlceAdiEn": "RIO GALLEGOS",
+    "IlceID": "11201"
+  },
+  {
+    "IlceAdi": "RIO TERCERO",
+    "IlceAdiEn": "RIO TERCERO",
+    "IlceID": "11178"
+  },
+  {
+    "IlceAdi": "ROSARIO",
+    "IlceAdiEn": "ROSARIO",
+    "IlceID": "11179"
+  },
+  {
+    "IlceAdi": "SALTA",
+    "IlceAdiEn": "SALTA",
+    "IlceID": "11180"
+  },
+  {
+    "IlceAdi": "SALTO",
+    "IlceAdiEn": "SALTO",
+    "IlceID": "11181"
+  },
+  {
+    "IlceAdi": "SAN CLEMENTE DEL TUYU",
+    "IlceAdiEn": "SAN CLEMENTE DEL TUYU",
+    "IlceID": "11182"
+  },
+  {
+    "IlceAdi": "SAN ISIDRO",
+    "IlceAdiEn": "SAN ISIDRO",
+    "IlceID": "11183"
+  },
+  {
+    "IlceAdi": "SAN JUAN",
+    "IlceAdiEn": "SAN JUAN",
+    "IlceID": "11184"
+  },
+  {
+    "IlceAdi": "SAN JUSTO",
+    "IlceAdiEn": "SAN JUSTO",
+    "IlceID": "11175"
+  },
+  {
+    "IlceAdi": "SAN MIGUEL DE TUCUMAN",
+    "IlceAdiEn": "SAN MIGUEL DE TUCUMAN",
+    "IlceID": "11188"
+  },
+  {
+    "IlceAdi": "SAN RAFAEL",
+    "IlceAdiEn": "SAN RAFAEL",
+    "IlceID": "11185"
+  },
+  {
+    "IlceAdi": "SANTA FE",
+    "IlceAdiEn": "SANTA FE",
+    "IlceID": "11189"
+  },
+  {
+    "IlceAdi": "SANTA ROSA",
+    "IlceAdiEn": "SANTA ROSA",
+    "IlceID": "11190"
+  },
+  {
+    "IlceAdi": "SANTIAGO DEL ESTERO",
+    "IlceAdiEn": "SANTIAGO DEL ESTERO",
+    "IlceID": "11191"
+  },
+  {
+    "IlceAdi": "TRELEW",
+    "IlceAdiEn": "TRELEW",
+    "IlceID": "11192"
+  },
+  {
+    "IlceAdi": "TRES ARROYOS",
+    "IlceAdiEn": "TRES ARROYOS",
+    "IlceID": "11193"
+  },
+  {
+    "IlceAdi": "USHUAIA",
+    "IlceAdiEn": "USHUAIA",
+    "IlceID": "11195"
+  },
+  {
+    "IlceAdi": "VICENTE LOPEZ",
+    "IlceAdiEn": "VICENTE LOPEZ",
+    "IlceID": "11176"
+  },
+  {
+    "IlceAdi": "VILLA MARIA",
+    "IlceAdiEn": "VILLA MARIA",
+    "IlceID": "11196"
+  },
+  {
+    "IlceAdi": "VILLA NUEVA",
+    "IlceAdiEn": "VILLA NUEVA",
+    "IlceID": "11198"
+  }
+]

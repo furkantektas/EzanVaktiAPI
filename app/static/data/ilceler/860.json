@@ -1,0 +1,377 @@
+[
+  {
+    "IlceAdi": "ADENAU",
+    "IlceAdiEn": "ADENAU",
+    "IlceID": "20026"
+  },
+  {
+    "IlceAdi": "ALSENBORN",
+    "IlceAdiEn": "ALSENBORN",
+    "IlceID": "10764"
+  },
+  {
+    "IlceAdi": "ALTENKIRCHEN",
+    "IlceAdiEn": "ALTENKIRCHEN",
+    "IlceID": "10888"
+  },
+  {
+    "IlceAdi": "ALZEY",
+    "IlceAdiEn": "ALZEY",
+    "IlceID": "10889"
+  },
+  {
+    "IlceAdi": "ANDERNACH",
+    "IlceAdiEn": "ANDERNACH",
+    "IlceID": "10891"
+  },
+  {
+    "IlceAdi": "ANNWEILER",
+    "IlceAdiEn": "ANNWEILER",
+    "IlceID": "10736"
+  },
+  {
+    "IlceAdi": "BAD DURKHEIM",
+    "IlceAdiEn": "BAD DURKHEIM",
+    "IlceID": "10901"
+  },
+  {
+    "IlceAdi": "BAD EMS",
+    "IlceAdiEn": "BAD EMS",
+    "IlceID": "11092"
+  },
+  {
+    "IlceAdi": "BAD KREUZNACH",
+    "IlceAdiEn": "BAD KREUZNACH",
+    "IlceID": "10573"
+  },
+  {
+    "IlceAdi": "BAD NEUENAHR-AHRWEILER",
+    "IlceAdiEn": "BAD NEUENAHR-AHRWEILER",
+    "IlceID": "17924"
+  },
+  {
+    "IlceAdi": "BELLHEIM",
+    "IlceAdiEn": "BELLHEIM",
+    "IlceID": "10737"
+  },
+  {
+    "IlceAdi": "BENDORF (RHINELAND)",
+    "IlceAdiEn": "BENDORF (RHINELAND)",
+    "IlceID": "10918"
+  },
+  {
+    "IlceAdi": "BETZDORF",
+    "IlceAdiEn": "BETZDORF",
+    "IlceID": "10925"
+  },
+  {
+    "IlceAdi": "BINGEN",
+    "IlceAdiEn": "BINGEN",
+    "IlceID": "10929"
+  },
+  {
+    "IlceAdi": "BOPPARD",
+    "IlceAdiEn": "BOPPARD",
+    "IlceID": "10749"
+  },
+  {
+    "IlceAdi": "BUDENHEIM",
+    "IlceAdiEn": "BUDENHEIM",
+    "IlceID": "17807"
+  },
+  {
+    "IlceAdi": "BULLAY",
+    "IlceAdiEn": "BULLAY",
+    "IlceID": "10960"
+  },
+  {
+    "IlceAdi": "BURGBROHL",
+    "IlceAdiEn": "BURGBROHL",
+    "IlceID": "18947"
+  },
+  {
+    "IlceAdi": "DANNSTADT",
+    "IlceAdiEn": "DANNSTADT",
+    "IlceID": "10872"
+  },
+  {
+    "IlceAdi": "EISENBERG",
+    "IlceAdiEn": "EISENBERG",
+    "IlceID": "10987"
+  },
+  {
+    "IlceAdi": "EMMELSHAUSEN",
+    "IlceAdiEn": "EMMELSHAUSEN",
+    "IlceID": "10992"
+  },
+  {
+    "IlceAdi": "ETTRINGEN",
+    "IlceAdiEn": "ETTRINGEN",
+    "IlceID": "10750"
+  },
+  {
+    "IlceAdi": "FRANKENTHAL",
+    "IlceAdiEn": "FRANKENTHAL",
+    "IlceID": "9983"
+  },
+  {
+    "IlceAdi": "FURTHEN (SIEG)",
+    "IlceAdiEn": "FURTHEN (SIEG)",
+    "IlceID": "9991"
+  },
+  {
+    "IlceAdi": "GERMERSHEIM",
+    "IlceAdiEn": "GERMERSHEIM",
+    "IlceID": "10556"
+  },
+  {
+    "IlceAdi": "GEROLSTEIN",
+    "IlceAdiEn": "GEROLSTEIN",
+    "IlceID": "10010"
+  },
+  {
+    "IlceAdi": "GRUNSTADT",
+    "IlceAdiEn": "GRUNSTADT",
+    "IlceID": "10023"
+  },
+  {
+    "IlceAdi": "GURNSTADT (RP)",
+    "IlceAdiEn": "GURNSTADT (RP)",
+    "IlceID": "10795"
+  },
+  {
+    "IlceAdi": "HACHENBURG",
+    "IlceAdiEn": "HACHENBURG",
+    "IlceID": "20025"
+  },
+  {
+    "IlceAdi": "HOHR -GRENZHAUSEN",
+    "IlceAdiEn": "HOHR -GRENZHAUSEN",
+    "IlceID": "10135"
+  },
+  {
+    "IlceAdi": "INGELHEIM",
+    "IlceAdiEn": "INGELHEIM",
+    "IlceID": "10148"
+  },
+  {
+    "IlceAdi": "JUNKERATH",
+    "IlceAdiEn": "JUNKERATH",
+    "IlceID": "10152"
+  },
+  {
+    "IlceAdi": "KAISERSESCH",
+    "IlceAdiEn": "KAISERSESCH",
+    "IlceID": "10752"
+  },
+  {
+    "IlceAdi": "KAISERSLAUTERN",
+    "IlceAdiEn": "KAISERSLAUTERN",
+    "IlceID": "10581"
+  },
+  {
+    "IlceAdi": "KIRN",
+    "IlceAdiEn": "KIRN",
+    "IlceID": "10164"
+  },
+  {
+    "IlceAdi": "KOBLENZ",
+    "IlceAdiEn": "KOBLENZ",
+    "IlceID": "11017"
+  },
+  {
+    "IlceAdi": "KONZ",
+    "IlceAdiEn": "KONZ",
+    "IlceID": "10166"
+  },
+  {
+    "IlceAdi": "LAHNSTEIN",
+    "IlceAdiEn": "LAHNSTEIN",
+    "IlceID": "10753"
+  },
+  {
+    "IlceAdi": "LANDAU IN DER PFALZ",
+    "IlceAdiEn": "LANDAU IN DER PFALZ",
+    "IlceID": "10175"
+  },
+  {
+    "IlceAdi": "LANDSTUHL",
+    "IlceAdiEn": "LANDSTUHL",
+    "IlceID": "10176"
+  },
+  {
+    "IlceAdi": "LINZ AM RHEIN",
+    "IlceAdiEn": "LINZ AM RHEIN",
+    "IlceID": "10187"
+  },
+  {
+    "IlceAdi": "LUDWIGSHAFEN",
+    "IlceAdiEn": "LUDWIGSHAFEN",
+    "IlceID": "11094"
+  },
+  {
+    "IlceAdi": "LUSTADT",
+    "IlceAdiEn": "LUSTADT",
+    "IlceID": "10197"
+  },
+  {
+    "IlceAdi": "MAIKAMMER",
+    "IlceAdiEn": "MAIKAMMER",
+    "IlceID": "10738"
+  },
+  {
+    "IlceAdi": "MAINZ",
+    "IlceAdiEn": "MAINZ",
+    "IlceID": "11020"
+  },
+  {
+    "IlceAdi": "MAXDORF",
+    "IlceAdiEn": "MAXDORF",
+    "IlceID": "10202"
+  },
+  {
+    "IlceAdi": "MAYEN",
+    "IlceAdiEn": "MAYEN",
+    "IlceID": "10754"
+  },
+  {
+    "IlceAdi": "MONTABAUR",
+    "IlceAdiEn": "MONTABAUR",
+    "IlceID": "10213"
+  },
+  {
+    "IlceAdi": "MUTTERSTADT",
+    "IlceAdiEn": "MUTTERSTADT",
+    "IlceID": "10217"
+  },
+  {
+    "IlceAdi": "NASSAU",
+    "IlceAdiEn": "NASSAU",
+    "IlceID": "10219"
+  },
+  {
+    "IlceAdi": "NEUSTADT A.D. WEINSTRASSE",
+    "IlceAdiEn": "NEUSTADT A.D. WEINSTRASSE",
+    "IlceID": "10227"
+  },
+  {
+    "IlceAdi": "NEUWIED",
+    "IlceAdiEn": "NEUWIED",
+    "IlceID": "10229"
+  },
+  {
+    "IlceAdi": "OGGERSHEIM (LUDWIGS)H",
+    "IlceAdiEn": "OGGERSHEIM (LUDWIGSH)",
+    "IlceID": "10193"
+  },
+  {
+    "IlceAdi": "PIRMASENS",
+    "IlceAdiEn": "PIRMASENS",
+    "IlceID": "10251"
+  },
+  {
+    "IlceAdi": "RANSBACH-BAUMBACH",
+    "IlceAdiEn": "RANSBACH-BAUMBACH",
+    "IlceID": "10254"
+  },
+  {
+    "IlceAdi": "REMAGEN",
+    "IlceAdiEn": "REMAGEN",
+    "IlceID": "10258"
+  },
+  {
+    "IlceAdi": "RENNEROD",
+    "IlceAdiEn": "RENNEROD",
+    "IlceID": "20024"
+  },
+  {
+    "IlceAdi": "ROCKENHAUSEN",
+    "IlceAdiEn": "ROCKENHAUSEN",
+    "IlceID": "10267"
+  },
+  {
+    "IlceAdi": "RUDESHEIM",
+    "IlceAdiEn": "RUDESHEIM",
+    "IlceID": "10770"
+  },
+  {
+    "IlceAdi": "RULZHEIM",
+    "IlceAdiEn": "RULZHEIM",
+    "IlceID": "10741"
+  },
+  {
+    "IlceAdi": "SCHIFFERSTADT",
+    "IlceAdiEn": "SCHIFFERSTADT",
+    "IlceID": "10274"
+  },
+  {
+    "IlceAdi": "SELTERS",
+    "IlceAdiEn": "SELTERS",
+    "IlceID": "10285"
+  },
+  {
+    "IlceAdi": "SIMMERN",
+    "IlceAdiEn": "SIMMERN",
+    "IlceID": "10288"
+  },
+  {
+    "IlceAdi": "SINZIG",
+    "IlceAdiEn": "SINZIG",
+    "IlceID": "10289"
+  },
+  {
+    "IlceAdi": "SPEYER",
+    "IlceAdiEn": "SPEYER",
+    "IlceID": "10294"
+  },
+  {
+    "IlceAdi": "SPRENDLINGEN",
+    "IlceAdiEn": "SPRENDLINGEN",
+    "IlceID": "10772"
+  },
+  {
+    "IlceAdi": "TRIER",
+    "IlceAdiEn": "TRIER",
+    "IlceID": "11125"
+  },
+  {
+    "IlceAdi": "ULMEN",
+    "IlceAdiEn": "ULMEN",
+    "IlceID": "10317"
+  },
+  {
+    "IlceAdi": "WEISENTHURM",
+    "IlceAdiEn": "WEISENTHURM",
+    "IlceID": "16756"
+  },
+  {
+    "IlceAdi": "WIRGES",
+    "IlceAdiEn": "WIRGES",
+    "IlceID": "16764"
+  },
+  {
+    "IlceAdi": "WITTLICH",
+    "IlceAdiEn": "WITTLICH",
+    "IlceID": "10361"
+  },
+  {
+    "IlceAdi": "WORMS",
+    "IlceAdiEn": "WORMS",
+    "IlceID": "11088"
+  },
+  {
+    "IlceAdi": "WORRSTADT",
+    "IlceAdiEn": "WORRSTADT",
+    "IlceID": "18948"
+  },
+  {
+    "IlceAdi": "WORTH AM RHEIN",
+    "IlceAdiEn": "WORTH AM RHEIN",
+    "IlceID": "10805"
+  },
+  {
+    "IlceAdi": "ZWEIBRUCKEN",
+    "IlceAdiEn": "ZWEIBRUCKEN",
+    "IlceID": "10369"
+  }
+]

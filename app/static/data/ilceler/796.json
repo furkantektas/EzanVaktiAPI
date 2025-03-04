@@ -1,0 +1,32 @@
+[
+  {
+    "IlceAdi": "ASUNCION",
+    "IlceAdiEn": "ASUNCION",
+    "IlceID": "15816"
+  },
+  {
+    "IlceAdi": "CIUDAD DEL ESTE",
+    "IlceAdiEn": "CIUDAD DEL ESTE",
+    "IlceID": "15819"
+  },
+  {
+    "IlceAdi": "CONCEPCION",
+    "IlceAdiEn": "CONCEPCION",
+    "IlceID": "15817"
+  },
+  {
+    "IlceAdi": "CORONEL OVIEDO",
+    "IlceAdiEn": "CORONEL OVIEDO",
+    "IlceID": "15818"
+  },
+  {
+    "IlceAdi": "SAN PEDRO DEL PARANA",
+    "IlceAdiEn": "SAN PEDRO DEL PARANA",
+    "IlceID": "15821"
+  },
+  {
+    "IlceAdi": "VILLARRICA",
+    "IlceAdiEn": "VILLARRICA",
+    "IlceID": "15820"
+  }
+]

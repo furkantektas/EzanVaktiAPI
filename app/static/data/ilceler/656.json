@@ -1,0 +1,1082 @@
+[
+  {
+    "IlceAdi": "ADELAIDE",
+    "IlceAdiEn": "ADELAIDE",
+    "IlceID": "11426"
+  },
+  {
+    "IlceAdi": "ALBANY",
+    "IlceAdiEn": "ALBANY",
+    "IlceID": "11361"
+  },
+  {
+    "IlceAdi": "ALBURY",
+    "IlceAdiEn": "ALBURY",
+    "IlceID": "11362"
+  },
+  {
+    "IlceAdi": "ALICE SPRING",
+    "IlceAdiEn": "ALICE SPRING",
+    "IlceID": "22185"
+  },
+  {
+    "IlceAdi": "ALICE WELL",
+    "IlceAdiEn": "ALICE WELL",
+    "IlceID": "11417"
+  },
+  {
+    "IlceAdi": "ARMIDALE",
+    "IlceAdiEn": "ARMIDALE",
+    "IlceID": "11360"
+  },
+  {
+    "IlceAdi": "ASHGROVE",
+    "IlceAdiEn": "ASHGROVE",
+    "IlceID": "11318"
+  },
+  {
+    "IlceAdi": "AUBURN",
+    "IlceAdiEn": "AUBURN",
+    "IlceID": "11432"
+  },
+  {
+    "IlceAdi": "AYR",
+    "IlceAdiEn": "AYR",
+    "IlceID": "11317"
+  },
+  {
+    "IlceAdi": "BALLARAT",
+    "IlceAdiEn": "BALLARAT",
+    "IlceID": "11367"
+  },
+  {
+    "IlceAdi": "BANKSTOWN",
+    "IlceAdiEn": "BANKSTOWN",
+    "IlceID": "11369"
+  },
+  {
+    "IlceAdi": "BARROV CREEK",
+    "IlceAdiEn": "BARROV CREEK",
+    "IlceID": "11313"
+  },
+  {
+    "IlceAdi": "BASSENDEAN",
+    "IlceAdiEn": "BASSENDEAN",
+    "IlceID": "11340"
+  },
+  {
+    "IlceAdi": "BATHURST",
+    "IlceAdiEn": "BATHURST",
+    "IlceID": "11370"
+  },
+  {
+    "IlceAdi": "BAYSWATER (Perth)",
+    "IlceAdiEn": "BAYSWATER (Perth)",
+    "IlceID": "11341"
+  },
+  {
+    "IlceAdi": "BELCONNEN",
+    "IlceAdiEn": "BELCONNEN",
+    "IlceID": "11405"
+  },
+  {
+    "IlceAdi": "BENDIGO",
+    "IlceAdiEn": "BENDIGO",
+    "IlceID": "11373"
+  },
+  {
+    "IlceAdi": "BERRIMAH",
+    "IlceAdiEn": "BERRIMAH",
+    "IlceID": "11323"
+  },
+  {
+    "IlceAdi": "BERWICK",
+    "IlceAdiEn": "BERWICK",
+    "IlceID": "11374"
+  },
+  {
+    "IlceAdi": "BLACKTOWN",
+    "IlceAdiEn": "BLACKTOWN",
+    "IlceID": "11376"
+  },
+  {
+    "IlceAdi": "BOWEN",
+    "IlceAdiEn": "BOWEN",
+    "IlceID": "11223"
+  },
+  {
+    "IlceAdi": "BOWRAL",
+    "IlceAdiEn": "BOWRAL",
+    "IlceID": "11383"
+  },
+  {
+    "IlceAdi": "BRIGHTON",
+    "IlceAdiEn": "BRIGHTON",
+    "IlceID": "11385"
+  },
+  {
+    "IlceAdi": "BRISBANE",
+    "IlceAdiEn": "BRISBANE",
+    "IlceID": "11428"
+  },
+  {
+    "IlceAdi": "BROADMEADOWS ",
+    "IlceAdiEn": "BROADMEADOWS ",
+    "IlceID": "11331"
+  },
+  {
+    "IlceAdi": "BROKEN HILL",
+    "IlceAdiEn": "BROKEN HILL",
+    "IlceID": "11386"
+  },
+  {
+    "IlceAdi": "BROOME",
+    "IlceAdiEn": "BROOME",
+    "IlceID": "11387"
+  },
+  {
+    "IlceAdi": "BUNBURY",
+    "IlceAdiEn": "BUNBURY",
+    "IlceID": "11388"
+  },
+  {
+    "IlceAdi": "BUNDABERG",
+    "IlceAdiEn": "BUNDABERG",
+    "IlceID": "11425"
+  },
+  {
+    "IlceAdi": "BURNIE",
+    "IlceAdiEn": "BURNIE",
+    "IlceID": "11389"
+  },
+  {
+    "IlceAdi": "BURNSIDE(SA)",
+    "IlceAdiEn": "BURNSIDE(SA)",
+    "IlceID": "11307"
+  },
+  {
+    "IlceAdi": "BURPENGARY",
+    "IlceAdiEn": "BURPENGARY",
+    "IlceID": "11390"
+  },
+  {
+    "IlceAdi": "CABOOLTURE",
+    "IlceAdiEn": "CABOOLTURE",
+    "IlceID": "11393"
+  },
+  {
+    "IlceAdi": "CAIRNS",
+    "IlceAdiEn": "CAIRNS",
+    "IlceID": "11225"
+  },
+  {
+    "IlceAdi": "CALOUNDRA",
+    "IlceAdiEn": "CALOUNDRA",
+    "IlceID": "11395"
+  },
+  {
+    "IlceAdi": "CAMDEN",
+    "IlceAdiEn": "CAMDEN",
+    "IlceID": "11396"
+  },
+  {
+    "IlceAdi": "CAMPBELLTOWN",
+    "IlceAdiEn": "CAMPBELLTOWN",
+    "IlceID": "11397"
+  },
+  {
+    "IlceAdi": "CANBERRA",
+    "IlceAdiEn": "CANBERRA",
+    "IlceID": "11430"
+  },
+  {
+    "IlceAdi": "CANNINGTON",
+    "IlceAdiEn": "CANNINGTON",
+    "IlceID": "11342"
+  },
+  {
+    "IlceAdi": "CANTERBURY",
+    "IlceAdiEn": "CANTERBURY",
+    "IlceID": "11351"
+  },
+  {
+    "IlceAdi": "CARNARVON",
+    "IlceAdiEn": "CARNARVON",
+    "IlceID": "11399"
+  },
+  {
+    "IlceAdi": "CASTLEMAINE",
+    "IlceAdiEn": "CASTLEMAINE",
+    "IlceID": "11400"
+  },
+  {
+    "IlceAdi": "CESSNOCK",
+    "IlceAdiEn": "CESSNOCK",
+    "IlceID": "11401"
+  },
+  {
+    "IlceAdi": "CHELSEA",
+    "IlceAdiEn": "CHELSEA",
+    "IlceID": "11403"
+  },
+  {
+    "IlceAdi": "CHERMSIDE",
+    "IlceAdiEn": "CHERMSIDE",
+    "IlceID": "11381"
+  },
+  {
+    "IlceAdi": "CLARENCE",
+    "IlceAdiEn": "CLARENCE",
+    "IlceID": "11384"
+  },
+  {
+    "IlceAdi": "CLEVELAND",
+    "IlceAdiEn": "CLEVELAND",
+    "IlceID": "11382"
+  },
+  {
+    "IlceAdi": "COFFS HARBOUR",
+    "IlceAdiEn": "COFFS HARBOUR",
+    "IlceID": "11408"
+  },
+  {
+    "IlceAdi": "COOMA (NSW)",
+    "IlceAdiEn": "COOMA (NSW)",
+    "IlceID": "11410"
+  },
+  {
+    "IlceAdi": "COOTAMUNDRA",
+    "IlceAdiEn": "COOTAMUNDRA",
+    "IlceID": "11411"
+  },
+  {
+    "IlceAdi": "CRAIGIEBURN",
+    "IlceAdiEn": "CRAIGIEBURN",
+    "IlceID": "11332"
+  },
+  {
+    "IlceAdi": "CRANBOURNE",
+    "IlceAdiEn": "CRANBOURNE",
+    "IlceID": "11398"
+  },
+  {
+    "IlceAdi": "CROYDON (Q)",
+    "IlceAdiEn": "CROYDON (Q)",
+    "IlceID": "11412"
+  },
+  {
+    "IlceAdi": "DANDENONG",
+    "IlceAdiEn": "DANDENONG",
+    "IlceID": "11413"
+  },
+  {
+    "IlceAdi": "DARWIN",
+    "IlceAdiEn": "DARWIN",
+    "IlceID": "11429"
+  },
+  {
+    "IlceAdi": "DEER PARK",
+    "IlceAdiEn": "DEER PARK",
+    "IlceID": "11414"
+  },
+  {
+    "IlceAdi": "DEVONPORT",
+    "IlceAdiEn": "DEVONPORT",
+    "IlceID": "11415"
+  },
+  {
+    "IlceAdi": "DONCASTER",
+    "IlceAdiEn": "DONCASTER",
+    "IlceID": "11333"
+  },
+  {
+    "IlceAdi": "DRYSDALE",
+    "IlceAdiEn": "DRYSDALE",
+    "IlceID": "11327"
+  },
+  {
+    "IlceAdi": "DUBBO",
+    "IlceAdiEn": "DUBBO",
+    "IlceID": "11416"
+  },
+  {
+    "IlceAdi": "ECHUCA",
+    "IlceAdiEn": "ECHUCA",
+    "IlceID": "11353"
+  },
+  {
+    "IlceAdi": "ELIZABETH",
+    "IlceAdiEn": "ELIZABETH",
+    "IlceID": "11433"
+  },
+  {
+    "IlceAdi": "EMERALD (Q)",
+    "IlceAdiEn": "EMERALD (Q)",
+    "IlceID": "11226"
+  },
+  {
+    "IlceAdi": "ENFIELD(SA)",
+    "IlceAdiEn": "ENFIELD(SA)",
+    "IlceID": "11308"
+  },
+  {
+    "IlceAdi": "ESSENDON",
+    "IlceAdiEn": "ESSENDON",
+    "IlceID": "11334"
+  },
+  {
+    "IlceAdi": "FAIRFIELD",
+    "IlceAdiEn": "FAIRFIELD",
+    "IlceID": "11365"
+  },
+  {
+    "IlceAdi": "FINKE ",
+    "IlceAdiEn": "FINKE ",
+    "IlceID": "11314"
+  },
+  {
+    "IlceAdi": "FRANKSTON",
+    "IlceAdiEn": "FRANKSTON",
+    "IlceID": "11227"
+  },
+  {
+    "IlceAdi": "FREMANTLE",
+    "IlceAdiEn": "FREMANTLE",
+    "IlceID": "11228"
+  },
+  {
+    "IlceAdi": "GEELONG",
+    "IlceAdiEn": "GEELONG",
+    "IlceID": "11419"
+  },
+  {
+    "IlceAdi": "GEORGE TOWN ( T )",
+    "IlceAdiEn": "GEORGE TOWN ( T )",
+    "IlceID": "11229"
+  },
+  {
+    "IlceAdi": "GERALDTON",
+    "IlceAdiEn": "GERALDTON",
+    "IlceID": "11230"
+  },
+  {
+    "IlceAdi": "GINNINDERRA",
+    "IlceAdiEn": "GINNINDERRA",
+    "IlceID": "11404"
+  },
+  {
+    "IlceAdi": "GLADSTONE",
+    "IlceAdiEn": "GLADSTONE",
+    "IlceID": "11231"
+  },
+  {
+    "IlceAdi": "GLEN WAVERLEY",
+    "IlceAdiEn": "GLEN WAVERLEY",
+    "IlceID": "11375"
+  },
+  {
+    "IlceAdi": "GLENORCHY",
+    "IlceAdiEn": "GLENORCHY",
+    "IlceID": "11232"
+  },
+  {
+    "IlceAdi": "GOLD COAST",
+    "IlceAdiEn": "GOLD COAST",
+    "IlceID": "11435"
+  },
+  {
+    "IlceAdi": "GOSFORD",
+    "IlceAdiEn": "GOSFORD",
+    "IlceID": "11233"
+  },
+  {
+    "IlceAdi": "GOSNELLS",
+    "IlceAdiEn": "GOSNELLS",
+    "IlceID": "11343"
+  },
+  {
+    "IlceAdi": "GOULBURN",
+    "IlceAdiEn": "GOULBURN",
+    "IlceID": "11234"
+  },
+  {
+    "IlceAdi": "GRAFTON",
+    "IlceAdiEn": "GRAFTON",
+    "IlceID": "11235"
+  },
+  {
+    "IlceAdi": "GRIFFITH",
+    "IlceAdiEn": "GRIFFITH",
+    "IlceID": "11436"
+  },
+  {
+    "IlceAdi": "GYMPIE",
+    "IlceAdiEn": "GYMPIE",
+    "IlceID": "11236"
+  },
+  {
+    "IlceAdi": "HAMILTON ( V )",
+    "IlceAdiEn": "HAMILTON ( V )",
+    "IlceID": "11391"
+  },
+  {
+    "IlceAdi": "HAMILTON (Tasmania)",
+    "IlceAdiEn": "HAMILTON (Tasmania)",
+    "IlceID": "11237"
+  },
+  {
+    "IlceAdi": "HATCHES CREEK",
+    "IlceAdiEn": "HATCHES CREEK",
+    "IlceID": "11315"
+  },
+  {
+    "IlceAdi": "HOBART",
+    "IlceAdiEn": "HOBART",
+    "IlceID": "11420"
+  },
+  {
+    "IlceAdi": "HORNSBY",
+    "IlceAdiEn": "HORNSBY",
+    "IlceID": "11368"
+  },
+  {
+    "IlceAdi": "HORSHAM",
+    "IlceAdiEn": "HORSHAM",
+    "IlceID": "11238"
+  },
+  {
+    "IlceAdi": "HURSTVILLE",
+    "IlceAdiEn": "HURSTVILLE",
+    "IlceID": "11239"
+  },
+  {
+    "IlceAdi": "INDOOROOPILLY",
+    "IlceAdiEn": "INDOOROOPILLY",
+    "IlceID": "11319"
+  },
+  {
+    "IlceAdi": "INGHAM",
+    "IlceAdiEn": "INGHAM",
+    "IlceID": "11240"
+  },
+  {
+    "IlceAdi": "INVERELL",
+    "IlceAdiEn": "INVERELL",
+    "IlceID": "11241"
+  },
+  {
+    "IlceAdi": "IPSWICH",
+    "IlceAdiEn": "IPSWICH",
+    "IlceID": "11242"
+  },
+  {
+    "IlceAdi": "KALGOORLIE",
+    "IlceAdiEn": "KALGOORLIE",
+    "IlceID": "11437"
+  },
+  {
+    "IlceAdi": "KATOOMBA",
+    "IlceAdiEn": "KATOOMBA",
+    "IlceID": "11243"
+  },
+  {
+    "IlceAdi": "KEILOR",
+    "IlceAdiEn": "KEILOR",
+    "IlceID": "11335"
+  },
+  {
+    "IlceAdi": "KEMPSEY",
+    "IlceAdiEn": "KEMPSEY",
+    "IlceID": "11244"
+  },
+  {
+    "IlceAdi": "KINGAROY",
+    "IlceAdiEn": "KINGAROY",
+    "IlceID": "11245"
+  },
+  {
+    "IlceAdi": "KINGSTON (Hobart)",
+    "IlceAdiEn": "KINGSTON (Hobart)",
+    "IlceID": "11328"
+  },
+  {
+    "IlceAdi": "KNOX",
+    "IlceAdiEn": "KNOX",
+    "IlceID": "11336"
+  },
+  {
+    "IlceAdi": "KURRI KURRI",
+    "IlceAdiEn": "KURRI KURRI",
+    "IlceID": "11337"
+  },
+  {
+    "IlceAdi": "KYABRAM",
+    "IlceAdiEn": "KYABRAM",
+    "IlceID": "11354"
+  },
+  {
+    "IlceAdi": "LAUNCESTON",
+    "IlceAdiEn": "LAUNCESTON",
+    "IlceID": "11246"
+  },
+  {
+    "IlceAdi": "LEETON",
+    "IlceAdiEn": "LEETON",
+    "IlceID": "11326"
+  },
+  {
+    "IlceAdi": "LIDCOMBE",
+    "IlceAdiEn": "LIDCOMBE",
+    "IlceID": "11247"
+  },
+  {
+    "IlceAdi": "LISMORE",
+    "IlceAdiEn": "LISMORE",
+    "IlceID": "11249"
+  },
+  {
+    "IlceAdi": "LITHGOW",
+    "IlceAdiEn": "LITHGOW",
+    "IlceID": "11248"
+  },
+  {
+    "IlceAdi": "LIVERPOOL",
+    "IlceAdiEn": "LIVERPOOL",
+    "IlceID": "11250"
+  },
+  {
+    "IlceAdi": "MACKAY",
+    "IlceAdiEn": "MACKAY",
+    "IlceID": "11251"
+  },
+  {
+    "IlceAdi": "MAITLAND",
+    "IlceAdiEn": "MAITLAND",
+    "IlceID": "11252"
+  },
+  {
+    "IlceAdi": "MANLY",
+    "IlceAdiEn": "MANLY",
+    "IlceID": "11255"
+  },
+  {
+    "IlceAdi": "MARION",
+    "IlceAdiEn": "MARION",
+    "IlceID": "11377"
+  },
+  {
+    "IlceAdi": "MARYBOROUGH (Q)",
+    "IlceAdiEn": "MARYBOROUGH (Q)",
+    "IlceID": "11256"
+  },
+  {
+    "IlceAdi": "MARYBOROUGH (V)",
+    "IlceAdiEn": "MARYBOROUGH (V)",
+    "IlceID": "11254"
+  },
+  {
+    "IlceAdi": "MELBOURNE",
+    "IlceAdiEn": "MELBOURNE",
+    "IlceID": "11421"
+  },
+  {
+    "IlceAdi": "MELTON",
+    "IlceAdiEn": "MELTON",
+    "IlceID": "11363"
+  },
+  {
+    "IlceAdi": "MELVILLE",
+    "IlceAdiEn": "MELVILLE",
+    "IlceID": "11344"
+  },
+  {
+    "IlceAdi": "MILDURA",
+    "IlceAdiEn": "MILDURA",
+    "IlceID": "11431"
+  },
+  {
+    "IlceAdi": "MILLECENT",
+    "IlceAdiEn": "MILLECENT",
+    "IlceID": "11257"
+  },
+  {
+    "IlceAdi": "MITTAGONG",
+    "IlceAdiEn": "MITTAGONG",
+    "IlceID": "11356"
+  },
+  {
+    "IlceAdi": "MOE",
+    "IlceAdiEn": "MOE",
+    "IlceID": "11258"
+  },
+  {
+    "IlceAdi": "MONA VALE",
+    "IlceAdiEn": "MONA VALE",
+    "IlceID": "11259"
+  },
+  {
+    "IlceAdi": "MONDORAH",
+    "IlceAdiEn": "MONDORAH",
+    "IlceID": "11324"
+  },
+  {
+    "IlceAdi": "MOORABBIN",
+    "IlceAdiEn": "MOORABBIN",
+    "IlceID": "11371"
+  },
+  {
+    "IlceAdi": "MOOROOLBARK",
+    "IlceAdiEn": "MOOROOLBARK",
+    "IlceID": "11260"
+  },
+  {
+    "IlceAdi": "MOOROOPNA",
+    "IlceAdiEn": "MOOROOPNA",
+    "IlceID": "11355"
+  },
+  {
+    "IlceAdi": "MORNINGTON (Q)",
+    "IlceAdiEn": "MORNINGTON (Q)",
+    "IlceID": "11261"
+  },
+  {
+    "IlceAdi": "MORWELL",
+    "IlceAdiEn": "MORWELL",
+    "IlceID": "11262"
+  },
+  {
+    "IlceAdi": "MOSMAN",
+    "IlceAdiEn": "MOSMAN",
+    "IlceID": "11253"
+  },
+  {
+    "IlceAdi": "MOSS VALE",
+    "IlceAdiEn": "MOSS VALE",
+    "IlceID": "11357"
+  },
+  {
+    "IlceAdi": "MOUNT GAMBIER",
+    "IlceAdiEn": "MOUNT GAMBIER",
+    "IlceID": "11263"
+  },
+  {
+    "IlceAdi": "MOUNT GRAVATT",
+    "IlceAdiEn": "MOUNT GRAVATT",
+    "IlceID": "11320"
+  },
+  {
+    "IlceAdi": "MOUNT ISA",
+    "IlceAdiEn": "MOUNT ISA",
+    "IlceID": "11264"
+  },
+  {
+    "IlceAdi": "MUNDIWINDI",
+    "IlceAdiEn": "MUNDIWINDI",
+    "IlceID": "11265"
+  },
+  {
+    "IlceAdi": "MURRAY BRIDGE",
+    "IlceAdiEn": "MURRAY BRIDGE",
+    "IlceID": "11266"
+  },
+  {
+    "IlceAdi": "MURWILLUMBAH",
+    "IlceAdiEn": "MURWILLUMBAH",
+    "IlceID": "11267"
+  },
+  {
+    "IlceAdi": "NAMBOUR",
+    "IlceAdiEn": "NAMBOUR",
+    "IlceID": "11268"
+  },
+  {
+    "IlceAdi": "NARRABRI",
+    "IlceAdiEn": "NARRABRI",
+    "IlceID": "11269"
+  },
+  {
+    "IlceAdi": "NEDLANDS",
+    "IlceAdiEn": "NEDLANDS",
+    "IlceID": "11345"
+  },
+  {
+    "IlceAdi": "NELSON BAY",
+    "IlceAdiEn": "NELSON BAY",
+    "IlceID": "11270"
+  },
+  {
+    "IlceAdi": "NEW NORFOLK",
+    "IlceAdiEn": "NEW NORFOLK",
+    "IlceID": "11329"
+  },
+  {
+    "IlceAdi": "NEWCASTLE",
+    "IlceAdiEn": "NEWCASTLE",
+    "IlceID": "11434"
+  },
+  {
+    "IlceAdi": "NOARLUNGA",
+    "IlceAdiEn": "NOARLUNGA",
+    "IlceID": "11309"
+  },
+  {
+    "IlceAdi": "NOONAMBAH",
+    "IlceAdiEn": "NOONAMBAH",
+    "IlceID": "11325"
+  },
+  {
+    "IlceAdi": "NORTH CANBERRA",
+    "IlceAdiEn": "NORTH CANBERRA",
+    "IlceID": "11402"
+  },
+  {
+    "IlceAdi": "NOWRA",
+    "IlceAdiEn": "NOWRA",
+    "IlceID": "11271"
+  },
+  {
+    "IlceAdi": "NUNAWADING",
+    "IlceAdiEn": "NUNAWADING",
+    "IlceID": "11272"
+  },
+  {
+    "IlceAdi": "O CONNOR",
+    "IlceAdiEn": "O CONNOR",
+    "IlceID": "11346"
+  },
+  {
+    "IlceAdi": "OODNADATTA",
+    "IlceAdiEn": "OODNADATTA",
+    "IlceID": "11273"
+  },
+  {
+    "IlceAdi": "OPOSSUM BAY ",
+    "IlceAdiEn": "OPOSSUM BAY ",
+    "IlceID": "11330"
+  },
+  {
+    "IlceAdi": "ORANGE",
+    "IlceAdiEn": "ORANGE",
+    "IlceID": "11274"
+  },
+  {
+    "IlceAdi": "PARRAMATTA",
+    "IlceAdiEn": "PARRAMATTA",
+    "IlceID": "11275"
+  },
+  {
+    "IlceAdi": "PAYNEHAM",
+    "IlceAdiEn": "PAYNEHAM",
+    "IlceID": "11310"
+  },
+  {
+    "IlceAdi": "PENRITH",
+    "IlceAdiEn": "PENRITH",
+    "IlceID": "11276"
+  },
+  {
+    "IlceAdi": "PERTH",
+    "IlceAdiEn": "PERTH",
+    "IlceID": "11427"
+  },
+  {
+    "IlceAdi": "PORT ADELAIDE",
+    "IlceAdiEn": "PORT ADELAIDE",
+    "IlceID": "11311"
+  },
+  {
+    "IlceAdi": "PORT HEDLAND",
+    "IlceAdiEn": "PORT HEDLAND",
+    "IlceID": "11277"
+  },
+  {
+    "IlceAdi": "PORT MACQUARIE",
+    "IlceAdiEn": "PORT MACQUARIE",
+    "IlceID": "11279"
+  },
+  {
+    "IlceAdi": "PORTKEMBLA",
+    "IlceAdiEn": "PORTKEMBLA",
+    "IlceID": "11358"
+  },
+  {
+    "IlceAdi": "PORTLAND",
+    "IlceAdiEn": "PORTLAND",
+    "IlceID": "11278"
+  },
+  {
+    "IlceAdi": "PRAHRAN",
+    "IlceAdiEn": "PRAHRAN",
+    "IlceID": "11280"
+  },
+  {
+    "IlceAdi": "PRESTON",
+    "IlceAdiEn": "PRESTON",
+    "IlceID": "11281"
+  },
+  {
+    "IlceAdi": "QUEANBEYAN",
+    "IlceAdiEn": "QUEANBEYAN",
+    "IlceID": "11282"
+  },
+  {
+    "IlceAdi": "RANDWICK",
+    "IlceAdiEn": "RANDWICK",
+    "IlceID": "11352"
+  },
+  {
+    "IlceAdi": "RAYMOND TERRACE",
+    "IlceAdiEn": "RAYMOND TERRACE",
+    "IlceID": "11338"
+  },
+  {
+    "IlceAdi": "REDCLIFFE",
+    "IlceAdiEn": "REDCLIFFE",
+    "IlceID": "11283"
+  },
+  {
+    "IlceAdi": "RENMARK",
+    "IlceAdiEn": "RENMARK",
+    "IlceID": "11424"
+  },
+  {
+    "IlceAdi": "RICHMOND (Q)",
+    "IlceAdiEn": "RICHMOND (Q)",
+    "IlceID": "11284"
+  },
+  {
+    "IlceAdi": "ROCKDALE",
+    "IlceAdiEn": "ROCKDALE",
+    "IlceID": "11364"
+  },
+  {
+    "IlceAdi": "ROCKHAMPTON",
+    "IlceAdiEn": "ROCKHAMPTON",
+    "IlceID": "11285"
+  },
+  {
+    "IlceAdi": "ROCKINGHAM",
+    "IlceAdiEn": "ROCKINGHAM",
+    "IlceID": "11286"
+  },
+  {
+    "IlceAdi": "ROCKLEA",
+    "IlceAdiEn": "ROCKLEA",
+    "IlceID": "11321"
+  },
+  {
+    "IlceAdi": "ROMA",
+    "IlceAdiEn": "ROMA",
+    "IlceID": "11287"
+  },
+  {
+    "IlceAdi": "RYDE",
+    "IlceAdiEn": "RYDE",
+    "IlceID": "11366"
+  },
+  {
+    "IlceAdi": "SALE",
+    "IlceAdiEn": "SALE",
+    "IlceID": "11288"
+  },
+  {
+    "IlceAdi": "SALISBURY(SA)",
+    "IlceAdiEn": "SALISBURY(SA",
+    "IlceID": "11378"
+  },
+  {
+    "IlceAdi": "SANDGATE(Q)",
+    "IlceAdiEn": "SANDGATE(Q)",
+    "IlceID": "11380"
+  },
+  {
+    "IlceAdi": "SANTA TERESA",
+    "IlceAdiEn": "SANTA TERESA",
+    "IlceID": "11316"
+  },
+  {
+    "IlceAdi": "SHELLHARBOUR",
+    "IlceAdiEn": "SHELLHARBOUR",
+    "IlceID": "11359"
+  },
+  {
+    "IlceAdi": "SHEPPARTON",
+    "IlceAdiEn": "SHEPPARTON",
+    "IlceID": "11423"
+  },
+  {
+    "IlceAdi": "SINGLETON",
+    "IlceAdiEn": "SINGLETON",
+    "IlceID": "11339"
+  },
+  {
+    "IlceAdi": "SOUTH PERTH",
+    "IlceAdiEn": "SOUTH PERTH",
+    "IlceID": "11347"
+  },
+  {
+    "IlceAdi": "SOUTHPORT(Q)",
+    "IlceAdiEn": "SOUTHPORT(Q)",
+    "IlceID": "11289"
+  },
+  {
+    "IlceAdi": "SPRINGVALE",
+    "IlceAdiEn": "SPRINGVALE",
+    "IlceID": "11372"
+  },
+  {
+    "IlceAdi": "SPRINGWOOD (Q)",
+    "IlceAdiEn": "SPRINGWOOD (Q)",
+    "IlceID": "11290"
+  },
+  {
+    "IlceAdi": "STIRLING (Perth)",
+    "IlceAdiEn": "STIRLING (Perth)",
+    "IlceID": "11348"
+  },
+  {
+    "IlceAdi": "SUNBURY",
+    "IlceAdiEn": "SUNBURY",
+    "IlceID": "11291"
+  },
+  {
+    "IlceAdi": "SUNSHINE",
+    "IlceAdiEn": "SUNSHINE",
+    "IlceID": "11292"
+  },
+  {
+    "IlceAdi": "SUTHERLAND",
+    "IlceAdiEn": "SUTHERLAND",
+    "IlceID": "11293"
+  },
+  {
+    "IlceAdi": "SUTTON",
+    "IlceAdiEn": "SUTTON",
+    "IlceID": "11322"
+  },
+  {
+    "IlceAdi": "SWAN HILL",
+    "IlceAdiEn": "SWAN HILL",
+    "IlceID": "11294"
+  },
+  {
+    "IlceAdi": "SYDNEY",
+    "IlceAdiEn": "SYDNEY",
+    "IlceID": "22182"
+  },
+  {
+    "IlceAdi": "TAMWORTH",
+    "IlceAdiEn": "TAMWORTH",
+    "IlceID": "11295"
+  },
+  {
+    "IlceAdi": "TEATREE GULLY",
+    "IlceAdiEn": "TEATREE GULLY",
+    "IlceID": "11379"
+  },
+  {
+    "IlceAdi": "TOOWOOMBA",
+    "IlceAdiEn": "TOOWOOMBA",
+    "IlceID": "11296"
+  },
+  {
+    "IlceAdi": "TORQUAY (Q)",
+    "IlceAdiEn": "TORQUAY (Q)",
+    "IlceID": "11297"
+  },
+  {
+    "IlceAdi": "TOWNSVILLE",
+    "IlceAdiEn": "TOWNSVILLE",
+    "IlceID": "11224"
+  },
+  {
+    "IlceAdi": "TRARALGON",
+    "IlceAdiEn": "TRARALGON",
+    "IlceID": "11392"
+  },
+  {
+    "IlceAdi": "TUGGERANONG",
+    "IlceAdiEn": "TUGGERANONG",
+    "IlceID": "11409"
+  },
+  {
+    "IlceAdi": "ULLADULLA",
+    "IlceAdiEn": "ULLADULLA",
+    "IlceID": "11298"
+  },
+  {
+    "IlceAdi": "WAGGA WAGGA",
+    "IlceAdiEn": "WAGGA WAGGA",
+    "IlceID": "11299"
+  },
+  {
+    "IlceAdi": "WANGARATTA",
+    "IlceAdiEn": "WANGARATTA",
+    "IlceID": "11300"
+  },
+  {
+    "IlceAdi": "WANNEROO",
+    "IlceAdiEn": "WANNEROO",
+    "IlceID": "11349"
+  },
+  {
+    "IlceAdi": "WARRAGUL",
+    "IlceAdiEn": "WARRAGUL",
+    "IlceID": "11394"
+  },
+  {
+    "IlceAdi": "WARRNAMBOOL",
+    "IlceAdiEn": "WARRNAMBOOL",
+    "IlceID": "11301"
+  },
+  {
+    "IlceAdi": "WELSHPOOL(WA)",
+    "IlceAdiEn": "WELSHPOOL(WA)",
+    "IlceID": "11350"
+  },
+  {
+    "IlceAdi": "WESTON CREEK",
+    "IlceAdiEn": "WESTON CREEK",
+    "IlceID": "11407"
+  },
+  {
+    "IlceAdi": "WHYALLA",
+    "IlceAdiEn": "WHYALLA",
+    "IlceID": "11302"
+  },
+  {
+    "IlceAdi": "WINDORAH",
+    "IlceAdiEn": "WINDORAH",
+    "IlceID": "11303"
+  },
+  {
+    "IlceAdi": "WINDSOR",
+    "IlceAdiEn": "WINDSOR",
+    "IlceID": "11304"
+  },
+  {
+    "IlceAdi": "WODEN VALLEY",
+    "IlceAdiEn": "WODEN VALLEY",
+    "IlceID": "11406"
+  },
+  {
+    "IlceAdi": "WODONGA",
+    "IlceAdiEn": "WODONGA",
+    "IlceID": "11305"
+  },
+  {
+    "IlceAdi": "WOLLONGONG",
+    "IlceAdiEn": "WOLLONGONG",
+    "IlceID": "11422"
+  },
+  {
+    "IlceAdi": "WOODVILLE",
+    "IlceAdiEn": "WOODVILLE",
+    "IlceID": "11312"
+  },
+  {
+    "IlceAdi": "YOUNG",
+    "IlceAdiEn": "YOUNG",
+    "IlceID": "11306"
+  }
+]

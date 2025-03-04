@@ -1,0 +1,27 @@
+[
+  {
+    "IlceAdi": "CORVALLIS",
+    "IlceAdiEn": "CORVALLIS",
+    "IlceID": "18993"
+  },
+  {
+    "IlceAdi": "GRESHAM",
+    "IlceAdiEn": "GRESHAM",
+    "IlceID": "8940"
+  },
+  {
+    "IlceAdi": "PORTLAND",
+    "IlceAdiEn": "PORTLAND",
+    "IlceID": "8941"
+  },
+  {
+    "IlceAdi": "SALEM",
+    "IlceAdiEn": "SALEM",
+    "IlceID": "8942"
+  },
+  {
+    "IlceAdi": "SISKIYOU",
+    "IlceAdiEn": "SISKIYOU",
+    "IlceID": "8943"
+  }
+]

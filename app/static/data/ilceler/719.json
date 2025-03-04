@@ -1,0 +1,577 @@
+[
+  {
+    "IlceAdi": "ADILABAD",
+    "IlceAdiEn": "ADILABAD",
+    "IlceID": "13671"
+  },
+  {
+    "IlceAdi": "AGRA",
+    "IlceAdiEn": "AGRA",
+    "IlceID": "13570"
+  },
+  {
+    "IlceAdi": "AHMEDABAD",
+    "IlceAdiEn": "AHMEDABAD",
+    "IlceID": "13569"
+  },
+  {
+    "IlceAdi": "AHMEDNAGAR",
+    "IlceAdiEn": "AHMEDNAGAR",
+    "IlceID": "13571"
+  },
+  {
+    "IlceAdi": "AKOLA",
+    "IlceAdiEn": "AKOLA",
+    "IlceID": "13572"
+  },
+  {
+    "IlceAdi": "AMBALA",
+    "IlceAdiEn": "AMBALA",
+    "IlceID": "13573"
+  },
+  {
+    "IlceAdi": "AMRAVATI",
+    "IlceAdiEn": "AMRAVATI",
+    "IlceID": "13574"
+  },
+  {
+    "IlceAdi": "AMRITSAR",
+    "IlceAdiEn": "AMRITSAR",
+    "IlceID": "13575"
+  },
+  {
+    "IlceAdi": "BALESHWAR",
+    "IlceAdiEn": "BALESHWAR",
+    "IlceID": "13623"
+  },
+  {
+    "IlceAdi": "BANGALORE",
+    "IlceAdiEn": "BANGALORE",
+    "IlceID": "13568"
+  },
+  {
+    "IlceAdi": "BARDDHAMAN",
+    "IlceAdiEn": "BARDDHAMAN",
+    "IlceID": "13585"
+  },
+  {
+    "IlceAdi": "BARIPADA",
+    "IlceAdiEn": "BARIPADA",
+    "IlceID": "13576"
+  },
+  {
+    "IlceAdi": "BELGAUM",
+    "IlceAdiEn": "BELGAUM",
+    "IlceID": "13577"
+  },
+  {
+    "IlceAdi": "BHAVANI",
+    "IlceAdiEn": "BHAVANI",
+    "IlceID": "13584"
+  },
+  {
+    "IlceAdi": "BHILAI",
+    "IlceAdiEn": "BHILAI",
+    "IlceID": "13578"
+  },
+  {
+    "IlceAdi": "BHIWANDI",
+    "IlceAdiEn": "BHIWANDI",
+    "IlceID": "13579"
+  },
+  {
+    "IlceAdi": "BHOPAL",
+    "IlceAdiEn": "BHOPAL",
+    "IlceID": "13580"
+  },
+  {
+    "IlceAdi": "BHUBANESHWAR",
+    "IlceAdiEn": "BHUBANESHWAR",
+    "IlceID": "13581"
+  },
+  {
+    "IlceAdi": "BHUJ",
+    "IlceAdiEn": "BHUJ",
+    "IlceID": "13582"
+  },
+  {
+    "IlceAdi": "BILASPUR",
+    "IlceAdiEn": "BILASPUR",
+    "IlceID": "13583"
+  },
+  {
+    "IlceAdi": "BOMBAY",
+    "IlceAdiEn": "MUMBAI",
+    "IlceID": "13681"
+  },
+  {
+    "IlceAdi": "CALCUTTA",
+    "IlceAdiEn": "CALCUTTA",
+    "IlceID": "13586"
+  },
+  {
+    "IlceAdi": "CALICUT",
+    "IlceAdiEn": "CALICUT",
+    "IlceID": "13631"
+  },
+  {
+    "IlceAdi": "CHANDIGARH",
+    "IlceAdiEn": "CHANDIGARH",
+    "IlceID": "13587"
+  },
+  {
+    "IlceAdi": "CHENNAI",
+    "IlceAdiEn": "CHENNAI",
+    "IlceID": "13588"
+  },
+  {
+    "IlceAdi": "CHHATARPUR",
+    "IlceAdiEn": "CHHATARPUR",
+    "IlceID": "13589"
+  },
+  {
+    "IlceAdi": "CHHINDWARA",
+    "IlceAdiEn": "CHHINDWARA",
+    "IlceID": "13590"
+  },
+  {
+    "IlceAdi": "COCHIN",
+    "IlceAdiEn": "COCHIN",
+    "IlceID": "13591"
+  },
+  {
+    "IlceAdi": "COIMBATORE",
+    "IlceAdiEn": "COIMBATORE",
+    "IlceID": "13592"
+  },
+  {
+    "IlceAdi": "CUDDALORE",
+    "IlceAdiEn": "CUDDALORE",
+    "IlceID": "13593"
+  },
+  {
+    "IlceAdi": "CUTTACK",
+    "IlceAdiEn": "CUTTACK",
+    "IlceID": "13630"
+  },
+  {
+    "IlceAdi": "DEHRA DUN",
+    "IlceAdiEn": "DEHRA DUN",
+    "IlceID": "13594"
+  },
+  {
+    "IlceAdi": "DIBRUGARH",
+    "IlceAdiEn": "DIBRUGARH",
+    "IlceID": "13596"
+  },
+  {
+    "IlceAdi": "DURG",
+    "IlceAdiEn": "DURG",
+    "IlceID": "13598"
+  },
+  {
+    "IlceAdi": "DURGAPUR",
+    "IlceAdiEn": "DURGAPUR",
+    "IlceID": "13599"
+  },
+  {
+    "IlceAdi": "ERODE",
+    "IlceAdiEn": "ERODE",
+    "IlceID": "13600"
+  },
+  {
+    "IlceAdi": "FAIZABAD",
+    "IlceAdiEn": "FAIZABAD",
+    "IlceID": "13601"
+  },
+  {
+    "IlceAdi": "GANDHINAGAR (GUJARAT)",
+    "IlceAdiEn": "GANDHINAGAR (GUJARAT)",
+    "IlceID": "13602"
+  },
+  {
+    "IlceAdi": "GAUHATI",
+    "IlceAdiEn": "GAUHATI",
+    "IlceID": "13603"
+  },
+  {
+    "IlceAdi": "GONDIA",
+    "IlceAdiEn": "GONDIA",
+    "IlceID": "13595"
+  },
+  {
+    "IlceAdi": "GULBARGA",
+    "IlceAdiEn": "GULBARGA",
+    "IlceID": "13605"
+  },
+  {
+    "IlceAdi": "GUNTUR",
+    "IlceAdiEn": "GUNTUR",
+    "IlceID": "13606"
+  },
+  {
+    "IlceAdi": "GURGAON",
+    "IlceAdiEn": "GURGAON",
+    "IlceID": "13607"
+  },
+  {
+    "IlceAdi": "GUWAHATI",
+    "IlceAdiEn": "GUWAHATI",
+    "IlceID": "13608"
+  },
+  {
+    "IlceAdi": "GWALIOR",
+    "IlceAdiEn": "GWALIOR",
+    "IlceID": "13609"
+  },
+  {
+    "IlceAdi": "HALDIA",
+    "IlceAdiEn": "HALDIA",
+    "IlceID": "13604"
+  },
+  {
+    "IlceAdi": "HISAR",
+    "IlceAdiEn": "HISAR",
+    "IlceID": "13611"
+  },
+  {
+    "IlceAdi": "HOSHIARPUR",
+    "IlceAdiEn": "HOSHIARPUR",
+    "IlceID": "13610"
+  },
+  {
+    "IlceAdi": "HYDERABAD",
+    "IlceAdiEn": "HYDERABAD",
+    "IlceID": "13679"
+  },
+  {
+    "IlceAdi": "ICHALKARANJI",
+    "IlceAdiEn": "ICHALKARANJI",
+    "IlceID": "13612"
+  },
+  {
+    "IlceAdi": "IMPHAL",
+    "IlceAdiEn": "IMPHAL",
+    "IlceID": "13613"
+  },
+  {
+    "IlceAdi": "INDORE",
+    "IlceAdiEn": "INDORE",
+    "IlceID": "13614"
+  },
+  {
+    "IlceAdi": "JABALPUR",
+    "IlceAdiEn": "JABALPUR",
+    "IlceID": "13615"
+  },
+  {
+    "IlceAdi": "JAIPUR",
+    "IlceAdiEn": "JAIPUR",
+    "IlceID": "13616"
+  },
+  {
+    "IlceAdi": "JALANDHAR ( JULLUNDUR )",
+    "IlceAdiEn": "JALANDHAR ( JULLUNDUR )",
+    "IlceID": "13617"
+  },
+  {
+    "IlceAdi": "JALGAON (MAHARASTITRA)",
+    "IlceAdiEn": "JALGAON (MAHARASTITRA)",
+    "IlceID": "13618"
+  },
+  {
+    "IlceAdi": "JAMMU",
+    "IlceAdiEn": "JAMMU",
+    "IlceID": "13619"
+  },
+  {
+    "IlceAdi": "JAMSHEDPUR",
+    "IlceAdiEn": "JAMSHEDPUR",
+    "IlceID": "13597"
+  },
+  {
+    "IlceAdi": "JORHAT",
+    "IlceAdiEn": "JORHAT",
+    "IlceID": "13620"
+  },
+  {
+    "IlceAdi": "KAKINADA",
+    "IlceAdiEn": "KAKINADA",
+    "IlceID": "13621"
+  },
+  {
+    "IlceAdi": "KALOL",
+    "IlceAdiEn": "KALOL",
+    "IlceID": "13622"
+  },
+  {
+    "IlceAdi": "KALYAN",
+    "IlceAdiEn": "KALYAN",
+    "IlceID": "13624"
+  },
+  {
+    "IlceAdi": "KANPUR",
+    "IlceAdiEn": "KANPUR",
+    "IlceID": "13625"
+  },
+  {
+    "IlceAdi": "KHARAGPUR (WEST BENGAL)",
+    "IlceAdiEn": "KHARAGPUR (WEST BENGAL)",
+    "IlceID": "13626"
+  },
+  {
+    "IlceAdi": "KOLHAPUR",
+    "IlceAdiEn": "KOLHAPUR",
+    "IlceID": "13627"
+  },
+  {
+    "IlceAdi": "KORBA",
+    "IlceAdiEn": "KORBA",
+    "IlceID": "13628"
+  },
+  {
+    "IlceAdi": "KOTTAYAM",
+    "IlceAdiEn": "KOTTAYAM",
+    "IlceID": "13629"
+  },
+  {
+    "IlceAdi": "KUMBAKANOM",
+    "IlceAdiEn": "KUMBAKANOM",
+    "IlceID": "13632"
+  },
+  {
+    "IlceAdi": "LUCKNOW",
+    "IlceAdiEn": "LUCKNOW",
+    "IlceID": "13633"
+  },
+  {
+    "IlceAdi": "LUDHIANA",
+    "IlceAdiEn": "LUDHIANA",
+    "IlceID": "13634"
+  },
+  {
+    "IlceAdi": "MADURAI",
+    "IlceAdiEn": "MADURAI",
+    "IlceID": "13635"
+  },
+  {
+    "IlceAdi": "MALAPPURAM",
+    "IlceAdiEn": "MALAPPURAM",
+    "IlceID": "13636"
+  },
+  {
+    "IlceAdi": "MANDYA",
+    "IlceAdiEn": "MANDYA",
+    "IlceID": "13637"
+  },
+  {
+    "IlceAdi": "MANGALORE",
+    "IlceAdiEn": "MANGALORE",
+    "IlceID": "13638"
+  },
+  {
+    "IlceAdi": "MEERUT",
+    "IlceAdiEn": "MEERUT",
+    "IlceID": "13640"
+  },
+  {
+    "IlceAdi": "MIRAJ",
+    "IlceAdiEn": "MIRAJ",
+    "IlceID": "13639"
+  },
+  {
+    "IlceAdi": "MYSORE",
+    "IlceAdiEn": "MYSORE",
+    "IlceID": "13641"
+  },
+  {
+    "IlceAdi": "NAGPUR",
+    "IlceAdiEn": "NAGPUR",
+    "IlceID": "13642"
+  },
+  {
+    "IlceAdi": "NALGONDA",
+    "IlceAdiEn": "NALGONDA",
+    "IlceID": "13644"
+  },
+  {
+    "IlceAdi": "NELLORE",
+    "IlceAdiEn": "NELLORE",
+    "IlceID": "13646"
+  },
+  {
+    "IlceAdi": "PATNA",
+    "IlceAdiEn": "PATNA",
+    "IlceID": "13648"
+  },
+  {
+    "IlceAdi": "PIMPRI",
+    "IlceAdiEn": "PIMPRI",
+    "IlceID": "13649"
+  },
+  {
+    "IlceAdi": "PIRPUR",
+    "IlceAdiEn": "PIRPUR",
+    "IlceID": "20062"
+  },
+  {
+    "IlceAdi": "PONDICHERRY",
+    "IlceAdiEn": "PONDICHERRY",
+    "IlceID": "13650"
+  },
+  {
+    "IlceAdi": "PORT BLAIR",
+    "IlceAdiEn": "PORT BLAIR",
+    "IlceID": "13651"
+  },
+  {
+    "IlceAdi": "PUNE",
+    "IlceAdiEn": "PUNE",
+    "IlceID": "13652"
+  },
+  {
+    "IlceAdi": "RAIGARH",
+    "IlceAdiEn": "RAIGARH",
+    "IlceID": "13645"
+  },
+  {
+    "IlceAdi": "RAIPUR",
+    "IlceAdiEn": "RAIPUR",
+    "IlceID": "13653"
+  },
+  {
+    "IlceAdi": "RAJAPALAIYAM",
+    "IlceAdiEn": "RAJAPALAIYAM",
+    "IlceID": "13656"
+  },
+  {
+    "IlceAdi": "RAJKOT",
+    "IlceAdiEn": "RAJKOT",
+    "IlceID": "13654"
+  },
+  {
+    "IlceAdi": "RANCHI",
+    "IlceAdiEn": "RANCHI",
+    "IlceID": "13655"
+  },
+  {
+    "IlceAdi": "RAURKELA",
+    "IlceAdiEn": "RAURKELA",
+    "IlceID": "13657"
+  },
+  {
+    "IlceAdi": "SALEM",
+    "IlceAdiEn": "SALEM",
+    "IlceID": "13658"
+  },
+  {
+    "IlceAdi": "SAMBALPUR",
+    "IlceAdiEn": "SAMBALPUR",
+    "IlceID": "13666"
+  },
+  {
+    "IlceAdi": "SANGLI",
+    "IlceAdiEn": "SANGLI",
+    "IlceID": "13659"
+  },
+  {
+    "IlceAdi": "SECUNDERABAD",
+    "IlceAdiEn": "SECUNDERABAD",
+    "IlceID": "13660"
+  },
+  {
+    "IlceAdi": "SHOLAPUR",
+    "IlceAdiEn": "SHOLAPUR",
+    "IlceID": "13662"
+  },
+  {
+    "IlceAdi": "SIVAKASI",
+    "IlceAdiEn": "SIVAKASI",
+    "IlceID": "13661"
+  },
+  {
+    "IlceAdi": "SRINAGAR",
+    "IlceAdiEn": "SRINAGAR",
+    "IlceID": "13663"
+  },
+  {
+    "IlceAdi": "TENALI",
+    "IlceAdiEn": "TENALI",
+    "IlceID": "13664"
+  },
+  {
+    "IlceAdi": "THANE",
+    "IlceAdiEn": "THANE",
+    "IlceID": "13665"
+  },
+  {
+    "IlceAdi": "THANJAVUR",
+    "IlceAdiEn": "THANJAVUR",
+    "IlceID": "13667"
+  },
+  {
+    "IlceAdi": "TIRUCHIRAPPALLI",
+    "IlceAdiEn": "TIRUCHIRAPPALLI",
+    "IlceID": "13668"
+  },
+  {
+    "IlceAdi": "TIRUNELVELI",
+    "IlceAdiEn": "TIRUNELVELI",
+    "IlceID": "13669"
+  },
+  {
+    "IlceAdi": "TIRUPPUR",
+    "IlceAdiEn": "TIRUPPUR",
+    "IlceID": "13670"
+  },
+  {
+    "IlceAdi": "TRIVANDRUM",
+    "IlceAdiEn": "TRIVANDRUM",
+    "IlceID": "13672"
+  },
+  {
+    "IlceAdi": "UDAIPUR",
+    "IlceAdiEn": "UDAIPUR",
+    "IlceID": "13673"
+  },
+  {
+    "IlceAdi": "UNNAO",
+    "IlceAdiEn": "UNNAO",
+    "IlceID": "13674"
+  },
+  {
+    "IlceAdi": "VADODARA",
+    "IlceAdiEn": "VADODARA",
+    "IlceID": "13675"
+  },
+  {
+    "IlceAdi": "VASAI",
+    "IlceAdiEn": "VASAI",
+    "IlceID": "13676"
+  },
+  {
+    "IlceAdi": "VIJAYAWADA",
+    "IlceAdiEn": "VIJAYAWADA",
+    "IlceID": "13677"
+  },
+  {
+    "IlceAdi": "VISHAKHAPATNAM",
+    "IlceAdiEn": "VISHAKHAPATNAM",
+    "IlceID": "13678"
+  },
+  {
+    "IlceAdi": "WARDHA",
+    "IlceAdiEn": "WARDHA",
+    "IlceID": "13643"
+  },
+  {
+    "IlceAdi": "YAVATMAL",
+    "IlceAdiEn": "YAVATMAL",
+    "IlceID": "13647"
+  },
+  {
+    "IlceAdi": "YENI DELHI",
+    "IlceAdiEn": "NEW DELHI",
+    "IlceID": "13680"
+  }
+]

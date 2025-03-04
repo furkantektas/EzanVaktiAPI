@@ -1,0 +1,52 @@
+[
+  {
+    "IlceAdi": "BENTON",
+    "IlceAdiEn": "BENTON",
+    "IlceID": "21175"
+  },
+  {
+    "IlceAdi": "KENOSHA",
+    "IlceAdiEn": "KENOSHA",
+    "IlceID": "9018"
+  },
+  {
+    "IlceAdi": "MADISON",
+    "IlceAdiEn": "MADISON",
+    "IlceID": "9019"
+  },
+  {
+    "IlceAdi": "MILWAUKEE",
+    "IlceAdiEn": "MILWAUKEE",
+    "IlceID": "9020"
+  },
+  {
+    "IlceAdi": "OCONOMOWOC",
+    "IlceAdiEn": "OCONOMOWOC",
+    "IlceID": "9017"
+  },
+  {
+    "IlceAdi": "RACINE",
+    "IlceAdiEn": "RACINE",
+    "IlceID": "9021"
+  },
+  {
+    "IlceAdi": "RHINELANDER",
+    "IlceAdiEn": "RHINELANDER",
+    "IlceID": "9022"
+  },
+  {
+    "IlceAdi": "SHEBOYGAN",
+    "IlceAdiEn": "SHEBOYGAN",
+    "IlceID": "9023"
+  },
+  {
+    "IlceAdi": "STEVENS POINT",
+    "IlceAdiEn": "STEVENS POINT",
+    "IlceID": "9024"
+  },
+  {
+    "IlceAdi": "SUPERIOR",
+    "IlceAdiEn": "SUPERIOR",
+    "IlceID": "9025"
+  }
+]

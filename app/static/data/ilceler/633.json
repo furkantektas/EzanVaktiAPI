@@ -1,0 +1,27 @@
+[
+  {
+    "IlceAdi": "BANFF",
+    "IlceAdiEn": "BANFF",
+    "IlceID": "9059"
+  },
+  {
+    "IlceAdi": "CALGARY",
+    "IlceAdiEn": "CALGARY",
+    "IlceID": "9060"
+  },
+  {
+    "IlceAdi": "EDMONTON",
+    "IlceAdiEn": "EDMONTON",
+    "IlceID": "9061"
+  },
+  {
+    "IlceAdi": "INUVIK",
+    "IlceAdiEn": "INUVIK",
+    "IlceID": "33273"
+  },
+  {
+    "IlceAdi": "JASPER",
+    "IlceAdiEn": "JASPER",
+    "IlceID": "9062"
+  }
+]

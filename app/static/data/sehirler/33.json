@@ -1,0 +1,257 @@
+[
+  {
+    "SehirAdi": "ALABAMA",
+    "SehirAdiEn": "ALABAMA",
+    "SehirID": "581"
+  },
+  {
+    "SehirAdi": "ALASKA",
+    "SehirAdiEn": "ALASKA",
+    "SehirID": "582"
+  },
+  {
+    "SehirAdi": "ARIZONA",
+    "SehirAdiEn": "ARIZONA",
+    "SehirID": "583"
+  },
+  {
+    "SehirAdi": "ARKANSAS",
+    "SehirAdiEn": "ARKANSAS",
+    "SehirID": "584"
+  },
+  {
+    "SehirAdi": "CALIFORNIA",
+    "SehirAdiEn": "CALIFORNIA",
+    "SehirID": "585"
+  },
+  {
+    "SehirAdi": "COLORADO",
+    "SehirAdiEn": "COLORADO",
+    "SehirID": "587"
+  },
+  {
+    "SehirAdi": "CONNECTICUT",
+    "SehirAdiEn": "CONNECTICUT",
+    "SehirID": "588"
+  },
+  {
+    "SehirAdi": "D.C",
+    "SehirAdiEn": "D.C",
+    "SehirID": "589"
+  },
+  {
+    "SehirAdi": "DELAWARE",
+    "SehirAdiEn": "DELAWARE",
+    "SehirID": "590"
+  },
+  {
+    "SehirAdi": "FLORIDA",
+    "SehirAdiEn": "FLORIDA",
+    "SehirID": "591"
+  },
+  {
+    "SehirAdi": "GEORGIA",
+    "SehirAdiEn": "GEORGIA",
+    "SehirID": "592"
+  },
+  {
+    "SehirAdi": "HAVAI ADALARI",
+    "SehirAdiEn": "HAVAI ADALARI",
+    "SehirID": "593"
+  },
+  {
+    "SehirAdi": "IDAHO",
+    "SehirAdiEn": "IDAHO",
+    "SehirID": "594"
+  },
+  {
+    "SehirAdi": "ILLINOIS",
+    "SehirAdiEn": "ILLINOIS",
+    "SehirID": "595"
+  },
+  {
+    "SehirAdi": "INDIANA",
+    "SehirAdiEn": "INDIANA",
+    "SehirID": "596"
+  },
+  {
+    "SehirAdi": "IOWA",
+    "SehirAdiEn": "IOWA",
+    "SehirID": "597"
+  },
+  {
+    "SehirAdi": "KANSAS",
+    "SehirAdiEn": "KANSAS",
+    "SehirID": "598"
+  },
+  {
+    "SehirAdi": "KENTUCKY",
+    "SehirAdiEn": "KENTUCKY",
+    "SehirID": "599"
+  },
+  {
+    "SehirAdi": "LOUISIANA",
+    "SehirAdiEn": "LOUISIANA",
+    "SehirID": "600"
+  },
+  {
+    "SehirAdi": "MAINE",
+    "SehirAdiEn": "MAINE",
+    "SehirID": "601"
+  },
+  {
+    "SehirAdi": "MARYLAND",
+    "SehirAdiEn": "MARYLAND",
+    "SehirID": "602"
+  },
+  {
+    "SehirAdi": "MASSACHUSETTS",
+    "SehirAdiEn": "MASSACHUSETTS",
+    "SehirID": "603"
+  },
+  {
+    "SehirAdi": "MICHIGAN",
+    "SehirAdiEn": "MICHIGAN",
+    "SehirID": "604"
+  },
+  {
+    "SehirAdi": "MINNESOTA",
+    "SehirAdiEn": "MINNESOTA",
+    "SehirID": "605"
+  },
+  {
+    "SehirAdi": "MISSISSIPPI",
+    "SehirAdiEn": "MISSISSIPPI",
+    "SehirID": "606"
+  },
+  {
+    "SehirAdi": "MISSOURI",
+    "SehirAdiEn": "MISSOURI",
+    "SehirID": "607"
+  },
+  {
+    "SehirAdi": "MONTANA",
+    "SehirAdiEn": "MONTANA",
+    "SehirID": "608"
+  },
+  {
+    "SehirAdi": "NEBRASKA",
+    "SehirAdiEn": "NEBRASKA",
+    "SehirID": "609"
+  },
+  {
+    "SehirAdi": "NEVADA",
+    "SehirAdiEn": "NEVADA",
+    "SehirID": "610"
+  },
+  {
+    "SehirAdi": "NEW HAMPSHIRE",
+    "SehirAdiEn": "NEW HAMPSHIRE",
+    "SehirID": "611"
+  },
+  {
+    "SehirAdi": "NEW JERSEY",
+    "SehirAdiEn": "NEW JERSEY",
+    "SehirID": "612"
+  },
+  {
+    "SehirAdi": "NEW MEXICO",
+    "SehirAdiEn": "NEW MEXICO",
+    "SehirID": "613"
+  },
+  {
+    "SehirAdi": "NEW YORK",
+    "SehirAdiEn": "NEW YORK",
+    "SehirID": "614"
+  },
+  {
+    "SehirAdi": "NORTH CAROLINA",
+    "SehirAdiEn": "NORTH CAROLINA",
+    "SehirID": "615"
+  },
+  {
+    "SehirAdi": "NORTH DAKOTA",
+    "SehirAdiEn": "NORTH DAKOTA",
+    "SehirID": "616"
+  },
+  {
+    "SehirAdi": "OHIO",
+    "SehirAdiEn": "OHIO",
+    "SehirID": "617"
+  },
+  {
+    "SehirAdi": "OKLAHOMA",
+    "SehirAdiEn": "OKLAHOMA",
+    "SehirID": "618"
+  },
+  {
+    "SehirAdi": "OREGON",
+    "SehirAdiEn": "OREGON",
+    "SehirID": "619"
+  },
+  {
+    "SehirAdi": "PENNSYLVANIA",
+    "SehirAdiEn": "PENNSYLVANIA",
+    "SehirID": "620"
+  },
+  {
+    "SehirAdi": "RHODE ISLAND",
+    "SehirAdiEn": "RHODE ISLAND",
+    "SehirID": "621"
+  },
+  {
+    "SehirAdi": "SOUTH CAROLINA",
+    "SehirAdiEn": "SOUTH CAROLINA",
+    "SehirID": "622"
+  },
+  {
+    "SehirAdi": "SOUTH DAKOTA",
+    "SehirAdiEn": "SOUTH DAKOTA",
+    "SehirID": "623"
+  },
+  {
+    "SehirAdi": "TENNESSEE",
+    "SehirAdiEn": "TENNESSEE",
+    "SehirID": "624"
+  },
+  {
+    "SehirAdi": "TEXAS",
+    "SehirAdiEn": "TEXAS",
+    "SehirID": "625"
+  },
+  {
+    "SehirAdi": "UTAH",
+    "SehirAdiEn": "UTAH",
+    "SehirID": "626"
+  },
+  {
+    "SehirAdi": "VERMONT",
+    "SehirAdiEn": "VERMONT",
+    "SehirID": "627"
+  },
+  {
+    "SehirAdi": "VIRGINIA",
+    "SehirAdiEn": "VIRGINIA",
+    "SehirID": "628"
+  },
+  {
+    "SehirAdi": "WASHINGTON",
+    "SehirAdiEn": "WASHINGTON",
+    "SehirID": "629"
+  },
+  {
+    "SehirAdi": "WEST VIRGINIA",
+    "SehirAdiEn": "WEST VIRGINIA",
+    "SehirID": "630"
+  },
+  {
+    "SehirAdi": "WISCONSIN",
+    "SehirAdiEn": "WISCONSIN",
+    "SehirID": "631"
+  },
+  {
+    "SehirAdi": "WYOMING",
+    "SehirAdiEn": "WYOMING",
+    "SehirID": "632"
+  }
+]

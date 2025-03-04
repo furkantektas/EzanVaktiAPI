@@ -1,0 +1,47 @@
+[
+  {
+    "IlceAdi": "ANCHORAGE",
+    "IlceAdiEn": "ANCHORAGE",
+    "IlceID": "8584"
+  },
+  {
+    "IlceAdi": "CORDOVA",
+    "IlceAdiEn": "CORDOVA",
+    "IlceID": "8585"
+  },
+  {
+    "IlceAdi": "GALENA",
+    "IlceAdiEn": "GALENA",
+    "IlceID": "20072"
+  },
+  {
+    "IlceAdi": "JUNEAU",
+    "IlceAdiEn": "JUNEAU",
+    "IlceID": "8586"
+  },
+  {
+    "IlceAdi": "KODIAK",
+    "IlceAdiEn": "KODIAK",
+    "IlceID": "8587"
+  },
+  {
+    "IlceAdi": "NAKNEK",
+    "IlceAdiEn": "NAKNEK",
+    "IlceID": "8588"
+  },
+  {
+    "IlceAdi": "PETERSBURG",
+    "IlceAdiEn": "PETERSBURG",
+    "IlceID": "17818"
+  },
+  {
+    "IlceAdi": "SEWARD",
+    "IlceAdiEn": "SEWARD",
+    "IlceID": "8589"
+  },
+  {
+    "IlceAdi": "VALDEZ",
+    "IlceAdiEn": "VALDEZ",
+    "IlceID": "17819"
+  }
+]

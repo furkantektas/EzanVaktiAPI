@@ -1,0 +1,2912 @@
+[
+  {
+    "IlceAdi": "AGNEAUX",
+    "IlceAdiEn": "AGNEAUX",
+    "IlceID": "12983"
+  },
+  {
+    "IlceAdi": "AIX-EN-PROVENCE",
+    "IlceAdiEn": "AIX-EN-PROVENCE",
+    "IlceID": "13393"
+  },
+  {
+    "IlceAdi": "AIXE-SUR-VIENNE",
+    "IlceAdiEn": "AIXE-SUR-VIENNE",
+    "IlceID": "13234"
+  },
+  {
+    "IlceAdi": "AIX-LES-BAINS",
+    "IlceAdiEn": "AIX-LES-BAINS",
+    "IlceID": "13203"
+  },
+  {
+    "IlceAdi": "ALBERTVILLE",
+    "IlceAdiEn": "ALBERTVILLE",
+    "IlceID": "13204"
+  },
+  {
+    "IlceAdi": "ALBI",
+    "IlceAdiEn": "ALBI",
+    "IlceID": "13394"
+  },
+  {
+    "IlceAdi": "ALENCON",
+    "IlceAdiEn": "ALENCON",
+    "IlceID": "12955"
+  },
+  {
+    "IlceAdi": "ALES ",
+    "IlceAdiEn": "ALES ",
+    "IlceID": "13187"
+  },
+  {
+    "IlceAdi": "ALLEVARD",
+    "IlceAdiEn": "ALLEVARD",
+    "IlceID": "13205"
+  },
+  {
+    "IlceAdi": "ALTKIRCH",
+    "IlceAdiEn": "ALTKIRCH",
+    "IlceID": "13046"
+  },
+  {
+    "IlceAdi": "AMBERT",
+    "IlceAdiEn": "AMBERT",
+    "IlceID": "13275"
+  },
+  {
+    "IlceAdi": "AMBOISE",
+    "IlceAdiEn": "AMBOISE",
+    "IlceID": "12968"
+  },
+  {
+    "IlceAdi": "AMIENS",
+    "IlceAdiEn": "AMIENS",
+    "IlceID": "12945"
+  },
+  {
+    "IlceAdi": "ANDREZIEUX",
+    "IlceAdiEn": "ANDREZIEUX",
+    "IlceID": "13276"
+  },
+  {
+    "IlceAdi": "ANGERS",
+    "IlceAdiEn": "ANGERS",
+    "IlceID": "13314"
+  },
+  {
+    "IlceAdi": "ANGLET",
+    "IlceAdiEn": "ANGLET",
+    "IlceID": "13395"
+  },
+  {
+    "IlceAdi": "ANGOULEME",
+    "IlceAdiEn": "ANGOULEME",
+    "IlceID": "13396"
+  },
+  {
+    "IlceAdi": "ANNECY",
+    "IlceAdiEn": "ANNECY",
+    "IlceID": "13309"
+  },
+  {
+    "IlceAdi": "ANNEMASSE",
+    "IlceAdiEn": "ANNEMASSE",
+    "IlceID": "13310"
+  },
+  {
+    "IlceAdi": "ANNONAY",
+    "IlceAdiEn": "ANNONAY",
+    "IlceID": "13285"
+  },
+  {
+    "IlceAdi": "ANTIBES",
+    "IlceAdiEn": "ANTIBES",
+    "IlceID": "13397"
+  },
+  {
+    "IlceAdi": "ANTRAIN ",
+    "IlceAdiEn": "ANTRAIN ",
+    "IlceID": "13118"
+  },
+  {
+    "IlceAdi": "ARBENT",
+    "IlceAdiEn": "ARBENT",
+    "IlceID": "13268"
+  },
+  {
+    "IlceAdi": "ARBOIS",
+    "IlceAdiEn": "ARBOIS",
+    "IlceID": "12960"
+  },
+  {
+    "IlceAdi": "ARGENTAN",
+    "IlceAdiEn": "ARGENTAN",
+    "IlceID": "17850"
+  },
+  {
+    "IlceAdi": "ARGENTEUIL",
+    "IlceAdiEn": "ARGENTEUIL",
+    "IlceID": "17845"
+  },
+  {
+    "IlceAdi": "ARINTHOD",
+    "IlceAdiEn": "ARINTHOD",
+    "IlceID": "18970"
+  },
+  {
+    "IlceAdi": "ARLES",
+    "IlceAdiEn": "ARLES",
+    "IlceID": "13398"
+  },
+  {
+    "IlceAdi": "ARPAJON",
+    "IlceAdiEn": "ARPAJON",
+    "IlceID": "22191"
+  },
+  {
+    "IlceAdi": "ARRAS",
+    "IlceAdiEn": "ARRAS",
+    "IlceID": "13068"
+  },
+  {
+    "IlceAdi": "ARS-SUR-MOSELLE",
+    "IlceAdiEn": "ARS-SUR-MOSELLE",
+    "IlceID": "13019"
+  },
+  {
+    "IlceAdi": "AUBENAS",
+    "IlceAdiEn": "AUBENAS",
+    "IlceID": "13286"
+  },
+  {
+    "IlceAdi": "AUBOUE",
+    "IlceAdiEn": "AUBOUE",
+    "IlceID": "13020"
+  },
+  {
+    "IlceAdi": "AUDIERNE",
+    "IlceAdiEn": "AUDIERNE",
+    "IlceID": "13083"
+  },
+  {
+    "IlceAdi": "AURAY",
+    "IlceAdiEn": "AURAY",
+    "IlceID": "13167"
+  },
+  {
+    "IlceAdi": "AUSSILLON",
+    "IlceAdiEn": "AUSSILLON",
+    "IlceID": "18960"
+  },
+  {
+    "IlceAdi": "AUTUN",
+    "IlceAdiEn": "AUTUN",
+    "IlceID": "13257"
+  },
+  {
+    "IlceAdi": "AUXERRE",
+    "IlceAdiEn": "AUXERRE",
+    "IlceID": "13399"
+  },
+  {
+    "IlceAdi": "AVALLON",
+    "IlceAdiEn": "AVALLON",
+    "IlceID": "22192"
+  },
+  {
+    "IlceAdi": "AVIGNON",
+    "IlceAdiEn": "AVIGNON",
+    "IlceID": "13428"
+  },
+  {
+    "IlceAdi": "BALBIGNY",
+    "IlceAdiEn": "BALBIGNY",
+    "IlceID": "18968"
+  },
+  {
+    "IlceAdi": "BANNALEC",
+    "IlceAdiEn": "BANNALEC",
+    "IlceID": "13084"
+  },
+  {
+    "IlceAdi": "BAR SUR AUBE",
+    "IlceAdiEn": "BAR SUR AUBE",
+    "IlceID": "18988"
+  },
+  {
+    "IlceAdi": "BARENTIN",
+    "IlceAdiEn": "BARENTIN",
+    "IlceID": "13134"
+  },
+  {
+    "IlceAdi": "BAR-LE-DUC",
+    "IlceAdiEn": "BAR-LE-DUC",
+    "IlceID": "13315"
+  },
+  {
+    "IlceAdi": "BARR",
+    "IlceAdiEn": "BARR",
+    "IlceID": "13160"
+  },
+  {
+    "IlceAdi": "BAUME LES DAMES",
+    "IlceAdiEn": "BAUME LES DAMES",
+    "IlceID": "12961"
+  },
+  {
+    "IlceAdi": "BAYEUX",
+    "IlceAdiEn": "BAYEUX",
+    "IlceID": "12984"
+  },
+  {
+    "IlceAdi": "BAYONNE",
+    "IlceAdiEn": "BAYONNE",
+    "IlceID": "13400"
+  },
+  {
+    "IlceAdi": "BEAUNE",
+    "IlceAdiEn": "BEAUNE",
+    "IlceID": "13401"
+  },
+  {
+    "IlceAdi": "BEAUREPAIRE(ISERE)",
+    "IlceAdiEn": "BEAUREPAIRE(ISERE)",
+    "IlceID": "18984"
+  },
+  {
+    "IlceAdi": "BEAUVAIS",
+    "IlceAdiEn": "BEAUVAIS",
+    "IlceID": "13347"
+  },
+  {
+    "IlceAdi": "BELFORT",
+    "IlceAdiEn": "BELFORT",
+    "IlceID": "13300"
+  },
+  {
+    "IlceAdi": "BELLAC",
+    "IlceAdiEn": "BELLAC",
+    "IlceID": "13235"
+  },
+  {
+    "IlceAdi": "BELLEGARDE (L)",
+    "IlceAdiEn": "BELLEGARDE (L)",
+    "IlceID": "13041"
+  },
+  {
+    "IlceAdi": "BELLEGARDE SUR VALSERINE",
+    "IlceAdiEn": "BELLEGARDE SUR VALSERINE",
+    "IlceID": "13364"
+  },
+  {
+    "IlceAdi": "BELLEVILLE ( R)",
+    "IlceAdiEn": "BELLEVILLE ( R)",
+    "IlceID": "13249"
+  },
+  {
+    "IlceAdi": "BELLEY (AIN)",
+    "IlceAdiEn": "BELLEY (AIN)",
+    "IlceID": "13206"
+  },
+  {
+    "IlceAdi": "BENFELD",
+    "IlceAdiEn": "BENFELD",
+    "IlceID": "22208"
+  },
+  {
+    "IlceAdi": "BENODET",
+    "IlceAdiEn": "BENODET",
+    "IlceID": "13085"
+  },
+  {
+    "IlceAdi": "BERNAY (E )",
+    "IlceAdiEn": "BERNAY (E )",
+    "IlceID": "13135"
+  },
+  {
+    "IlceAdi": "BESANCON",
+    "IlceAdiEn": "BESANCON",
+    "IlceID": "13297"
+  },
+  {
+    "IlceAdi": "BEURGTHEROULDE",
+    "IlceAdiEn": "BEURGTHEROULDE",
+    "IlceID": "13136"
+  },
+  {
+    "IlceAdi": "BEUZEVILLE ( E)",
+    "IlceAdiEn": "BEUZEVILLE ( E)",
+    "IlceID": "12985"
+  },
+  {
+    "IlceAdi": "BEZIERS",
+    "IlceAdiEn": "BEZIERS",
+    "IlceID": "13316"
+  },
+  {
+    "IlceAdi": "BEZONS",
+    "IlceAdiEn": "BEZONS",
+    "IlceID": "13069"
+  },
+  {
+    "IlceAdi": "BIARRITZ",
+    "IlceAdiEn": "BIARRITZ",
+    "IlceID": "13402"
+  },
+  {
+    "IlceAdi": "BISCHWILLER",
+    "IlceAdiEn": "BISCHWILLER",
+    "IlceID": "13365"
+  },
+  {
+    "IlceAdi": "BITCHE",
+    "IlceAdiEn": "BITCHE",
+    "IlceID": "13357"
+  },
+  {
+    "IlceAdi": "BLAIN",
+    "IlceAdiEn": "BLAIN",
+    "IlceID": "13056"
+  },
+  {
+    "IlceAdi": "BLERE",
+    "IlceAdiEn": "BLERE",
+    "IlceID": "12969"
+  },
+  {
+    "IlceAdi": "BLOIS",
+    "IlceAdiEn": "BLOIS",
+    "IlceID": "13330"
+  },
+  {
+    "IlceAdi": "BOHAIN",
+    "IlceAdiEn": "BOHAIN",
+    "IlceID": "13016"
+  },
+  {
+    "IlceAdi": "BOLBEC",
+    "IlceAdiEn": "BOLBEC",
+    "IlceID": "13137"
+  },
+  {
+    "IlceAdi": "BOLLENE",
+    "IlceAdiEn": "BOLLENE",
+    "IlceID": "13188"
+  },
+  {
+    "IlceAdi": "BONNETABLE",
+    "IlceAdiEn": "BONNETABLE",
+    "IlceID": "13006"
+  },
+  {
+    "IlceAdi": "BONNETAGE",
+    "IlceAdiEn": "BONNETAGE",
+    "IlceID": "12962"
+  },
+  {
+    "IlceAdi": "BONNEVILLE (H)",
+    "IlceAdiEn": "BONNEVILLE (H)",
+    "IlceID": "13182"
+  },
+  {
+    "IlceAdi": "BORDEAUX",
+    "IlceAdiEn": "BORDEAUX",
+    "IlceID": "13387"
+  },
+  {
+    "IlceAdi": "BOULAY MOSELLE",
+    "IlceAdiEn": "BOULAY MOSELLE",
+    "IlceID": "20088"
+  },
+  {
+    "IlceAdi": "BOURG DE THIZY",
+    "IlceAdiEn": "BOURG DE THIZY",
+    "IlceID": "18985"
+  },
+  {
+    "IlceAdi": "BOURG EN BRESSE",
+    "IlceAdiEn": "BOURG EN BRESSE",
+    "IlceID": "13340"
+  },
+  {
+    "IlceAdi": "BOURGANEUF",
+    "IlceAdiEn": "BOURGANEUF",
+    "IlceID": "13236"
+  },
+  {
+    "IlceAdi": "BOURGES",
+    "IlceAdiEn": "BOURGES",
+    "IlceID": "13403"
+  },
+  {
+    "IlceAdi": "BOURGOGNE (M)",
+    "IlceAdiEn": "BOURGOGNE (M)",
+    "IlceID": "13105"
+  },
+  {
+    "IlceAdi": "BOURGOIN JAILLEU",
+    "IlceAdiEn": "BOURGOIN JAILLEU",
+    "IlceID": "13319"
+  },
+  {
+    "IlceAdi": "BOUZONVILLE",
+    "IlceAdiEn": "BOUZONVILLE",
+    "IlceID": "13292"
+  },
+  {
+    "IlceAdi": "BRAINE",
+    "IlceAdiEn": "BRAINE",
+    "IlceID": "13106"
+  },
+  {
+    "IlceAdi": "BREST",
+    "IlceAdiEn": "BREST",
+    "IlceID": "13352"
+  },
+  {
+    "IlceAdi": "BRIARE (L)",
+    "IlceAdiEn": "BRIARE (L)",
+    "IlceID": "13042"
+  },
+  {
+    "IlceAdi": "BRIEY",
+    "IlceAdiEn": "BRIEY",
+    "IlceID": "13021"
+  },
+  {
+    "IlceAdi": "BRIGNOLES",
+    "IlceAdiEn": "BRIGNOLES",
+    "IlceID": "13349"
+  },
+  {
+    "IlceAdi": "BRIONNE",
+    "IlceAdiEn": "BRIONNE",
+    "IlceID": "13138"
+  },
+  {
+    "IlceAdi": "BRIVE (L-A)",
+    "IlceAdiEn": "BRIVE (L-A)",
+    "IlceID": "13057"
+  },
+  {
+    "IlceAdi": "BRIVE LA GAILLARDE",
+    "IlceAdiEn": "BRIVE LA GAILLARDE",
+    "IlceID": "13191"
+  },
+  {
+    "IlceAdi": "BROONS (C )",
+    "IlceAdiEn": "BROONS (C )",
+    "IlceID": "13119"
+  },
+  {
+    "IlceAdi": "BRUYERES",
+    "IlceAdiEn": "BRUYERES",
+    "IlceID": "20104"
+  },
+  {
+    "IlceAdi": "BRUZ ",
+    "IlceAdiEn": "BRUZ ",
+    "IlceID": "13120"
+  },
+  {
+    "IlceAdi": "C.RENAULT",
+    "IlceAdiEn": "C.RENAULT",
+    "IlceID": "12971"
+  },
+  {
+    "IlceAdi": "CAEN",
+    "IlceAdiEn": "CAEN",
+    "IlceID": "13308"
+  },
+  {
+    "IlceAdi": "CALAIS",
+    "IlceAdiEn": "CALAIS",
+    "IlceID": "13389"
+  },
+  {
+    "IlceAdi": "CAMBRAI",
+    "IlceAdiEn": "CAMBRAI",
+    "IlceID": "13404"
+  },
+  {
+    "IlceAdi": "CANNES",
+    "IlceAdiEn": "CANNES",
+    "IlceID": "13388"
+  },
+  {
+    "IlceAdi": "CANTELEU ROUEN",
+    "IlceAdiEn": "CANTELEU ROUEN",
+    "IlceID": "17851"
+  },
+  {
+    "IlceAdi": "CARCASSONNE",
+    "IlceAdiEn": "CARCASSONNE",
+    "IlceID": "13405"
+  },
+  {
+    "IlceAdi": "CARENTAN",
+    "IlceAdiEn": "CARENTAN",
+    "IlceID": "12986"
+  },
+  {
+    "IlceAdi": "CARLING",
+    "IlceAdiEn": "CARLING",
+    "IlceID": "13022"
+  },
+  {
+    "IlceAdi": "CARNAC (M)",
+    "IlceAdiEn": "CARNAC (M)",
+    "IlceID": "13168"
+  },
+  {
+    "IlceAdi": "CARRIERES SUR POISSY ",
+    "IlceAdiEn": "CARRIERES SUR POISSY ",
+    "IlceID": "13071"
+  },
+  {
+    "IlceAdi": "CASTRES (TARN)",
+    "IlceAdiEn": "CASTRES (TARN)",
+    "IlceID": "12953"
+  },
+  {
+    "IlceAdi": "CELLES SUR DUROLLE",
+    "IlceAdiEn": "CELLES SUR DUROLLE",
+    "IlceID": "18965"
+  },
+  {
+    "IlceAdi": "CERGY",
+    "IlceAdiEn": "CERGY",
+    "IlceID": "13406"
+  },
+  {
+    "IlceAdi": "CERNAY",
+    "IlceAdiEn": "CERNAY",
+    "IlceID": "13047"
+  },
+  {
+    "IlceAdi": "CHALETTE SUR LOING",
+    "IlceAdiEn": "CHALETTE SUR LOING",
+    "IlceID": "13061"
+  },
+  {
+    "IlceAdi": "CHALON SUR SAONE",
+    "IlceAdiEn": "CHALON SUR SAONE",
+    "IlceID": "13259"
+  },
+  {
+    "IlceAdi": "CHALONS-EN-CHAMPAGNE",
+    "IlceAdiEn": "CHALONS-EN-CHAMPAGNE",
+    "IlceID": "13407"
+  },
+  {
+    "IlceAdi": "CHAMBERY",
+    "IlceAdiEn": "CHAMBERY",
+    "IlceID": "13341"
+  },
+  {
+    "IlceAdi": "CHAMPAGNOLE",
+    "IlceAdiEn": "CHAMPAGNOLE",
+    "IlceID": "13247"
+  },
+  {
+    "IlceAdi": "CHAMPFORGEUIL",
+    "IlceAdiEn": "CHAMPFORGEUIL",
+    "IlceID": "18969"
+  },
+  {
+    "IlceAdi": "CHAMPIGNY SUR MARNE",
+    "IlceAdiEn": "CHAMPIGNY SUR MARNE",
+    "IlceID": "22193"
+  },
+  {
+    "IlceAdi": "CHARLEVILLE-MEZIERES",
+    "IlceAdiEn": "CHARLEVILLE-MEZIERES",
+    "IlceID": "13305"
+  },
+  {
+    "IlceAdi": "CHAROST",
+    "IlceAdiEn": "CHAROST",
+    "IlceID": "12978"
+  },
+  {
+    "IlceAdi": "CHARTRES",
+    "IlceAdiEn": "CHARTRES",
+    "IlceID": "17852"
+  },
+  {
+    "IlceAdi": "CHATEAU THIERRY",
+    "IlceAdiEn": "CHATEAU THIERRY",
+    "IlceID": "17846"
+  },
+  {
+    "IlceAdi": "CHATEAUBRIANT",
+    "IlceAdiEn": "CHATEAUBRIANT",
+    "IlceID": "13317"
+  },
+  {
+    "IlceAdi": "CHATEAUDUN",
+    "IlceAdiEn": "CHATEAUDUN",
+    "IlceID": "13062"
+  },
+  {
+    "IlceAdi": "CHATEAULIN",
+    "IlceAdiEn": "CHATEAULIN",
+    "IlceID": "13086"
+  },
+  {
+    "IlceAdi": "CHATEAUNEUF-SUR-LOIRE",
+    "IlceAdiEn": "CHATEAUNEUF-SUR-LOIRE",
+    "IlceID": "13063"
+  },
+  {
+    "IlceAdi": "CHATEAUROUX",
+    "IlceAdiEn": "CHATEAUROUX",
+    "IlceID": "13331"
+  },
+  {
+    "IlceAdi": "CHATENOIS(VOSGES)",
+    "IlceAdiEn": "CHATENOIS(VOSGES)",
+    "IlceID": "20106"
+  },
+  {
+    "IlceAdi": "CHATILLON SUR SEINE",
+    "IlceAdiEn": "CHATILLON SUR SEINE",
+    "IlceID": "13258"
+  },
+  {
+    "IlceAdi": "CHENOVE",
+    "IlceAdiEn": "CHENOVE",
+    "IlceID": "13219"
+  },
+  {
+    "IlceAdi": "CHERBOURG",
+    "IlceAdiEn": "CHERBOURG",
+    "IlceID": "22202"
+  },
+  {
+    "IlceAdi": "CHOLET",
+    "IlceAdiEn": "CHOLET",
+    "IlceID": "13058"
+  },
+  {
+    "IlceAdi": "CLERMONT ",
+    "IlceAdiEn": "CLERMONT ",
+    "IlceID": "13070"
+  },
+  {
+    "IlceAdi": "CLERMONT-FERRAND",
+    "IlceAdiEn": "CLERMONT-FERRAND",
+    "IlceID": "13366"
+  },
+  {
+    "IlceAdi": "CLICHY S/BOIS",
+    "IlceAdiEn": "CLICHY S/BOIS",
+    "IlceID": "13367"
+  },
+  {
+    "IlceAdi": "CLUSES",
+    "IlceAdiEn": "CLUSES",
+    "IlceID": "12954"
+  },
+  {
+    "IlceAdi": "COLMAR",
+    "IlceAdiEn": "COLMAR",
+    "IlceID": "13302"
+  },
+  {
+    "IlceAdi": "COMMERCY",
+    "IlceAdiEn": "COMMERCY",
+    "IlceID": "13157"
+  },
+  {
+    "IlceAdi": "COMPIEGNE",
+    "IlceAdiEn": "COMPIEGNE",
+    "IlceID": "13345"
+  },
+  {
+    "IlceAdi": "CONCARNEAU",
+    "IlceAdiEn": "CONCARNEAU",
+    "IlceID": "13087"
+  },
+  {
+    "IlceAdi": "CONNERE",
+    "IlceAdiEn": "CONNERE",
+    "IlceID": "13007"
+  },
+  {
+    "IlceAdi": "CONTRES ( C)",
+    "IlceAdiEn": "CONTRES ( C)",
+    "IlceID": "12970"
+  },
+  {
+    "IlceAdi": "CORBEIL-ESSONES",
+    "IlceAdiEn": "CORBEIL-ESSONES",
+    "IlceID": "22190"
+  },
+  {
+    "IlceAdi": "COURSAN",
+    "IlceAdiEn": "COURSAN",
+    "IlceID": "13263"
+  },
+  {
+    "IlceAdi": "COURTENAY",
+    "IlceAdiEn": "COURTENAY",
+    "IlceID": "13043"
+  },
+  {
+    "IlceAdi": "COUTANCES",
+    "IlceAdiEn": "COUTANCES",
+    "IlceID": "12987"
+  },
+  {
+    "IlceAdi": "COUTRAS",
+    "IlceAdiEn": "COUTRAS",
+    "IlceID": "20068"
+  },
+  {
+    "IlceAdi": "CRAN-GEVRIER",
+    "IlceAdiEn": "CRAN-GEVRIER",
+    "IlceID": "18971"
+  },
+  {
+    "IlceAdi": "CREIL",
+    "IlceAdiEn": "CREIL",
+    "IlceID": "13344"
+  },
+  {
+    "IlceAdi": "CREPY EN VALOIS",
+    "IlceAdiEn": "CREPY EN VALOIS",
+    "IlceID": "13329"
+  },
+  {
+    "IlceAdi": "CREST",
+    "IlceAdiEn": "CREST",
+    "IlceID": "13287"
+  },
+  {
+    "IlceAdi": "CREUTZWALD",
+    "IlceAdiEn": "CREUTZWALD",
+    "IlceID": "13001"
+  },
+  {
+    "IlceAdi": "DARNETAL ",
+    "IlceAdiEn": "DARNETAL ",
+    "IlceID": "13139"
+  },
+  {
+    "IlceAdi": "DEAUVILLE",
+    "IlceAdiEn": "DEAUVILLE",
+    "IlceID": "12988"
+  },
+  {
+    "IlceAdi": "DECINES CHARPIEU",
+    "IlceAdiEn": "DECINES CHARPIEU",
+    "IlceID": "18972"
+  },
+  {
+    "IlceAdi": "DELLE",
+    "IlceAdiEn": "DELLE",
+    "IlceID": "13048"
+  },
+  {
+    "IlceAdi": "DIEPPE",
+    "IlceAdiEn": "DIEPPE",
+    "IlceID": "13140"
+  },
+  {
+    "IlceAdi": "DIEUZE",
+    "IlceAdiEn": "DIEUZE",
+    "IlceID": "13023"
+  },
+  {
+    "IlceAdi": "DIGNE LES BAINS(DIGNE)",
+    "IlceAdiEn": "DIGNE LES BAINS(DIGNE)",
+    "IlceID": "13216"
+  },
+  {
+    "IlceAdi": "DIGOIN",
+    "IlceAdiEn": "DIGOIN",
+    "IlceID": "13260"
+  },
+  {
+    "IlceAdi": "DIJON",
+    "IlceAdiEn": "DIJON",
+    "IlceID": "13429"
+  },
+  {
+    "IlceAdi": "DINARD",
+    "IlceAdiEn": "DINARD",
+    "IlceID": "13121"
+  },
+  {
+    "IlceAdi": "DOLE",
+    "IlceAdiEn": "DOLE",
+    "IlceID": "13220"
+  },
+  {
+    "IlceAdi": "DORDIVES",
+    "IlceAdiEn": "DORDIVES",
+    "IlceID": "13044"
+  },
+  {
+    "IlceAdi": "DOUAI",
+    "IlceAdiEn": "DOUAI",
+    "IlceID": "13408"
+  },
+  {
+    "IlceAdi": "DOUARNENEZ",
+    "IlceAdiEn": "DOUARNENEZ",
+    "IlceID": "13088"
+  },
+  {
+    "IlceAdi": "DREUX",
+    "IlceAdiEn": "DREUX",
+    "IlceID": "16729"
+  },
+  {
+    "IlceAdi": "DUNKERQUE",
+    "IlceAdiEn": "DUNKERQUE",
+    "IlceID": "13017"
+  },
+  {
+    "IlceAdi": "ECHIROLLES",
+    "IlceAdiEn": "ECHIROLLES",
+    "IlceID": "13224"
+  },
+  {
+    "IlceAdi": "ECOMMOY",
+    "IlceAdiEn": "ECOMMOY",
+    "IlceID": "13008"
+  },
+  {
+    "IlceAdi": "EGLETONS",
+    "IlceAdiEn": "EGLETONS",
+    "IlceID": "13192"
+  },
+  {
+    "IlceAdi": "ELANCOURT",
+    "IlceAdiEn": "ELANCOURT",
+    "IlceID": "13409"
+  },
+  {
+    "IlceAdi": "ELVEN (M)",
+    "IlceAdiEn": "ELVEN (M)",
+    "IlceID": "13169"
+  },
+  {
+    "IlceAdi": "EMBRUN",
+    "IlceAdiEn": "EMBRUN",
+    "IlceID": "13217"
+  },
+  {
+    "IlceAdi": "ENSISHEIM",
+    "IlceAdiEn": "ENSISHEIM",
+    "IlceID": "13049"
+  },
+  {
+    "IlceAdi": "EPERNAY",
+    "IlceAdiEn": "EPERNAY",
+    "IlceID": "13306"
+  },
+  {
+    "IlceAdi": "EPINAL",
+    "IlceAdiEn": "EPINAL",
+    "IlceID": "12946"
+  },
+  {
+    "IlceAdi": "ERNEE",
+    "IlceAdiEn": "ERNEE",
+    "IlceID": "13122"
+  },
+  {
+    "IlceAdi": "ERSTEIN",
+    "IlceAdiEn": "ERSTEIN",
+    "IlceID": "20107"
+  },
+  {
+    "IlceAdi": "ESPALION",
+    "IlceAdiEn": "ESPALION",
+    "IlceID": "12951"
+  },
+  {
+    "IlceAdi": "ETAIN",
+    "IlceAdiEn": "ETAIN",
+    "IlceID": "13024"
+  },
+  {
+    "IlceAdi": "ETEL",
+    "IlceAdiEn": "ETEL",
+    "IlceID": "13170"
+  },
+  {
+    "IlceAdi": "ETREPAGNY",
+    "IlceAdiEn": "ETREPAGNY",
+    "IlceID": "13141"
+  },
+  {
+    "IlceAdi": "EVIAN LES BAINS ",
+    "IlceAdiEn": "EVIAN LES BAINS ",
+    "IlceID": "12958"
+  },
+  {
+    "IlceAdi": "EVREUX",
+    "IlceAdiEn": "EVREUX",
+    "IlceID": "13142"
+  },
+  {
+    "IlceAdi": "EVRY",
+    "IlceAdiEn": "EVRY",
+    "IlceID": "33309"
+  },
+  {
+    "IlceAdi": "EYMOUTIERS",
+    "IlceAdiEn": "EYMOUTIERS",
+    "IlceID": "13237"
+  },
+  {
+    "IlceAdi": "FAGNIERES",
+    "IlceAdiEn": "FAGNIERES",
+    "IlceID": "22203"
+  },
+  {
+    "IlceAdi": "FALAISE ( C)",
+    "IlceAdiEn": "FALAISE ( C)",
+    "IlceID": "12989"
+  },
+  {
+    "IlceAdi": "FAMECK",
+    "IlceAdiEn": "FAMECK",
+    "IlceID": "13378"
+  },
+  {
+    "IlceAdi": "FAREBERSVILLER",
+    "IlceAdiEn": "FAREBERSVILLER",
+    "IlceID": "20108"
+  },
+  {
+    "IlceAdi": "FAULQUEMONT",
+    "IlceAdiEn": "FAULQUEMONT",
+    "IlceID": "13027"
+  },
+  {
+    "IlceAdi": "FEURS",
+    "IlceAdiEn": "FEURS",
+    "IlceID": "13277"
+  },
+  {
+    "IlceAdi": "FEYZIN",
+    "IlceAdiEn": "FEYZIN",
+    "IlceID": "13250"
+  },
+  {
+    "IlceAdi": "FIRMINY",
+    "IlceAdiEn": "FIRMINY",
+    "IlceID": "13281"
+  },
+  {
+    "IlceAdi": "FISMES (M)",
+    "IlceAdiEn": "FISMES (M)",
+    "IlceID": "13107"
+  },
+  {
+    "IlceAdi": "FITILIEU",
+    "IlceAdiEn": "FITILIEU",
+    "IlceID": "18973"
+  },
+  {
+    "IlceAdi": "FLERS (O)",
+    "IlceAdiEn": "FLERS (O)",
+    "IlceID": "12990"
+  },
+  {
+    "IlceAdi": "FLORANGE",
+    "IlceAdiEn": "FLORANGE",
+    "IlceID": "13025"
+  },
+  {
+    "IlceAdi": "FOLSCHVILLER",
+    "IlceAdiEn": "FOLSCHVILLER",
+    "IlceID": "13392"
+  },
+  {
+    "IlceAdi": "FONTAINE (RA)",
+    "IlceAdiEn": "FONTAINE (RA)",
+    "IlceID": "13225"
+  },
+  {
+    "IlceAdi": "FONTAINEBLEAU",
+    "IlceAdiEn": "FONTAINEBLEAU",
+    "IlceID": "12947"
+  },
+  {
+    "IlceAdi": "FORBACH",
+    "IlceAdiEn": "FORBACH",
+    "IlceID": "13304"
+  },
+  {
+    "IlceAdi": "FORMERIE",
+    "IlceAdiEn": "FORMERIE",
+    "IlceID": "13143"
+  },
+  {
+    "IlceAdi": "FOUESNANT",
+    "IlceAdiEn": "FOUESNANT",
+    "IlceID": "13089"
+  },
+  {
+    "IlceAdi": "FOUGERES",
+    "IlceAdiEn": "FOUGERES",
+    "IlceID": "13123"
+  },
+  {
+    "IlceAdi": "FREJUS",
+    "IlceAdiEn": "FREJUS",
+    "IlceID": "13342"
+  },
+  {
+    "IlceAdi": "FREYMING-MERLEBACH",
+    "IlceAdiEn": "FREYMING-MERLEBACH",
+    "IlceID": "13026"
+  },
+  {
+    "IlceAdi": "GAILLON",
+    "IlceAdiEn": "GAILLON",
+    "IlceID": "13144"
+  },
+  {
+    "IlceAdi": "GAP",
+    "IlceAdiEn": "GAP",
+    "IlceID": "13410"
+  },
+  {
+    "IlceAdi": "GARGES LES GONESSE",
+    "IlceAdiEn": "GARGES LES GONESSE",
+    "IlceID": "13072"
+  },
+  {
+    "IlceAdi": "GERARDMER",
+    "IlceAdiEn": "GERARDMER",
+    "IlceID": "20109"
+  },
+  {
+    "IlceAdi": "GIEN",
+    "IlceAdiEn": "GIEN",
+    "IlceID": "13320"
+  },
+  {
+    "IlceAdi": "GIROMAGNY",
+    "IlceAdiEn": "GIROMAGNY",
+    "IlceID": "13050"
+  },
+  {
+    "IlceAdi": "GIVORS",
+    "IlceAdiEn": "GIVORS",
+    "IlceID": "13251"
+  },
+  {
+    "IlceAdi": "GOURIN",
+    "IlceAdiEn": "GOURIN",
+    "IlceID": "13090"
+  },
+  {
+    "IlceAdi": "GOURNAY-EN-BRAY",
+    "IlceAdiEn": "GOURNAY-EN-BRAY",
+    "IlceID": "13145"
+  },
+  {
+    "IlceAdi": "GOUSSAINVILLE",
+    "IlceAdiEn": "GOUSSAINVILLE",
+    "IlceID": "13346"
+  },
+  {
+    "IlceAdi": "GRANDVILLARS",
+    "IlceAdiEn": "GRANDVILLARS",
+    "IlceID": "20110"
+  },
+  {
+    "IlceAdi": "GRAY",
+    "IlceAdiEn": "GRAY",
+    "IlceID": "17858"
+  },
+  {
+    "IlceAdi": "GRENOBLE",
+    "IlceAdiEn": "GRENOBLE",
+    "IlceID": "13313"
+  },
+  {
+    "IlceAdi": "GUEBWILLER",
+    "IlceAdiEn": "GUEBWILLER",
+    "IlceID": "13161"
+  },
+  {
+    "IlceAdi": "GUER",
+    "IlceAdiEn": "GUER",
+    "IlceID": "13124"
+  },
+  {
+    "IlceAdi": "GUERANDE",
+    "IlceAdiEn": "GUERANDE",
+    "IlceID": "13171"
+  },
+  {
+    "IlceAdi": "GUERET",
+    "IlceAdiEn": "GUERET",
+    "IlceID": "13238"
+  },
+  {
+    "IlceAdi": "GUIDEL",
+    "IlceAdiEn": "GUIDEL",
+    "IlceID": "13091"
+  },
+  {
+    "IlceAdi": "GUILVINEC",
+    "IlceAdiEn": "GUILVINEC",
+    "IlceID": "13092"
+  },
+  {
+    "IlceAdi": "HAGUENAU",
+    "IlceAdiEn": "HAGUENAU",
+    "IlceID": "13162"
+  },
+  {
+    "IlceAdi": "HAUTE-YUTZ",
+    "IlceAdiEn": "HAUTE-YUTZ",
+    "IlceID": "13031"
+  },
+  {
+    "IlceAdi": "HAYANGE",
+    "IlceAdiEn": "HAYANGE",
+    "IlceID": "13030"
+  },
+  {
+    "IlceAdi": "HAZERBROUCK",
+    "IlceAdiEn": "HAZERBROUCK",
+    "IlceID": "13073"
+  },
+  {
+    "IlceAdi": "HENIN-BEAUMONT",
+    "IlceAdiEn": "HENIN-BEAUMONT",
+    "IlceID": "13411"
+  },
+  {
+    "IlceAdi": "HERBIGNAC",
+    "IlceAdiEn": "HERBIGNAC",
+    "IlceID": "13172"
+  },
+  {
+    "IlceAdi": "HERICOURT",
+    "IlceAdiEn": "HERICOURT",
+    "IlceID": "20111"
+  },
+  {
+    "IlceAdi": "HERRLISHEIM",
+    "IlceAdiEn": "HERRLISHEIM",
+    "IlceID": "13163"
+  },
+  {
+    "IlceAdi": "HOMECOURT",
+    "IlceAdiEn": "HOMECOURT",
+    "IlceID": "13032"
+  },
+  {
+    "IlceAdi": "HUTTENHEIM",
+    "IlceAdiEn": "HUTTENHEIM",
+    "IlceID": "20105"
+  },
+  {
+    "IlceAdi": "HYERES",
+    "IlceAdiEn": "HYERES",
+    "IlceID": "13412"
+  },
+  {
+    "IlceAdi": "INGWILLER",
+    "IlceAdiEn": "INGWILLER",
+    "IlceID": "13164"
+  },
+  {
+    "IlceAdi": "ISSOIRE",
+    "IlceAdiEn": "ISSOIRE",
+    "IlceID": "13209"
+  },
+  {
+    "IlceAdi": "ISSOUDUN",
+    "IlceAdiEn": "ISSOUDUN",
+    "IlceID": "12979"
+  },
+  {
+    "IlceAdi": "IZERNORE",
+    "IlceAdiEn": "IZERNORE",
+    "IlceID": "13269"
+  },
+  {
+    "IlceAdi": "JARGEAU",
+    "IlceAdiEn": "JARGEAU",
+    "IlceID": "20129"
+  },
+  {
+    "IlceAdi": "JARNY",
+    "IlceAdiEn": "JARNY",
+    "IlceID": "13028"
+  },
+  {
+    "IlceAdi": "JOEUF",
+    "IlceAdiEn": "JOEUF",
+    "IlceID": "13029"
+  },
+  {
+    "IlceAdi": "JOIGNY",
+    "IlceAdiEn": "JOIGNY",
+    "IlceID": "22196"
+  },
+  {
+    "IlceAdi": "JOINVILLE",
+    "IlceAdiEn": "JOINVILLE",
+    "IlceID": "20112"
+  },
+  {
+    "IlceAdi": "L ARGENTIER LA BESSE",
+    "IlceAdiEn": "L ARGENTIER LA BESSE",
+    "IlceID": "13218"
+  },
+  {
+    "IlceAdi": "L HOPITAL",
+    "IlceAdiEn": "L HOPITAL",
+    "IlceID": "13002"
+  },
+  {
+    "IlceAdi": "LA BROQUE",
+    "IlceAdiEn": "LA BROQUE",
+    "IlceID": "33314"
+  },
+  {
+    "IlceAdi": "LA COTE ST ANDRE",
+    "IlceAdiEn": "LA COTE ST ANDRE",
+    "IlceID": "18974"
+  },
+  {
+    "IlceAdi": "LA FERTE BERNARD",
+    "IlceAdiEn": "LA FERTE BERNARD",
+    "IlceID": "13010"
+  },
+  {
+    "IlceAdi": "LA FLECHE (S)",
+    "IlceAdiEn": "LA FLECHE (S)",
+    "IlceID": "13009"
+  },
+  {
+    "IlceAdi": "LA MURE (RA)",
+    "IlceAdiEn": "LA MURE (RA)",
+    "IlceID": "13226"
+  },
+  {
+    "IlceAdi": "LA ROCHE SUR FORON",
+    "IlceAdiEn": "LA ROCHE SUR FORON",
+    "IlceID": "13183"
+  },
+  {
+    "IlceAdi": "LA ROCHE-BERNARD",
+    "IlceAdiEn": "LA ROCHE-BERNARD",
+    "IlceID": "13173"
+  },
+  {
+    "IlceAdi": "LA ROCHELLE",
+    "IlceAdiEn": "LA ROCHELLE",
+    "IlceID": "13413"
+  },
+  {
+    "IlceAdi": "LA TESTE-DE-RUCH",
+    "IlceAdiEn": "LA TESTE-DE-RUCH",
+    "IlceID": "13414"
+  },
+  {
+    "IlceAdi": "LA TOUR DU PIN ",
+    "IlceAdiEn": "LA TOUR DU PIN ",
+    "IlceID": "13252"
+  },
+  {
+    "IlceAdi": "LA VERPILLIERE",
+    "IlceAdiEn": "LA VERPILLIERE",
+    "IlceID": "12956"
+  },
+  {
+    "IlceAdi": "LAIGLE",
+    "IlceAdiEn": "LAIGLE",
+    "IlceID": "13321"
+  },
+  {
+    "IlceAdi": "LAMBALLE",
+    "IlceAdiEn": "LAMBALLE",
+    "IlceID": "13125"
+  },
+  {
+    "IlceAdi": "LANESTER",
+    "IlceAdiEn": "LANESTER",
+    "IlceID": "13093"
+  },
+  {
+    "IlceAdi": "LANGEAIS",
+    "IlceAdiEn": "LANGEAIS",
+    "IlceID": "12972"
+  },
+  {
+    "IlceAdi": "LANGRES",
+    "IlceAdiEn": "LANGRES",
+    "IlceID": "13380"
+  },
+  {
+    "IlceAdi": "LAON",
+    "IlceAdiEn": "LAON",
+    "IlceID": "13108"
+  },
+  {
+    "IlceAdi": "LAVAL (P)",
+    "IlceAdiEn": "LAVAL (P)",
+    "IlceID": "13059"
+  },
+  {
+    "IlceAdi": "LE CREUSOT",
+    "IlceAdiEn": "LE CREUSOT",
+    "IlceID": "13335"
+  },
+  {
+    "IlceAdi": "LE GRAND LUCE",
+    "IlceAdiEn": "LE GRAND LUCE",
+    "IlceID": "13011"
+  },
+  {
+    "IlceAdi": "LE HAVRE",
+    "IlceAdiEn": "LE HAVRE",
+    "IlceID": "12949"
+  },
+  {
+    "IlceAdi": "LE LUDE",
+    "IlceAdiEn": "LE LUDE",
+    "IlceID": "13012"
+  },
+  {
+    "IlceAdi": "LE MANS",
+    "IlceAdiEn": "LE MANS",
+    "IlceID": "13425"
+  },
+  {
+    "IlceAdi": "LE MEMONT",
+    "IlceAdiEn": "LE MEMONT",
+    "IlceID": "12964"
+  },
+  {
+    "IlceAdi": "LE MUY",
+    "IlceAdiEn": "LE MUY",
+    "IlceID": "17856"
+  },
+  {
+    "IlceAdi": "LE NEUBOURG",
+    "IlceAdiEn": "LE NEUBOURG",
+    "IlceID": "13146"
+  },
+  {
+    "IlceAdi": "LE PEAGE DE ROUSSILLION",
+    "IlceAdiEn": "LE PEAGE DE ROUSSILLION",
+    "IlceID": "13353"
+  },
+  {
+    "IlceAdi": "LE PONT-DE-BEAUVOISIN",
+    "IlceAdiEn": "LE PONT-DE-BEAUVOISIN",
+    "IlceID": "13207"
+  },
+  {
+    "IlceAdi": "LE PONT-DE-CLAIX",
+    "IlceAdiEn": "LE PONT-DE-CLAIX",
+    "IlceID": "13227"
+  },
+  {
+    "IlceAdi": "LE PONTET",
+    "IlceAdiEn": "LE PONTET",
+    "IlceID": "13189"
+  },
+  {
+    "IlceAdi": "LE POULDU",
+    "IlceAdiEn": "LE POULDU",
+    "IlceID": "13094"
+  },
+  {
+    "IlceAdi": "LE PUY EN VELAY",
+    "IlceAdiEn": "LE PUY EN VELAY",
+    "IlceID": "13280"
+  },
+  {
+    "IlceAdi": "LE THILLOT",
+    "IlceAdiEn": "LE THILLOT",
+    "IlceID": "20113"
+  },
+  {
+    "IlceAdi": "LENS",
+    "IlceAdiEn": "LENS",
+    "IlceID": "13362"
+  },
+  {
+    "IlceAdi": "LES AIX-D ANGILLON",
+    "IlceAdiEn": "LES AIX-D ANGILLON",
+    "IlceID": "12980"
+  },
+  {
+    "IlceAdi": "LES ANDELYS",
+    "IlceAdiEn": "LES ANDELYS",
+    "IlceID": "13147"
+  },
+  {
+    "IlceAdi": "LES MERUAUX",
+    "IlceAdiEn": "LES MERUAUX",
+    "IlceID": "22197"
+  },
+  {
+    "IlceAdi": "LES NEYROLLES",
+    "IlceAdiEn": "LES NEYROLLES",
+    "IlceID": "13270"
+  },
+  {
+    "IlceAdi": "LESCONIL",
+    "IlceAdiEn": "LESCONIL",
+    "IlceID": "13095"
+  },
+  {
+    "IlceAdi": "LEVES",
+    "IlceAdiEn": "LEVES",
+    "IlceID": "22204"
+  },
+  {
+    "IlceAdi": "LEZIGNAN-CORBIERES",
+    "IlceAdiEn": "LEZIGNAN-CORBIERES",
+    "IlceID": "13264"
+  },
+  {
+    "IlceAdi": "LIBOURNE",
+    "IlceAdiEn": "LIBOURNE",
+    "IlceID": "13197"
+  },
+  {
+    "IlceAdi": "LIGNY-EN-BARROIS",
+    "IlceAdiEn": "LIGNY-EN-BARROIS",
+    "IlceID": "13158"
+  },
+  {
+    "IlceAdi": "LILLE",
+    "IlceAdiEn": "LILLE",
+    "IlceID": "13369"
+  },
+  {
+    "IlceAdi": "LILLEBONNE",
+    "IlceAdiEn": "LILLEBONNE",
+    "IlceID": "13148"
+  },
+  {
+    "IlceAdi": "LIMOGES",
+    "IlceAdiEn": "LIMOGES",
+    "IlceID": "13426"
+  },
+  {
+    "IlceAdi": "LISIEUX",
+    "IlceAdiEn": "LISIEUX",
+    "IlceID": "12991"
+  },
+  {
+    "IlceAdi": "LOCMARIAQUER",
+    "IlceAdiEn": "LOCMARIAQUER",
+    "IlceID": "13174"
+  },
+  {
+    "IlceAdi": "LONGWY",
+    "IlceAdiEn": "LONGWY",
+    "IlceID": "16735"
+  },
+  {
+    "IlceAdi": "LONS LE SAUNIER",
+    "IlceAdiEn": "LONS LE SAUNIER",
+    "IlceID": "13246"
+  },
+  {
+    "IlceAdi": "LORIENT",
+    "IlceAdiEn": "LORIENT",
+    "IlceID": "13299"
+  },
+  {
+    "IlceAdi": "LORMONT",
+    "IlceAdiEn": "LORMONT",
+    "IlceID": "18975"
+  },
+  {
+    "IlceAdi": "LOUVIERS",
+    "IlceAdiEn": "LOUVIERS",
+    "IlceID": "13149"
+  },
+  {
+    "IlceAdi": "LUNEL",
+    "IlceAdiEn": "LUNEL",
+    "IlceID": "13265"
+  },
+  {
+    "IlceAdi": "LUNEVILLE",
+    "IlceAdiEn": "LUNEVILLE",
+    "IlceID": "12948"
+  },
+  {
+    "IlceAdi": "LURE(HAUTE-SAONE)",
+    "IlceAdiEn": "LURE(HAUTE-SAONE)",
+    "IlceID": "20114"
+  },
+  {
+    "IlceAdi": "LUXEUIL LES BAINS",
+    "IlceAdiEn": "LUXEUIL LES BAINS",
+    "IlceID": "20115"
+  },
+  {
+    "IlceAdi": "LYON",
+    "IlceAdiEn": "LYON",
+    "IlceID": "13381"
+  },
+  {
+    "IlceAdi": "MACON",
+    "IlceAdiEn": "MACON",
+    "IlceID": "13427"
+  },
+  {
+    "IlceAdi": "MAGNAC-BOURG",
+    "IlceAdiEn": "MAGNAC-BOURG",
+    "IlceID": "13239"
+  },
+  {
+    "IlceAdi": "MAICHE",
+    "IlceAdiEn": "MAICHE",
+    "IlceID": "12963"
+  },
+  {
+    "IlceAdi": "MAIZIERES-LES-METZ",
+    "IlceAdiEn": "MAIZIERES-LES-METZ",
+    "IlceID": "13033"
+  },
+  {
+    "IlceAdi": "MALANSAC",
+    "IlceAdiEn": "MALANSAC",
+    "IlceID": "13175"
+  },
+  {
+    "IlceAdi": "MALESHERBES",
+    "IlceAdiEn": "MALESHERBES",
+    "IlceID": "13074"
+  },
+  {
+    "IlceAdi": "MALESTROIT",
+    "IlceAdiEn": "MALESTROIT",
+    "IlceID": "13176"
+  },
+  {
+    "IlceAdi": "MANTES LA JOLIE",
+    "IlceAdiEn": "MANTES LA JOLIE",
+    "IlceID": "13322"
+  },
+  {
+    "IlceAdi": "MARCKOLSHEIM",
+    "IlceAdiEn": "MARCKOLSHEIM",
+    "IlceID": "20118"
+  },
+  {
+    "IlceAdi": "MARIGNANE",
+    "IlceAdiEn": "MARIGNANE",
+    "IlceID": "13370"
+  },
+  {
+    "IlceAdi": "MAROMME",
+    "IlceAdiEn": "MAROMME",
+    "IlceID": "13150"
+  },
+  {
+    "IlceAdi": "MARSANNAY-LA-COTE",
+    "IlceAdiEn": "MARSANNAY-LA-COTE",
+    "IlceID": "13221"
+  },
+  {
+    "IlceAdi": "MARSEILLE",
+    "IlceAdiEn": "MARSEILLE",
+    "IlceID": "13383"
+  },
+  {
+    "IlceAdi": "MARTIGUES",
+    "IlceAdiEn": "MARTIGUES",
+    "IlceID": "13415"
+  },
+  {
+    "IlceAdi": "MAURON",
+    "IlceAdiEn": "MAURON",
+    "IlceID": "13126"
+  },
+  {
+    "IlceAdi": "MAZAMET",
+    "IlceAdiEn": "MAZAMET",
+    "IlceID": "13266"
+  },
+  {
+    "IlceAdi": "MEAUX",
+    "IlceAdiEn": "MEAUX",
+    "IlceID": "13359"
+  },
+  {
+    "IlceAdi": "MEHUN-SUR-YEVRE",
+    "IlceAdiEn": "MEHUN-SUR-YEVRE",
+    "IlceID": "12981"
+  },
+  {
+    "IlceAdi": "MELUN",
+    "IlceAdiEn": "MELUN",
+    "IlceID": "13075"
+  },
+  {
+    "IlceAdi": "MENDE",
+    "IlceAdiEn": "MENDE",
+    "IlceID": "17857"
+  },
+  {
+    "IlceAdi": "MENTON",
+    "IlceAdiEn": "MENTON",
+    "IlceID": "13379"
+  },
+  {
+    "IlceAdi": "MER",
+    "IlceAdiEn": "MER",
+    "IlceID": "12973"
+  },
+  {
+    "IlceAdi": "METZ",
+    "IlceAdiEn": "METZ",
+    "IlceID": "13301"
+  },
+  {
+    "IlceAdi": "METZERVISSE",
+    "IlceAdiEn": "METZERVISSE",
+    "IlceID": "13034"
+  },
+  {
+    "IlceAdi": "MEYZIEU",
+    "IlceAdiEn": "MEYZIEU",
+    "IlceID": "13253"
+  },
+  {
+    "IlceAdi": "MIGENNES",
+    "IlceAdiEn": "MIGENNES",
+    "IlceID": "17847"
+  },
+  {
+    "IlceAdi": "MIRECOURT",
+    "IlceAdiEn": "MIRECOURT",
+    "IlceID": "20116"
+  },
+  {
+    "IlceAdi": "MODANE",
+    "IlceAdiEn": "MODANE",
+    "IlceID": "13228"
+  },
+  {
+    "IlceAdi": "MOIRANS-EN-MONTAGNE",
+    "IlceAdiEn": "MOIRANS-EN-MONTAGNE",
+    "IlceID": "13248"
+  },
+  {
+    "IlceAdi": "MOLSHEIM",
+    "IlceAdiEn": "MOLSHEIM",
+    "IlceID": "13355"
+  },
+  {
+    "IlceAdi": "MONDELANGE",
+    "IlceAdiEn": "MONDELANGE",
+    "IlceID": "19005"
+  },
+  {
+    "IlceAdi": "MONDEVILLE ( C)",
+    "IlceAdiEn": "MONDEVILLE ( C)",
+    "IlceID": "12992"
+  },
+  {
+    "IlceAdi": "MONETEAU",
+    "IlceAdiEn": "MONETEAU",
+    "IlceID": "13081"
+  },
+  {
+    "IlceAdi": "MONSOLS",
+    "IlceAdiEn": "MONSOLS",
+    "IlceID": "13368"
+  },
+  {
+    "IlceAdi": "MONTARGIS",
+    "IlceAdiEn": "MONTARGIS",
+    "IlceID": "13328"
+  },
+  {
+    "IlceAdi": "MONTAUBAN (MP)",
+    "IlceAdiEn": "MONTAUBAN (MP)",
+    "IlceID": "13193"
+  },
+  {
+    "IlceAdi": "MONTBELIARD",
+    "IlceAdiEn": "MONTBELIARD",
+    "IlceID": "13416"
+  },
+  {
+    "IlceAdi": "MONTBOZAN",
+    "IlceAdiEn": "MONTBOZAN",
+    "IlceID": "12974"
+  },
+  {
+    "IlceAdi": "MONTBRISON (L)",
+    "IlceAdiEn": "MONTBRISON (L)",
+    "IlceID": "13282"
+  },
+  {
+    "IlceAdi": "MONTCEAU LES MINES",
+    "IlceAdiEn": "MONTCEAU LES MINES",
+    "IlceID": "13261"
+  },
+  {
+    "IlceAdi": "MONTELIMAR",
+    "IlceAdiEn": "MONTELIMAR",
+    "IlceID": "13417"
+  },
+  {
+    "IlceAdi": "MONTEREAU",
+    "IlceAdiEn": "MONTEREAU",
+    "IlceID": "13323"
+  },
+  {
+    "IlceAdi": "MONTFERMEIL",
+    "IlceAdiEn": "MONTFERMEIL",
+    "IlceID": "17848"
+  },
+  {
+    "IlceAdi": "MONTFORT SUR MEU",
+    "IlceAdiEn": "MONTFORT SUR MEU",
+    "IlceID": "13127"
+  },
+  {
+    "IlceAdi": "MONTLEBON",
+    "IlceAdiEn": "MONTLEBON",
+    "IlceID": "20117"
+  },
+  {
+    "IlceAdi": "MONTLUCON",
+    "IlceAdiEn": "MONTLUCON",
+    "IlceID": "13210"
+  },
+  {
+    "IlceAdi": "MONTPELLIER",
+    "IlceAdiEn": "MONTPELLIER",
+    "IlceID": "13295"
+  },
+  {
+    "IlceAdi": "MONTREAL LA CLUSE",
+    "IlceAdiEn": "MONTREAL LA CLUSE",
+    "IlceID": "13271"
+  },
+  {
+    "IlceAdi": "MONTRICHARD",
+    "IlceAdiEn": "MONTRICHARD",
+    "IlceID": "12975"
+  },
+  {
+    "IlceAdi": "MOREZ",
+    "IlceAdiEn": "MOREZ",
+    "IlceID": "13338"
+  },
+  {
+    "IlceAdi": "MORHANGE",
+    "IlceAdiEn": "MORHANGE",
+    "IlceID": "13003"
+  },
+  {
+    "IlceAdi": "MORTEAU",
+    "IlceAdiEn": "MORTEAU",
+    "IlceID": "17859"
+  },
+  {
+    "IlceAdi": "MORZINE",
+    "IlceAdiEn": "MORZINE",
+    "IlceID": "12959"
+  },
+  {
+    "IlceAdi": "MOUILLAC",
+    "IlceAdiEn": "MOUILLAC",
+    "IlceID": "13198"
+  },
+  {
+    "IlceAdi": "MOULINS",
+    "IlceAdiEn": "MOULINS",
+    "IlceID": "13211"
+  },
+  {
+    "IlceAdi": "MOUZON (A)",
+    "IlceAdiEn": "MOUZON (A)",
+    "IlceID": "12997"
+  },
+  {
+    "IlceAdi": "MULHOUSE",
+    "IlceAdiEn": "MULHOUSE",
+    "IlceID": "13303"
+  },
+  {
+    "IlceAdi": "MUZILLAC",
+    "IlceAdiEn": "MUZILLAC",
+    "IlceID": "13177"
+  },
+  {
+    "IlceAdi": "NANCY",
+    "IlceAdiEn": "NANCY",
+    "IlceID": "13361"
+  },
+  {
+    "IlceAdi": "NANTES",
+    "IlceAdiEn": "NANTES",
+    "IlceID": "13386"
+  },
+  {
+    "IlceAdi": "NANTUA",
+    "IlceAdiEn": "NANTUA",
+    "IlceID": "13336"
+  },
+  {
+    "IlceAdi": "NARBONNE",
+    "IlceAdiEn": "NARBONNE",
+    "IlceID": "13418"
+  },
+  {
+    "IlceAdi": "NARBONNE PLAGE",
+    "IlceAdiEn": "NARBONNE PLAGE",
+    "IlceID": "13267"
+  },
+  {
+    "IlceAdi": "NEMOURS",
+    "IlceAdiEn": "NEMOURS",
+    "IlceID": "13045"
+  },
+  {
+    "IlceAdi": "NEUFCHATEAU",
+    "IlceAdiEn": "NEUFCHATEAU",
+    "IlceID": "20119"
+  },
+  {
+    "IlceAdi": "NEUFCHATEL EN BRAY",
+    "IlceAdiEn": "NEUFCHATEL EN BRAY",
+    "IlceID": "13151"
+  },
+  {
+    "IlceAdi": "NEUVILLE LES DIEPPE",
+    "IlceAdiEn": "NEUVILLE LES DIEPPE",
+    "IlceID": "22205"
+  },
+  {
+    "IlceAdi": "NEVERS",
+    "IlceAdiEn": "NEVERS",
+    "IlceID": "13333"
+  },
+  {
+    "IlceAdi": "NEXON",
+    "IlceAdiEn": "NEXON",
+    "IlceID": "13240"
+  },
+  {
+    "IlceAdi": "NICE",
+    "IlceAdiEn": "NICE",
+    "IlceID": "13390"
+  },
+  {
+    "IlceAdi": "NIMES",
+    "IlceAdiEn": "NIMES",
+    "IlceID": "12950"
+  },
+  {
+    "IlceAdi": "NOGENT SUR OISE",
+    "IlceAdiEn": "NOGENT SUR OISE",
+    "IlceID": "33311"
+  },
+  {
+    "IlceAdi": "NOGENT SUR SEINE",
+    "IlceAdiEn": "NOGENT SUR SEINE",
+    "IlceID": "17921"
+  },
+  {
+    "IlceAdi": "NOUZONVILLE",
+    "IlceAdiEn": "NOUZONVILLE",
+    "IlceID": "13109"
+  },
+  {
+    "IlceAdi": "NOZAY (L-A)",
+    "IlceAdiEn": "NOZAY (L-A)",
+    "IlceID": "13060"
+  },
+  {
+    "IlceAdi": "OBERNAI",
+    "IlceAdiEn": "OBERNAI",
+    "IlceID": "13371"
+  },
+  {
+    "IlceAdi": "OISSEL",
+    "IlceAdiEn": "OISSEL",
+    "IlceID": "13152"
+  },
+  {
+    "IlceAdi": "ORANGE",
+    "IlceAdiEn": "ORANGE",
+    "IlceID": "13419"
+  },
+  {
+    "IlceAdi": "ORLEANS",
+    "IlceAdiEn": "ORLEANS",
+    "IlceID": "13307"
+  },
+  {
+    "IlceAdi": "ORNANS",
+    "IlceAdiEn": "ORNANS",
+    "IlceID": "12965"
+  },
+  {
+    "IlceAdi": "OUISTREHAM",
+    "IlceAdiEn": "OUISTREHAM",
+    "IlceID": "12993"
+  },
+  {
+    "IlceAdi": "OYONNAX",
+    "IlceAdiEn": "OYONNAX",
+    "IlceID": "13339"
+  },
+  {
+    "IlceAdi": "PARIS",
+    "IlceAdiEn": "PARIS",
+    "IlceID": "13382"
+  },
+  {
+    "IlceAdi": "PAU",
+    "IlceAdiEn": "PAU",
+    "IlceID": "13420"
+  },
+  {
+    "IlceAdi": "PENMARCH",
+    "IlceAdiEn": "PENMARCH",
+    "IlceID": "13096"
+  },
+  {
+    "IlceAdi": "PERIGUEUX",
+    "IlceAdiEn": "PERIGUEUX",
+    "IlceID": "13199"
+  },
+  {
+    "IlceAdi": "PERONNAS",
+    "IlceAdiEn": "PERONNAS",
+    "IlceID": "13201"
+  },
+  {
+    "IlceAdi": "PERPIGNAN",
+    "IlceAdiEn": "PERPIGNAN",
+    "IlceID": "13296"
+  },
+  {
+    "IlceAdi": "PFASTATT",
+    "IlceAdiEn": "PFASTATT",
+    "IlceID": "13051"
+  },
+  {
+    "IlceAdi": "PIERRELATTE",
+    "IlceAdiEn": "PIERRELATTE",
+    "IlceID": "13190"
+  },
+  {
+    "IlceAdi": "PITHIIVIERS",
+    "IlceAdiEn": "PITHIIVIERS",
+    "IlceID": "13064"
+  },
+  {
+    "IlceAdi": "PLOERMEL",
+    "IlceAdiEn": "PLOERMEL",
+    "IlceID": "13128"
+  },
+  {
+    "IlceAdi": "PLOUAY",
+    "IlceAdiEn": "PLOUAY",
+    "IlceID": "13097"
+  },
+  {
+    "IlceAdi": "PLUVIGNER",
+    "IlceAdiEn": "PLUVIGNER",
+    "IlceID": "13178"
+  },
+  {
+    "IlceAdi": "POISSY",
+    "IlceAdiEn": "POISSY",
+    "IlceID": "22198"
+  },
+  {
+    "IlceAdi": "POITIERS",
+    "IlceAdiEn": "POITIERS",
+    "IlceID": "13318"
+  },
+  {
+    "IlceAdi": "POLIGNY (J)",
+    "IlceAdiEn": "POLIGNY (J)",
+    "IlceID": "12966"
+  },
+  {
+    "IlceAdi": "PONT A MOUSSON",
+    "IlceAdiEn": "PONT A MOUSSON",
+    "IlceID": "13373"
+  },
+  {
+    "IlceAdi": "PONT AUDEMER",
+    "IlceAdiEn": "PONT AUDEMER",
+    "IlceID": "13153"
+  },
+  {
+    "IlceAdi": "PONT DU CHATEAU",
+    "IlceAdiEn": "PONT DU CHATEAU",
+    "IlceID": "13212"
+  },
+  {
+    "IlceAdi": "PONTARLIER",
+    "IlceAdiEn": "PONTARLIER",
+    "IlceID": "13334"
+  },
+  {
+    "IlceAdi": "PONTCHARRA (I)",
+    "IlceAdiEn": "PONTCHARRA (I)",
+    "IlceID": "13208"
+  },
+  {
+    "IlceAdi": "PONT-L ABBE (F)",
+    "IlceAdiEn": "PONT-L ABBE (F)",
+    "IlceID": "13098"
+  },
+  {
+    "IlceAdi": "PONTLEVOY",
+    "IlceAdiEn": "PONTLEVOY",
+    "IlceID": "12976"
+  },
+  {
+    "IlceAdi": "PONTOISE",
+    "IlceAdiEn": "PONTOISE",
+    "IlceID": "13360"
+  },
+  {
+    "IlceAdi": "PORTE LES VALENCE",
+    "IlceAdiEn": "PORTE LES VALENCE",
+    "IlceID": "13288"
+  },
+  {
+    "IlceAdi": "PORT-NAVALLO",
+    "IlceAdiEn": "PORT-NAVALLO",
+    "IlceID": "13179"
+  },
+  {
+    "IlceAdi": "POULDREUZIC",
+    "IlceAdiEn": "POULDREUZIC",
+    "IlceID": "13099"
+  },
+  {
+    "IlceAdi": "PRIVAS",
+    "IlceAdiEn": "PRIVAS",
+    "IlceID": "13289"
+  },
+  {
+    "IlceAdi": "PROVINS",
+    "IlceAdiEn": "PROVINS",
+    "IlceID": "13324"
+  },
+  {
+    "IlceAdi": "PUTTELANGE AUX LACS",
+    "IlceAdiEn": "PUTTELANGE AUX LACS",
+    "IlceID": "20120"
+  },
+  {
+    "IlceAdi": "QUEVEN",
+    "IlceAdiEn": "QUEVEN",
+    "IlceID": "13100"
+  },
+  {
+    "IlceAdi": "QUEZAC (CANTAL)",
+    "IlceAdiEn": "QUEZAC (CANTAL)",
+    "IlceID": "20085"
+  },
+  {
+    "IlceAdi": "QUIBERON",
+    "IlceAdiEn": "QUIBERON",
+    "IlceID": "13180"
+  },
+  {
+    "IlceAdi": "QUIMPER",
+    "IlceAdiEn": "QUIMPER",
+    "IlceID": "13372"
+  },
+  {
+    "IlceAdi": "QUIMPERLE",
+    "IlceAdiEn": "QUIMPERLE",
+    "IlceID": "13101"
+  },
+  {
+    "IlceAdi": "QUINTIN",
+    "IlceAdiEn": "QUINTIN",
+    "IlceID": "13129"
+  },
+  {
+    "IlceAdi": "RAMBERVILLERS",
+    "IlceAdiEn": "RAMBERVILLERS",
+    "IlceID": "20121"
+  },
+  {
+    "IlceAdi": "RAON-L ETAPE",
+    "IlceAdiEn": "RAON-L ETAPE",
+    "IlceID": "13325"
+  },
+  {
+    "IlceAdi": "RAUBAIX",
+    "IlceAdiEn": "RAUBAIX",
+    "IlceID": "13076"
+  },
+  {
+    "IlceAdi": "REDON",
+    "IlceAdiEn": "REDON",
+    "IlceID": "13130"
+  },
+  {
+    "IlceAdi": "REICHSHOFFEN",
+    "IlceAdiEn": "REICHSHOFFEN",
+    "IlceID": "22214"
+  },
+  {
+    "IlceAdi": "REIMS",
+    "IlceAdiEn": "REIMS",
+    "IlceID": "13293"
+  },
+  {
+    "IlceAdi": "REMIREMONT",
+    "IlceAdiEn": "REMIREMONT",
+    "IlceID": "20122"
+  },
+  {
+    "IlceAdi": "RENNES",
+    "IlceAdiEn": "RENNES",
+    "IlceID": "13312"
+  },
+  {
+    "IlceAdi": "RETHEL",
+    "IlceAdiEn": "RETHEL",
+    "IlceID": "13110"
+  },
+  {
+    "IlceAdi": "REVIGNY SUR ORNAIN",
+    "IlceAdiEn": "REVIGNY SUR ORNAIN",
+    "IlceID": "20123"
+  },
+  {
+    "IlceAdi": "REVIN ",
+    "IlceAdiEn": "REVIN ",
+    "IlceID": "12999"
+  },
+  {
+    "IlceAdi": "RICHEMONT (M)",
+    "IlceAdiEn": "RICHEMONT (M)",
+    "IlceID": "13035"
+  },
+  {
+    "IlceAdi": "RIOM",
+    "IlceAdiEn": "RIOM",
+    "IlceID": "13213"
+  },
+  {
+    "IlceAdi": "RIS ORANGIS",
+    "IlceAdiEn": "RIS ORANGIS",
+    "IlceID": "17849"
+  },
+  {
+    "IlceAdi": "RIVE DE GIERS",
+    "IlceAdiEn": "RIVE DE GIERS",
+    "IlceID": "13279"
+  },
+  {
+    "IlceAdi": "RIVESALTES",
+    "IlceAdiEn": "RIVESALTES",
+    "IlceID": "13274"
+  },
+  {
+    "IlceAdi": "ROANNE",
+    "IlceAdiEn": "ROANNE",
+    "IlceID": "13278"
+  },
+  {
+    "IlceAdi": "ROCHECHOUART",
+    "IlceAdiEn": "ROCHECHOUART",
+    "IlceID": "13241"
+  },
+  {
+    "IlceAdi": "ROCHEFORT (P)",
+    "IlceAdiEn": "ROCHEFORT (P)",
+    "IlceID": "13200"
+  },
+  {
+    "IlceAdi": "RODEZ",
+    "IlceAdiEn": "RODEZ",
+    "IlceID": "13343"
+  },
+  {
+    "IlceAdi": "ROMANS-SUR-ISERE",
+    "IlceAdiEn": "ROMANS-SUR-ISERE",
+    "IlceID": "13290"
+  },
+  {
+    "IlceAdi": "ROMBAS",
+    "IlceAdiEn": "ROMBAS",
+    "IlceID": "13036"
+  },
+  {
+    "IlceAdi": "ROMORANTIN     ",
+    "IlceAdiEn": "ROMORANTIN     ",
+    "IlceID": "13065"
+  },
+  {
+    "IlceAdi": "ROSPORDEN",
+    "IlceAdiEn": "ROSPORDEN",
+    "IlceID": "13102"
+  },
+  {
+    "IlceAdi": "ROUBAIX",
+    "IlceAdiEn": "ROUBAIX",
+    "IlceID": "13018"
+  },
+  {
+    "IlceAdi": "ROUEN",
+    "IlceAdiEn": "ROUEN",
+    "IlceID": "13326"
+  },
+  {
+    "IlceAdi": "ROUFFACH",
+    "IlceAdiEn": "ROUFFACH",
+    "IlceID": "13052"
+  },
+  {
+    "IlceAdi": "RUMILLY (H)",
+    "IlceAdiEn": "RUMILLY (H)",
+    "IlceID": "13184"
+  },
+  {
+    "IlceAdi": "SABLE-SUR-SARTHE",
+    "IlceAdiEn": "SABLE-SUR-SARTHE",
+    "IlceID": "13013"
+  },
+  {
+    "IlceAdi": "SAINT AVOLD",
+    "IlceAdiEn": "SAINT AVOLD",
+    "IlceID": "13037"
+  },
+  {
+    "IlceAdi": "SAINT BANNET LE CHATEAU",
+    "IlceAdiEn": "SAINT BANNET LE CHATEAU",
+    "IlceID": "18976"
+  },
+  {
+    "IlceAdi": "SAINT BRIEUC",
+    "IlceAdiEn": "SAINT BRIEUC",
+    "IlceID": "13131"
+  },
+  {
+    "IlceAdi": "SAINT CLAUDE",
+    "IlceAdiEn": "SAINT CLAUDE",
+    "IlceID": "17853"
+  },
+  {
+    "IlceAdi": "SAINT GENIS POUILLY",
+    "IlceAdiEn": "SAINT GENIS POUILLY",
+    "IlceID": "18978"
+  },
+  {
+    "IlceAdi": "SAINT JEAN ROHRBACH",
+    "IlceAdiEn": "SAINT JEAN ROHRBACH",
+    "IlceID": "20124"
+  },
+  {
+    "IlceAdi": "SAINT JUNIEN",
+    "IlceAdiEn": "SAINT JUNIEN",
+    "IlceID": "13245"
+  },
+  {
+    "IlceAdi": "SAINT LOUIS",
+    "IlceAdiEn": "SAINT LOUIS",
+    "IlceID": "20125"
+  },
+  {
+    "IlceAdi": "SAINT MALO",
+    "IlceAdiEn": "SAINT MALO",
+    "IlceID": "13421"
+  },
+  {
+    "IlceAdi": "SAINT MIHIEL",
+    "IlceAdiEn": "SAINT MIHIEL",
+    "IlceID": "20126"
+  },
+  {
+    "IlceAdi": "SAINT-AUBIN-SUR-MER ( C)",
+    "IlceAdiEn": "SAINT-AUBIN-SUR-MER ( C)",
+    "IlceID": "12994"
+  },
+  {
+    "IlceAdi": "SAINT-AVOLD",
+    "IlceAdiEn": "SAINT-AVOLD",
+    "IlceID": "13004"
+  },
+  {
+    "IlceAdi": "SAINT-DIZIER",
+    "IlceAdiEn": "SAINT-DIZIER",
+    "IlceID": "12952"
+  },
+  {
+    "IlceAdi": "SAINTE MARIE AUX MINES",
+    "IlceAdiEn": "SAINTE MARIE AUX MINES",
+    "IlceID": "20128"
+  },
+  {
+    "IlceAdi": "SAINT-FLORENT-SUR-CHER",
+    "IlceAdiEn": "SAINT-FLORENT-SUR-CHER",
+    "IlceID": "12982"
+  },
+  {
+    "IlceAdi": "SAINT-NAZAIRE",
+    "IlceAdiEn": "SAINT-NAZAIRE",
+    "IlceID": "13350"
+  },
+  {
+    "IlceAdi": "SAINT-QUENTIN",
+    "IlceAdiEn": "SAINT-QUENTIN",
+    "IlceID": "21132"
+  },
+  {
+    "IlceAdi": "SALBRIS",
+    "IlceAdiEn": "SALBRIS",
+    "IlceID": "13066"
+  },
+  {
+    "IlceAdi": "SALINS-LES-BAINS",
+    "IlceAdiEn": "SALINS-LES-BAINS",
+    "IlceID": "13082"
+  },
+  {
+    "IlceAdi": "SALLANCHES",
+    "IlceAdiEn": "SALLANCHES",
+    "IlceID": "13337"
+  },
+  {
+    "IlceAdi": "SARRE UNION",
+    "IlceAdiEn": "SARRE UNION",
+    "IlceID": "20127"
+  },
+  {
+    "IlceAdi": "SARREBOURG",
+    "IlceAdiEn": "SARREBOURG",
+    "IlceID": "13165"
+  },
+  {
+    "IlceAdi": "SARREGUEMINES",
+    "IlceAdiEn": "SARREGUEMINES",
+    "IlceID": "13166"
+  },
+  {
+    "IlceAdi": "SARZEAU",
+    "IlceAdiEn": "SARZEAU",
+    "IlceID": "13181"
+  },
+  {
+    "IlceAdi": "SAVERNE",
+    "IlceAdiEn": "SAVERNE",
+    "IlceID": "13374"
+  },
+  {
+    "IlceAdi": "SCAER",
+    "IlceAdiEn": "SCAER",
+    "IlceID": "13103"
+  },
+  {
+    "IlceAdi": "SCHIRMECK",
+    "IlceAdiEn": "SCHIRMECK",
+    "IlceID": "20094"
+  },
+  {
+    "IlceAdi": "SEDAN",
+    "IlceAdiEn": "SEDAN",
+    "IlceID": "13000"
+  },
+  {
+    "IlceAdi": "SELESTAT",
+    "IlceAdiEn": "SELESTAT",
+    "IlceID": "13356"
+  },
+  {
+    "IlceAdi": "SENS",
+    "IlceAdiEn": "SENS",
+    "IlceID": "13358"
+  },
+  {
+    "IlceAdi": "SEZANNE",
+    "IlceAdiEn": "SEZANNE",
+    "IlceID": "33312"
+  },
+  {
+    "IlceAdi": "SILLE-LE GUILLAUME ",
+    "IlceAdiEn": "SILLE-LE GUILLAUME ",
+    "IlceID": "13014"
+  },
+  {
+    "IlceAdi": "SOISSONS",
+    "IlceAdiEn": "SOISSONS",
+    "IlceID": "13111"
+  },
+  {
+    "IlceAdi": "SOULTZ",
+    "IlceAdiEn": "SOULTZ",
+    "IlceID": "17928"
+  },
+  {
+    "IlceAdi": "ST. AFFRIQUE",
+    "IlceAdiEn": "ST. AFFRIQUE",
+    "IlceID": "13354"
+  },
+  {
+    "IlceAdi": "ST. AMOUR(JURA)",
+    "IlceAdiEn": "ST. AMOUR(JURA)",
+    "IlceID": "18987"
+  },
+  {
+    "IlceAdi": "ST. ANDRE-DE-ROSANS",
+    "IlceAdiEn": "ST. ANDRE-DE-ROSANS",
+    "IlceID": "13230"
+  },
+  {
+    "IlceAdi": "ST. CHAMOND",
+    "IlceAdiEn": "ST. CHAMOND",
+    "IlceID": "13283"
+  },
+  {
+    "IlceAdi": "ST. DIE",
+    "IlceAdiEn": "ST. DIE",
+    "IlceID": "13311"
+  },
+  {
+    "IlceAdi": "ST. DIZIER",
+    "IlceAdiEn": "ST. DIZIER",
+    "IlceID": "17860"
+  },
+  {
+    "IlceAdi": "ST. ETIENNE",
+    "IlceAdiEn": "ST. ETIENNE",
+    "IlceID": "13294"
+  },
+  {
+    "IlceAdi": "ST. FONS",
+    "IlceAdiEn": "ST. FONS",
+    "IlceID": "18977"
+  },
+  {
+    "IlceAdi": "ST. GERMAIN DU JOUX",
+    "IlceAdiEn": "ST. GERMAIN DU JOUX",
+    "IlceID": "13273"
+  },
+  {
+    "IlceAdi": "ST. GERMAIN LES ARPAJ",
+    "IlceAdiEn": "ST. GERMAIN LES ARPAJ",
+    "IlceID": "16703"
+  },
+  {
+    "IlceAdi": "ST. GRATIEN",
+    "IlceAdiEn": "ST. GRATIEN",
+    "IlceID": "22199"
+  },
+  {
+    "IlceAdi": "ST. JULIEN EN GENEVOIS",
+    "IlceAdiEn": "ST. JULIEN EN GENEVOIS",
+    "IlceID": "13185"
+  },
+  {
+    "IlceAdi": "ST. MARCELLIN",
+    "IlceAdiEn": "ST. MARCELLIN",
+    "IlceID": "13229"
+  },
+  {
+    "IlceAdi": "ST. OMAR (P)",
+    "IlceAdiEn": "ST. OMAR (P)",
+    "IlceID": "13077"
+  },
+  {
+    "IlceAdi": "ST. RAMBERT-D'ALBON",
+    "IlceAdiEn": "ST. RAMBERT-D'ALBON",
+    "IlceID": "13391"
+  },
+  {
+    "IlceAdi": "ST. USAGE (C )",
+    "IlceAdiEn": "ST. USAGE (C )",
+    "IlceID": "13222"
+  },
+  {
+    "IlceAdi": "ST. VALLIER(DROME)",
+    "IlceAdiEn": "ST. VALLIER(DROME)",
+    "IlceID": "18986"
+  },
+  {
+    "IlceAdi": "STE.SIGOLENE",
+    "IlceAdiEn": "STE.SIGOLENE",
+    "IlceID": "17854"
+  },
+  {
+    "IlceAdi": "STRASBOURG",
+    "IlceAdiEn": "STRASBOURG",
+    "IlceID": "13384"
+  },
+  {
+    "IlceAdi": "SUIPPES",
+    "IlceAdiEn": "SUIPPES",
+    "IlceID": "13112"
+  },
+  {
+    "IlceAdi": "SULLY-SUR-LOIRE",
+    "IlceAdiEn": "SULLY-SUR-LOIRE",
+    "IlceID": "13067"
+  },
+  {
+    "IlceAdi": "SURY LE COMTAL",
+    "IlceAdiEn": "SURY LE COMTAL",
+    "IlceID": "13284"
+  },
+  {
+    "IlceAdi": "TANINGES",
+    "IlceAdiEn": "TANINGES",
+    "IlceID": "12944"
+  },
+  {
+    "IlceAdi": "TARARE",
+    "IlceAdiEn": "TARARE",
+    "IlceID": "13254"
+  },
+  {
+    "IlceAdi": "TERRASSON-LAVILLEDIEU",
+    "IlceAdiEn": "TERRASSON-LAVILLEDIEU",
+    "IlceID": "13194"
+  },
+  {
+    "IlceAdi": "THANN",
+    "IlceAdiEn": "THANN",
+    "IlceID": "13053"
+  },
+  {
+    "IlceAdi": "THIERS",
+    "IlceAdiEn": "THIERS",
+    "IlceID": "13375"
+  },
+  {
+    "IlceAdi": "THIONVILLE (L)",
+    "IlceAdiEn": "THIONVILLE (L)",
+    "IlceID": "13038"
+  },
+  {
+    "IlceAdi": "THONON LES BAINS",
+    "IlceAdiEn": "THONON LES BAINS",
+    "IlceID": "13186"
+  },
+  {
+    "IlceAdi": "THYEZ",
+    "IlceAdiEn": "THYEZ",
+    "IlceID": "17855"
+  },
+  {
+    "IlceAdi": "TIGNIEU JAMEYZIEU",
+    "IlceAdiEn": "TIGNIEU JAMEYZIEU",
+    "IlceID": "18979"
+  },
+  {
+    "IlceAdi": "TINQUEUX",
+    "IlceAdiEn": "TINQUEUX",
+    "IlceID": "13113"
+  },
+  {
+    "IlceAdi": "TINTENIAC",
+    "IlceAdiEn": "TINTENIAC",
+    "IlceID": "13132"
+  },
+  {
+    "IlceAdi": "TORCY",
+    "IlceAdiEn": "TORCY",
+    "IlceID": "22200"
+  },
+  {
+    "IlceAdi": "TOTES (S-M)",
+    "IlceAdiEn": "TOTES (S-M)",
+    "IlceID": "13154"
+  },
+  {
+    "IlceAdi": "TOUL",
+    "IlceAdiEn": "TOUL",
+    "IlceID": "17861"
+  },
+  {
+    "IlceAdi": "TOULON",
+    "IlceAdiEn": "TOULON",
+    "IlceID": "13422"
+  },
+  {
+    "IlceAdi": "TOULOUSE",
+    "IlceAdiEn": "TOULOUSE",
+    "IlceID": "13385"
+  },
+  {
+    "IlceAdi": "TOURCOING",
+    "IlceAdiEn": "TOURCOING",
+    "IlceID": "13079"
+  },
+  {
+    "IlceAdi": "TOURNON-SUR-RHONE",
+    "IlceAdiEn": "TOURNON-SUR-RHONE",
+    "IlceID": "13291"
+  },
+  {
+    "IlceAdi": "TOURS",
+    "IlceAdiEn": "TOURS",
+    "IlceID": "13332"
+  },
+  {
+    "IlceAdi": "TRAPPES",
+    "IlceAdiEn": "TRAPPES",
+    "IlceID": "13078"
+  },
+  {
+    "IlceAdi": "TREBES",
+    "IlceAdiEn": "TREBES",
+    "IlceID": "18980"
+  },
+  {
+    "IlceAdi": "TREGUNC",
+    "IlceAdiEn": "TREGUNC",
+    "IlceID": "13104"
+  },
+  {
+    "IlceAdi": "TREIGNAC",
+    "IlceAdiEn": "TREIGNAC",
+    "IlceID": "13242"
+  },
+  {
+    "IlceAdi": "TREVOUX",
+    "IlceAdiEn": "TREVOUX",
+    "IlceID": "13376"
+  },
+  {
+    "IlceAdi": "TROUVILLE (H-N)",
+    "IlceAdiEn": "TROUVILLE (H-N)",
+    "IlceID": "12995"
+  },
+  {
+    "IlceAdi": "TROYES",
+    "IlceAdiEn": "TROYES",
+    "IlceID": "13423"
+  },
+  {
+    "IlceAdi": "TULLE ",
+    "IlceAdiEn": "TULLE ",
+    "IlceID": "13243"
+  },
+  {
+    "IlceAdi": "TULLINS",
+    "IlceAdiEn": "TULLINS",
+    "IlceID": "13231"
+  },
+  {
+    "IlceAdi": "UCKANGE",
+    "IlceAdiEn": "UCKANGE",
+    "IlceID": "13039"
+  },
+  {
+    "IlceAdi": "USSEL (CORREZE)",
+    "IlceAdiEn": "USSEL (CORREZE)",
+    "IlceID": "13214"
+  },
+  {
+    "IlceAdi": "UZERCHE",
+    "IlceAdiEn": "UZERCHE",
+    "IlceID": "13244"
+  },
+  {
+    "IlceAdi": "VALABRES",
+    "IlceAdiEn": "VALABRES",
+    "IlceID": "13348"
+  },
+  {
+    "IlceAdi": "VAL-DE-REUIL",
+    "IlceAdiEn": "VAL-DE-REUIL",
+    "IlceID": "33310"
+  },
+  {
+    "IlceAdi": "VALENCE(DROME)",
+    "IlceAdiEn": "VALENCE(DROME)",
+    "IlceID": "13327"
+  },
+  {
+    "IlceAdi": "VALENTIGNEY",
+    "IlceAdiEn": "VALENTIGNEY",
+    "IlceID": "17862"
+  },
+  {
+    "IlceAdi": "VALENTON",
+    "IlceAdiEn": "VALENTON",
+    "IlceID": "22201"
+  },
+  {
+    "IlceAdi": "VANDOEUVRE LES NANCY",
+    "IlceAdiEn": "VANDOEUVRE LES NANCY",
+    "IlceID": "33313"
+  },
+  {
+    "IlceAdi": "VANNES",
+    "IlceAdiEn": "VANNES",
+    "IlceID": "13298"
+  },
+  {
+    "IlceAdi": "VAULX-EN-VELIN",
+    "IlceAdiEn": "VAULX-EN-VELIN",
+    "IlceID": "19023"
+  },
+  {
+    "IlceAdi": "VENDEUVRE-SUR-BARSE",
+    "IlceAdiEn": "VENDEUVRE-SUR-BARSE",
+    "IlceID": "20034"
+  },
+  {
+    "IlceAdi": "VENDOME",
+    "IlceAdiEn": "VENDOME",
+    "IlceID": "12977"
+  },
+  {
+    "IlceAdi": "VERNEUIL SUR AVRE",
+    "IlceAdiEn": "VERNEUIL SUR AVRE",
+    "IlceID": "22206"
+  },
+  {
+    "IlceAdi": "VERNON",
+    "IlceAdiEn": "VERNON",
+    "IlceID": "22207"
+  },
+  {
+    "IlceAdi": "VERSAILES",
+    "IlceAdiEn": "VERSAILES",
+    "IlceID": "13363"
+  },
+  {
+    "IlceAdi": "VERTUS",
+    "IlceAdiEn": "VERTUS",
+    "IlceID": "13114"
+  },
+  {
+    "IlceAdi": "VERZENAY",
+    "IlceAdiEn": "VERZENAY",
+    "IlceID": "13115"
+  },
+  {
+    "IlceAdi": "VESOUL",
+    "IlceAdiEn": "VESOUL",
+    "IlceID": "12967"
+  },
+  {
+    "IlceAdi": "VIBRAYE",
+    "IlceAdiEn": "VIBRAYE",
+    "IlceID": "13015"
+  },
+  {
+    "IlceAdi": "VICHY",
+    "IlceAdiEn": "VICHY",
+    "IlceID": "13424"
+  },
+  {
+    "IlceAdi": "VIENNE",
+    "IlceAdiEn": "VIENNE",
+    "IlceID": "13255"
+  },
+  {
+    "IlceAdi": "VIERZON",
+    "IlceAdiEn": "VIERZON",
+    "IlceID": "13351"
+  },
+  {
+    "IlceAdi": "VILLE LA GRAND",
+    "IlceAdiEn": "VILLE LA GRAND",
+    "IlceID": "18982"
+  },
+  {
+    "IlceAdi": "VILLEFRANCHE",
+    "IlceAdiEn": "VİLLEFRANCHE",
+    "IlceID": "16745"
+  },
+  {
+    "IlceAdi": "VILLEFRANCHE DE ROUERGUE",
+    "IlceAdiEn": "VILLEFRANCHE DE ROUERGUE",
+    "IlceID": "13256"
+  },
+  {
+    "IlceAdi": "VILLEFRANCHE SUR SAONE",
+    "IlceAdiEn": "VILLEFRANCHE SUR SAONE",
+    "IlceID": "18981"
+  },
+  {
+    "IlceAdi": "VINAY (RA)",
+    "IlceAdiEn": "VINAY (RA)",
+    "IlceID": "13232"
+  },
+  {
+    "IlceAdi": "VIRE",
+    "IlceAdiEn": "VIRE",
+    "IlceID": "12996"
+  },
+  {
+    "IlceAdi": "VIRIAT",
+    "IlceAdiEn": "VIRIAT",
+    "IlceID": "13202"
+  },
+  {
+    "IlceAdi": "VITRE",
+    "IlceAdiEn": "VITRE",
+    "IlceID": "13133"
+  },
+  {
+    "IlceAdi": "VITRY-LE-FRANCOIS",
+    "IlceAdiEn": "VITRY-LE-FRANCOIS",
+    "IlceID": "13159"
+  },
+  {
+    "IlceAdi": "VOIRON",
+    "IlceAdiEn": "VOIRON",
+    "IlceID": "13233"
+  },
+  {
+    "IlceAdi": "VOLVIC",
+    "IlceAdiEn": "VOLVIC",
+    "IlceID": "13215"
+  },
+  {
+    "IlceAdi": "VOUZIERS",
+    "IlceAdiEn": "VOUZIERS",
+    "IlceID": "13116"
+  },
+  {
+    "IlceAdi": "WARCQ (A)",
+    "IlceAdiEn": "WARCQ (A)",
+    "IlceID": "13117"
+  },
+  {
+    "IlceAdi": "WISSEMBOURG",
+    "IlceAdiEn": "WISSEMBOURG",
+    "IlceID": "13377"
+  },
+  {
+    "IlceAdi": "WITTELSHEIM",
+    "IlceAdiEn": "WITTELSHEIM",
+    "IlceID": "13055"
+  },
+  {
+    "IlceAdi": "WITTENHEIM",
+    "IlceAdiEn": "WITTENHEIM",
+    "IlceID": "13054"
+  },
+  {
+    "IlceAdi": "WOIPPY",
+    "IlceAdiEn": "WOIPPY",
+    "IlceID": "13040"
+  },
+  {
+    "IlceAdi": "YERVILLE (S-M)",
+    "IlceAdiEn": "YERVILLE (S-M)",
+    "IlceID": "13155"
+  },
+  {
+    "IlceAdi": "YVETOT",
+    "IlceAdiEn": "YVETOT",
+    "IlceID": "13156"
+  },
+  {
+    "IlceAdi": "YZEURE",
+    "IlceAdiEn": "YZEURE",
+    "IlceID": "18983"
+  }
+]

@@ -1,0 +1,397 @@
+[
+  {
+    "IlceAdi": "ALCHEVSK",
+    "IlceAdiEn": "ALCHEVSK",
+    "IlceID": "16422"
+  },
+  {
+    "IlceAdi": "BELGOROD-DNESTROVSKI",
+    "IlceAdiEn": "BELGOROD-DNESTROVSKI",
+    "IlceID": "17813"
+  },
+  {
+    "IlceAdi": "BERDYANSK",
+    "IlceAdiEn": "BERDYANSK",
+    "IlceID": "16480"
+  },
+  {
+    "IlceAdi": "BEREZAN (Kiev)",
+    "IlceAdiEn": "BEREZAN (Kiev)",
+    "IlceID": "16434"
+  },
+  {
+    "IlceAdi": "BILA TSERKVA",
+    "IlceAdiEn": "BILA TSERKVA",
+    "IlceID": "16465"
+  },
+  {
+    "IlceAdi": "BOGODUKLOV",
+    "IlceAdiEn": "BOGODUKLOV",
+    "IlceID": "16425"
+  },
+  {
+    "IlceAdi": "BORISPOL",
+    "IlceAdiEn": "BORISPOL",
+    "IlceID": "16435"
+  },
+  {
+    "IlceAdi": "BOYARKA",
+    "IlceAdiEn": "BOYARKA",
+    "IlceID": "16436"
+  },
+  {
+    "IlceAdi": "BROVARY",
+    "IlceAdiEn": "BROVARY",
+    "IlceID": "16437"
+  },
+  {
+    "IlceAdi": "CHERKASY",
+    "IlceAdiEn": "CHERKASY",
+    "IlceID": "16454"
+  },
+  {
+    "IlceAdi": "CHERNIHIN",
+    "IlceAdiEn": "CHERNIHIN",
+    "IlceID": "16468"
+  },
+  {
+    "IlceAdi": "CHERNIVTSI",
+    "IlceAdiEn": "CHERNIVTSI",
+    "IlceID": "16455"
+  },
+  {
+    "IlceAdi": "CHUGUVEY",
+    "IlceAdiEn": "CHUGUVEY",
+    "IlceID": "16426"
+  },
+  {
+    "IlceAdi": "DERDYCHIV",
+    "IlceAdiEn": "DERDYCHIV",
+    "IlceID": "16462"
+  },
+  {
+    "IlceAdi": "DERGACHI",
+    "IlceAdiEn": "DERGACHI",
+    "IlceID": "16427"
+  },
+  {
+    "IlceAdi": "DNIPROPETROVSK",
+    "IlceAdiEn": "DNIPROPETROVSK",
+    "IlceID": "16450"
+  },
+  {
+    "IlceAdi": "DONETSK",
+    "IlceAdiEn": "DONETSK",
+    "IlceID": "16492"
+  },
+  {
+    "IlceAdi": "DYMER",
+    "IlceAdiEn": "DYMER",
+    "IlceID": "16438"
+  },
+  {
+    "IlceAdi": "FASTOV",
+    "IlceAdiEn": "FASTOV",
+    "IlceID": "16439"
+  },
+  {
+    "IlceAdi": "GOGOLEV",
+    "IlceAdiEn": "GOGOLEV",
+    "IlceID": "16440"
+  },
+  {
+    "IlceAdi": "HENİCHESK",
+    "IlceAdiEn": "HENİCHESK",
+    "IlceID": "16753"
+  },
+  {
+    "IlceAdi": "HMELNİTSKİ",
+    "IlceAdiEn": "HMELNİTSKİ",
+    "IlceID": "16712"
+  },
+  {
+    "IlceAdi": "HORLIVKA",
+    "IlceAdiEn": "HORLIVKA",
+    "IlceID": "16483"
+  },
+  {
+    "IlceAdi": "IRPEN",
+    "IlceAdiEn": "IRPEN",
+    "IlceID": "16441"
+  },
+  {
+    "IlceAdi": "IVANO FRANKIVSK",
+    "IlceAdiEn": "IVANO FRANKIVSK",
+    "IlceID": "16490"
+  },
+  {
+    "IlceAdi": "IZMAYIL",
+    "IlceAdiEn": "IZMAYIL",
+    "IlceID": "16495"
+  },
+  {
+    "IlceAdi": "KAMYANETS PODILSKYY",
+    "IlceAdiEn": "KAMYANETS PODILSKYY",
+    "IlceID": "16491"
+  },
+  {
+    "IlceAdi": "KHARKHOV",
+    "IlceAdiEn": "KHARKHOV",
+    "IlceID": "16497"
+  },
+  {
+    "IlceAdi": "KHERSON",
+    "IlceAdiEn": "KHERSON",
+    "IlceID": "16499"
+  },
+  {
+    "IlceAdi": "KIEV",
+    "IlceAdiEn": "KIEV",
+    "IlceID": "16498"
+  },
+  {
+    "IlceAdi": "KILIYA",
+    "IlceAdiEn": "KILIYA",
+    "IlceID": "16496"
+  },
+  {
+    "IlceAdi": "KIROVOHRAD",
+    "IlceAdiEn": "KIROVOHRAD",
+    "IlceID": "16489"
+  },
+  {
+    "IlceAdi": "KONOTOP",
+    "IlceAdiEn": "KONOTOP",
+    "IlceID": "16469"
+  },
+  {
+    "IlceAdi": "KOSTANTINOVKA (Donetsk)",
+    "IlceAdiEn": "KOSTANTINOVKA (Donetsk)",
+    "IlceID": "16424"
+  },
+  {
+    "IlceAdi": "KRAMATORSK",
+    "IlceAdiEn": "KRAMATORSK",
+    "IlceID": "16423"
+  },
+  {
+    "IlceAdi": "KRANSNYY LUCH",
+    "IlceAdiEn": "KRANSNYY LUCH",
+    "IlceID": "16488"
+  },
+  {
+    "IlceAdi": "KREMENCHUK",
+    "IlceAdiEn": "KREMENCHUK",
+    "IlceID": "16473"
+  },
+  {
+    "IlceAdi": "KROVOHRAD",
+    "IlceAdiEn": "KROVOHRAD",
+    "IlceID": "16475"
+  },
+  {
+    "IlceAdi": "KRYVYY RIH",
+    "IlceAdiEn": "KRYVYY RIH",
+    "IlceID": "16476"
+  },
+  {
+    "IlceAdi": "LISICHANSK",
+    "IlceAdiEn": "LISICHANSK",
+    "IlceID": "16485"
+  },
+  {
+    "IlceAdi": "LUHANSK",
+    "IlceAdiEn": "LUHANSK",
+    "IlceID": "16487"
+  },
+  {
+    "IlceAdi": "LUTSK",
+    "IlceAdiEn": "LUTSK",
+    "IlceID": "16456"
+  },
+  {
+    "IlceAdi": "LVIV",
+    "IlceAdiEn": "LVIV",
+    "IlceID": "16451"
+  },
+  {
+    "IlceAdi": "LYUBOTIN",
+    "IlceAdiEn": "LYUBOTIN",
+    "IlceID": "16428"
+  },
+  {
+    "IlceAdi": "MAKAROV",
+    "IlceAdiEn": "MAKAROV",
+    "IlceID": "16442"
+  },
+  {
+    "IlceAdi": "MAKEYEVKA",
+    "IlceAdiEn": "MAKEYEVKA",
+    "IlceID": "16459"
+  },
+  {
+    "IlceAdi": "MARIUPOL",
+    "IlceAdiEn": "MARIUPOL",
+    "IlceID": "16449"
+  },
+  {
+    "IlceAdi": "MELITOPOL",
+    "IlceAdiEn": "MELITOPOL",
+    "IlceID": "16479"
+  },
+  {
+    "IlceAdi": "MEREFA",
+    "IlceAdiEn": "MEREFA",
+    "IlceID": "16429"
+  },
+  {
+    "IlceAdi": "MURAFA",
+    "IlceAdiEn": "MURAFA",
+    "IlceID": "16430"
+  },
+  {
+    "IlceAdi": "MYKOLAYIV",
+    "IlceAdiEn": "MYKOLAYIV",
+    "IlceID": "16481"
+  },
+  {
+    "IlceAdi": "NIKOPOL",
+    "IlceAdiEn": "NIKOPOL",
+    "IlceID": "16478"
+  },
+  {
+    "IlceAdi": "NIZHYN",
+    "IlceAdiEn": "NIZHYN",
+    "IlceID": "16471"
+  },
+  {
+    "IlceAdi": "OBUKHOV",
+    "IlceAdiEn": "OBUKHOV",
+    "IlceID": "16443"
+  },
+  {
+    "IlceAdi": "ODESSA",
+    "IlceAdiEn": "ODESSA",
+    "IlceID": "16493"
+  },
+  {
+    "IlceAdi": "OLEKSANDRIYA",
+    "IlceAdiEn": "OLEKSANDRIYA",
+    "IlceID": "16474"
+  },
+  {
+    "IlceAdi": "PECHENEGI",
+    "IlceAdiEn": "PECHENEGI",
+    "IlceID": "16431"
+  },
+  {
+    "IlceAdi": "POLTAVA",
+    "IlceAdiEn": "POLTAVA",
+    "IlceID": "16461"
+  },
+  {
+    "IlceAdi": "RENI",
+    "IlceAdiEn": "RENI",
+    "IlceID": "16494"
+  },
+  {
+    "IlceAdi": "RIVNE",
+    "IlceAdiEn": "RIVNE",
+    "IlceID": "16463"
+  },
+  {
+    "IlceAdi": "SHOSTKA",
+    "IlceAdiEn": "SHOSTKA",
+    "IlceID": "16470"
+  },
+  {
+    "IlceAdi": "STAKHANOV",
+    "IlceAdiEn": "STAKHANOV",
+    "IlceID": "16484"
+  },
+  {
+    "IlceAdi": "SUMY",
+    "IlceAdiEn": "SUMY",
+    "IlceID": "16472"
+  },
+  {
+    "IlceAdi": "SVERDLOVSK",
+    "IlceAdiEn": "SVERDLOVSK",
+    "IlceID": "16460"
+  },
+  {
+    "IlceAdi": "SYEVERODONETSK",
+    "IlceAdiEn": "SYEVERODONETSK",
+    "IlceID": "16486"
+  },
+  {
+    "IlceAdi": "TERNOPIL",
+    "IlceAdiEn": "TERNOPIL",
+    "IlceID": "16466"
+  },
+  {
+    "IlceAdi": "UMAN",
+    "IlceAdiEn": "UMAN",
+    "IlceID": "16457"
+  },
+  {
+    "IlceAdi": "UZHHOROD",
+    "IlceAdiEn": "UZHHOROD",
+    "IlceID": "16467"
+  },
+  {
+    "IlceAdi": "VALKI",
+    "IlceAdiEn": "VALKI",
+    "IlceID": "16432"
+  },
+  {
+    "IlceAdi": "VASILKOV",
+    "IlceAdiEn": "VASILKOV",
+    "IlceID": "16444"
+  },
+  {
+    "IlceAdi": "VELIKAYA DYMERKA",
+    "IlceAdiEn": "VELIKAYA DYMERKA",
+    "IlceID": "16445"
+  },
+  {
+    "IlceAdi": "VINNYTSYA",
+    "IlceAdiEn": "VINNYTSYA",
+    "IlceID": "16464"
+  },
+  {
+    "IlceAdi": "VORONKOV",
+    "IlceAdiEn": "VORONKOV",
+    "IlceID": "16446"
+  },
+  {
+    "IlceAdi": "YENAKIYEVO",
+    "IlceAdiEn": "YENAKIYEVO",
+    "IlceID": "16482"
+  },
+  {
+    "IlceAdi": "ZAPORIZHZHYA",
+    "IlceAdiEn": "ZAPORIZHZHYA",
+    "IlceID": "16477"
+  },
+  {
+    "IlceAdi": "ZAPOROJIE",
+    "IlceAdiEn": "ZAPOROJIE",
+    "IlceID": "16452"
+  },
+  {
+    "IlceAdi": "ZGUROVKA",
+    "IlceAdiEn": "ZGUROVKA",
+    "IlceID": "16447"
+  },
+  {
+    "IlceAdi": "ZHYTOMYR",
+    "IlceAdiEn": "ZHYTOMYR",
+    "IlceID": "16458"
+  },
+  {
+    "IlceAdi": "ZMIYEV",
+    "IlceAdiEn": "ZMIYEV",
+    "IlceID": "16433"
+  }
+]

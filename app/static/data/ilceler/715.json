@@ -1,0 +1,202 @@
+[
+  {
+    "IlceAdi": "ANDONG-SI",
+    "IlceAdiEn": "ANDONG-SI",
+    "IlceID": "13501"
+  },
+  {
+    "IlceAdi": "ANSAN",
+    "IlceAdiEn": "ANSAN",
+    "IlceID": "13503"
+  },
+  {
+    "IlceAdi": "ANYANG",
+    "IlceAdiEn": "ANYANG",
+    "IlceID": "13502"
+  },
+  {
+    "IlceAdi": "BUCHEON",
+    "IlceAdiEn": "BUCHEON",
+    "IlceID": "13504"
+  },
+  {
+    "IlceAdi": "CHANGWON",
+    "IlceAdiEn": "CHANGWON",
+    "IlceID": "13535"
+  },
+  {
+    "IlceAdi": "CHEONGJU",
+    "IlceAdiEn": "CHEONGJU",
+    "IlceID": "13508"
+  },
+  {
+    "IlceAdi": "CHUNGJU",
+    "IlceAdiEn": "CHUNGJU",
+    "IlceID": "13507"
+  },
+  {
+    "IlceAdi": "DAEGU",
+    "IlceAdiEn": "DAEGU",
+    "IlceID": "13526"
+  },
+  {
+    "IlceAdi": "DAEJEON",
+    "IlceAdiEn": "DAEJEON",
+    "IlceID": "13527"
+  },
+  {
+    "IlceAdi": "GANGNEUNG",
+    "IlceAdiEn": "GANGNEUNG",
+    "IlceID": "13512"
+  },
+  {
+    "IlceAdi": "GIMHAE",
+    "IlceAdiEn": "GIMHAE",
+    "IlceID": "13509"
+  },
+  {
+    "IlceAdi": "GIMJE",
+    "IlceAdiEn": "GIMJE",
+    "IlceID": "13533"
+  },
+  {
+    "IlceAdi": "GOHEUNG",
+    "IlceAdiEn": "GOHEUNG",
+    "IlceID": "13522"
+  },
+  {
+    "IlceAdi": "GUNP'O",
+    "IlceAdiEn": "GUNP'O",
+    "IlceID": "13513"
+  },
+  {
+    "IlceAdi": "GUNSAN",
+    "IlceAdiEn": "GUNSAN",
+    "IlceID": "13514"
+  },
+  {
+    "IlceAdi": "GWANGJU",
+    "IlceAdiEn": "GWANGJU",
+    "IlceID": "13516"
+  },
+  {
+    "IlceAdi": "GYEONGJU",
+    "IlceAdiEn": "GYEONGJU",
+    "IlceID": "13517"
+  },
+  {
+    "IlceAdi": "IKSAN",
+    "IlceAdiEn": "IKSAN",
+    "IlceID": "13534"
+  },
+  {
+    "IlceAdi": "INCHEON",
+    "IlceAdiEn": "INCHEON",
+    "IlceID": "13510"
+  },
+  {
+    "IlceAdi": "JEJU",
+    "IlceAdiEn": "JEJU",
+    "IlceID": "13511"
+  },
+  {
+    "IlceAdi": "JEON JU",
+    "IlceAdiEn": "JEON JU",
+    "IlceID": "13506"
+  },
+  {
+    "IlceAdi": "JINHAE",
+    "IlceAdiEn": "JINHAE",
+    "IlceID": "13515"
+  },
+  {
+    "IlceAdi": "JINJU",
+    "IlceAdiEn": "JINJU",
+    "IlceID": "13505"
+  },
+  {
+    "IlceAdi": "MASAN",
+    "IlceAdiEn": "MASAN",
+    "IlceID": "13518"
+  },
+  {
+    "IlceAdi": "MIRYANG",
+    "IlceAdiEn": "MIRYANG",
+    "IlceID": "13521"
+  },
+  {
+    "IlceAdi": "MOKPO",
+    "IlceAdiEn": "MOKPO",
+    "IlceID": "13529"
+  },
+  {
+    "IlceAdi": "NAJU",
+    "IlceAdiEn": "NAJU",
+    "IlceID": "13537"
+  },
+  {
+    "IlceAdi": "PAJU",
+    "IlceAdiEn": "PAJU",
+    "IlceID": "13519"
+  },
+  {
+    "IlceAdi": "POCHEON",
+    "IlceAdiEn": "POCHEON",
+    "IlceID": "13523"
+  },
+  {
+    "IlceAdi": "POHANG",
+    "IlceAdiEn": "POHANG",
+    "IlceID": "13520"
+  },
+  {
+    "IlceAdi": "PUSAN",
+    "IlceAdiEn": "PUSAN",
+    "IlceID": "13500"
+  },
+  {
+    "IlceAdi": "SEONGNAM",
+    "IlceAdiEn": "SEONGNAM",
+    "IlceID": "13524"
+  },
+  {
+    "IlceAdi": "SEUL",
+    "IlceAdiEn": "SEUL",
+    "IlceID": "13499"
+  },
+  {
+    "IlceAdi": "SUNCHEON",
+    "IlceAdiEn": "SUNCHEON",
+    "IlceID": "13536"
+  },
+  {
+    "IlceAdi": "SUWON",
+    "IlceAdiEn": "SUWON",
+    "IlceID": "13525"
+  },
+  {
+    "IlceAdi": "UIJEONGBU",
+    "IlceAdiEn": "UIJEONGBU",
+    "IlceID": "13530"
+  },
+  {
+    "IlceAdi": "ULSAN",
+    "IlceAdiEn": "ULSAN",
+    "IlceID": "13538"
+  },
+  {
+    "IlceAdi": "WONJU",
+    "IlceAdiEn": "WONJU",
+    "IlceID": "13531"
+  },
+  {
+    "IlceAdi": "YEOSU",
+    "IlceAdiEn": "YEOSU",
+    "IlceID": "13528"
+  },
+  {
+    "IlceAdi": "YONGIN",
+    "IlceAdiEn": "YONGIN",
+    "IlceID": "13532"
+  }
+]

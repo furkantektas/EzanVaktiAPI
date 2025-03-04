@@ -1,0 +1,587 @@
+[
+  {
+    "IlceAdi": "ALLENDORF/EDER",
+    "IlceAdiEn": "ALLENDORF/EDER",
+    "IlceID": "20131"
+  },
+  {
+    "IlceAdi": "ALSFELD",
+    "IlceAdiEn": "ALSFELD",
+    "IlceID": "10044"
+  },
+  {
+    "IlceAdi": "AROLSEN",
+    "IlceAdiEn": "AROLSEN",
+    "IlceID": "10893"
+  },
+  {
+    "IlceAdi": "AUERBACH (H)",
+    "IlceAdiEn": "AUERBACH (H)",
+    "IlceID": "10717"
+  },
+  {
+    "IlceAdi": "BABENHAUSEN/HESSEN",
+    "IlceAdiEn": "BABENHAUSEN/HESSEN",
+    "IlceID": "10898"
+  },
+  {
+    "IlceAdi": "BAD CAMBERG",
+    "IlceAdiEn": "BAD CAMBERG",
+    "IlceID": "10900"
+  },
+  {
+    "IlceAdi": "BAD HERSFELD",
+    "IlceAdiEn": "BAD HERSFELD",
+    "IlceID": "10576"
+  },
+  {
+    "IlceAdi": "BAD HOMBURG",
+    "IlceAdiEn": "BAD HOMBURG",
+    "IlceID": "10905"
+  },
+  {
+    "IlceAdi": "BAD NAUHEIM",
+    "IlceAdiEn": "BAD NAUHEIM",
+    "IlceID": "10907"
+  },
+  {
+    "IlceAdi": "BAD SCHWALBACH",
+    "IlceAdiEn": "BAD SCHWALBACH",
+    "IlceID": "10910"
+  },
+  {
+    "IlceAdi": "BAD VILBEL",
+    "IlceAdiEn": "BAD VILBEL",
+    "IlceID": "10911"
+  },
+  {
+    "IlceAdi": "BAD WILDUNGEN",
+    "IlceAdiEn": "BAD WILDUNGEN",
+    "IlceID": "10912"
+  },
+  {
+    "IlceAdi": "BAUNATAL",
+    "IlceAdiEn": "BAUNATAL",
+    "IlceID": "10746"
+  },
+  {
+    "IlceAdi": "BEBRA",
+    "IlceAdiEn": "BEBRA",
+    "IlceID": "10057"
+  },
+  {
+    "IlceAdi": "BEERFELDEN",
+    "IlceAdiEn": "BEERFELDEN",
+    "IlceID": "10917"
+  },
+  {
+    "IlceAdi": "BENSHEIM",
+    "IlceAdiEn": "BENSHEIM",
+    "IlceID": "10919"
+  },
+  {
+    "IlceAdi": "BETTENHAUSEN",
+    "IlceAdiEn": "BETTENHAUSEN",
+    "IlceID": "10391"
+  },
+  {
+    "IlceAdi": "BIEBESHEIM AM RHEIN",
+    "IlceAdiEn": "BIEBESHEIM AM RHEIN",
+    "IlceID": "10927"
+  },
+  {
+    "IlceAdi": "BIEDENKOPF",
+    "IlceAdiEn": "BIEDENKOPF",
+    "IlceID": "10928"
+  },
+  {
+    "IlceAdi": "BISCHOFSHEIM",
+    "IlceAdiEn": "BISCHOFSHEIM",
+    "IlceID": "10930"
+  },
+  {
+    "IlceAdi": "BORKEN (HESSEN)",
+    "IlceAdiEn": "BORKEN (HESSEN)",
+    "IlceID": "10940"
+  },
+  {
+    "IlceAdi": "BREIDENBACH",
+    "IlceAdiEn": "BREIDENBACH",
+    "IlceID": "10947"
+  },
+  {
+    "IlceAdi": "BREUBERG",
+    "IlceAdiEn": "BREUBERG",
+    "IlceID": "10951"
+  },
+  {
+    "IlceAdi": "BRUCHKÖBEL",
+    "IlceAdiEn": "BRUCHKÖBEL",
+    "IlceID": "10732"
+  },
+  {
+    "IlceAdi": "BUDINGEN",
+    "IlceAdiEn": "BUDINGEN",
+    "IlceID": "10958"
+  },
+  {
+    "IlceAdi": "BURSTADT",
+    "IlceAdiEn": "BURSTADT",
+    "IlceID": "10554"
+  },
+  {
+    "IlceAdi": "BUTTELBORN",
+    "IlceAdiEn": "BUTTELBORN",
+    "IlceID": "10718"
+  },
+  {
+    "IlceAdi": "BUTZBACH",
+    "IlceAdiEn": "BUTZBACH",
+    "IlceID": "10963"
+  },
+  {
+    "IlceAdi": "DARMSTADT",
+    "IlceAdiEn": "DARMSTADT",
+    "IlceID": "11079"
+  },
+  {
+    "IlceAdi": "DIEBURG",
+    "IlceAdiEn": "DIEBURG",
+    "IlceID": "10972"
+  },
+  {
+    "IlceAdi": "DIETZENBACH",
+    "IlceAdiEn": "DIETZENBACH",
+    "IlceID": "10973"
+  },
+  {
+    "IlceAdi": "DILLENBURG",
+    "IlceAdiEn": "DILLENBURG",
+    "IlceID": "10974"
+  },
+  {
+    "IlceAdi": "DREIEICH",
+    "IlceAdiEn": "DREIEICH",
+    "IlceID": "18963"
+  },
+  {
+    "IlceAdi": "DUDENHOFEN",
+    "IlceAdiEn": "DUDENHOFEN",
+    "IlceID": "10780"
+  },
+  {
+    "IlceAdi": "EHRINGSHAUSEN",
+    "IlceAdiEn": "EHRINGSHAUSEN",
+    "IlceID": "10986"
+  },
+  {
+    "IlceAdi": "ELTVILLE",
+    "IlceAdiEn": "ELTVILLE",
+    "IlceID": "10765"
+  },
+  {
+    "IlceAdi": "EPPERTSHAUSEN",
+    "IlceAdiEn": "EPPERTSHAUSEN",
+    "IlceID": "10781"
+  },
+  {
+    "IlceAdi": "ERBACH",
+    "IlceAdiEn": "ERBACH",
+    "IlceID": "10996"
+  },
+  {
+    "IlceAdi": "ESCHBORN",
+    "IlceAdiEn": "ESCHBORN",
+    "IlceID": "11000"
+  },
+  {
+    "IlceAdi": "FELSBERG",
+    "IlceAdiEn": "FELSBERG",
+    "IlceID": "10092"
+  },
+  {
+    "IlceAdi": "FLORSHEIM",
+    "IlceAdiEn": "FLORSHEIM",
+    "IlceID": "10766"
+  },
+  {
+    "IlceAdi": "FRANKENBERG /EDER",
+    "IlceAdiEn": "FRANKENBERG /EDER",
+    "IlceID": "9982"
+  },
+  {
+    "IlceAdi": "FRANKFURT",
+    "IlceAdiEn": "FRANKFURT",
+    "IlceID": "11010"
+  },
+  {
+    "IlceAdi": "FRIEDBERG (HESSEN)",
+    "IlceAdiEn": "FRIEDBERG (HESSEN)",
+    "IlceID": "9988"
+  },
+  {
+    "IlceAdi": "FRIEDRECHSDROF",
+    "IlceAdiEn": "FRIEDRECHSDROF",
+    "IlceID": "9989"
+  },
+  {
+    "IlceAdi": "FULDA",
+    "IlceAdiEn": "FULDA",
+    "IlceID": "11030"
+  },
+  {
+    "IlceAdi": "FURTH ODW. (HESSEN)",
+    "IlceAdiEn": "FURTH ODW. (HESSEN)",
+    "IlceID": "9992"
+  },
+  {
+    "IlceAdi": "GELNHAUSEN",
+    "IlceAdiEn": "GELNHAUSEN",
+    "IlceID": "10104"
+  },
+  {
+    "IlceAdi": "GIESSEN",
+    "IlceAdiEn": "GIESSEN",
+    "IlceID": "11032"
+  },
+  {
+    "IlceAdi": "GINSHEIM",
+    "IlceAdiEn": "GINSHEIM",
+    "IlceID": "10767"
+  },
+  {
+    "IlceAdi": "GLADENBACH",
+    "IlceAdiEn": "GLADENBACH",
+    "IlceID": "10015"
+  },
+  {
+    "IlceAdi": "GRASELLENBACH",
+    "IlceAdiEn": "GRASELLENBACH",
+    "IlceID": "10019"
+  },
+  {
+    "IlceAdi": "GRIESHEIM (H)",
+    "IlceAdiEn": "GRIESHEIM (H)",
+    "IlceID": "10719"
+  },
+  {
+    "IlceAdi": "GROSS-GERAU",
+    "IlceAdiEn": "GROSS-GERAU",
+    "IlceID": "10022"
+  },
+  {
+    "IlceAdi": "GROSS-UMSTADT",
+    "IlceAdiEn": "GROSS-UMSTADT",
+    "IlceID": "10720"
+  },
+  {
+    "IlceAdi": "GROSS-ZIMMERN",
+    "IlceAdiEn": "GROSS-ZIMMERN",
+    "IlceID": "10721"
+  },
+  {
+    "IlceAdi": "HADAMAR",
+    "IlceAdiEn": "HADAMAR",
+    "IlceID": "10751"
+  },
+  {
+    "IlceAdi": "HAIGER",
+    "IlceAdiEn": "HAIGER",
+    "IlceID": "10029"
+  },
+  {
+    "IlceAdi": "HANAU",
+    "IlceAdiEn": "HANAU",
+    "IlceID": "10040"
+  },
+  {
+    "IlceAdi": "HEPPENHEIM A.D.BERG.",
+    "IlceAdiEn": "HEPPENHEIM A.D.BERG.",
+    "IlceID": "10122"
+  },
+  {
+    "IlceAdi": "HERBORN",
+    "IlceAdiEn": "HERBORN",
+    "IlceID": "10123"
+  },
+  {
+    "IlceAdi": "HESSISCH LICHTENAU",
+    "IlceAdiEn": "HESSISCH LICHTENAU",
+    "IlceID": "10376"
+  },
+  {
+    "IlceAdi": "HIRSCHHORN (HESSEN)",
+    "IlceAdiEn": "HIRSCHHORN (HESSEN)",
+    "IlceID": "10130"
+  },
+  {
+    "IlceAdi": "HOCHHEIM AM MAIN",
+    "IlceAdiEn": "HOCHHEIM AM MAIN",
+    "IlceID": "10131"
+  },
+  {
+    "IlceAdi": "HOCHST IM ODENWALD",
+    "IlceAdiEn": "HOCHST IM ODENWALD",
+    "IlceID": "10378"
+  },
+  {
+    "IlceAdi": "HOFGEISMAR",
+    "IlceAdiEn": "HOFGEISMAR",
+    "IlceID": "10879"
+  },
+  {
+    "IlceAdi": "HOFHEIM",
+    "IlceAdiEn": "HOFHEIM",
+    "IlceID": "10134"
+  },
+  {
+    "IlceAdi": "HOFHEIM A. TAUNUS",
+    "IlceAdiEn": "HOFHEIM A. TAUNUS",
+    "IlceID": "10768"
+  },
+  {
+    "IlceAdi": "HUNGEN",
+    "IlceAdiEn": "HUNGEN",
+    "IlceID": "10142"
+  },
+  {
+    "IlceAdi": "IDSTEIN",
+    "IlceAdiEn": "IDSTEIN",
+    "IlceID": "10147"
+  },
+  {
+    "IlceAdi": "KARBEN",
+    "IlceAdiEn": "KARBEN",
+    "IlceID": "10156"
+  },
+  {
+    "IlceAdi": "KASSEL",
+    "IlceAdiEn": "KASSEL",
+    "IlceID": "11015"
+  },
+  {
+    "IlceAdi": "KELKHEIM",
+    "IlceAdiEn": "KELKHEIM",
+    "IlceID": "10733"
+  },
+  {
+    "IlceAdi": "KELSTERBACH",
+    "IlceAdiEn": "KELSTERBACH",
+    "IlceID": "10159"
+  },
+  {
+    "IlceAdi": "KIRCHHAIN",
+    "IlceAdiEn": "KIRCHHAIN",
+    "IlceID": "10163"
+  },
+  {
+    "IlceAdi": "KORBACH",
+    "IlceAdiEn": "KORBACH",
+    "IlceID": "10167"
+  },
+  {
+    "IlceAdi": "LAMPERTHEIM",
+    "IlceAdiEn": "LAMPERTHEIM",
+    "IlceID": "10174"
+  },
+  {
+    "IlceAdi": "LANGEN",
+    "IlceAdiEn": "LANGEN",
+    "IlceID": "10177"
+  },
+  {
+    "IlceAdi": "LANGENSELBOLD",
+    "IlceAdiEn": "LANGENSELBOLD",
+    "IlceID": "10734"
+  },
+  {
+    "IlceAdi": "LAUBACH (HESSEN)",
+    "IlceAdiEn": "LAUBACH (HESSEN)",
+    "IlceID": "10574"
+  },
+  {
+    "IlceAdi": "LAUTERBACH",
+    "IlceAdiEn": "LAUTERBACH",
+    "IlceID": "10420"
+  },
+  {
+    "IlceAdi": "LIMBURG AN DER LAHN",
+    "IlceAdiEn": "LIMBURG AN DER LAHN",
+    "IlceID": "10185"
+  },
+  {
+    "IlceAdi": "LIMESHAIN -ROMMERSHA",
+    "IlceAdiEn": "LIMESHAIN -ROMMERSHA",
+    "IlceID": "10425"
+  },
+  {
+    "IlceAdi": "LOHFELDEN",
+    "IlceAdiEn": "LOHFELDEN",
+    "IlceID": "10747"
+  },
+  {
+    "IlceAdi": "LOLLAR",
+    "IlceAdiEn": "LOLLAR",
+    "IlceID": "10571"
+  },
+  {
+    "IlceAdi": "MARBURG AN DER LAHN",
+    "IlceAdiEn": "MARBURG AN DER LAHN",
+    "IlceID": "10578"
+  },
+  {
+    "IlceAdi": "MELSUNGEN",
+    "IlceAdiEn": "MELSUNGEN",
+    "IlceID": "10441"
+  },
+  {
+    "IlceAdi": "MICHELSTADT",
+    "IlceAdiEn": "MICHELSTADT",
+    "IlceID": "10446"
+  },
+  {
+    "IlceAdi": "MORFELDEN - WALLDORF",
+    "IlceAdiEn": "MORFELDEN - WALLDORF",
+    "IlceID": "10214"
+  },
+  {
+    "IlceAdi": "MUHLHEIM",
+    "IlceAdiEn": "MUHLHEIM",
+    "IlceID": "10215"
+  },
+  {
+    "IlceAdi": "MUNDEN",
+    "IlceAdiEn": "MUNDEN",
+    "IlceID": "10748"
+  },
+  {
+    "IlceAdi": "NEU-ISENBURG",
+    "IlceAdiEn": "NEU-ISENBURG",
+    "IlceID": "10221"
+  },
+  {
+    "IlceAdi": "NEUSTADT IN HESSEN",
+    "IlceAdiEn": "NEUSTADT IN HESSEN",
+    "IlceID": "10228"
+  },
+  {
+    "IlceAdi": "NIDDA",
+    "IlceAdiEn": "NIDDA",
+    "IlceID": "10230"
+  },
+  {
+    "IlceAdi": "OBERTSHAUSEN",
+    "IlceAdiEn": "OBERTSHAUSEN",
+    "IlceID": "10236"
+  },
+  {
+    "IlceAdi": "OBERURSEL",
+    "IlceAdiEn": "OBERURSEL",
+    "IlceID": "10237"
+  },
+  {
+    "IlceAdi": "OFFENBACH",
+    "IlceAdiEn": "OFFENBACH",
+    "IlceID": "10569"
+  },
+  {
+    "IlceAdi": "PFUNGSTADT",
+    "IlceAdiEn": "PFUNGSTADT",
+    "IlceID": "10248"
+  },
+  {
+    "IlceAdi": "RAUNHEIM",
+    "IlceAdiEn": "RAUNHEIM",
+    "IlceID": "10769"
+  },
+  {
+    "IlceAdi": "REINHEIM (H)",
+    "IlceAdiEn": "REINHEIM (H)",
+    "IlceID": "10722"
+  },
+  {
+    "IlceAdi": "RUSSELSHEIM",
+    "IlceAdiEn": "RUSSELSHEIM",
+    "IlceID": "11074"
+  },
+  {
+    "IlceAdi": "SCHLUCHTERN",
+    "IlceAdiEn": "SCHLUCHTERN",
+    "IlceID": "10493"
+  },
+  {
+    "IlceAdi": "SCHWALBACH AM TAUNUS",
+    "IlceAdiEn": "SCHWALBACH AM TAUNUS",
+    "IlceID": "33278"
+  },
+  {
+    "IlceAdi": "SONTRA",
+    "IlceAdiEn": "SONTRA",
+    "IlceID": "10771"
+  },
+  {
+    "IlceAdi": "STADTALLENDORF",
+    "IlceAdiEn": "STADTALLENDORF",
+    "IlceID": "10300"
+  },
+  {
+    "IlceAdi": "STERZHAUSEN",
+    "IlceAdiEn": "STERZHAUSEN",
+    "IlceID": "10307"
+  },
+  {
+    "IlceAdi": "URBERACH",
+    "IlceAdiEn": "URBERACH",
+    "IlceID": "10787"
+  },
+  {
+    "IlceAdi": "USINGEN",
+    "IlceAdiEn": "USINGEN",
+    "IlceID": "10320"
+  },
+  {
+    "IlceAdi": "VIERNHEIM",
+    "IlceAdiEn": "VIERNHEIM",
+    "IlceID": "10325"
+  },
+  {
+    "IlceAdi": "VILLINGEN",
+    "IlceAdiEn": "VILLINGEN",
+    "IlceID": "10735"
+  },
+  {
+    "IlceAdi": "WACHTERSBACH",
+    "IlceAdiEn": "WACHTERSBACH",
+    "IlceID": "10521"
+  },
+  {
+    "IlceAdi": "WEILBURG",
+    "IlceAdiEn": "WEILBURG",
+    "IlceID": "10342"
+  },
+  {
+    "IlceAdi": "WEITERSTADT",
+    "IlceAdiEn": "WEITERSTADT",
+    "IlceID": "10723"
+  },
+  {
+    "IlceAdi": "WETZLAR",
+    "IlceAdiEn": "WETZLAR",
+    "IlceID": "11124"
+  },
+  {
+    "IlceAdi": "WIESBADEN",
+    "IlceAdiEn": "WIESBADEN",
+    "IlceID": "11056"
+  },
+  {
+    "IlceAdi": "WITZENHAUSEN",
+    "IlceAdiEn": "WITZENHAUSEN",
+    "IlceID": "10542"
+  },
+  {
+    "IlceAdi": "WOLFHAGEN",
+    "IlceAdiEn": "WOLFHAGEN",
+    "IlceID": "10362"
+  }
+]

@@ -1,0 +1,952 @@
+[
+  {
+    "IlceAdi": "ABSAM",
+    "IlceAdiEn": "ABSAM",
+    "IlceID": "11469"
+  },
+  {
+    "IlceAdi": "AINRING",
+    "IlceAdiEn": "AINRING",
+    "IlceID": "11512"
+  },
+  {
+    "IlceAdi": "ALTMUNSTER",
+    "IlceAdiEn": "ALTMUNSTER",
+    "IlceID": "11513"
+  },
+  {
+    "IlceAdi": "AMSTETTEN",
+    "IlceAdiEn": "AMSTETTEN",
+    "IlceID": "11438"
+  },
+  {
+    "IlceAdi": "ANDORF",
+    "IlceAdiEn": "ANDORF",
+    "IlceID": "11489"
+  },
+  {
+    "IlceAdi": "ANSFELDEN",
+    "IlceAdiEn": "ANSFELDEN",
+    "IlceID": "11578"
+  },
+  {
+    "IlceAdi": "BAD GOISERN",
+    "IlceAdiEn": "BAD GOISERN",
+    "IlceID": "11514"
+  },
+  {
+    "IlceAdi": "BAD HALL",
+    "IlceAdiEn": "BAD HALL",
+    "IlceID": "11548"
+  },
+  {
+    "IlceAdi": "BAD ISCHL",
+    "IlceAdiEn": "BAD ISCHL",
+    "IlceID": "11515"
+  },
+  {
+    "IlceAdi": "BAD VOSLAU",
+    "IlceAdiEn": "BAD VOSLAU",
+    "IlceID": "11557"
+  },
+  {
+    "IlceAdi": "BADEN",
+    "IlceAdiEn": "BADEN",
+    "IlceID": "11558"
+  },
+  {
+    "IlceAdi": "BADGASTEIN",
+    "IlceAdiEn": "BADGASTEIN",
+    "IlceID": "11498"
+  },
+  {
+    "IlceAdi": "BAIERHAM",
+    "IlceAdiEn": "BAIERHAM",
+    "IlceID": "11516"
+  },
+  {
+    "IlceAdi": "BERG (Reutte)",
+    "IlceAdiEn": "BERG (Reutte)",
+    "IlceID": "11505"
+  },
+  {
+    "IlceAdi": "BERG BEI ROHRBACH",
+    "IlceAdiEn": "BERG BEI ROHRBACH",
+    "IlceID": "11490"
+  },
+  {
+    "IlceAdi": "BERNDORF",
+    "IlceAdiEn": "BERNDORF",
+    "IlceID": "11610"
+  },
+  {
+    "IlceAdi": "BIBERWIER",
+    "IlceAdiEn": "BIBERWIER",
+    "IlceID": "11506"
+  },
+  {
+    "IlceAdi": "BISCHOFSHOFEN",
+    "IlceAdiEn": "BISCHOFSHOFEN",
+    "IlceID": "11517"
+  },
+  {
+    "IlceAdi": "BLUDENZ",
+    "IlceAdiEn": "BLUDENZ",
+    "IlceID": "11612"
+  },
+  {
+    "IlceAdi": "BRAUNAU AM INN",
+    "IlceAdiEn": "BRAUNAU AM INN",
+    "IlceID": "11549"
+  },
+  {
+    "IlceAdi": "BREDERIS",
+    "IlceAdiEn": "BREDERIS",
+    "IlceID": "11441"
+  },
+  {
+    "IlceAdi": "BREGENZ",
+    "IlceAdiEn": "BREGENZ",
+    "IlceID": "11619"
+  },
+  {
+    "IlceAdi": "BRIXEN IM THALE",
+    "IlceAdiEn": "BRIXEN IM THALE",
+    "IlceID": "33316"
+  },
+  {
+    "IlceAdi": "BRUCK AN DER LEITHA",
+    "IlceAdiEn": "BRUCK AN DER LEITHA",
+    "IlceID": "11581"
+  },
+  {
+    "IlceAdi": "BUCHBERG (Salzburg)",
+    "IlceAdiEn": "BUCHBERG (Salzburg)",
+    "IlceID": "11536"
+  },
+  {
+    "IlceAdi": "DEUTSCHLANDSBERG ",
+    "IlceAdiEn": "DEUTSCHLANDSBERG ",
+    "IlceID": "11456"
+  },
+  {
+    "IlceAdi": "DORNBIRN",
+    "IlceAdiEn": "DORNBIRN",
+    "IlceID": "11576"
+  },
+  {
+    "IlceAdi": "EBENSEE",
+    "IlceAdiEn": "EBENSEE",
+    "IlceID": "11518"
+  },
+  {
+    "IlceAdi": "EFERDING",
+    "IlceAdiEn": "EFERDING",
+    "IlceID": "11491"
+  },
+  {
+    "IlceAdi": "EHRWALD OBERDORF",
+    "IlceAdiEn": "EHRWALD OBERDORF",
+    "IlceID": "11507"
+  },
+  {
+    "IlceAdi": "EISENSTADT",
+    "IlceAdiEn": "EISENSTADT",
+    "IlceID": "11599"
+  },
+  {
+    "IlceAdi": "ELLMAU (S)",
+    "IlceAdiEn": "ELLMAU (S)",
+    "IlceID": "11499"
+  },
+  {
+    "IlceAdi": "ELMEN",
+    "IlceAdiEn": "ELMEN",
+    "IlceID": "11508"
+  },
+  {
+    "IlceAdi": "ENNS",
+    "IlceAdiEn": "ENNS",
+    "IlceID": "11492"
+  },
+  {
+    "IlceAdi": "ERPFENDORF",
+    "IlceAdiEn": "ERPFENDORF",
+    "IlceID": "11478"
+  },
+  {
+    "IlceAdi": "FELDKIRCH",
+    "IlceAdiEn": "FELDKIRCH",
+    "IlceID": "11613"
+  },
+  {
+    "IlceAdi": "FELIXDORF",
+    "IlceAdiEn": "FELIXDORF",
+    "IlceID": "11582"
+  },
+  {
+    "IlceAdi": "FIEBERBRUNN",
+    "IlceAdiEn": "FIEBERBRUNN",
+    "IlceID": "11479"
+  },
+  {
+    "IlceAdi": "FOHNSDORF",
+    "IlceAdiEn": "FOHNSDORF",
+    "IlceID": "11457"
+  },
+  {
+    "IlceAdi": "FRASTANZ",
+    "IlceAdiEn": "FRASTANZ",
+    "IlceID": "33323"
+  },
+  {
+    "IlceAdi": "FREISTADT",
+    "IlceAdiEn": "FREISTADT",
+    "IlceID": "11560"
+  },
+  {
+    "IlceAdi": "FRIEDBURG",
+    "IlceAdiEn": "FRIEDBURG",
+    "IlceID": "33317"
+  },
+  {
+    "IlceAdi": "FULPMES",
+    "IlceAdiEn": "FULPMES",
+    "IlceID": "11470"
+  },
+  {
+    "IlceAdi": "FURSTENFELD",
+    "IlceAdiEn": "FURSTENFELD",
+    "IlceID": "11458"
+  },
+  {
+    "IlceAdi": "FURTH",
+    "IlceAdiEn": "FURTH",
+    "IlceID": "11500"
+  },
+  {
+    "IlceAdi": "GAISBERG (K)",
+    "IlceAdiEn": "GAISBERG (K)",
+    "IlceID": "11591"
+  },
+  {
+    "IlceAdi": "GANSERNDORF",
+    "IlceAdiEn": "GANSERNDORF",
+    "IlceID": "11597"
+  },
+  {
+    "IlceAdi": "GARGELLEN",
+    "IlceAdiEn": "GARGELLEN",
+    "IlceID": "11442"
+  },
+  {
+    "IlceAdi": "GASCHURN",
+    "IlceAdiEn": "GASCHURN",
+    "IlceID": "11451"
+  },
+  {
+    "IlceAdi": "GERASDORF (N)",
+    "IlceAdiEn": "GERASDORF (N)",
+    "IlceID": "11583"
+  },
+  {
+    "IlceAdi": "GLEISDORF",
+    "IlceAdiEn": "GLEISDORF",
+    "IlceID": "11459"
+  },
+  {
+    "IlceAdi": "GMUND",
+    "IlceAdiEn": "GMUND",
+    "IlceID": "11614"
+  },
+  {
+    "IlceAdi": "GMUNDEN",
+    "IlceAdiEn": "GMUNDEN",
+    "IlceID": "11562"
+  },
+  {
+    "IlceAdi": "GOTZIS",
+    "IlceAdiEn": "GOTZIS",
+    "IlceID": "11563"
+  },
+  {
+    "IlceAdi": "GRAZ",
+    "IlceAdiEn": "GRAZ",
+    "IlceID": "11600"
+  },
+  {
+    "IlceAdi": "GRIESBACHWINKL",
+    "IlceAdiEn": "GRIESBACHWINKL",
+    "IlceID": "11538"
+  },
+  {
+    "IlceAdi": "GRIESKIRCHEN",
+    "IlceAdiEn": "GRIESKIRCHEN",
+    "IlceID": "11550"
+  },
+  {
+    "IlceAdi": "GRIFFEN (K)",
+    "IlceAdiEn": "GRIFFEN (K)",
+    "IlceID": "11592"
+  },
+  {
+    "IlceAdi": "GROSSEGG (K)",
+    "IlceAdiEn": "GROSSEGG (K)",
+    "IlceID": "11529"
+  },
+  {
+    "IlceAdi": "GRUNBURG",
+    "IlceAdiEn": "GRUNBURG",
+    "IlceID": "11460"
+  },
+  {
+    "IlceAdi": "HAAG (AMSTETTEN)",
+    "IlceAdiEn": "HAAG (AMSTETTEN)",
+    "IlceID": "11439"
+  },
+  {
+    "IlceAdi": "HAINBURG A.D.D.",
+    "IlceAdiEn": "HAINBURG A.D.D.",
+    "IlceID": "11616"
+  },
+  {
+    "IlceAdi": "HALL IN TIROL",
+    "IlceAdiEn": "HALL IN TIROL",
+    "IlceID": "11471"
+  },
+  {
+    "IlceAdi": "HALLEIN",
+    "IlceAdiEn": "HALLEIN",
+    "IlceID": "11519"
+  },
+  {
+    "IlceAdi": "HARD",
+    "IlceAdiEn": "HARD",
+    "IlceID": "11445"
+  },
+  {
+    "IlceAdi": "HAUZENDORF (K)",
+    "IlceAdiEn": "HAUZENDORF (K)",
+    "IlceID": "11530"
+  },
+  {
+    "IlceAdi": "HEIDENREICHSTEIN",
+    "IlceAdiEn": "HEIDENREICHSTEIN",
+    "IlceID": "11453"
+  },
+  {
+    "IlceAdi": "HEILIGENBLUT",
+    "IlceAdiEn": "HEILIGENBLUT",
+    "IlceID": "11501"
+  },
+  {
+    "IlceAdi": "HEUBERG (Salzburg)",
+    "IlceAdiEn": "HEUBERG (Salzburg)",
+    "IlceID": "11537"
+  },
+  {
+    "IlceAdi": "HIRSCHBACH",
+    "IlceAdiEn": "HIRSCHBACH",
+    "IlceID": "11454"
+  },
+  {
+    "IlceAdi": "HOCHEGG",
+    "IlceAdiEn": "HOCHEGG",
+    "IlceID": "11531"
+  },
+  {
+    "IlceAdi": "HOCHST",
+    "IlceAdiEn": "HOCHST",
+    "IlceID": "11446"
+  },
+  {
+    "IlceAdi": "HOHENEMS",
+    "IlceAdiEn": "HOHENEMS",
+    "IlceID": "11564"
+  },
+  {
+    "IlceAdi": "HOLLABRUNN",
+    "IlceAdiEn": "HOLLABRUNN",
+    "IlceID": "11584"
+  },
+  {
+    "IlceAdi": "HORBRANZ",
+    "IlceAdiEn": "HORBRANZ",
+    "IlceID": "11447"
+  },
+  {
+    "IlceAdi": "HORN",
+    "IlceAdiEn": "HORN",
+    "IlceID": "11559"
+  },
+  {
+    "IlceAdi": "IMST",
+    "IlceAdiEn": "IMST",
+    "IlceID": "11482"
+  },
+  {
+    "IlceAdi": "IMSTERAU",
+    "IlceAdiEn": "IMSTERAU",
+    "IlceID": "11483"
+  },
+  {
+    "IlceAdi": "IMSTERBERG",
+    "IlceAdiEn": "IMSTERBERG",
+    "IlceID": "11484"
+  },
+  {
+    "IlceAdi": "INNSBRUCK",
+    "IlceAdiEn": "INNSBRUCK",
+    "IlceID": "11596"
+  },
+  {
+    "IlceAdi": "JENBACH",
+    "IlceAdiEn": "JENBACH",
+    "IlceID": "11472"
+  },
+  {
+    "IlceAdi": "JUDENBURG",
+    "IlceAdiEn": "JUDENBURG",
+    "IlceID": "11461"
+  },
+  {
+    "IlceAdi": "KALTERNBRUNN (T)",
+    "IlceAdiEn": "KALTERNBRUNN (T)",
+    "IlceID": "11485"
+  },
+  {
+    "IlceAdi": "KAPFENBERG",
+    "IlceAdiEn": "KAPFENBERG",
+    "IlceID": "11555"
+  },
+  {
+    "IlceAdi": "KAPRUN",
+    "IlceAdiEn": "KAPRUN",
+    "IlceID": "11502"
+  },
+  {
+    "IlceAdi": "KINDBERG",
+    "IlceAdiEn": "KINDBERG",
+    "IlceID": "11565"
+  },
+  {
+    "IlceAdi": "KITZBUHEL",
+    "IlceAdiEn": "KITZBUHEL",
+    "IlceID": "11601"
+  },
+  {
+    "IlceAdi": "KLAGENFURT",
+    "IlceAdiEn": "KLAGENFURT",
+    "IlceID": "11602"
+  },
+  {
+    "IlceAdi": "KLOSTERNEUBURG",
+    "IlceAdiEn": "KLOSTERNEUBURG",
+    "IlceID": "11566"
+  },
+  {
+    "IlceAdi": "KNITTELFELD",
+    "IlceAdiEn": "KNITTELFELD",
+    "IlceID": "11463"
+  },
+  {
+    "IlceAdi": "KOFLACH",
+    "IlceAdiEn": "KOFLACH",
+    "IlceID": "11462"
+  },
+  {
+    "IlceAdi": "KORNEUBURG",
+    "IlceAdiEn": "KORNEUBURG",
+    "IlceID": "11585"
+  },
+  {
+    "IlceAdi": "KREMS AN DER DONAU",
+    "IlceAdiEn": "KREMS AN DER DONAU",
+    "IlceID": "11556"
+  },
+  {
+    "IlceAdi": "KREMSMUNSTER",
+    "IlceAdiEn": "KREMSMUNSTER",
+    "IlceID": "11551"
+  },
+  {
+    "IlceAdi": "KUFSTEIN",
+    "IlceAdiEn": "KUFSTEIN",
+    "IlceID": "11609"
+  },
+  {
+    "IlceAdi": "LAHN",
+    "IlceAdiEn": "LAHN",
+    "IlceID": "11509"
+  },
+  {
+    "IlceAdi": "LAMBACH (O)",
+    "IlceAdiEn": "LAMBACH (O)",
+    "IlceID": "11552"
+  },
+  {
+    "IlceAdi": "LANDECK",
+    "IlceAdiEn": "LANDECK",
+    "IlceID": "11598"
+  },
+  {
+    "IlceAdi": "LAUFEN",
+    "IlceAdiEn": "LAUFEN",
+    "IlceID": "11520"
+  },
+  {
+    "IlceAdi": "LAUTERACH",
+    "IlceAdiEn": "LAUTERACH",
+    "IlceID": "11448"
+  },
+  {
+    "IlceAdi": "LEIBNITZ",
+    "IlceAdiEn": "LEIBNITZ",
+    "IlceID": "11464"
+  },
+  {
+    "IlceAdi": "LEND",
+    "IlceAdiEn": "LEND",
+    "IlceID": "11539"
+  },
+  {
+    "IlceAdi": "LEOBEN",
+    "IlceAdiEn": "LEOBEN",
+    "IlceID": "11567"
+  },
+  {
+    "IlceAdi": "LEONDING",
+    "IlceAdiEn": "LEONDING",
+    "IlceID": "11494"
+  },
+  {
+    "IlceAdi": "LEONSTEIN",
+    "IlceAdiEn": "LEONSTEIN",
+    "IlceID": "33324"
+  },
+  {
+    "IlceAdi": "LIEZEN",
+    "IlceAdiEn": "LIEZEN",
+    "IlceID": "11577"
+  },
+  {
+    "IlceAdi": "LILIENFELD",
+    "IlceAdiEn": "LILIENFELD",
+    "IlceID": "11568"
+  },
+  {
+    "IlceAdi": "LINZ",
+    "IlceAdiEn": "LINZ",
+    "IlceID": "11615"
+  },
+  {
+    "IlceAdi": "LOBENAU",
+    "IlceAdiEn": "LOBENAU",
+    "IlceID": "11540"
+  },
+  {
+    "IlceAdi": "LUSTENAU",
+    "IlceAdiEn": "LUSTENAU",
+    "IlceID": "11611"
+  },
+  {
+    "IlceAdi": "MADER",
+    "IlceAdiEn": "MADER",
+    "IlceID": "33325"
+  },
+  {
+    "IlceAdi": "MARCHTRENK",
+    "IlceAdiEn": "MARCHTRENK",
+    "IlceID": "11553"
+  },
+  {
+    "IlceAdi": "MATTIGHOFEN",
+    "IlceAdiEn": "MATTIGHOFEN",
+    "IlceID": "11521"
+  },
+  {
+    "IlceAdi": "MAUERKIRCHEN",
+    "IlceAdiEn": "MAUERKIRCHEN",
+    "IlceID": "17927"
+  },
+  {
+    "IlceAdi": "MAUTHAUSEN",
+    "IlceAdiEn": "MAUTHAUSEN",
+    "IlceID": "11495"
+  },
+  {
+    "IlceAdi": "MELK",
+    "IlceAdiEn": "MELK",
+    "IlceID": "11542"
+  },
+  {
+    "IlceAdi": "MICHELDORF AM KIENBERGE",
+    "IlceAdiEn": "MICHELDORF AM KIENBERGE",
+    "IlceID": "11554"
+  },
+  {
+    "IlceAdi": "MISTELBACH AN DER ZAYA",
+    "IlceAdiEn": "MISTELBACH AN DER ZAYA",
+    "IlceID": "11586"
+  },
+  {
+    "IlceAdi": "MITTERSILL",
+    "IlceAdiEn": "MITTERSILL",
+    "IlceID": "11603"
+  },
+  {
+    "IlceAdi": "MODLING",
+    "IlceAdiEn": "MODLING",
+    "IlceID": "11569"
+  },
+  {
+    "IlceAdi": "MODRIACH",
+    "IlceAdiEn": "MODRIACH",
+    "IlceID": "11593"
+  },
+  {
+    "IlceAdi": "MONDSEE",
+    "IlceAdiEn": "MONDSEE",
+    "IlceID": "11522"
+  },
+  {
+    "IlceAdi": "MOOSBURG IN KARNTEN",
+    "IlceAdiEn": "MOOSBURG IN KARNTEN",
+    "IlceID": "11544"
+  },
+  {
+    "IlceAdi": "MOSCHENITZEN",
+    "IlceAdiEn": "MOSCHENITZEN",
+    "IlceID": "11545"
+  },
+  {
+    "IlceAdi": "MURZZUSCHLAG",
+    "IlceAdiEn": "MURZZUSCHLAG",
+    "IlceID": "11570"
+  },
+  {
+    "IlceAdi": "NENZING",
+    "IlceAdiEn": "NENZING",
+    "IlceID": "11443"
+  },
+  {
+    "IlceAdi": "NEUHOFEN (Salzburg)",
+    "IlceAdiEn": "NEUHOFEN (Salzburg)",
+    "IlceID": "11523"
+  },
+  {
+    "IlceAdi": "NEUMARKT AM WALLARSEE",
+    "IlceAdiEn": "NEUMARKT AM WALLARSEE",
+    "IlceID": "33326"
+  },
+  {
+    "IlceAdi": "NEUSCHITZ",
+    "IlceAdiEn": "NEUSCHITZ",
+    "IlceID": "11532"
+  },
+  {
+    "IlceAdi": "OBERPINSWANG",
+    "IlceAdiEn": "OBERPINSWANG",
+    "IlceID": "11510"
+  },
+  {
+    "IlceAdi": "PERNITZ",
+    "IlceAdiEn": "PERNITZ",
+    "IlceID": "33319"
+  },
+  {
+    "IlceAdi": "PESSENDELLACH",
+    "IlceAdiEn": "PESSENDELLACH",
+    "IlceID": "11546"
+  },
+  {
+    "IlceAdi": "POCHLARN",
+    "IlceAdiEn": "POCHLARN",
+    "IlceID": "33318"
+  },
+  {
+    "IlceAdi": "PRUTZ",
+    "IlceAdiEn": "PRUTZ",
+    "IlceID": "11486"
+  },
+  {
+    "IlceAdi": "PUSARNITZ",
+    "IlceAdiEn": "PUSARNITZ",
+    "IlceID": "11533"
+  },
+  {
+    "IlceAdi": "RANKWEIL",
+    "IlceAdiEn": "RANKWEIL",
+    "IlceID": "11449"
+  },
+  {
+    "IlceAdi": "RATTENBERG (T)",
+    "IlceAdiEn": "RATTENBERG (T)",
+    "IlceID": "11480"
+  },
+  {
+    "IlceAdi": "REUTHE",
+    "IlceAdiEn": "REUTHE",
+    "IlceID": "33320"
+  },
+  {
+    "IlceAdi": "REUTTE",
+    "IlceAdiEn": "REUTTE",
+    "IlceID": "11571"
+  },
+  {
+    "IlceAdi": "RIED (S)",
+    "IlceAdiEn": "RIED (S)",
+    "IlceID": "11524"
+  },
+  {
+    "IlceAdi": "RIED IM INNKREIS",
+    "IlceAdiEn": "RIED IM INNKREIS",
+    "IlceID": "11579"
+  },
+  {
+    "IlceAdi": "RUM",
+    "IlceAdiEn": "RUM",
+    "IlceID": "11473"
+  },
+  {
+    "IlceAdi": "S.VALENTIN (LINZ)",
+    "IlceAdiEn": "S.VALENTIN (LINZ)",
+    "IlceID": "11497"
+  },
+  {
+    "IlceAdi": "SAALBACH",
+    "IlceAdiEn": "SAALBACH",
+    "IlceID": "11503"
+  },
+  {
+    "IlceAdi": "SAALFELDEN",
+    "IlceAdiEn": "SAALFELDEN",
+    "IlceID": "11525"
+  },
+  {
+    "IlceAdi": "SALZBURG",
+    "IlceAdiEn": "SALZBURG",
+    "IlceID": "11617"
+  },
+  {
+    "IlceAdi": "SANKT MARTIN (O)",
+    "IlceAdiEn": "SANKT MARTIN (O)",
+    "IlceID": "11496"
+  },
+  {
+    "IlceAdi": "SANKT MARTIN (Villach)",
+    "IlceAdiEn": "SANKT MARTIN (Villach)",
+    "IlceID": "11547"
+  },
+  {
+    "IlceAdi": "SANKT POLTEN",
+    "IlceAdiEn": "SANKT POLTEN",
+    "IlceID": "11572"
+  },
+  {
+    "IlceAdi": "SCHARDING",
+    "IlceAdiEn": "SCHARDING",
+    "IlceID": "33321"
+  },
+  {
+    "IlceAdi": "SCHRUNS",
+    "IlceAdiEn": "SCHRUNS",
+    "IlceID": "11444"
+  },
+  {
+    "IlceAdi": "SCHWAZ",
+    "IlceAdiEn": "SCHWAZ",
+    "IlceID": "11474"
+  },
+  {
+    "IlceAdi": "SEEBODEN",
+    "IlceAdiEn": "SEEBODEN",
+    "IlceID": "11534"
+  },
+  {
+    "IlceAdi": "SPITTAL AN DER DRAU (Spittal)",
+    "IlceAdiEn": "SPITTAL AN DER DRAU (Spittal)",
+    "IlceID": "11528"
+  },
+  {
+    "IlceAdi": "SPRATZERN",
+    "IlceAdiEn": "SPRATZERN",
+    "IlceID": "11543"
+  },
+  {
+    "IlceAdi": "ST. JOHAN IN PONGAU",
+    "IlceAdiEn": "ST. JOHAN IN PONGAU",
+    "IlceID": "17836"
+  },
+  {
+    "IlceAdi": "ST. JOHAN IN TIROL",
+    "IlceAdiEn": "ST. JOHAN IN TIROL",
+    "IlceID": "11481"
+  },
+  {
+    "IlceAdi": "ST. VEIT DER GLAN",
+    "IlceAdiEn": "ST. VEIT DER GLAN",
+    "IlceID": "33322"
+  },
+  {
+    "IlceAdi": "ST. WOLFGANG",
+    "IlceAdiEn": "ST. WOLFGANG",
+    "IlceID": "11527"
+  },
+  {
+    "IlceAdi": "STEYR",
+    "IlceAdiEn": "STEYR",
+    "IlceID": "11608"
+  },
+  {
+    "IlceAdi": "STRASSWALCHEN",
+    "IlceAdiEn": "STRASSWALCHEN",
+    "IlceID": "11526"
+  },
+  {
+    "IlceAdi": "SULZAU (Wimm)",
+    "IlceAdiEn": "SULZAU (Wimm)",
+    "IlceID": "11541"
+  },
+  {
+    "IlceAdi": "TELFS",
+    "IlceAdiEn": "TELFS",
+    "IlceID": "11475"
+  },
+  {
+    "IlceAdi": "TERNITZ (FLATZ)",
+    "IlceAdiEn": "TERNITZ (FLATZ)",
+    "IlceID": "11587"
+  },
+  {
+    "IlceAdi": "TIMMLS",
+    "IlceAdiEn": "TIMMLS",
+    "IlceID": "11487"
+  },
+  {
+    "IlceAdi": "TRAUN",
+    "IlceAdiEn": "TRAUN",
+    "IlceID": "11561"
+  },
+  {
+    "IlceAdi": "TULLN",
+    "IlceAdiEn": "TULLN",
+    "IlceID": "11588"
+  },
+  {
+    "IlceAdi": "VILLACH",
+    "IlceAdiEn": "VILLACH",
+    "IlceID": "11604"
+  },
+  {
+    "IlceAdi": "VIYANA",
+    "IlceAdiEn": "WIEN",
+    "IlceID": "11618"
+  },
+  {
+    "IlceAdi": "VOCKLABRUCK",
+    "IlceAdiEn": "VOCKLABRUCK",
+    "IlceID": "11580"
+  },
+  {
+    "IlceAdi": "VOITSBERG",
+    "IlceAdiEn": "VOITSBERG",
+    "IlceID": "11465"
+  },
+  {
+    "IlceAdi": "VOLKERMARKT",
+    "IlceAdiEn": "VOLKERMARKT",
+    "IlceID": "11595"
+  },
+  {
+    "IlceAdi": "VOLS",
+    "IlceAdiEn": "VOLS",
+    "IlceID": "11476"
+  },
+  {
+    "IlceAdi": "WASSENBACH",
+    "IlceAdiEn": "WASSENBACH",
+    "IlceID": "11511"
+  },
+  {
+    "IlceAdi": "WATTENS",
+    "IlceAdiEn": "WATTENS",
+    "IlceID": "11477"
+  },
+  {
+    "IlceAdi": "WEITRA",
+    "IlceAdiEn": "WEITRA",
+    "IlceID": "11455"
+  },
+  {
+    "IlceAdi": "WEIZ",
+    "IlceAdiEn": "WEIZ",
+    "IlceID": "11467"
+  },
+  {
+    "IlceAdi": "WELS",
+    "IlceAdiEn": "WELS",
+    "IlceID": "11605"
+  },
+  {
+    "IlceAdi": "WIENER NEUSTADT",
+    "IlceAdiEn": "WIENER NEUSTADT",
+    "IlceID": "11607"
+  },
+  {
+    "IlceAdi": "WISPERNDORF",
+    "IlceAdiEn": "WISPERNDORF",
+    "IlceID": "11594"
+  },
+  {
+    "IlceAdi": "WOLFSBERG (K)",
+    "IlceAdiEn": "WOLFSBERG (K)",
+    "IlceID": "11466"
+  },
+  {
+    "IlceAdi": "WOLFURT",
+    "IlceAdiEn": "WOLFURT",
+    "IlceID": "11450"
+  },
+  {
+    "IlceAdi": "WOLKERSDORF (N)",
+    "IlceAdiEn": "WOLKERSDORF (N)",
+    "IlceID": "11589"
+  },
+  {
+    "IlceAdi": "WORGL",
+    "IlceAdiEn": "WORGL",
+    "IlceID": "11606"
+  },
+  {
+    "IlceAdi": "YBBS AN DER DONAU",
+    "IlceAdiEn": "YBBS AN DER DONAU",
+    "IlceID": "11440"
+  },
+  {
+    "IlceAdi": "ZELL AM SEE",
+    "IlceAdiEn": "ZELL AM SEE",
+    "IlceID": "11573"
+  },
+  {
+    "IlceAdi": "ZELTWEG",
+    "IlceAdiEn": "ZELTWEG",
+    "IlceID": "11468"
+  },
+  {
+    "IlceAdi": "ZIRL",
+    "IlceAdiEn": "ZIRL",
+    "IlceID": "11574"
+  },
+  {
+    "IlceAdi": "ZURS",
+    "IlceAdiEn": "ZURS",
+    "IlceID": "11452"
+  },
+  {
+    "IlceAdi": "ZWETTL",
+    "IlceAdiEn": "ZWETTL",
+    "IlceID": "11575"
+  }
+]

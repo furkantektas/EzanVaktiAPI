@@ -1,0 +1,47 @@
+[
+  {
+    "IlceAdi": "ANNAPOLIS",
+    "IlceAdiEn": "ANNAPOLIS",
+    "IlceID": "19014"
+  },
+  {
+    "IlceAdi": "ARNOLD",
+    "IlceAdiEn": "ARNOLD",
+    "IlceID": "8800"
+  },
+  {
+    "IlceAdi": "BALTIMORE",
+    "IlceAdiEn": "BALTIMORE",
+    "IlceID": "8801"
+  },
+  {
+    "IlceAdi": "BETHESDA",
+    "IlceAdiEn": "BETHESDA",
+    "IlceID": "8802"
+  },
+  {
+    "IlceAdi": "ELKTON",
+    "IlceAdiEn": "ELKTON",
+    "IlceID": "8799"
+  },
+  {
+    "IlceAdi": "FREDERICK ",
+    "IlceAdiEn": "FREDERICK ",
+    "IlceID": "8803"
+  },
+  {
+    "IlceAdi": "HAGERSTOWN",
+    "IlceAdiEn": "HAGERSTOWN",
+    "IlceID": "18996"
+  },
+  {
+    "IlceAdi": "LANHAM",
+    "IlceAdiEn": "LANHAM",
+    "IlceID": "17808"
+  },
+  {
+    "IlceAdi": "OCEAN CITY",
+    "IlceAdiEn": "OCEAN CITY",
+    "IlceID": "8804"
+  }
+]

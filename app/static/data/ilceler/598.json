@@ -1,0 +1,47 @@
+[
+  {
+    "IlceAdi": "ATCHISON",
+    "IlceAdiEn": "ATCHISON",
+    "IlceID": "8782"
+  },
+  {
+    "IlceAdi": "LAWRENCE",
+    "IlceAdiEn": "LAWRENCE",
+    "IlceID": "8783"
+  },
+  {
+    "IlceAdi": "LEAVENWORTH",
+    "IlceAdiEn": "LEAVENWORTH",
+    "IlceID": "8784"
+  },
+  {
+    "IlceAdi": "MANHATTAN",
+    "IlceAdiEn": "MANHATTAN",
+    "IlceID": "8785"
+  },
+  {
+    "IlceAdi": "OLATHE",
+    "IlceAdiEn": "OLATHE",
+    "IlceID": "8786"
+  },
+  {
+    "IlceAdi": "OTTOWA",
+    "IlceAdiEn": "OTTOWA",
+    "IlceID": "8787"
+  },
+  {
+    "IlceAdi": "OVERLANDPARK",
+    "IlceAdiEn": "OVERLANDPARK",
+    "IlceID": "8788"
+  },
+  {
+    "IlceAdi": "TOPEKA",
+    "IlceAdiEn": "TOPEKA",
+    "IlceID": "8789"
+  },
+  {
+    "IlceAdi": "WICHITA",
+    "IlceAdiEn": "WICHITA",
+    "IlceID": "8790"
+  }
+]

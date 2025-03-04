@@ -1,0 +1,337 @@
+[
+  {
+    "IlceAdi": "ANAHEIM",
+    "IlceAdiEn": "ANAHEIM",
+    "IlceID": "18991"
+  },
+  {
+    "IlceAdi": "ANTIOCH",
+    "IlceAdiEn": "ANTIOCH",
+    "IlceID": "8601"
+  },
+  {
+    "IlceAdi": "BAKERSFIELD",
+    "IlceAdiEn": "BAKERSFIELD",
+    "IlceID": "8602"
+  },
+  {
+    "IlceAdi": "BERKELEY",
+    "IlceAdiEn": "BERKELEY",
+    "IlceID": "8603"
+  },
+  {
+    "IlceAdi": "BURBANK",
+    "IlceAdiEn": "BURBANK",
+    "IlceID": "8604"
+  },
+  {
+    "IlceAdi": "BURLINGNAME",
+    "IlceAdiEn": "BURLINGNAME",
+    "IlceID": "8600"
+  },
+  {
+    "IlceAdi": "CHICO",
+    "IlceAdiEn": "CHICO",
+    "IlceID": "8605"
+  },
+  {
+    "IlceAdi": "CHULA VISTA",
+    "IlceAdiEn": "CHULA VISTA",
+    "IlceID": "8606"
+  },
+  {
+    "IlceAdi": "CONCORD",
+    "IlceAdiEn": "CONCORD",
+    "IlceID": "8607"
+  },
+  {
+    "IlceAdi": "COSTA MESA",
+    "IlceAdiEn": "COSTA MESA",
+    "IlceID": "8608"
+  },
+  {
+    "IlceAdi": "DALY CITY",
+    "IlceAdiEn": "DALY CITY",
+    "IlceID": "8609"
+  },
+  {
+    "IlceAdi": "DANVILLE",
+    "IlceAdiEn": "DANVILLE",
+    "IlceID": "8610"
+  },
+  {
+    "IlceAdi": "DAVIS",
+    "IlceAdiEn": "DAVIS",
+    "IlceID": "8611"
+  },
+  {
+    "IlceAdi": "ESCONDIDO",
+    "IlceAdiEn": "ESCONDIDO",
+    "IlceID": "8612"
+  },
+  {
+    "IlceAdi": "FOLSOM",
+    "IlceAdiEn": "FOLSOM",
+    "IlceID": "8613"
+  },
+  {
+    "IlceAdi": "FONTANA",
+    "IlceAdiEn": "FONTANA",
+    "IlceID": "8614"
+  },
+  {
+    "IlceAdi": "FREMONT",
+    "IlceAdiEn": "FREMONT",
+    "IlceID": "8615"
+  },
+  {
+    "IlceAdi": "FRESNO",
+    "IlceAdiEn": "FRESNO",
+    "IlceID": "8616"
+  },
+  {
+    "IlceAdi": "GLENDALE",
+    "IlceAdiEn": "GLENDALE",
+    "IlceID": "8617"
+  },
+  {
+    "IlceAdi": "GOLETA",
+    "IlceAdiEn": "GOLETA",
+    "IlceID": "8618"
+  },
+  {
+    "IlceAdi": "HAYWARD",
+    "IlceAdiEn": "HAYWARD",
+    "IlceID": "8619"
+  },
+  {
+    "IlceAdi": "HUNTINGTON BEACH",
+    "IlceAdiEn": "HUNTINGTON BEACH",
+    "IlceID": "8620"
+  },
+  {
+    "IlceAdi": "INGLEWOOD",
+    "IlceAdiEn": "INGLEWOOD",
+    "IlceID": "8621"
+  },
+  {
+    "IlceAdi": "IRVINE",
+    "IlceAdiEn": "IRVINE",
+    "IlceID": "8622"
+  },
+  {
+    "IlceAdi": "LANCASTER",
+    "IlceAdiEn": "LANCASTER",
+    "IlceID": "8623"
+  },
+  {
+    "IlceAdi": "LOMPOC",
+    "IlceAdiEn": "LOMPOC",
+    "IlceID": "8624"
+  },
+  {
+    "IlceAdi": "LONG BEACH",
+    "IlceAdiEn": "LONG BEACH",
+    "IlceID": "8625"
+  },
+  {
+    "IlceAdi": "LOS ANGELES",
+    "IlceAdiEn": "LOS ANGELES",
+    "IlceID": "8626"
+  },
+  {
+    "IlceAdi": "MODESTO",
+    "IlceAdiEn": "MODESTO",
+    "IlceID": "8627"
+  },
+  {
+    "IlceAdi": "MONTEREY",
+    "IlceAdiEn": "MONTEREY",
+    "IlceID": "8628"
+  },
+  {
+    "IlceAdi": "NAPA",
+    "IlceAdiEn": "NAPA",
+    "IlceID": "8629"
+  },
+  {
+    "IlceAdi": "NORWALK",
+    "IlceAdiEn": "NORWALK",
+    "IlceID": "8630"
+  },
+  {
+    "IlceAdi": "OAKLAND",
+    "IlceAdiEn": "OAKLAND",
+    "IlceID": "8631"
+  },
+  {
+    "IlceAdi": "OCEANSIDE",
+    "IlceAdiEn": "OCEANSIDE",
+    "IlceID": "8632"
+  },
+  {
+    "IlceAdi": "OILDALE",
+    "IlceAdiEn": "OILDALE",
+    "IlceID": "8633"
+  },
+  {
+    "IlceAdi": "ONTARIO",
+    "IlceAdiEn": "ONTARIO",
+    "IlceID": "8634"
+  },
+  {
+    "IlceAdi": "OXNARD",
+    "IlceAdiEn": "OXNARD",
+    "IlceID": "8635"
+  },
+  {
+    "IlceAdi": "PALM SPRINGS",
+    "IlceAdiEn": "PALM SPRINGS",
+    "IlceID": "8636"
+  },
+  {
+    "IlceAdi": "PALO ALTO",
+    "IlceAdiEn": "PALO ALTO",
+    "IlceID": "8637"
+  },
+  {
+    "IlceAdi": "PASADENA",
+    "IlceAdiEn": "PASADENA",
+    "IlceID": "8638"
+  },
+  {
+    "IlceAdi": "PETELUMA",
+    "IlceAdiEn": "PETELUMA",
+    "IlceID": "8639"
+  },
+  {
+    "IlceAdi": "POMONA",
+    "IlceAdiEn": "POMONA",
+    "IlceID": "8640"
+  },
+  {
+    "IlceAdi": "REDDING",
+    "IlceAdiEn": "REDDING",
+    "IlceID": "8641"
+  },
+  {
+    "IlceAdi": "RICHMOND",
+    "IlceAdiEn": "RICHMOND",
+    "IlceID": "8642"
+  },
+  {
+    "IlceAdi": "RIVERSIDE",
+    "IlceAdiEn": "RIVERSIDE",
+    "IlceID": "8643"
+  },
+  {
+    "IlceAdi": "SACRAMENTO",
+    "IlceAdiEn": "SACRAMENTO",
+    "IlceID": "8644"
+  },
+  {
+    "IlceAdi": "SALINAS",
+    "IlceAdiEn": "SALINAS",
+    "IlceID": "8645"
+  },
+  {
+    "IlceAdi": "SAN BERNARDINO",
+    "IlceAdiEn": "SAN BERNARDINO",
+    "IlceID": "8646"
+  },
+  {
+    "IlceAdi": "SAN DIEGO",
+    "IlceAdiEn": "SAN DIEGO",
+    "IlceID": "8647"
+  },
+  {
+    "IlceAdi": "SAN FRANCISCO",
+    "IlceAdiEn": "SAN FRANCISCO",
+    "IlceID": "8648"
+  },
+  {
+    "IlceAdi": "SAN JOSE",
+    "IlceAdiEn": "SAN JOSE",
+    "IlceID": "8649"
+  },
+  {
+    "IlceAdi": "SAN MATEO",
+    "IlceAdiEn": "SAN MATEO",
+    "IlceID": "8650"
+  },
+  {
+    "IlceAdi": "SANFERNANDO",
+    "IlceAdiEn": "SANFERNANDO",
+    "IlceID": "8651"
+  },
+  {
+    "IlceAdi": "SANTA ANA",
+    "IlceAdiEn": "SANTA ANA",
+    "IlceID": "8652"
+  },
+  {
+    "IlceAdi": "SANTA BARBARA",
+    "IlceAdiEn": "SANTA BARBARA",
+    "IlceID": "8653"
+  },
+  {
+    "IlceAdi": "SANTA CLARA",
+    "IlceAdiEn": "SANTA CLARA",
+    "IlceID": "8654"
+  },
+  {
+    "IlceAdi": "SANTA CLARITA",
+    "IlceAdiEn": "SANTA CLARITA",
+    "IlceID": "8655"
+  },
+  {
+    "IlceAdi": "SANTA MONICA",
+    "IlceAdiEn": "SANTA MONICA",
+    "IlceID": "8656"
+  },
+  {
+    "IlceAdi": "SIMI VALLEY",
+    "IlceAdiEn": "SIMI VALLEY",
+    "IlceID": "8657"
+  },
+  {
+    "IlceAdi": "STOCKTON",
+    "IlceAdiEn": "STOCKTON",
+    "IlceID": "8658"
+  },
+  {
+    "IlceAdi": "SUNNYVALE",
+    "IlceAdiEn": "SUNNYVALE",
+    "IlceID": "8659"
+  },
+  {
+    "IlceAdi": "THOUSAND OAKS",
+    "IlceAdiEn": "THOUSAND OAKS",
+    "IlceID": "8660"
+  },
+  {
+    "IlceAdi": "TORRANCE",
+    "IlceAdiEn": "TORRANCE",
+    "IlceID": "8661"
+  },
+  {
+    "IlceAdi": "TUSTIN",
+    "IlceAdiEn": "TUSTIN",
+    "IlceID": "8662"
+  },
+  {
+    "IlceAdi": "VALLEJO",
+    "IlceAdiEn": "VALLEJO",
+    "IlceID": "8663"
+  },
+  {
+    "IlceAdi": "VİCTORVILLE",
+    "IlceAdiEn": "VİCTORVILLE",
+    "IlceID": "17814"
+  },
+  {
+    "IlceAdi": "WEST HOLLYWOOD",
+    "IlceAdiEn": "WEST HOLLYWOOD",
+    "IlceID": "8664"
+  }
+]

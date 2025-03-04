@@ -1,0 +1,722 @@
+[
+  {
+    "IlceAdi": "ACQUI TERME",
+    "IlceAdiEn": "ACQUI TERME",
+    "IlceID": "20095"
+  },
+  {
+    "IlceAdi": "AGRIGENTO",
+    "IlceAdiEn": "AGRIGENTO",
+    "IlceID": "14596"
+  },
+  {
+    "IlceAdi": "ALASSIO                         ",
+    "IlceAdiEn": "ALASSIO                         ",
+    "IlceID": "14572"
+  },
+  {
+    "IlceAdi": "ALBA",
+    "IlceAdiEn": "ALBA",
+    "IlceID": "14597"
+  },
+  {
+    "IlceAdi": "ALBENGA",
+    "IlceAdiEn": "ALBENGA",
+    "IlceID": "14598"
+  },
+  {
+    "IlceAdi": "ALGHERO",
+    "IlceAdiEn": "ALGHERO",
+    "IlceID": "14599"
+  },
+  {
+    "IlceAdi": "ANCONA",
+    "IlceAdiEn": "ANCONA",
+    "IlceID": "14561"
+  },
+  {
+    "IlceAdi": "AOSTA",
+    "IlceAdiEn": "AOSTA",
+    "IlceID": "14600"
+  },
+  {
+    "IlceAdi": "AREZZO",
+    "IlceAdiEn": "AREZZO",
+    "IlceID": "14557"
+  },
+  {
+    "IlceAdi": "AUGUSTA",
+    "IlceAdiEn": "AUGUSTA",
+    "IlceID": "14594"
+  },
+  {
+    "IlceAdi": "AVELLINO",
+    "IlceAdiEn": "AVELLINO",
+    "IlceID": "14601"
+  },
+  {
+    "IlceAdi": "BARI",
+    "IlceAdiEn": "BARI",
+    "IlceID": "14584"
+  },
+  {
+    "IlceAdi": "BASSANO DEL GRAPPA",
+    "IlceAdiEn": "BASSANO DEL GRAPPA",
+    "IlceID": "14602"
+  },
+  {
+    "IlceAdi": "BELLUNO",
+    "IlceAdiEn": "BELLUNO",
+    "IlceID": "14585"
+  },
+  {
+    "IlceAdi": "BERGAMO",
+    "IlceAdiEn": "BERGAMO",
+    "IlceID": "14603"
+  },
+  {
+    "IlceAdi": "BIELLA",
+    "IlceAdiEn": "BIELLA",
+    "IlceID": "14604"
+  },
+  {
+    "IlceAdi": "BOLOGNA",
+    "IlceAdiEn": "BOLOGNA",
+    "IlceID": "14691"
+  },
+  {
+    "IlceAdi": "BOLZANO BOZEN",
+    "IlceAdiEn": "BOLZANO BOZEN",
+    "IlceID": "14605"
+  },
+  {
+    "IlceAdi": "BRESCIA",
+    "IlceAdiEn": "BRESCIA",
+    "IlceID": "14582"
+  },
+  {
+    "IlceAdi": "BRINDISI",
+    "IlceAdiEn": "BRINDISI",
+    "IlceID": "17863"
+  },
+  {
+    "IlceAdi": "CAGLIARI",
+    "IlceAdiEn": "CAGLIARI",
+    "IlceID": "14553"
+  },
+  {
+    "IlceAdi": "CALTANISSETTA",
+    "IlceAdiEn": "CALTANISSETTA",
+    "IlceID": "14606"
+  },
+  {
+    "IlceAdi": "CAMPOBASSO",
+    "IlceAdiEn": "CAMPOBASSO",
+    "IlceID": "14607"
+  },
+  {
+    "IlceAdi": "CANTU                          ",
+    "IlceAdiEn": "CANTU                          ",
+    "IlceID": "14568"
+  },
+  {
+    "IlceAdi": "CASERTA",
+    "IlceAdiEn": "CASERTA",
+    "IlceID": "14608"
+  },
+  {
+    "IlceAdi": "CASTELFRANCO VENETO",
+    "IlceAdiEn": "CASTELFRANCO VENETO",
+    "IlceID": "14609"
+  },
+  {
+    "IlceAdi": "CASTELVETRANO",
+    "IlceAdiEn": "CASTELVETRANO",
+    "IlceID": "14610"
+  },
+  {
+    "IlceAdi": "CATANIA",
+    "IlceAdiEn": "CATANIA",
+    "IlceID": "14611"
+  },
+  {
+    "IlceAdi": "CATANZARO",
+    "IlceAdiEn": "CATANZARO",
+    "IlceID": "14612"
+  },
+  {
+    "IlceAdi": "CECINA",
+    "IlceAdiEn": "CECINA",
+    "IlceID": "14613"
+  },
+  {
+    "IlceAdi": "CESENA",
+    "IlceAdiEn": "CESENA",
+    "IlceID": "14614"
+  },
+  {
+    "IlceAdi": "CHIETI",
+    "IlceAdiEn": "CHIETI",
+    "IlceID": "14615"
+  },
+  {
+    "IlceAdi": "CIVITAVECCHIA",
+    "IlceAdiEn": "CIVITAVECCHIA",
+    "IlceID": "14616"
+  },
+  {
+    "IlceAdi": "CODIGORO",
+    "IlceAdiEn": "CODIGORO",
+    "IlceID": "14595"
+  },
+  {
+    "IlceAdi": "COMERIO",
+    "IlceAdiEn": "COMERIO",
+    "IlceID": "14681"
+  },
+  {
+    "IlceAdi": "COMO",
+    "IlceAdiEn": "COMO",
+    "IlceID": "14686"
+  },
+  {
+    "IlceAdi": "CONEGLIANO",
+    "IlceAdiEn": "CONEGLIANO",
+    "IlceID": "14617"
+  },
+  {
+    "IlceAdi": "CONVERSANO",
+    "IlceAdiEn": "CONVERSANO",
+    "IlceID": "14618"
+  },
+  {
+    "IlceAdi": "COSENZA",
+    "IlceAdiEn": "COSENZA",
+    "IlceID": "14619"
+  },
+  {
+    "IlceAdi": "CREMONA",
+    "IlceAdiEn": "CREMONA",
+    "IlceID": "14620"
+  },
+  {
+    "IlceAdi": "CROTONE",
+    "IlceAdiEn": "CROTONE",
+    "IlceID": "14621"
+  },
+  {
+    "IlceAdi": "CUNEO",
+    "IlceAdiEn": "CUNEO",
+    "IlceID": "14622"
+  },
+  {
+    "IlceAdi": "DIANO MARINA            ",
+    "IlceAdiEn": "DIANO MARINA            ",
+    "IlceID": "14573"
+  },
+  {
+    "IlceAdi": "ENNA",
+    "IlceAdiEn": "ENNA",
+    "IlceID": "14623"
+  },
+  {
+    "IlceAdi": "ERBA                           ",
+    "IlceAdiEn": "ERBA                           ",
+    "IlceID": "14569"
+  },
+  {
+    "IlceAdi": "FABRIANO",
+    "IlceAdiEn": "FABRIANO",
+    "IlceID": "14564"
+  },
+  {
+    "IlceAdi": "FERMO",
+    "IlceAdiEn": "FERMO",
+    "IlceID": "14624"
+  },
+  {
+    "IlceAdi": "FERRARA",
+    "IlceAdiEn": "FERRARA",
+    "IlceID": "14625"
+  },
+  {
+    "IlceAdi": "FLORENCE",
+    "IlceAdiEn": "FLORENCE",
+    "IlceID": "14580"
+  },
+  {
+    "IlceAdi": "FOGGIA",
+    "IlceAdiEn": "FOGGIA",
+    "IlceID": "14626"
+  },
+  {
+    "IlceAdi": "FOLIGNO",
+    "IlceAdiEn": "FOLIGNO",
+    "IlceID": "14627"
+  },
+  {
+    "IlceAdi": "FOLLONICA",
+    "IlceAdiEn": "FOLLONICA",
+    "IlceID": "14628"
+  },
+  {
+    "IlceAdi": "FORLI",
+    "IlceAdiEn": "FORLI",
+    "IlceID": "14629"
+  },
+  {
+    "IlceAdi": "FORMIGINE                   ",
+    "IlceAdiEn": "FORMIGINE                   ",
+    "IlceID": "14576"
+  },
+  {
+    "IlceAdi": "FROSINONE",
+    "IlceAdiEn": "FROSINONE",
+    "IlceID": "14630"
+  },
+  {
+    "IlceAdi": "GAETA",
+    "IlceAdiEn": "GAETA",
+    "IlceID": "14631"
+  },
+  {
+    "IlceAdi": "GALLARATE                      ",
+    "IlceAdiEn": "GALLARATE                      ",
+    "IlceID": "14565"
+  },
+  {
+    "IlceAdi": "GENOVA",
+    "IlceAdiEn": "GENOVA",
+    "IlceID": "14563"
+  },
+  {
+    "IlceAdi": "GHEDI",
+    "IlceAdiEn": "GHEDI",
+    "IlceID": "14587"
+  },
+  {
+    "IlceAdi": "GROSSETO",
+    "IlceAdiEn": "GROSSETO",
+    "IlceID": "14632"
+  },
+  {
+    "IlceAdi": "IMOLA",
+    "IlceAdiEn": "IMOLA",
+    "IlceID": "14633"
+  },
+  {
+    "IlceAdi": "IMPERIA",
+    "IlceAdiEn": "IMPERIA",
+    "IlceID": "14634"
+  },
+  {
+    "IlceAdi": "IVREA",
+    "IlceAdiEn": "IVREA",
+    "IlceID": "14635"
+  },
+  {
+    "IlceAdi": "JESI",
+    "IlceAdiEn": "JESI",
+    "IlceID": "14636"
+  },
+  {
+    "IlceAdi": "L AQUILA",
+    "IlceAdiEn": "L AQUILA",
+    "IlceID": "14637"
+  },
+  {
+    "IlceAdi": "LA SPEZIA",
+    "IlceAdiEn": "LA SPEZIA",
+    "IlceID": "14638"
+  },
+  {
+    "IlceAdi": "LATINA",
+    "IlceAdiEn": "LATINA",
+    "IlceID": "14556"
+  },
+  {
+    "IlceAdi": "LECCE",
+    "IlceAdiEn": "LECCE",
+    "IlceID": "14640"
+  },
+  {
+    "IlceAdi": "LECCO",
+    "IlceAdiEn": "LECCO",
+    "IlceID": "14579"
+  },
+  {
+    "IlceAdi": "LIVORNO",
+    "IlceAdiEn": "LIVORNO",
+    "IlceID": "14639"
+  },
+  {
+    "IlceAdi": "LUCCA",
+    "IlceAdiEn": "LUCCA",
+    "IlceID": "14641"
+  },
+  {
+    "IlceAdi": "MACERATA",
+    "IlceAdiEn": "MACERATA",
+    "IlceID": "14642"
+  },
+  {
+    "IlceAdi": "MALNATE                            ",
+    "IlceAdiEn": "MALNATE                            ",
+    "IlceID": "14570"
+  },
+  {
+    "IlceAdi": "MANTUA",
+    "IlceAdiEn": "MANTUA",
+    "IlceID": "14643"
+  },
+  {
+    "IlceAdi": "MARINA D ANDORA       ",
+    "IlceAdiEn": "MARINA D ANDORA       ",
+    "IlceID": "14574"
+  },
+  {
+    "IlceAdi": "MASSA",
+    "IlceAdiEn": "MASSA",
+    "IlceID": "14644"
+  },
+  {
+    "IlceAdi": "MATERA",
+    "IlceAdiEn": "MATERA",
+    "IlceID": "14645"
+  },
+  {
+    "IlceAdi": "MERANO",
+    "IlceAdiEn": "MERANO",
+    "IlceID": "14555"
+  },
+  {
+    "IlceAdi": "MESSINA",
+    "IlceAdiEn": "MESSINA",
+    "IlceID": "14558"
+  },
+  {
+    "IlceAdi": "MILANO",
+    "IlceAdiEn": "MILANO",
+    "IlceID": "14586"
+  },
+  {
+    "IlceAdi": "MILAZZO",
+    "IlceAdiEn": "MILAZZO",
+    "IlceID": "14646"
+  },
+  {
+    "IlceAdi": "MODENA",
+    "IlceAdiEn": "MODENA",
+    "IlceID": "14682"
+  },
+  {
+    "IlceAdi": "MONOPOLI",
+    "IlceAdiEn": "MONOPOLI",
+    "IlceID": "14647"
+  },
+  {
+    "IlceAdi": "MONZA               ",
+    "IlceAdiEn": "MONZA               ",
+    "IlceID": "14566"
+  },
+  {
+    "IlceAdi": "MURAVERA",
+    "IlceAdiEn": "MURAVERA",
+    "IlceID": "14683"
+  },
+  {
+    "IlceAdi": "NAPOLI",
+    "IlceAdiEn": "NAPOLI",
+    "IlceID": "14589"
+  },
+  {
+    "IlceAdi": "NOVARA",
+    "IlceAdiEn": "NOVARA",
+    "IlceID": "14648"
+  },
+  {
+    "IlceAdi": "NUORO",
+    "IlceAdiEn": "NUORO",
+    "IlceID": "14649"
+  },
+  {
+    "IlceAdi": "OLBIA",
+    "IlceAdiEn": "OLBIA",
+    "IlceID": "14650"
+  },
+  {
+    "IlceAdi": "ORISTANO",
+    "IlceAdiEn": "ORISTANO",
+    "IlceID": "14651"
+  },
+  {
+    "IlceAdi": "OSIMO",
+    "IlceAdiEn": "OSIMO",
+    "IlceID": "14652"
+  },
+  {
+    "IlceAdi": "PADOVA",
+    "IlceAdiEn": "PADOVA",
+    "IlceID": "14690"
+  },
+  {
+    "IlceAdi": "PALERMO",
+    "IlceAdiEn": "PALERMO",
+    "IlceID": "14693"
+  },
+  {
+    "IlceAdi": "PARMA",
+    "IlceAdiEn": "PARMA",
+    "IlceID": "14685"
+  },
+  {
+    "IlceAdi": "PERUGIA",
+    "IlceAdiEn": "PERUGIA",
+    "IlceID": "14592"
+  },
+  {
+    "IlceAdi": "PESARO",
+    "IlceAdiEn": "PESARO",
+    "IlceID": "14653"
+  },
+  {
+    "IlceAdi": "PESCARA",
+    "IlceAdiEn": "PESCARA",
+    "IlceID": "14654"
+  },
+  {
+    "IlceAdi": "PIACENZA",
+    "IlceAdiEn": "PIACENZA",
+    "IlceID": "14655"
+  },
+  {
+    "IlceAdi": "PINEROLO",
+    "IlceAdiEn": "PINEROLO",
+    "IlceID": "14656"
+  },
+  {
+    "IlceAdi": "PISA",
+    "IlceAdiEn": "PISA",
+    "IlceID": "14692"
+  },
+  {
+    "IlceAdi": "PORDENONE",
+    "IlceAdiEn": "PORDENONE",
+    "IlceID": "14560"
+  },
+  {
+    "IlceAdi": "POTENZA",
+    "IlceAdiEn": "POTENZA",
+    "IlceID": "14657"
+  },
+  {
+    "IlceAdi": "PUTIGNANO",
+    "IlceAdiEn": "PUTIGNANO",
+    "IlceID": "14658"
+  },
+  {
+    "IlceAdi": "RAVENNA",
+    "IlceAdiEn": "RAVENNA",
+    "IlceID": "14659"
+  },
+  {
+    "IlceAdi": "REGGIO DI CALABRIA",
+    "IlceAdiEn": "REGGIO DI CALABRIA",
+    "IlceID": "14559"
+  },
+  {
+    "IlceAdi": "REGGIO EMILIA",
+    "IlceAdiEn": "REGGIO EMILIA",
+    "IlceID": "14660"
+  },
+  {
+    "IlceAdi": "RIBERA",
+    "IlceAdiEn": "RIBERA",
+    "IlceID": "14661"
+  },
+  {
+    "IlceAdi": "RIETI",
+    "IlceAdiEn": "RIETI",
+    "IlceID": "14591"
+  },
+  {
+    "IlceAdi": "RIMINI",
+    "IlceAdiEn": "RIMINI",
+    "IlceID": "14581"
+  },
+  {
+    "IlceAdi": "ROMA",
+    "IlceAdiEn": "ROMA",
+    "IlceID": "14588"
+  },
+  {
+    "IlceAdi": "ROVIGO",
+    "IlceAdiEn": "ROVIGO",
+    "IlceID": "14662"
+  },
+  {
+    "IlceAdi": "SALERNO",
+    "IlceAdiEn": "SALERNO",
+    "IlceID": "14663"
+  },
+  {
+    "IlceAdi": "SAN BENEDETTO DEL TRONTO",
+    "IlceAdiEn": "SAN BENEDETTO DEL TRONTO",
+    "IlceID": "14664"
+  },
+  {
+    "IlceAdi": "SAN REMO",
+    "IlceAdiEn": "SAN REMO",
+    "IlceID": "14665"
+  },
+  {
+    "IlceAdi": "SASSARI",
+    "IlceAdiEn": "SASSARI",
+    "IlceID": "14666"
+  },
+  {
+    "IlceAdi": "SASSUOLO                     ",
+    "IlceAdiEn": "SASSUOLO                     ",
+    "IlceID": "14577"
+  },
+  {
+    "IlceAdi": "SAVONA",
+    "IlceAdiEn": "SAVONA",
+    "IlceID": "14667"
+  },
+  {
+    "IlceAdi": "SESTRI LEVANTE",
+    "IlceAdiEn": "SESTRI LEVANTE",
+    "IlceID": "14669"
+  },
+  {
+    "IlceAdi": "SIENA",
+    "IlceAdiEn": "SIENA",
+    "IlceID": "14554"
+  },
+  {
+    "IlceAdi": "SONDRIO",
+    "IlceAdiEn": "SONDRIO",
+    "IlceID": "14670"
+  },
+  {
+    "IlceAdi": "SPOLETO",
+    "IlceAdiEn": "SPOLETO",
+    "IlceID": "14671"
+  },
+  {
+    "IlceAdi": "SYRACUSE",
+    "IlceAdiEn": "SYRACUSE",
+    "IlceID": "14668"
+  },
+  {
+    "IlceAdi": "TARANTO",
+    "IlceAdiEn": "TARANTO",
+    "IlceID": "14562"
+  },
+  {
+    "IlceAdi": "TERNI",
+    "IlceAdiEn": "TERNI",
+    "IlceID": "14593"
+  },
+  {
+    "IlceAdi": "TORINO",
+    "IlceAdiEn": "TORINO",
+    "IlceID": "14590"
+  },
+  {
+    "IlceAdi": "TRAPANI",
+    "IlceAdiEn": "TRAPANI",
+    "IlceID": "14672"
+  },
+  {
+    "IlceAdi": "TRENTO",
+    "IlceAdiEn": "TRENTO",
+    "IlceID": "14673"
+  },
+  {
+    "IlceAdi": "TREVISO",
+    "IlceAdiEn": "TREVISO",
+    "IlceID": "14552"
+  },
+  {
+    "IlceAdi": "TRIESTE",
+    "IlceAdiEn": "TRIESTE",
+    "IlceID": "14583"
+  },
+  {
+    "IlceAdi": "UDINE",
+    "IlceAdiEn": "UDINE",
+    "IlceID": "14674"
+  },
+  {
+    "IlceAdi": "VALENZA",
+    "IlceAdiEn": "VALENZA",
+    "IlceID": "14675"
+  },
+  {
+    "IlceAdi": "VARESE",
+    "IlceAdiEn": "VARESE",
+    "IlceID": "14676"
+  },
+  {
+    "IlceAdi": "VENEDIK",
+    "IlceAdiEn": "VENEDIK",
+    "IlceID": "14578"
+  },
+  {
+    "IlceAdi": "VENTIMIGLIA                 ",
+    "IlceAdiEn": "VENTIMIGLIA                 ",
+    "IlceID": "14575"
+  },
+  {
+    "IlceAdi": "VERBANIA",
+    "IlceAdiEn": "VERBANIA",
+    "IlceID": "14677"
+  },
+  {
+    "IlceAdi": "VERONA",
+    "IlceAdiEn": "VERONA",
+    "IlceID": "14684"
+  },
+  {
+    "IlceAdi": "VIAREGGIO",
+    "IlceAdiEn": "VIAREGGIO",
+    "IlceID": "14687"
+  },
+  {
+    "IlceAdi": "VIBO VALENTIA",
+    "IlceAdiEn": "VIBO VALENTIA",
+    "IlceID": "14678"
+  },
+  {
+    "IlceAdi": "VICENZA",
+    "IlceAdiEn": "VICENZA",
+    "IlceID": "14689"
+  },
+  {
+    "IlceAdi": "VIGEVANO                         ",
+    "IlceAdiEn": "VIGEVANO                         ",
+    "IlceID": "14567"
+  },
+  {
+    "IlceAdi": "VILLA GUARDIA                 ",
+    "IlceAdiEn": "VILLA GUARDIA                 ",
+    "IlceID": "14571"
+  },
+  {
+    "IlceAdi": "VILLAPUTZU",
+    "IlceAdiEn": "VILLAPUTZU",
+    "IlceID": "14688"
+  },
+  {
+    "IlceAdi": "VITERBO",
+    "IlceAdiEn": "VITERBO",
+    "IlceID": "14679"
+  },
+  {
+    "IlceAdi": "VOGHERA",
+    "IlceAdiEn": "VOGHERA",
+    "IlceID": "14680"
+  }
+]

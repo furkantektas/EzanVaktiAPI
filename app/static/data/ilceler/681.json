@@ -1,0 +1,207 @@
+[
+  {
+    "IlceAdi": "BENESOV",
+    "IlceAdiEn": "BENESOV",
+    "IlceID": "17837"
+  },
+  {
+    "IlceAdi": "BLANSKO",
+    "IlceAdiEn": "BLANSKO",
+    "IlceID": "12316"
+  },
+  {
+    "IlceAdi": "BRNO",
+    "IlceAdiEn": "BRNO",
+    "IlceID": "12304"
+  },
+  {
+    "IlceAdi": "CESKE BUDEJOVICE",
+    "IlceAdiEn": "CESKE BUDEJOVICE",
+    "IlceID": "12317"
+  },
+  {
+    "IlceAdi": "CHEB",
+    "IlceAdiEn": "CHEB",
+    "IlceID": "12318"
+  },
+  {
+    "IlceAdi": "DECIN",
+    "IlceAdiEn": "DECIN",
+    "IlceID": "12319"
+  },
+  {
+    "IlceAdi": "FRYDEK-MISTEK",
+    "IlceAdiEn": "FRYDEK-MISTEK",
+    "IlceID": "12320"
+  },
+  {
+    "IlceAdi": "HAVIROV",
+    "IlceAdiEn": "HAVIROV",
+    "IlceID": "12342"
+  },
+  {
+    "IlceAdi": "HRADEC KRALOVE",
+    "IlceAdiEn": "HRADEC KRALOVE",
+    "IlceID": "12321"
+  },
+  {
+    "IlceAdi": "JIHLAVA",
+    "IlceAdiEn": "JIHLAVA",
+    "IlceID": "12323"
+  },
+  {
+    "IlceAdi": "KARLOVY VARY",
+    "IlceAdiEn": "KARLOVY VARY",
+    "IlceID": "12305"
+  },
+  {
+    "IlceAdi": "KLADNO",
+    "IlceAdiEn": "KLADNO",
+    "IlceID": "12324"
+  },
+  {
+    "IlceAdi": "KLATOVY",
+    "IlceAdiEn": "KLATOVY",
+    "IlceID": "12325"
+  },
+  {
+    "IlceAdi": "KOPRIVNICE",
+    "IlceAdiEn": "KOPRIVNICE",
+    "IlceID": "12340"
+  },
+  {
+    "IlceAdi": "KRNOV",
+    "IlceAdiEn": "KRNOV",
+    "IlceID": "12326"
+  },
+  {
+    "IlceAdi": "LIBEREC",
+    "IlceAdiEn": "LIBEREC",
+    "IlceID": "12344"
+  },
+  {
+    "IlceAdi": "LOUNY",
+    "IlceAdiEn": "LOUNY",
+    "IlceID": "12307"
+  },
+  {
+    "IlceAdi": "MLADA BOLESLAV",
+    "IlceAdiEn": "MLADA BOLESLAV",
+    "IlceID": "12327"
+  },
+  {
+    "IlceAdi": "MOST",
+    "IlceAdiEn": "MOST",
+    "IlceID": "12328"
+  },
+  {
+    "IlceAdi": "NACHOD",
+    "IlceAdiEn": "NACHOD",
+    "IlceID": "12329"
+  },
+  {
+    "IlceAdi": "NERATOVICE",
+    "IlceAdiEn": "NERATOVICE",
+    "IlceID": "12308"
+  },
+  {
+    "IlceAdi": "NOVY JICIN",
+    "IlceAdiEn": "NOVY JICIN",
+    "IlceID": "12322"
+  },
+  {
+    "IlceAdi": "NYMBURK",
+    "IlceAdiEn": "NYMBURK",
+    "IlceID": "12309"
+  },
+  {
+    "IlceAdi": "OLOMOUC",
+    "IlceAdiEn": "OLOMOUC",
+    "IlceID": "12330"
+  },
+  {
+    "IlceAdi": "OPAVA",
+    "IlceAdiEn": "OPAVA",
+    "IlceID": "12331"
+  },
+  {
+    "IlceAdi": "OSTRAVA",
+    "IlceAdiEn": "OSTRAVA",
+    "IlceID": "12332"
+  },
+  {
+    "IlceAdi": "PARDUBICE",
+    "IlceAdiEn": "PARDUBICE",
+    "IlceID": "12333"
+  },
+  {
+    "IlceAdi": "PLZEN",
+    "IlceAdiEn": "PLZEN",
+    "IlceID": "12335"
+  },
+  {
+    "IlceAdi": "PODEBRADY",
+    "IlceAdiEn": "PODEBRADY",
+    "IlceID": "12312"
+  },
+  {
+    "IlceAdi": "PRAG",
+    "IlceAdiEn": "PRAGUE",
+    "IlceID": "12315"
+  },
+  {
+    "IlceAdi": "PRIBRAM",
+    "IlceAdiEn": "PRIBRAM",
+    "IlceID": "12334"
+  },
+  {
+    "IlceAdi": "RICANY (SK)",
+    "IlceAdiEn": "RICANY (SK)",
+    "IlceID": "12310"
+  },
+  {
+    "IlceAdi": "ROZTOKY (P)",
+    "IlceAdiEn": "ROZTOKY (P)",
+    "IlceID": "12311"
+  },
+  {
+    "IlceAdi": "SLANY",
+    "IlceAdiEn": "SLANY",
+    "IlceID": "12313"
+  },
+  {
+    "IlceAdi": "TABOR",
+    "IlceAdiEn": "TABOR",
+    "IlceID": "12336"
+  },
+  {
+    "IlceAdi": "TEPLICE",
+    "IlceAdiEn": "TEPLICE",
+    "IlceID": "12337"
+  },
+  {
+    "IlceAdi": "TRINEC",
+    "IlceAdiEn": "TRINEC",
+    "IlceID": "12341"
+  },
+  {
+    "IlceAdi": "USTI NAD LABEM",
+    "IlceAdiEn": "USTI NAD LABEM",
+    "IlceID": "12338"
+  },
+  {
+    "IlceAdi": "ZAPY",
+    "IlceAdiEn": "ZAPY",
+    "IlceID": "12314"
+  },
+  {
+    "IlceAdi": "ZLIN",
+    "IlceAdiEn": "ZLIN",
+    "IlceID": "12343"
+  },
+  {
+    "IlceAdi": "ZNOJMO",
+    "IlceAdiEn": "ZNOJMO",
+    "IlceID": "12339"
+  }
+]

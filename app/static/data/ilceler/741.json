@@ -1,0 +1,627 @@
+[
+  {
+    "IlceAdi": "ABAY",
+    "IlceAdiEn": "ABAY",
+    "IlceID": "14881"
+  },
+  {
+    "IlceAdi": "AKHMETAU",
+    "IlceAdiEn": "AKHMETAU",
+    "IlceID": "14882"
+  },
+  {
+    "IlceAdi": "AKKOL (Ekibastuz)",
+    "IlceAdiEn": "AKKOL (Ekibastuz)",
+    "IlceID": "14929"
+  },
+  {
+    "IlceAdi": "AKKOL (Taraz)",
+    "IlceAdiEn": "AKKOL (Taraz)",
+    "IlceID": "14920"
+  },
+  {
+    "IlceAdi": "AKSENGIR ",
+    "IlceAdiEn": "AKSENGIR ",
+    "IlceID": "14897"
+  },
+  {
+    "IlceAdi": "AKSHIY (Almatı)",
+    "IlceAdiEn": "AKSHIY (Almatı)",
+    "IlceID": "14898"
+  },
+  {
+    "IlceAdi": "AKSU ",
+    "IlceAdiEn": "AKSU ",
+    "IlceID": "14948"
+  },
+  {
+    "IlceAdi": "AKTAU (Tupqarakhan)",
+    "IlceAdiEn": "AKTAU (Tupqarakhan)",
+    "IlceID": "14981"
+  },
+  {
+    "IlceAdi": "AKTEPE (aktyubinsk)",
+    "IlceAdiEn": "AKTEPE (aktyubinsk)",
+    "IlceID": "15001"
+  },
+  {
+    "IlceAdi": "AKYRTOBE ",
+    "IlceAdiEn": "AKYRTOBE ",
+    "IlceID": "14921"
+  },
+  {
+    "IlceAdi": "AKZHAR (Taraz)",
+    "IlceAdiEn": "AKZHAR (Taraz)",
+    "IlceID": "14922"
+  },
+  {
+    "IlceAdi": "ALEKSEYEVKA(Astana)",
+    "IlceAdiEn": "ALEKSEYEVKA(Astana)",
+    "IlceID": "14883"
+  },
+  {
+    "IlceAdi": "ALMATI",
+    "IlceAdiEn": "ALMATY",
+    "IlceID": "14997"
+  },
+  {
+    "IlceAdi": "AMANGELDY (Taldy Kurgan)",
+    "IlceAdiEn": "AMANGELDY (Taldy Kurgan)",
+    "IlceID": "14949"
+  },
+  {
+    "IlceAdi": "ANAR",
+    "IlceAdiEn": "ANAR",
+    "IlceID": "14885"
+  },
+  {
+    "IlceAdi": "ARASAN ",
+    "IlceAdiEn": "ARASAN ",
+    "IlceID": "14950"
+  },
+  {
+    "IlceAdi": "ARQALYK",
+    "IlceAdiEn": "ARQALYK",
+    "IlceID": "14985"
+  },
+  {
+    "IlceAdi": "ARYS",
+    "IlceAdiEn": "ARYS",
+    "IlceID": "14911"
+  },
+  {
+    "IlceAdi": "ASHCHYSAY (Turkistan)",
+    "IlceAdiEn": "ASHCHYSAY (Turkistan)",
+    "IlceID": "14960"
+  },
+  {
+    "IlceAdi": "ATABAY",
+    "IlceAdiEn": "ATABAY",
+    "IlceID": "14961"
+  },
+  {
+    "IlceAdi": "ATBASAR",
+    "IlceAdiEn": "ATBASAR",
+    "IlceID": "14884"
+  },
+  {
+    "IlceAdi": "ATYRAU",
+    "IlceAdiEn": "ATYRAU",
+    "IlceID": "14994"
+  },
+  {
+    "IlceAdi": "BADAM ",
+    "IlceAdiEn": "BADAM ",
+    "IlceID": "14912"
+  },
+  {
+    "IlceAdi": "BAKYRLY",
+    "IlceAdiEn": "BAKYRLY",
+    "IlceID": "14962"
+  },
+  {
+    "IlceAdi": "BASKAMYS",
+    "IlceAdiEn": "BASKAMYS",
+    "IlceID": "14930"
+  },
+  {
+    "IlceAdi": "BAUTINO",
+    "IlceAdiEn": "BAUTINO",
+    "IlceID": "14982"
+  },
+  {
+    "IlceAdi": "BELYYE VODY",
+    "IlceAdiEn": "BELYYE VODY",
+    "IlceID": "14913"
+  },
+  {
+    "IlceAdi": "BOSTANDYK(Taraz)",
+    "IlceAdiEn": "BOSTANDYK(Taraz)",
+    "IlceID": "14923"
+  },
+  {
+    "IlceAdi": "BUGUN(Turkistan)",
+    "IlceAdiEn": "BUGUN(Turkistan)",
+    "IlceID": "14963"
+  },
+  {
+    "IlceAdi": "BURUNDAY",
+    "IlceAdiEn": "BURUNDAY",
+    "IlceID": "14899"
+  },
+  {
+    "IlceAdi": "CHAKPAK",
+    "IlceAdiEn": "CHAKPAK",
+    "IlceID": "14965"
+  },
+  {
+    "IlceAdi": "CHAYAN",
+    "IlceAdiEn": "CHAYAN",
+    "IlceID": "14964"
+  },
+  {
+    "IlceAdi": "CHIMKENT",
+    "IlceAdiEn": "CHIMKENT",
+    "IlceID": "14910"
+  },
+  {
+    "IlceAdi": "CHULAKKURGAN",
+    "IlceAdiEn": "CHULAKKURGAN",
+    "IlceID": "14966"
+  },
+  {
+    "IlceAdi": "DIMITRIYEVKA",
+    "IlceAdiEn": "DIMITRIYEVKA",
+    "IlceID": "14900"
+  },
+  {
+    "IlceAdi": "DZHEZKAZGAN",
+    "IlceAdiEn": "DZHEZKAZGAN",
+    "IlceID": "14990"
+  },
+  {
+    "IlceAdi": "EKIBASTUZ",
+    "IlceAdiEn": "EKIBASTUZ",
+    "IlceID": "14983"
+  },
+  {
+    "IlceAdi": "EKIBASTUZSKIY",
+    "IlceAdiEn": "EKIBASTUZSKIY",
+    "IlceID": "14931"
+  },
+  {
+    "IlceAdi": "ERMAK",
+    "IlceAdiEn": "ERMAK",
+    "IlceID": "14932"
+  },
+  {
+    "IlceAdi": "ESIK ",
+    "IlceAdiEn": "ESIK ",
+    "IlceID": "14901"
+  },
+  {
+    "IlceAdi": "FOGELEVO ",
+    "IlceAdiEn": "FOGELEVO ",
+    "IlceID": "14914"
+  },
+  {
+    "IlceAdi": "FORT SHEVCHENKO",
+    "IlceAdiEn": "FORT SHEVCHENKO",
+    "IlceID": "14992"
+  },
+  {
+    "IlceAdi": "GLINKOVO ",
+    "IlceAdiEn": "GLINKOVO ",
+    "IlceID": "14915"
+  },
+  {
+    "IlceAdi": "GRODEKOVO ",
+    "IlceAdiEn": "GRODEKOVO ",
+    "IlceID": "14924"
+  },
+  {
+    "IlceAdi": "IBATA ",
+    "IlceAdiEn": "IBATA ",
+    "IlceID": "14967"
+  },
+  {
+    "IlceAdi": "IMENI PAMFILOVA",
+    "IlceAdiEn": "IMENI PAMFILOVA",
+    "IlceID": "14904"
+  },
+  {
+    "IlceAdi": "KALKAMAN",
+    "IlceAdiEn": "KALKAMAN",
+    "IlceID": "14933"
+  },
+  {
+    "IlceAdi": "KAMENKA(Astana)",
+    "IlceAdiEn": "KAMENKA(Astana)",
+    "IlceID": "14886"
+  },
+  {
+    "IlceAdi": "KAPAL ",
+    "IlceAdiEn": "KAPAL ",
+    "IlceID": "14951"
+  },
+  {
+    "IlceAdi": "KARA BULAK (Cimkent)",
+    "IlceAdiEn": "KARA BULAK (Cimkent)",
+    "IlceID": "14917"
+  },
+  {
+    "IlceAdi": "KARAGANDA",
+    "IlceAdiEn": "KARAGANDA",
+    "IlceID": "14986"
+  },
+  {
+    "IlceAdi": "KARAOBA(Pavlodar)",
+    "IlceAdiEn": "KARAOBA(Pavlodar)",
+    "IlceID": "14934"
+  },
+  {
+    "IlceAdi": "KARASAN",
+    "IlceAdiEn": "KARASAN",
+    "IlceID": "14969"
+  },
+  {
+    "IlceAdi": "KARATALSKOYE",
+    "IlceAdiEn": "KARATALSKOYE",
+    "IlceID": "14952"
+  },
+  {
+    "IlceAdi": "KARATAS ",
+    "IlceAdiEn": "KARATAS ",
+    "IlceID": "14916"
+  },
+  {
+    "IlceAdi": "KARATURYQ",
+    "IlceAdiEn": "KARATURYQ",
+    "IlceID": "14902"
+  },
+  {
+    "IlceAdi": "KARAZHAR(Ekibastuz)",
+    "IlceAdiEn": "KARAZHAR(Ekibastuz)",
+    "IlceID": "14935"
+  },
+  {
+    "IlceAdi": "KENTAU",
+    "IlceAdiEn": "KENTAU",
+    "IlceID": "14968"
+  },
+  {
+    "IlceAdi": "KHROMKAU",
+    "IlceAdiEn": "KHROMKAU",
+    "IlceID": "14988"
+  },
+  {
+    "IlceAdi": "KIROVSKIY (Taldy Kurgan)",
+    "IlceAdiEn": "KIROVSKIY (Taldy Kurgan)",
+    "IlceID": "14953"
+  },
+  {
+    "IlceAdi": "KLYUCHI",
+    "IlceAdiEn": "KLYUCHI",
+    "IlceID": "14887"
+  },
+  {
+    "IlceAdi": "KOKCHETAV",
+    "IlceAdiEn": "KOKCHETAV",
+    "IlceID": "14980"
+  },
+  {
+    "IlceAdi": "KOKSARAY(Turkistan)",
+    "IlceAdiEn": "KOKSARAY(Turkistan)",
+    "IlceID": "14970"
+  },
+  {
+    "IlceAdi": "KOPA(Almatı) ",
+    "IlceAdiEn": "KOPA(Almatı) ",
+    "IlceID": "14903"
+  },
+  {
+    "IlceAdi": "KORYAKOVKA",
+    "IlceAdiEn": "KORYAKOVKA",
+    "IlceID": "14936"
+  },
+  {
+    "IlceAdi": "KOSCHAGYL",
+    "IlceAdiEn": "KOSCHAGYL",
+    "IlceID": "14999"
+  },
+  {
+    "IlceAdi": "KRASNOZNAMENKA",
+    "IlceAdiEn": "KRASNOZNAMENKA",
+    "IlceID": "14888"
+  },
+  {
+    "IlceAdi": "KULSARY",
+    "IlceAdiEn": "KULSARY",
+    "IlceID": "22176"
+  },
+  {
+    "IlceAdi": "KUMKENT",
+    "IlceAdiEn": "KUMKENT",
+    "IlceID": "14971"
+  },
+  {
+    "IlceAdi": "KUSTANAY",
+    "IlceAdiEn": "KUSTANAY",
+    "IlceID": "15003"
+  },
+  {
+    "IlceAdi": "KYZYK",
+    "IlceAdiEn": "KYZYK",
+    "IlceID": "14993"
+  },
+  {
+    "IlceAdi": "KYZYLAGASH (Taldy Kurgan)",
+    "IlceAdiEn": "KYZYLAGASH (Taldy Kurgan)",
+    "IlceID": "14954"
+  },
+  {
+    "IlceAdi": "KYZYLORDA",
+    "IlceAdiEn": "KYZYLORDA",
+    "IlceID": "15007"
+  },
+  {
+    "IlceAdi": "LENGER ",
+    "IlceAdiEn": "LENGER ",
+    "IlceID": "14918"
+  },
+  {
+    "IlceAdi": "LENINSKIY (Pavlodar)",
+    "IlceAdiEn": "LENINSKIY (Pavlodar)",
+    "IlceID": "14937"
+  },
+  {
+    "IlceAdi": "LUGOVOE ",
+    "IlceAdiEn": "LUGOVOE ",
+    "IlceID": "14925"
+  },
+  {
+    "IlceAdi": "MARINOVKA(Astana)",
+    "IlceAdiEn": "MARINOVKA(Astana)",
+    "IlceID": "14889"
+  },
+  {
+    "IlceAdi": "MAYAKUM",
+    "IlceAdiEn": "MAYAKUM",
+    "IlceID": "14972"
+  },
+  {
+    "IlceAdi": "MAYKAIN (Ekibastuz)",
+    "IlceAdiEn": "MAYKAIN (Ekibastuz)",
+    "IlceID": "14938"
+  },
+  {
+    "IlceAdi": "MONTAYTAS",
+    "IlceAdiEn": "MONTAYTAS",
+    "IlceID": "14919"
+  },
+  {
+    "IlceAdi": "MULALY",
+    "IlceAdiEn": "MULALY",
+    "IlceID": "14955"
+  },
+  {
+    "IlceAdi": "NURSULTAN",
+    "IlceAdiEn": "NURSULTAN",
+    "IlceID": "14880"
+  },
+  {
+    "IlceAdi": "OSAKAROVKA",
+    "IlceAdiEn": "OSAKAROVKA",
+    "IlceID": "14890"
+  },
+  {
+    "IlceAdi": "OSKEMEN",
+    "IlceAdiEn": "OSKEMEN",
+    "IlceID": "15005"
+  },
+  {
+    "IlceAdi": "PAVLODAR",
+    "IlceAdiEn": "PAVLODAR",
+    "IlceID": "15009"
+  },
+  {
+    "IlceAdi": "PAVLOVKA",
+    "IlceAdiEn": "PAVLOVKA",
+    "IlceID": "14891"
+  },
+  {
+    "IlceAdi": "PETROPAVLOVSK",
+    "IlceAdiEn": "PETROPAVLOVSK",
+    "IlceID": "15006"
+  },
+  {
+    "IlceAdi": "QAPSHAQHAG ",
+    "IlceAdiEn": "QAPSHAQHAG ",
+    "IlceID": "14905"
+  },
+  {
+    "IlceAdi": "QARATAU ",
+    "IlceAdiEn": "QARATAU ",
+    "IlceID": "14926"
+  },
+  {
+    "IlceAdi": "RAZUMOVKA",
+    "IlceAdiEn": "RAZUMOVKA",
+    "IlceID": "14939"
+  },
+  {
+    "IlceAdi": "ROMANOVKA",
+    "IlceAdiEn": "ROMANOVKA",
+    "IlceID": "14940"
+  },
+  {
+    "IlceAdi": "ROZHDESTVENKA",
+    "IlceAdiEn": "ROZHDESTVENKA",
+    "IlceID": "14941"
+  },
+  {
+    "IlceAdi": "RUDNYY",
+    "IlceAdiEn": "RUDNYY",
+    "IlceID": "14989"
+  },
+  {
+    "IlceAdi": "SABYNDY",
+    "IlceAdiEn": "SABYNDY",
+    "IlceID": "14892"
+  },
+  {
+    "IlceAdi": "SAMSONOVKA (Burnoye)",
+    "IlceAdiEn": "SAMSONOVKA (Burnoye)",
+    "IlceID": "14927"
+  },
+  {
+    "IlceAdi": "SARQANT",
+    "IlceAdiEn": "SARQANT",
+    "IlceID": "14956"
+  },
+  {
+    "IlceAdi": "SARYKAMYSSKIY",
+    "IlceAdiEn": "SARYKAMYSSKIY",
+    "IlceID": "14942"
+  },
+  {
+    "IlceAdi": "SEMEY",
+    "IlceAdiEn": "SEMEY",
+    "IlceID": "15000"
+  },
+  {
+    "IlceAdi": "SHAMALGAN ",
+    "IlceAdiEn": "SHAMALGAN ",
+    "IlceID": "14906"
+  },
+  {
+    "IlceAdi": "SHCHERBAKTY",
+    "IlceAdiEn": "SHCHERBAKTY",
+    "IlceID": "14943"
+  },
+  {
+    "IlceAdi": "SHENGELDY(Almatı)",
+    "IlceAdiEn": "SHENGELDY(Almatı)",
+    "IlceID": "14907"
+  },
+  {
+    "IlceAdi": "SHORNAK",
+    "IlceAdiEn": "SHORNAK",
+    "IlceID": "14973"
+  },
+  {
+    "IlceAdi": "SHORTANDY",
+    "IlceAdiEn": "SHORTANDY",
+    "IlceID": "14893"
+  },
+  {
+    "IlceAdi": "SUZAK",
+    "IlceAdiEn": "SUZAK",
+    "IlceID": "14974"
+  },
+  {
+    "IlceAdi": "TALDY KURGAN",
+    "IlceAdiEn": "TALDY KURGAN",
+    "IlceID": "15004"
+  },
+  {
+    "IlceAdi": "TALGHAR ",
+    "IlceAdiEn": "TALGHAR ",
+    "IlceID": "14908"
+  },
+  {
+    "IlceAdi": "TARAZ",
+    "IlceAdiEn": "TARAZ",
+    "IlceID": "14991"
+  },
+  {
+    "IlceAdi": "TAVOLZHAN",
+    "IlceAdiEn": "TAVOLZHAN",
+    "IlceID": "14944"
+  },
+  {
+    "IlceAdi": "TEKE",
+    "IlceAdiEn": "TEKE",
+    "IlceID": "14975"
+  },
+  {
+    "IlceAdi": "TENGIZ ROTATION VILLAGE",
+    "IlceAdiEn": "TENGIZ ROTATION VILLAGE",
+    "IlceID": "22177"
+  },
+  {
+    "IlceAdi": "TERENOZEK",
+    "IlceAdiEn": "TERENOZEK",
+    "IlceID": "14987"
+  },
+  {
+    "IlceAdi": "TIMUR",
+    "IlceAdiEn": "TIMUR",
+    "IlceID": "14976"
+  },
+  {
+    "IlceAdi": "TOLGAR",
+    "IlceAdiEn": "TOLGAR",
+    "IlceID": "15002"
+  },
+  {
+    "IlceAdi": "TORTKOL",
+    "IlceAdiEn": "TORTKOL",
+    "IlceID": "14977"
+  },
+  {
+    "IlceAdi": "TURGAY(Astana)",
+    "IlceAdiEn": "TURGAY(Astana)",
+    "IlceID": "14894"
+  },
+  {
+    "IlceAdi": "TURGEN ",
+    "IlceAdiEn": "TURGEN ",
+    "IlceID": "14909"
+  },
+  {
+    "IlceAdi": "TURKISTAN",
+    "IlceAdiEn": "TURKISTAN",
+    "IlceID": "14959"
+  },
+  {
+    "IlceAdi": "URALSK",
+    "IlceAdiEn": "URALSK",
+    "IlceID": "15008"
+  },
+  {
+    "IlceAdi": "USHTOBE (Taldy Kurgan)",
+    "IlceAdiEn": "USHTOBE (Taldy Kurgan)",
+    "IlceID": "14957"
+  },
+  {
+    "IlceAdi": "USPENKA(Pavlodar)",
+    "IlceAdiEn": "USPENKA(Pavlodar)",
+    "IlceID": "14945"
+  },
+  {
+    "IlceAdi": "YANYKURGAN",
+    "IlceAdiEn": "YANYKURGAN",
+    "IlceID": "14978"
+  },
+  {
+    "IlceAdi": "ZHANGATAS",
+    "IlceAdiEn": "ZHANGATAS",
+    "IlceID": "14979"
+  },
+  {
+    "IlceAdi": "ZHANSUGIROV",
+    "IlceAdiEn": "ZHANSUGIROV",
+    "IlceID": "14958"
+  },
+  {
+    "IlceAdi": "ZHIDKOVKA",
+    "IlceAdiEn": "ZHIDKOVKA",
+    "IlceID": "14946"
+  },
+  {
+    "IlceAdi": "ZHOLYMBET",
+    "IlceAdiEn": "ZHOLYMBET",
+    "IlceID": "14895"
+  }
+]
