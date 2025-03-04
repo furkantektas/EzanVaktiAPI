@@ -1,10 +1,8 @@
 import json
 from pathlib import Path
 
-from fastapi import APIRouter, HTTPException
-from fastapi.responses import JSONResponse
-from starlette.requests import Request
-from starlette.responses import FileResponse
+from fastapi import APIRouter, HTTPException, Request
+from starlette.responses import FileResponse, JSONResponse
 
 from .config import get_settings
 from .models import Ilce, Sehir, Ulke, Vakit, convert_vakit_response

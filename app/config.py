@@ -38,6 +38,9 @@ class Settings(BaseSettings):
     redis_url: str = "redis://localhost:6379/0"
     trusted_clients: set[str] = set()
 
+    # Cache configuration
+    cache_excluded_paths: list[str] = ["/up"]
+
     model_config = SettingsConfigDict(
         env_file=".env", extra="ignore", secrets_dir="/run/secrets"
     )

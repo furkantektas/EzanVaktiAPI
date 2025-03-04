@@ -1,15 +1,15 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Request, status
 from fastapi.encoders import jsonable_encoder
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.middleware.gzip import GZipMiddleware
 from requests.exceptions import RequestException
-from starlette import status
-from starlette.requests import Request
 from starlette.responses import JSONResponse
 
 from .config import get_settings
+from .middleware.cache import CacheMiddleware
 from .rate_limit import rate_limiter
 from .routes import router
+from .services.cache import CacheService
 
 description = """
 Tüm dünya ülkeleri için Türkiye Cumhuriyeti Diyanet İşleri Başkanlığı'nın yayınladığı aylık ezan vakitleri.
@@ -46,8 +46,16 @@ app = FastAPI(
     version="0.5.0",
 )
 
-rate_limiter.init_app(app)
+# Initialize cache service
+cache_service = CacheService(
+    cache_type=settings.cache_type,
+    default_timeout=settings.cache_default_timeout,
+    redis_url=settings.redis_url,
+)
 
+# Add middleware in order (order matters for middleware)
+# Cache middleware should be before GZip to cache uncompressed responses
+rate_limiter.init_app(app)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -55,7 +63,34 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+app.add_middleware(
+    CacheMiddleware,
+    cache_service=cache_service,
+    excluded_paths=["/up"],  # Don't cache health check endpoint
+)
 app.add_middleware(GZipMiddleware, minimum_size=500)
+
+
+@app.middleware("http")
+async def add_cache_control_header(request: Request, call_next):
+    response = await call_next(request)
+
+    # Add Cache-Control header for GET requests to relevant endpoints
+    if request.method == "GET" and not request.url.path.startswith("/up"):
+        # Set appropriate Cache-Control headers based on endpoint
+        if any(
+            request.url.path.startswith(path)
+            for path in ["/ulkeler", "/sehirler", "/ilceler"]
+        ):
+            # Static data could be cached longer
+            response.headers["Cache-Control"] = "public, max-age=86400"  # 24 hours
+        elif request.url.path.startswith("/vakitler"):
+            # Prayer times data
+            response.headers["Cache-Control"] = "public, max-age=3600"  # 1 hour
+
+    return response
+
+
 app.include_router(router)
 
 

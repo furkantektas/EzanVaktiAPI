@@ -1,4 +1,4 @@
-from starlette.requests import Request
+from fastapi import Request
 
 from .config import get_settings
 
