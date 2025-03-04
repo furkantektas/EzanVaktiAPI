@@ -156,7 +156,7 @@ def process_all_data() -> None:
     DEST_DIR.mkdir(parents=True, exist_ok=True)
 
     # Load country name mappings
-    country_mappings_file = Path("country_name_mapping.json")
+    country_mappings_file = Path(__file__).parent / "country_name_mapping.json"
     country_mappings = load_json_file(country_mappings_file)
 
     # Transform countries
