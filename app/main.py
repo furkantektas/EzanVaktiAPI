@@ -14,12 +14,6 @@ from .routes import router
 description = """
 Tüm dünya ülkeleri için Türkiye Cumhuriyeti Diyanet İşleri Başkanlığı'nın yayınladığı aylık ezan vakitleri.
 
-### Heroku servisi güncellemesi
-
-1 Ocak 2025 tarihi itibarı ile heroku servisi hizmet vermeyi durduracaktır. Sadece URL değişikliği yaparak ezan vakti servisini aynı şekilde kullanabilirsiniz.
-
-- [~~https://ezanvakti.herokuapp.com~~](https://ezanvakti.herokuapp.com) → [https://ezanvakti.emushaf.net](https://ezanvakti.emushaf.net)
-
 ### İstek Limiti
 
 30 istek / 5 dakika ve 200 istek / 1 gün
@@ -40,7 +34,7 @@ Muhabbetle yapılmıştır.
 
 İrtibat: [Furkan Tektas](https://furkantektas.com)
 
-"""
+"""  # noqa: E501
 
 settings = get_settings()
 
@@ -49,7 +43,7 @@ app = FastAPI(
     title="Ezan Vakti API",
     description=description,
     summary="Diyanet İşleri Başkanlığı tarafından yayınlanan ezan vakti bilgilerini sağlar.",
-    version="0.4.0",
+    version="0.5.0",
 )
 
 rate_limiter.init_app(app)

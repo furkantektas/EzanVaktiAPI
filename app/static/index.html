@@ -65,6 +65,31 @@
             border-color: #ffeeba;
         }
 
+        .label-deprecated {
+            background: #dc3545;
+            color: #fff;
+            padding: 2px 4px;
+            border-radius: 4px;
+            vertical-align: super;
+            font-size: smaller;
+            margin-left: .5rem;
+        }
+
+        .deprecated {
+            text-decoration: line-through;
+            opacity: 0.7;
+        }
+
+        .deprecation-notice {
+            color: #856404;
+            background-color: #fff3cd;
+            border-color: #ffeeba;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 4px;
+            font-style: italic;
+        }
+
         @media (prefers-color-scheme: dark) {
             body {
                 background-color: #232B32;
@@ -96,6 +121,16 @@
                 background-color: #664d03;
                 border-color: #856404;
             }
+
+            .label-deprecated {
+                background: #dc3545;
+            }
+
+            .deprecation-notice {
+                color: #fff3cd;
+                background-color: #664d03;
+                border-color: #856404;
+            }
         }
     </style>
 </head>
@@ -106,14 +141,8 @@
         ekibimiz sorunu çözmek için çalışmaktadır. Anlayışınız için teşekkür ederiz.
     </div>
 
-    <h1>Ezan Vakti API <code class="req">v0.4.0</code></h1>
+    <h1>Ezan Vakti API <code class="req">v0.5.0</code></h1>
     <p>Tüm dünya ülkeleri için Türkiye Cumhuriyeti Diyanet İşleri Başkanlığı'nın yayınladığı aylık ezan vakitleri.</p>
-    <h2>Daha önce Heroku servisi kullananlar için:<sup><em><code class="req">mühim</code></em></sup></h2>
-    <p>1 Ocak 2025 tarihi itibarı ile heroku servisi hizmet vermeyi durduracaktır.</p>
-    <p>Sadece URL değişikliği yaparak ezan vakti servisini aynı şekilde kullanabilirsiniz.</p>
-    <p>
-        <code><s>https://ezanvakti.herokuapp.com</s></code> → <code>https://ezanvakti.emushaf.net</code>
-    </p>
     <h2>Kullanım</h2>
     <ul>
         <li>Ülkeler Listesi: <code class="req">GET</code> <code><a href="/ulkeler">/ulkeler</a></code></li>
@@ -123,15 +152,25 @@
         <li>İlçeler Listesi: <code class="req">GET</code>
             <code><a href="/ilceler/539">/ilceler/<span class="highlight">[SEHIR_KODU]</span></a></code>
         </li>
-        <li>İlçe bilgileri: <code class="req">GET</code>
-            <code><a href="/ilce-detay/9541">/ilce-detay/<span class="highlight">[ILCE_KODU]</span></a></code>
-        </li>
         <li>Vakitler: <code class="req">GET</code>
             <code><a href="/vakitler/9541">/vakitler/<span class="highlight">[ILCE_KODU]</span></a></code>
         </li>
-        <li>Şehrin tüm ilçeleri için Bayram Namazı Saatleri: <code class="req">GET</code> <code><a href="/bayram-namazi/539">/bayram-namazi/<span
-                        class="highlight">[SEHIR_KODU]</span></a></code></li>
+        <li class="deprecated">İlçe bilgileri: <code class="req">GET</code>
+            <code><a href="/ilce-detay/9541">/ilce-detay/<span class="highlight">[ILCE_KODU]</span></a></code><sup
+                class="label-deprecated">kullanım dışı</sup>
+        </li>
+        <li class="deprecated">Şehrin tüm ilçeleri için Bayram Namazı Saatleri: <code class="req">GET</code> <code><a href="/bayram-namazi/539">/bayram-namazi/<span
+                        class="highlight">[SEHIR_KODU]</span></a></code><sup class="label-deprecated">kullanım
+                dışı</sup></li>
     </ul>
+
+    <div class="deprecation-notice">
+        <strong>Kullanımdan Kaldırılan Servisler Hakkında:</strong> Diyanet İşleri Başkanlığı tarafından uygulanan API
+        erişim kısıtlamaları nedeniyle <code>/ilce-detay/</code> ve <code>/bayram-namazi/</code> endpointleri
+        kullanımdan kaldırılmıştır. Bu durumun neden olduğu rahatsızlık için özür dileriz. Diğer servislerimiz çalışmaya
+        devam etmektedir.
+    </div>
+
     <h3>İstek Limiti <sup><em><code class="req">Rate-limit</code></em></sup></h3>
     <p>30 istek / 5 dakika ve 200 istek / 1 gün</p>
     <p><em>(Namaz vakitleri 30 günlük verildiği için ayda 1 istek yeterlidir.)</em></p>

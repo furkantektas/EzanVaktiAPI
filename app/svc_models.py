@@ -77,33 +77,5 @@ def service_call(
 
 
 @service_call
-def ulkeler() -> Ulke:
-    return {"op_name": "Ulkeler"}
-
-
-@service_call
-def sehirler(ulke_id: str) -> list[Sehir]:
-    return {"op_name": "Sehirler", "UlkeID": ulke_id}
-
-
-@service_call
-def ilceler(sehir_id: str) -> list[Ilce]:
-    return {"op_name": "Ilceler", "EyaletSehirID": sehir_id}
-
-
-@service_call
-def ilce_detay(ilce_id: str) -> IlceDetay:
-    return {
-        "op_name": "IlceBilgisiDetay",
-        "ilceId": ilce_id,  # keep the key as-is. not IlceID
-    }
-
-
-@service_call
 def vakitler(ilce_id: str) -> list[Vakit]:
     return {"op_name": "AylikNamazVakti", "IlceID": ilce_id}
-
-
-@service_call
-def bayram_namazi(sehir_id: str) -> list[BayramNamazi]:
-    return {"op_name": "BayramNamaziVaktiIlceListesi", "EyaletSehirID": sehir_id}
