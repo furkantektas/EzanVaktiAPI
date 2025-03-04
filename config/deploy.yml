@@ -22,9 +22,9 @@ env:
   clear:
     REDIS_URL: redis://ezanvaktiapi-redis
   secret:
-    - SVC_WSDL_URL
-    - SVC_PASSWORD
-    - SVC_USERNAME
+    - API_URL
+    - API_USERNAME
+    - API_PASSWORD
     - TRUSTED_CLIENTS
 ssh:
   user: kamal
