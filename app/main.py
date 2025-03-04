@@ -42,7 +42,7 @@ settings = get_settings()
 app = FastAPI(
     title="Ezan Vakti API",
     description=description,
-    summary="Diyanet İşleri Başkanlığı tarafından yayınlanan ezan vakti bilgilerini sağlar.",
+    summary="Diyanet İşleri Başkanlığı tarafından yayınlanan ezan vakitlerini sağlar.",
     version="0.5.0",
 )
 

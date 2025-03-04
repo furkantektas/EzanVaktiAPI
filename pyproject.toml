@@ -7,16 +7,15 @@ requires-python = ">=3.12, <3.13" # fastapi-cache2 depends on pendulum which doe
 dependencies = [
     "fastapi[standard]>=0.115.4",
     "pydantic-settings>=2.6.1",
-    "zeep>=4.3.1",
     "slowapi>=0.1.9",
     "redis[hiredis]>=4.6.0",
+    "httpx>=0.28.1",
 ]
 
 [tool.uv]
 dev-dependencies = [
     "python-dotenv>=1.0.1",
     "beautifulsoup4>=4.13.3",
-    "httpx>=0.28.1",
     "pydantic>=2.10.6",
     "requests>=2.32.3",
     "tenacity>=9.0.0",

@@ -6,9 +6,10 @@ from fastapi.responses import JSONResponse
 from starlette.requests import Request
 from starlette.responses import FileResponse
 
-from . import svc_models
-from .models import Ilce, Sehir, Ulke, Vakit
+from .config import get_settings
+from .models import Ilce, Sehir, Ulke, Vakit, convert_vakit_response
 from .rate_limit import no_limit, ratelimit
+from .services.api import ApiClient
 from .utils import STATIC_DATA_PATH, get_int_param, load_json_data
 
 router = APIRouter(
@@ -16,6 +17,15 @@ router = APIRouter(
     responses={
         502: {"description": "Diyanet Isleri Baskanligi servisine baglanilamiyor."}
     },
+)
+
+# Initialize API client with settings
+settings = get_settings()
+api_client = ApiClient(
+    api_url=settings.api_url,
+    api_username=settings.api_username,
+    api_password=settings.api_password,
+    timeout=settings.api_timeout,
 )
 
 
@@ -80,4 +90,10 @@ async def vakitler(request: Request, ilce: int | None = None) -> list[Vakit]:
     if ilce is None:
         ilce = get_int_param(request, "ilce")
 
-    return JSONResponse(svc_models.vakitler(ilce_id=ilce))
+    # Fetch prayer times from the API
+    api_response = await api_client.get_monthly_prayer_times(str(ilce))
+
+    # Transform the API response to the expected format
+    transformed_response = convert_vakit_response(api_response)
+
+    return JSONResponse([vakit.model_dump() for vakit in transformed_response])

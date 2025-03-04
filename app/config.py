@@ -16,7 +16,7 @@ class EVCustomSource(EnvSettingsSource):
     ) -> Any:
         if field_name == "trusted_clients":
             # convert trusted clients to a string set.
-            return set(map(str.strip, value.split(","))) if value else {}
+            return set(map(str.strip, value.split(","))) if value else set()
         return super().prepare_field_value(field_name, field, value, value_is_complex)
 
 
@@ -25,16 +25,21 @@ class DotEnvEVCSource(DotEnvSettingsSource, EVCustomSource):
 
 
 class Settings(BaseSettings):
+    """Application settings."""
+
+    # External API configuration
+    api_username: str
+    api_password: str
+    api_url: str
+    api_timeout: int = 30
+
     cache_type: str = "redis"
     cache_default_timeout: int = 5 * 24 * 60 * 60  # 5 days
     redis_url: str = "redis://localhost:6379/0"
-    svc_wsdl_url: str
-    svc_username: str
-    svc_password: str
-    trusted_clients: set[str] = {}
+    trusted_clients: set[str] = set()
 
     model_config = SettingsConfigDict(
-        env_file=".envs", extra="ignore", secrets_dir="/run/secrets"
+        env_file=".env", extra="ignore", secrets_dir="/run/secrets"
     )
 
     # parse comma separated trusted_clients using EVCustomSource
