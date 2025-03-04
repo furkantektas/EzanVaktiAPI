@@ -33,13 +33,24 @@ class Settings(BaseSettings):
     api_url: str
     api_timeout: int = 30
 
+    # Cache configuration
     cache_type: str = "redis"
     cache_default_timeout: int = 5 * 24 * 60 * 60  # 5 days
     redis_url: str = "redis://localhost:6379/0"
+    cache_excluded_paths: list[str] = ["/up"]
+
+    # Security
     trusted_clients: set[str] = set()
 
-    # Cache configuration
-    cache_excluded_paths: list[str] = ["/up"]
+    # API settings
+    api_title: str = "Ezan Vakti API"
+    api_description: str = (
+        "Diyanet İşleri Başkanlığı tarafından yayınlanan ezan vakitlerini sağlar."
+    )
+    api_version: str = "0.5.0"
+
+    # Rate limits
+    rate_limits: list[str] = ["200 per day", "30 per 5 minutes"]
 
     model_config = SettingsConfigDict(
         env_file=".env", extra="ignore", secrets_dir="/run/secrets"
@@ -65,4 +76,5 @@ class Settings(BaseSettings):
 
 @lru_cache
 def get_settings() -> Settings:
+    """Returns the application settings from environment variables."""
     return Settings()

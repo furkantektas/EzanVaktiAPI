@@ -4,11 +4,12 @@ from pathlib import Path
 from fastapi import APIRouter, HTTPException, Request
 from starlette.responses import FileResponse, JSONResponse
 
-from .config import get_settings
-from .models import Ilce, Sehir, Ulke, Vakit, convert_vakit_response
-from .rate_limit import no_limit, ratelimit
-from .services.api import ApiClient
-from .utils import STATIC_DATA_PATH, get_int_param, load_json_data
+from app.core.config import get_settings
+from app.infrastructure.diyanet_api.client import ApiClient
+from app.middleware.rate_limit import no_limit, ratelimit
+from app.models.domain import Ilce, Sehir, Ulke, Vakit
+from app.models.schemas import convert_vakit_response
+from app.utils import STATIC_DATA_PATH, get_int_param, load_json_data
 
 router = APIRouter(
     tags=["Ezan Vakti"],

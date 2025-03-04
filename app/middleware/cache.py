@@ -8,7 +8,11 @@ from starlette.middleware.base import BaseHTTPMiddleware
 from starlette.responses import JSONResponse
 from starlette.responses import Response as StarletteResponse
 
-from app.services.cache import CacheService, custom_cache_timeout, generate_cache_key
+from app.infrastructure.cache.service import (
+    CacheService,
+    custom_cache_timeout,
+    generate_cache_key,
+)
 
 logger = logging.getLogger(__name__)
 

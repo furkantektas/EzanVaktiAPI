@@ -3,7 +3,7 @@ import logging
 import httpx
 from fastapi import HTTPException
 
-from app.models import ExternalApiResponse
+from app.models.schemas import ExternalApiResponse
 
 logger = logging.getLogger(__name__)
 

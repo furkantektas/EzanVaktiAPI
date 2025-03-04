@@ -2,54 +2,20 @@ import re
 
 from pydantic import BaseModel
 
-
-class Ulke(BaseModel):
-    UlkeAdi: str
-    UlkeAdiEn: str
-    UlkeID: str
-
-
-class Sehir(BaseModel):
-    SehirAdi: str
-    SehirAdiEn: str
-    SehirID: str
-
-
-class Ilce(BaseModel):
-    IlceAdi: str
-    IlceAdiEn: str
-    IlceID: str
-
-
-class Vakit(BaseModel):
-    HicriTarihKisa: str
-    HicriTarihKisaIso8601: str | None = None
-    HicriTarihUzun: str
-    HicriTarihUzunIso8601: str | None = None
-    AyinSekliURL: str
-    MiladiTarihKisa: str
-    MiladiTarihKisaIso8601: str
-    MiladiTarihUzun: str
-    MiladiTarihUzunIso8601: str
-    GreenwichOrtalamaZamani: float
-    Aksam: str
-    Gunes: str
-    GunesBatis: str
-    GunesDogus: str
-    Ikindi: str
-    Imsak: str
-    KibleSaati: str
-    Ogle: str
-    Yatsi: str
+from app.models.domain import Vakit
 
 
 # Models for the new API response
 class Konum(BaseModel):
+    """Location model from external API."""
+
     konum_Id: int
     timezone: str
 
 
 class NamazVakti(BaseModel):
+    """Prayer times model from external API."""
+
     imsak: str
     gunes: str
     ogle: str
@@ -74,17 +40,23 @@ class NamazVakti(BaseModel):
 
 
 class ResultMessage(BaseModel):
+    """Result message model from external API."""
+
     messageType: int
     messageContent: str
     messageCode: int
 
 
 class ResultObject(BaseModel):
+    """Result object model from external API."""
+
     konum: Konum
     namazVakti: list[NamazVakti]
 
 
 class ExternalApiResponse(BaseModel):
+    """External API response model."""
+
     success: bool
     resultMessage: ResultMessage
     resultObject: ResultObject
@@ -116,6 +88,7 @@ def _extract_time(iso_str: str) -> str:
 
 def convert_vakit_response(external_data: ExternalApiResponse) -> list[Vakit]:
     """Convert new API response format to previously used Vakit model."""
+
     vakitler = []
 
     for namaz_vakti in external_data.resultObject.namazVakti:
