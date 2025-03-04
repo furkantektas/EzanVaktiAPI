@@ -15,4 +15,26 @@ dependencies = [
 [tool.uv]
 dev-dependencies = [
     "python-dotenv>=1.0.1",
+    "beautifulsoup4>=4.13.3",
+    "httpx>=0.28.1",
+    "pydantic>=2.10.6",
+    "requests>=2.32.3",
+    "tenacity>=9.0.0",
+]
+
+
+[tool.ruff.lint]
+select = [
+    # pycodestyle
+    "E",
+    # Pyflakes
+    "F",
+    # pyupgrade
+    "UP",
+    # flake8-bugbear
+    "B",
+    # flake8-simplify
+    "SIM",
+    # isort
+    "I",
 ]

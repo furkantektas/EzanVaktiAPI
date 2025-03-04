@@ -1,0 +1,53 @@
+name: Update Static Data
+
+on:
+  workflow_dispatch:
+    # Manual trigger
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: "Set up Python"
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: ".python-version"
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+          cache-dependency-glob: "uv.lock"
+
+      - name: Install the project
+        run: uv sync --all-extras --dev
+
+      - name: Run update data script
+        id: update-data
+        run: |
+          chmod +x scripts/setup.sh
+          if ./scripts/setup.sh; then
+            echo "success=true" >> $GITHUB_OUTPUT
+          else
+            echo "success=false" >> $GITHUB_OUTPUT
+            exit 1
+          fi
+
+      - name: Create Pull Request
+        if: steps.update-data.outputs.success == 'true'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: Update static data
+          branch: update-static-data
+          branch-suffix: timestamp
+          delete-branch: true
+          title: "Update static data $(date +'%Y-%m-%d')"
+          body: |
+            This PR updates the static data through the automated workflow.
+
+            - Data downloaded and validated successfully
+            - Data transformation complete

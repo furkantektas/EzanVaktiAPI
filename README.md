@@ -34,10 +34,28 @@ Tüm dünya ülkeleri için Türkiye Cumhuriyeti Diyanet İşleri Başkanlığı
 - Vakitler sonucundaki `MiladiTarihUzunIso8601` değeri her zaman Türkiye'nin geçerli zaman dilimini gösteriyor. Bu durum Türkiye harici zaman dilimlerinde ezan vakti hesaplamalarında hatalara sebep olmakta. Bundan dolayı, yurtdışı kullanımlarını göz önünde bulundurarak, alınan vakitlerinin zaman diliminin ihmal edilmesi gerekiyor. Sağlanan vakitler, cihazın zaman dilimine göre doğru vakitleri göstermektedir.
 - Bazı ülkelerin vakitleri sadece şehir bazında verilmiş ve bu ülkelerin şehirleri "ilçe" olarak listelenmiştir. Örneğin, [Birleşik Krallık için şehirler](/sehirler/15) listelendiğinde tek bir şehir listelenmekte, [bu şehrin ilçeleri](/ilceler/725) istendiğinde ise Birleşik Krallık'taki şehirler listelenmektedir.
 
-## Örnek Kullanım
+## Örnek Kullanım ve Dökümantasyon
 
 - [OpenAPI ve Swagger](https://ezanvakti.emushaf.net/docs)
 - [ReDoc](https://ezanvakti.emushaf.net/redoc)
+
+## Geliştirme ortamı kurulumu
+
+```bash
+git clone https://github.com/furkantektas/EzanVaktiAPI.git
+cd EzanVaktiAPI
+
+# Install uv and dependencies
+curl -LsSf https://astral.sh/uv/install.sh | sh
+uv venv
+source .venv/bin/activate
+uv sync --all-extras --dev
+
+# Populate the static data
+sh scripts/setup.sh
+```
+
+> Vakitlerin çekilmesi için gerekli olan bilgiler projede (maalesef) mevcut değildir.
 
 
 Muhabbetle yapılmıştır.
