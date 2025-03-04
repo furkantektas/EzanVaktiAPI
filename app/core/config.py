@@ -52,9 +52,7 @@ class Settings(BaseSettings):
     # Rate limits
     rate_limits: list[str] = ["200 per day", "30 per 5 minutes"]
 
-    model_config = SettingsConfigDict(
-        env_file=".env", extra="ignore", secrets_dir="/run/secrets"
-    )
+    model_config = SettingsConfigDict(env_file=".env", extra="ignore")
 
     # parse comma separated trusted_clients using EVCustomSource
     @classmethod
