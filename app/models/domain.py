@@ -47,3 +47,15 @@ class Vakit(BaseModel):
     KibleSaati: str
     Ogle: str
     Yatsi: str
+
+
+class Lookup(BaseModel):
+    """Quick lookup model"""
+
+    UlkeAdi: str
+    Ulke_ISO2: str
+    SehirAdi: str
+    IlceAdi: str
+    IlceID: str
+    lat: float
+    lon: float

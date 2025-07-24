@@ -6,8 +6,8 @@ from starlette.responses import FileResponse, JSONResponse
 
 from app.core.config import get_settings
 from app.infrastructure.diyanet_api.client import ApiClient
-from app.middleware.rate_limit import no_limit, ratelimit
-from app.models.domain import Ilce, Sehir, Ulke, Vakit
+from app.middleware.rate_limit import no_limit
+from app.models.domain import Ilce, Lookup, Sehir, Ulke, Vakit
 from app.models.schemas import convert_vakit_response
 from app.utils import STATIC_DATA_PATH, get_int_param, load_json_data
 
@@ -39,6 +39,19 @@ async def index():
 @no_limit
 async def up():
     return JSONResponse({"status": "up"})
+
+
+@router.get("/lookup", include_in_schema=False)
+# @ratelimit
+@no_limit
+async def lookup(request: Request) -> list[Lookup]:
+    try:
+        file_path = STATIC_DATA_PATH / "lookup.json"
+        with open(file_path, encoding="utf-8") as f:
+            countries_data = json.load(f)
+        return JSONResponse(countries_data)
+    except FileNotFoundError:
+        return JSONResponse([])
 
 
 @router.get("/ulkeler")
