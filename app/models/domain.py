@@ -53,7 +53,6 @@ class Lookup(BaseModel):
     """Quick lookup model"""
 
     UlkeAdi: str
-    Ulke_ISO2: str
     SehirAdi: str
     IlceAdi: str
     IlceID: str
