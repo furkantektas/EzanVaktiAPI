@@ -136,7 +136,7 @@
 </head>
 
 <body>
-    <h1>Ezan Vakti API <code class="req">v0.5.0</code></h1>
+    <h1>Ezan Vakti API <code class="req">v0.6.0</code></h1>
     <p>Tüm dünya ülkeleri için Türkiye Cumhuriyeti Diyanet İşleri Başkanlığı'nın yayınladığı aylık ezan vakitleri.</p>
     <h2>Kullanım</h2>
     <ul>
@@ -150,26 +150,8 @@
         <li>Vakitler: <code class="req">GET</code>
             <code><a href="/vakitler/9541">/vakitler/<span class="highlight">[ILCE_KODU]</span></a></code>
         </li>
-        <li class="deprecated">İlçe bilgileri: <code class="req">GET</code>
-            <code><a href="/ilce-detay/9541">/ilce-detay/<span class="highlight">[ILCE_KODU]</span></a></code><sup
-                class="label-deprecated">kullanım dışı</sup>
-        </li>
-        <li class="deprecated">Şehrin tüm ilçeleri için Bayram Namazı Saatleri: <code class="req">GET</code> <code><a href="/bayram-namazi/539">/bayram-namazi/<span
-                        class="highlight">[SEHIR_KODU]</span></a></code><sup class="label-deprecated">kullanım
-                dışı</sup></li>
     </ul>
 
-    <div class="deprecation-notice">
-        <strong>Kullanımdan Kaldırılan Servisler Hakkında:</strong> Diyanet İşleri Başkanlığı tarafından uygulanan API
-        erişim kısıtlamaları nedeniyle <code>/ilce-detay/</code> ve <code>/bayram-namazi/</code> endpointleri
-        kullanımdan kaldırılmıştır. Bu durumun neden olduğu rahatsızlık için özür dileriz. Diğer servislerimiz çalışmaya
-        devam etmektedir.
-    </div>
-
-    <h3>İstek Limiti <sup><em><code class="req">Rate-limit</code></em></sup></h3>
-    <p>30 istek / 5 dakika ve 200 istek / 1 gün</p>
-    <p><em>(Namaz vakitleri 30 günlük verildiği için ayda 1 istek yeterlidir.)</em></p>
-    </p>
     <h3>Bilinen sorunlar<sup class="label">Diyanet kaynaklı, düzeltilmesi beklenmiyor.</sup></h3>
     <ul>
         <li>Ülkelerin İngilizce isimlendirmeleri hatalı. Örneğin: İngilizcede <code>Central African Republic</code>

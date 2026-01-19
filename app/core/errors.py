@@ -21,7 +21,7 @@ async def diyanet_exception_handler(request: Request, exc: RequestException):
             {
                 "error": {
                     "status": 502,
-                    "message": "Diyanet Isleri Baskanligi servisine baglanilamiyor.",
+                    "message": "Diyanet İşleri Başkanlığı servisine bağlanılamıyor",
                 }
             }
         ),

@@ -18,12 +18,6 @@ Tüm dünya ülkeleri için Türkiye Cumhuriyeti Diyanet İşleri Başkanlığı
 - Vakitler: `GET` `/vakitler/[ILCE_KODU]`
 - Şehrin tüm ilçeleri için Bayram Namazı Saatleri: `GET` `/bayram-namazi/[SEHIR_KODU]`
 
-## İstek Limiti
-
-30 istek / 5 dakika ve 200 istek / 1 gün
-
-*(Namaz vakitleri 30 günlük verildiği için ayda 1 istek yeterlidir.)*
-
 ## Bilinen Sorunlar
 
 > Bu sorunların çözülmesi beklenmemektedir.
@@ -56,7 +50,6 @@ sh scripts/setup.sh
 ```
 
 > Vakitlerin çekilmesi için gerekli olan bilgiler projede (maalesef) mevcut değildir.
-
 
 Muhabbetle yapılmıştır.
 

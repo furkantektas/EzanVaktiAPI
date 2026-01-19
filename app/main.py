@@ -7,7 +7,6 @@ from app.core.config import get_settings
 from app.core.errors import diyanet_exception_handler
 from app.infrastructure.cache.service import CacheService, custom_cache_timeout
 from app.middleware.cache import CacheMiddleware
-from app.middleware.rate_limit import rate_limiter
 from app.routes import router
 
 settings = get_settings()
@@ -28,20 +27,19 @@ cache_service = CacheService(
 
 # Add middleware in order (order matters for middleware)
 # Cache middleware should be before GZip to cache uncompressed responses
-rate_limiter.init_app(app)
 app.add_middleware(
-    CORSMiddleware,
+    CORSMiddleware,  # type: ignore
     allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 app.add_middleware(
-    CacheMiddleware,
+    CacheMiddleware,  # type: ignore
     cache_service=cache_service,
     excluded_paths=settings.cache_excluded_paths,
 )
-app.add_middleware(GZipMiddleware, minimum_size=500)
+app.add_middleware(GZipMiddleware, minimum_size=500)  # type: ignore[arg-type]
 
 
 @app.middleware("http")
@@ -75,4 +73,4 @@ async def set_utf8_charset(request: Request, call_next):
 app.include_router(router)
 
 # Register exception handlers
-app.add_exception_handler(RequestException, diyanet_exception_handler)
+app.add_exception_handler(RequestException, diyanet_exception_handler)  # type: ignore

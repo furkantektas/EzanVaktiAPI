@@ -47,10 +47,7 @@ class Settings(BaseSettings):
     api_description: str = (
         "Diyanet İşleri Başkanlığı tarafından yayınlanan ezan vakitlerini sağlar."
     )
-    api_version: str = "0.5.0"
-
-    # Rate limits
-    rate_limits: list[str] = ["200 per day", "30 per 5 minutes"]
+    api_version: str = "0.6.0"
 
     model_config = SettingsConfigDict(env_file=".env", extra="ignore")
 
@@ -75,4 +72,4 @@ class Settings(BaseSettings):
 @lru_cache
 def get_settings() -> Settings:
     """Returns the application settings from environment variables."""
-    return Settings()
+    return Settings()  # type: ignore

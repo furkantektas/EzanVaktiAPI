@@ -32,3 +32,7 @@ def load_json_data(subdir: str, file_id: int, error_detail: str) -> Any:
             return json.load(f)
     except FileNotFoundError:
         raise HTTPException(status_code=404, detail=error_detail) from None
+    except (json.JSONDecodeError, IOError) as e:
+        raise HTTPException(
+            status_code=500, detail=f"Error loading data: {error_detail}"
+        ) from e

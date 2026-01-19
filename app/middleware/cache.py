@@ -33,8 +33,8 @@ class CacheMiddleware(BaseHTTPMiddleware):
         return hashlib.md5(content.encode()).hexdigest()
 
     async def dispatch(self, request: Request, call_next: Callable) -> Response:
-        # Skip caching for excluded paths or non-GET requests
-        if request.method != "GET" or any(
+        # Skip caching for excluded paths or non-GET/HEAD requests
+        if request.method not in ("GET", "HEAD") or any(
             request.url.path.startswith(path) for path in self.excluded_paths
         ):
             return await call_next(request)
