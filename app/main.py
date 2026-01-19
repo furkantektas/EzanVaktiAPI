@@ -61,6 +61,17 @@ async def add_cache_control_header(request: Request, call_next):
     return response
 
 
+@app.middleware("http")
+async def set_utf8_charset(request: Request, call_next):
+    response = await call_next(request)
+
+    # Ensure JSON responses include UTF-8 charset for non-ASCII characters
+    if response.headers.get("content-type") == "application/json":
+        response.headers["content-type"] = "application/json; charset=utf-8"
+
+    return response
+
+
 app.include_router(router)
 
 # Register exception handlers
