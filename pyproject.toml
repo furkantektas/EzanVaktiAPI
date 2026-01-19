@@ -3,24 +3,26 @@ name = "ezanvakti-api"
 version = "0.5.0"
 description = "Diyanet Isleri Baskanligi Ezan Vakti Servisi"
 readme = "README.md"
-requires-python = ">=3.12, <3.13" # fastapi-cache2 depends on pendulum which does not support python 3.13 yet
+requires-python = ">=3.14"
 dependencies = [
-    "fastapi[standard]>=0.115.4",
-    "pydantic-settings>=2.6.1",
+    "fastapi[standard]>=0.128.0",
+    "pydantic-settings>=2.12.0",
     "slowapi>=0.1.9",
-    "redis[hiredis]>=4.6.0",
+    "redis[hiredis]>=7.1.0",
     "httpx>=0.28.1",
-    "requests>=2.32.3",
+    "requests>=2.32.5",
 ]
 
-[tool.uv]
-dev-dependencies = [
-    "python-dotenv>=1.0.1",
-    "beautifulsoup4>=4.13.3",
-    "pydantic>=2.10.6",
-    "tenacity>=9.0.0",
+[dependency-groups]
+dev = [
+    "python-dotenv>=1.2.1",
+    "beautifulsoup4>=4.14.3",
+    "pydantic>=2.12.5",
+    "tenacity>=9.1.2",
 ]
 
+[tool.ty.src]
+exclude = ["scripts/"]
 
 [tool.ruff.lint]
 select = [
