@@ -41,5 +41,6 @@ jobs:
         API_USERNAME: ${{ secrets.API_USERNAME }}
         API_PASSWORD: ${{ secrets.API_PASSWORD }}
         TRUSTED_CLIENTS: ${{ secrets.TRUSTED_CLIENTS }}
+        SERVER_IP: ${{ secrets.SERVER_IP }}
       run: |
         kamal deploy

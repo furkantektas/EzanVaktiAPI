@@ -4,7 +4,7 @@ image: lrajhhbgjtvv/ezanvakti
 
 servers:
   web:
-    - ezanvakti.emushaf.net
+    - <%= ENV['SERVER_IP'] %>
 proxy:
   host: ezanvakti.emushaf.net
   ssl: true
