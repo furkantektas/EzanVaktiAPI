@@ -5,7 +5,7 @@
     "UlkeID": "1"
   },
   {
-    "UlkeAdi": "TURKIYE",
+    "UlkeAdi": "TÜRKİYE",
     "UlkeAdiEn": "TURKEY",
     "UlkeID": "2"
   },
@@ -26,16 +26,16 @@
   },
   {
     "UlkeAdi": "ESTONYA",
-    "UlkeAdiEn": "ESTONYA",
+    "UlkeAdiEn": "ESTONIA",
     "UlkeID": "6"
   },
   {
-    "UlkeAdi": "MACARISTAN",
+    "UlkeAdi": "MACARİSTAN",
     "UlkeAdiEn": "HUNGARY",
     "UlkeID": "7"
   },
   {
-    "UlkeAdi": "ITALYA",
+    "UlkeAdi": "İTALYA",
     "UlkeAdiEn": "ITALY",
     "UlkeID": "8"
   },
@@ -45,17 +45,17 @@
     "UlkeID": "9"
   },
   {
-    "UlkeAdi": "VATIKAN",
-    "UlkeAdiEn": "VATIKAN",
+    "UlkeAdi": "VATİKAN",
+    "UlkeAdiEn": "VATICAN CITY",
     "UlkeID": "10"
   },
   {
-    "UlkeAdi": "BELCIKA",
+    "UlkeAdi": "BELÇİKA",
     "UlkeAdiEn": "BELGIUM",
     "UlkeID": "11"
   },
   {
-    "UlkeAdi": "ISVEC",
+    "UlkeAdi": "İSVEÇ",
     "UlkeAdiEn": "SWEDEN",
     "UlkeID": "12"
   },
@@ -70,12 +70,12 @@
     "UlkeID": "14"
   },
   {
-    "UlkeAdi": "INGILTERE",
+    "UlkeAdi": "İNGİLTERE",
     "UlkeAdiEn": "UNITED KINGDOM",
     "UlkeID": "15"
   },
   {
-    "UlkeAdi": "CEK CUMHURIYETI",
+    "UlkeAdi": "ÇEK CUMHURİYETİ",
     "UlkeAdiEn": "CZECH REPUBLIC",
     "UlkeID": "16"
   },
@@ -86,7 +86,7 @@
   },
   {
     "UlkeAdi": "KOSOVA",
-    "UlkeAdiEn": "KOSOVA",
+    "UlkeAdiEn": "KOSOVO",
     "UlkeID": "18"
   },
   {
@@ -105,12 +105,12 @@
     "UlkeID": "21"
   },
   {
-    "UlkeAdi": "YUNANISTAN",
+    "UlkeAdi": "YUNANİSTAN",
     "UlkeAdiEn": "GREECE",
     "UlkeID": "22"
   },
   {
-    "UlkeAdi": "ISPANYA",
+    "UlkeAdi": "İSPANYA",
     "UlkeAdiEn": "SPAIN",
     "UlkeID": "23"
   },
@@ -125,13 +125,13 @@
     "UlkeID": "25"
   },
   {
-    "UlkeAdi": "DANIMARKA",
+    "UlkeAdi": "DANİMARKA",
     "UlkeAdiEn": "DENMARK",
     "UlkeID": "26"
   },
   {
-    "UlkeAdi": "SIRBISTAN",
-    "UlkeAdiEn": "SIRBISTAN",
+    "UlkeAdi": "SIRBİSTAN",
+    "UlkeAdiEn": "SERBIA",
     "UlkeID": "27"
   },
   {
@@ -141,21 +141,21 @@
   },
   {
     "UlkeAdi": "UKRAYNA-KIRIM",
-    "UlkeAdiEn": "UKRAINE-KRYM",
+    "UlkeAdiEn": "UKRAINE-CRIMEA",
     "UlkeID": "29"
   },
   {
-    "UlkeAdi": "HIRVATISTAN",
-    "UlkeAdiEn": "HIRVATISTAN",
+    "UlkeAdi": "HIRVATİSTAN",
+    "UlkeAdiEn": "CROATIA",
     "UlkeID": "30"
   },
   {
-    "UlkeAdi": "LUKSEMBURG",
+    "UlkeAdi": "LÜKSEMBURG",
     "UlkeAdiEn": "LUXEMBOURG",
     "UlkeID": "31"
   },
   {
-    "UlkeAdi": "IRLANDA",
+    "UlkeAdi": "İRLANDA",
     "UlkeAdiEn": "IRELAND",
     "UlkeID": "32"
   },
@@ -165,8 +165,8 @@
     "UlkeID": "33"
   },
   {
-    "UlkeAdi": "KARADAG",
-    "UlkeAdiEn": "KARADAG",
+    "UlkeAdi": "KARADAĞ",
+    "UlkeAdiEn": "MONTENEGRO",
     "UlkeID": "34"
   },
   {
@@ -175,7 +175,7 @@
     "UlkeID": "35"
   },
   {
-    "UlkeAdi": "NORVEC",
+    "UlkeAdi": "NORVEÇ",
     "UlkeAdiEn": "NORWAY",
     "UlkeID": "36"
   },
@@ -200,47 +200,47 @@
     "UlkeID": "40"
   },
   {
-    "UlkeAdi": "FINLANDIYA",
+    "UlkeAdi": "FİNLANDİYA",
     "UlkeAdiEn": "FINLAND",
     "UlkeID": "41"
   },
   {
-    "UlkeAdi": "LUBNAN",
+    "UlkeAdi": "LÜBNAN",
     "UlkeAdiEn": "LEBANON",
     "UlkeID": "42"
   },
   {
-    "UlkeAdi": "CECENISTAN",
-    "UlkeAdiEn": "CHECHENIA",
+    "UlkeAdi": "ÇEÇENİSTAN",
+    "UlkeAdiEn": "CHECHNYA",
     "UlkeID": "43"
   },
   {
-    "UlkeAdi": "BULGARISTAN",
+    "UlkeAdi": "BULGARİSTAN",
     "UlkeAdiEn": "BULGARIA",
     "UlkeID": "44"
   },
   {
-    "UlkeAdi": "PORTEKIZ",
+    "UlkeAdi": "PORTEKİZ",
     "UlkeAdiEn": "PORTUGAL",
     "UlkeID": "45"
   },
   {
     "UlkeAdi": "MOLDAVYA",
-    "UlkeAdiEn": "MOLDAVYA",
+    "UlkeAdiEn": "MOLDOVA",
     "UlkeID": "46"
   },
   {
-    "UlkeAdi": "LITVANYA",
+    "UlkeAdi": "LİTVANYA",
     "UlkeAdiEn": "LITHUANIA",
     "UlkeID": "47"
   },
   {
     "UlkeAdi": "GRONLAND",
-    "UlkeAdiEn": "GRONLAND",
+    "UlkeAdiEn": "GREENLAND",
     "UlkeID": "48"
   },
   {
-    "UlkeAdi": "ISVICRE",
+    "UlkeAdi": "İSVİÇRE",
     "UlkeAdiEn": "SWITZERLAND",
     "UlkeID": "49"
   },
@@ -255,7 +255,7 @@
     "UlkeID": "52"
   },
   {
-    "UlkeAdi": "MEKSIKA",
+    "UlkeAdi": "MEKSİKA",
     "UlkeAdiEn": "MEXICO",
     "UlkeID": "53"
   },
@@ -265,8 +265,8 @@
     "UlkeID": "54"
   },
   {
-    "UlkeAdi": "MALAVI",
-    "UlkeAdiEn": "MALAVI",
+    "UlkeAdi": "MALAVİ",
+    "UlkeAdiEn": "MALAWI",
     "UlkeID": "55"
   },
   {
@@ -275,8 +275,8 @@
     "UlkeID": "56"
   },
   {
-    "UlkeAdi": "KOLOMBIYA",
-    "UlkeAdiEn": "KOLOMBIYA",
+    "UlkeAdi": "KOLOMBİYA",
+    "UlkeAdiEn": "COLOMBIA",
     "UlkeID": "57"
   },
   {
@@ -290,47 +290,47 @@
     "UlkeID": "59"
   },
   {
-    "UlkeAdi": "MOGOLISTAN",
+    "UlkeAdi": "MOĞOLİSTAN",
     "UlkeAdiEn": "MONGOLIA",
     "UlkeID": "60"
   },
   {
-    "UlkeAdi": "CIN",
+    "UlkeAdi": "ÇİN",
     "UlkeAdiEn": "CHINA",
     "UlkeID": "61"
   },
   {
-    "UlkeAdi": "GURCISTAN",
+    "UlkeAdi": "GÜRCİSTAN",
     "UlkeAdiEn": "GEORGIA",
     "UlkeID": "62"
   },
   {
-    "UlkeAdi": "EKVATOR GINESI",
-    "UlkeAdiEn": "EKVATOR GINESI",
+    "UlkeAdi": "EKVATOR GİNESİ",
+    "UlkeAdiEn": "EQUATORIAL GUINEA",
     "UlkeID": "63"
   },
   {
-    "UlkeAdi": "S. ARABISTAN",
+    "UlkeAdi": "S. ARABİSTAN",
     "UlkeAdiEn": "SAUDI ARABIA",
     "UlkeID": "64"
   },
   {
-    "UlkeAdi": "BURUNDI",
+    "UlkeAdi": "BURUNDİ",
     "UlkeAdiEn": "BURUNDI",
     "UlkeID": "65"
   },
   {
-    "UlkeAdi": "HOLLANDA ANTILLERI",
-    "UlkeAdiEn": "HOLLANDA ANTILLERI",
+    "UlkeAdi": "HOLLANDA ANTİLLERİ",
+    "UlkeAdiEn": "NETHERLANDS ANTILLES",
     "UlkeID": "66"
   },
   {
-    "UlkeAdi": "GUNEY AFRIKA",
+    "UlkeAdi": "GÜNEY AFRİKA",
     "UlkeAdiEn": "SOUTH AFRICA",
     "UlkeID": "67"
   },
   {
-    "UlkeAdi": "PORTO RIKO",
+    "UlkeAdi": "PORTO RİKO",
     "UlkeAdiEn": "PUERTO RICO",
     "UlkeID": "68"
   },
@@ -340,7 +340,7 @@
     "UlkeID": "69"
   },
   {
-    "UlkeAdi": "HAITI",
+    "UlkeAdi": "HAİTİ",
     "UlkeAdiEn": "HAITI",
     "UlkeID": "70"
   },
@@ -350,17 +350,17 @@
     "UlkeID": "71"
   },
   {
-    "UlkeAdi": "DOMINIK CUMHURIYETI",
-    "UlkeAdiEn": "DOMINIK CUMHURIYETI",
+    "UlkeAdi": "DOMİNİK CUMHURİYETİ",
+    "UlkeAdiEn": "DOMINICAN REPUBLIC",
     "UlkeID": "72"
   },
   {
-    "UlkeAdi": "LIBERYA",
-    "UlkeAdiEn": "LIBERYA",
+    "UlkeAdi": "LİBERYA",
+    "UlkeAdiEn": "LIBERIA",
     "UlkeID": "73"
   },
   {
-    "UlkeAdi": "SRI LANKA",
+    "UlkeAdi": "SRİ LANKA",
     "UlkeAdiEn": "SRI LANKA",
     "UlkeID": "74"
   },
@@ -375,7 +375,7 @@
     "UlkeID": "76"
   },
   {
-    "UlkeAdi": "PAKISTAN",
+    "UlkeAdi": "PAKİSTAN",
     "UlkeAdiEn": "PAKISTAN",
     "UlkeID": "77"
   },
@@ -385,13 +385,13 @@
     "UlkeID": "79"
   },
   {
-    "UlkeAdi": "ORTA AFRIKA CUMHURIYETI",
-    "UlkeAdiEn": "ORTA AFRIKA CUMHURIYETI",
+    "UlkeAdi": "ORTA AFRİKA CUMHURİYETİ",
+    "UlkeAdiEn": "CENTRAL AFRICAN REPUBLIC",
     "UlkeID": "80"
   },
   {
     "UlkeAdi": "RUANDA",
-    "UlkeAdiEn": "RUANDA",
+    "UlkeAdiEn": "RWANDA",
     "UlkeID": "81"
   },
   {
@@ -400,33 +400,33 @@
     "UlkeID": "82"
   },
   {
-    "UlkeAdi": "BOLIVYA",
-    "UlkeAdiEn": "BOLIVYA",
+    "UlkeAdi": "BOLİVYA",
+    "UlkeAdiEn": "BOLIVIA",
     "UlkeID": "83"
   },
   {
-    "UlkeAdi": "NIJER",
-    "UlkeAdiEn": "NIJER",
+    "UlkeAdi": "NİJER",
+    "UlkeAdiEn": "NIGER",
     "UlkeID": "84"
   },
   {
-    "UlkeAdi": "MIKRONEZYA",
-    "UlkeAdiEn": "MIKRONEZYA",
+    "UlkeAdi": "MİKRONEZYA",
+    "UlkeAdiEn": "MICRONESIA",
     "UlkeID": "85"
   },
   {
-    "UlkeAdi": "CEZAYIR",
+    "UlkeAdi": "CEZAYİR",
     "UlkeAdiEn": "ALGERIA",
     "UlkeID": "86"
   },
   {
-    "UlkeAdi": "MARTINIK",
-    "UlkeAdiEn": "MARTINIK",
+    "UlkeAdi": "MARTİNİK",
+    "UlkeAdiEn": "MARTINIQUE",
     "UlkeID": "87"
   },
   {
     "UlkeAdi": "KOMORLAR",
-    "UlkeAdiEn": "KOMORLAR",
+    "UlkeAdiEn": "COMOROS",
     "UlkeID": "88"
   },
   {
@@ -436,47 +436,47 @@
   },
   {
     "UlkeAdi": "ANTIGUA VE BARBUDA",
-    "UlkeAdiEn": "ANTIGUA VE BARBUDA",
+    "UlkeAdiEn": "ANTIGUA AND BARBUDA",
     "UlkeID": "90"
   },
   {
-    "UlkeAdi": "BURKINA FASO",
+    "UlkeAdi": "BURKİNA FASO",
     "UlkeAdiEn": "BURKINA FASO",
     "UlkeID": "91"
   },
   {
-    "UlkeAdi": "KAZAKISTAN",
+    "UlkeAdi": "KAZAKİSTAN",
     "UlkeAdiEn": "KAZAKHSTAN",
     "UlkeID": "92"
   },
   {
-    "UlkeAdi": "BIRLESIK ARAP EMIRLIGI",
+    "UlkeAdi": "BİRLEŞİK ARAP EMİRLİĞİ",
     "UlkeAdiEn": "UNITED ARAB EMIRATES",
     "UlkeID": "93"
   },
   {
     "UlkeAdi": "KATAR",
-    "UlkeAdiEn": "KATAR",
+    "UlkeAdiEn": "QATAR",
     "UlkeID": "94"
   },
   {
-    "UlkeAdi": "ETYOPYA",
+    "UlkeAdi": "ETİYOPYA",
     "UlkeAdiEn": "ETHIOPIA",
     "UlkeID": "95"
   },
   {
-    "UlkeAdi": "TRINIDAT VE TOBAGO",
-    "UlkeAdiEn": "TRINIDAT VE TOBAGO",
+    "UlkeAdi": "TRİNİDAT VE TOBAGO",
+    "UlkeAdiEn": "TRINIDAD AND TOBAGO",
     "UlkeID": "96"
   },
   {
-    "UlkeAdi": "BRUNEI",
+    "UlkeAdi": "BRUNEİ",
     "UlkeAdiEn": "BRUNEI",
     "UlkeID": "97"
   },
   {
     "UlkeAdi": "MADAGASKAR",
-    "UlkeAdiEn": "MADAGASKAR",
+    "UlkeAdiEn": "MADAGASCAR",
     "UlkeID": "98"
   },
   {
@@ -486,11 +486,11 @@
   },
   {
     "UlkeAdi": "MAKAO",
-    "UlkeAdiEn": "MAKAO",
+    "UlkeAdiEn": "MACAO",
     "UlkeID": "100"
   },
   {
-    "UlkeAdi": "TACIKISTAN",
+    "UlkeAdi": "TACİKİSTAN",
     "UlkeAdiEn": "TAJIKISTAN",
     "UlkeID": "101"
   },
@@ -500,12 +500,12 @@
     "UlkeID": "102"
   },
   {
-    "UlkeAdi": "MALDIVLER",
-    "UlkeAdiEn": "MALDIVLER",
+    "UlkeAdi": "MALDİVLER",
+    "UlkeAdiEn": "MALDIVES",
     "UlkeID": "103"
   },
   {
-    "UlkeAdi": "ERMENISTAN",
+    "UlkeAdi": "ERMENİSTAN",
     "UlkeAdiEn": "ARMENIA",
     "UlkeID": "104"
   },
@@ -515,8 +515,8 @@
     "UlkeID": "105"
   },
   {
-    "UlkeAdi": "MORITANYA",
-    "UlkeAdiEn": "MORITANYA",
+    "UlkeAdi": "MORİTANYA",
+    "UlkeAdiEn": "MAURITANIA",
     "UlkeID": "106"
   },
   {
@@ -530,17 +530,17 @@
     "UlkeID": "108"
   },
   {
-    "UlkeAdi": "GAMBIYA",
-    "UlkeAdiEn": "GAMBIYA",
+    "UlkeAdi": "GAMBİYA",
+    "UlkeAdiEn": "GAMBIA",
     "UlkeID": "109"
   },
   {
     "UlkeAdi": "TANZANYA",
-    "UlkeAdiEn": "TANZANYA",
+    "UlkeAdiEn": "TANZANIA",
     "UlkeID": "110"
   },
   {
-    "UlkeAdi": "GINE",
+    "UlkeAdi": "GİNE",
     "UlkeAdiEn": "GUINEA",
     "UlkeID": "111"
   },
@@ -560,8 +560,8 @@
     "UlkeID": "114"
   },
   {
-    "UlkeAdi": "YENI KALEDONYA",
-    "UlkeAdiEn": "YENI KALEDONYA",
+    "UlkeAdi": "YENİ KALEDONYA",
+    "UlkeAdiEn": "NEW CALEDONIA",
     "UlkeID": "115"
   },
   {
@@ -576,27 +576,27 @@
   },
   {
     "UlkeAdi": "TUNUS",
-    "UlkeAdiEn": "TUNUSIA",
+    "UlkeAdiEn": "TUNISIA",
     "UlkeID": "118"
   },
   {
-    "UlkeAdi": "JAMAIKA",
-    "UlkeAdiEn": "JAMAIKA",
+    "UlkeAdi": "JAMAİKA",
+    "UlkeAdiEn": "JAMAICA",
     "UlkeID": "119"
   },
   {
-    "UlkeAdi": "FILDISI SAHILI",
-    "UlkeAdiEn": "FILDISI SAHILI",
+    "UlkeAdi": "FİLDİŞİ SAHİLİ",
+    "UlkeAdiEn": "IVORY COAST",
     "UlkeID": "120"
   },
   {
-    "UlkeAdi": "IZLANDA",
-    "UlkeAdiEn": "IZLANDA",
+    "UlkeAdi": "İZLANDA",
+    "UlkeAdiEn": "ICELAND",
     "UlkeID": "122"
   },
   {
-    "UlkeAdi": "DOMINIK",
-    "UlkeAdiEn": "DOMINIK",
+    "UlkeAdi": "DOMİNİK",
+    "UlkeAdiEn": "DOMINICA",
     "UlkeID": "123"
   },
   {
@@ -605,22 +605,22 @@
     "UlkeID": "124"
   },
   {
-    "UlkeAdi": "ANGUILLA",
+    "UlkeAdi": "ANGUİLLA",
     "UlkeAdiEn": "ANGUILLA",
     "UlkeID": "125"
   },
   {
-    "UlkeAdi": "FILIPINLER",
+    "UlkeAdi": "FİLİPİNLER",
     "UlkeAdiEn": "PHILIPPINES",
     "UlkeID": "126"
   },
   {
-    "UlkeAdi": "NIJERYA",
+    "UlkeAdi": "NİJERYA",
     "UlkeAdiEn": "NIGERIA",
     "UlkeID": "127"
   },
   {
-    "UlkeAdi": "GUNEY KORE",
+    "UlkeAdi": "GÜNEY KORE",
     "UlkeAdiEn": "SOUTH KOREA",
     "UlkeID": "128"
   },
@@ -635,7 +635,7 @@
     "UlkeID": "130"
   },
   {
-    "UlkeAdi": "OZBEKISTAN",
+    "UlkeAdi": "ÖZBEKİSTAN",
     "UlkeAdiEn": "UZBEKISTAN",
     "UlkeID": "131"
   },
@@ -655,13 +655,13 @@
     "UlkeID": "134"
   },
   {
-    "UlkeAdi": "VIETNAM",
+    "UlkeAdi": "VİETNAM",
     "UlkeAdiEn": "VIETNAM",
     "UlkeID": "135"
   },
   {
-    "UlkeAdi": "ST. LUCIA",
-    "UlkeAdiEn": "ZIMBABVE",
+    "UlkeAdi": "ST. LUCİA",
+    "UlkeAdiEn": "SAINT LUCIA",
     "UlkeID": "136"
   },
   {
@@ -671,12 +671,12 @@
   },
   {
     "UlkeAdi": "SEYSEL ADALARI",
-    "UlkeAdiEn": "SEYSEL ADALARI",
+    "UlkeAdiEn": "SEYCHELLES",
     "UlkeID": "138"
   },
   {
     "UlkeAdi": "EKVATOR",
-    "UlkeAdiEn": "EKVATOR",
+    "UlkeAdiEn": "ECUADOR",
     "UlkeID": "139"
   },
   {
@@ -685,8 +685,8 @@
     "UlkeID": "140"
   },
   {
-    "UlkeAdi": "NIKARAGUA",
-    "UlkeAdiEn": "NIKARAGUA",
+    "UlkeAdi": "NİKARAGUA",
+    "UlkeAdiEn": "NICARAGUA",
     "UlkeID": "141"
   },
   {
@@ -700,8 +700,8 @@
     "UlkeID": "143"
   },
   {
-    "UlkeAdi": "YESIL BURUN",
-    "UlkeAdiEn": "YESIL BURUN",
+    "UlkeAdi": "YEŞİL BURUN",
+    "UlkeAdiEn": "CAPE VERDE",
     "UlkeID": "144"
   },
   {
@@ -710,7 +710,7 @@
     "UlkeID": "145"
   },
   {
-    "UlkeAdi": "BREZILYA",
+    "UlkeAdi": "BREZİLYA",
     "UlkeAdiEn": "BRAZIL",
     "UlkeID": "146"
   },
@@ -730,17 +730,17 @@
     "UlkeID": "149"
   },
   {
-    "UlkeAdi": "SOMALI",
+    "UlkeAdi": "SOMALİ",
     "UlkeAdiEn": "SOMALIA",
     "UlkeID": "150"
   },
   {
-    "UlkeAdi": "MOZAMBIK",
-    "UlkeAdiEn": "MOZAMBIK",
+    "UlkeAdi": "MOZAMBİK",
+    "UlkeAdiEn": "MOZAMBIQUE",
     "UlkeID": "151"
   },
   {
-    "UlkeAdi": "MALI",
+    "UlkeAdi": "MALİ",
     "UlkeAdiEn": "MALI",
     "UlkeID": "152"
   },
@@ -751,17 +751,17 @@
   },
   {
     "UlkeAdi": "MYANMAR",
-    "UlkeAdiEn": "BURMA (MYANMAR)",
+    "UlkeAdiEn": "MYANMAR",
     "UlkeID": "154"
   },
   {
     "UlkeAdi": "BUTAN",
-    "UlkeAdiEn": "BUTAN",
+    "UlkeAdiEn": "BHUTAN",
     "UlkeID": "155"
   },
   {
-    "UlkeAdi": "CAD",
-    "UlkeAdiEn": "CAD",
+    "UlkeAdi": "ÇAD",
+    "UlkeAdiEn": "CHAD",
     "UlkeID": "156"
   },
   {
@@ -770,28 +770,28 @@
     "UlkeID": "157"
   },
   {
-    "UlkeAdi": "ZAMBIYA",
-    "UlkeAdiEn": "ZAMBIYA",
+    "UlkeAdi": "ZAMBİYA",
+    "UlkeAdiEn": "ZAMBIA",
     "UlkeID": "158"
   },
   {
-    "UlkeAdi": "TURKMENISTAN",
+    "UlkeAdi": "TÜRKMENİSTAN",
     "UlkeAdiEn": "TURKMENISTAN",
     "UlkeID": "159"
   },
   {
-    "UlkeAdi": "CIBUTI",
-    "UlkeAdiEn": "CIBUTI",
+    "UlkeAdi": "CİBUTİ",
+    "UlkeAdiEn": "DJIBOUTI",
     "UlkeID": "160"
   },
   {
-    "UlkeAdi": "KAMBOCYA",
-    "UlkeAdiEn": "KAMBOCYA",
+    "UlkeAdi": "KAMBOÇYA",
+    "UlkeAdiEn": "CAMBODIA",
     "UlkeID": "161"
   },
   {
-    "UlkeAdi": "KOSTARIKA",
-    "UlkeAdiEn": "KOSTARIKA",
+    "UlkeAdi": "KOSTARİKA",
+    "UlkeAdiEn": "COSTA RICA",
     "UlkeID": "162"
   },
   {
@@ -800,8 +800,8 @@
     "UlkeID": "163"
   },
   {
-    "UlkeAdi": "MAURITIUS ADASI",
-    "UlkeAdiEn": "MAURITIUS ADASI",
+    "UlkeAdi": "MAURİTİUS ADASI",
+    "UlkeAdiEn": "MAURITIUS",
     "UlkeID": "164"
   },
   {
@@ -810,7 +810,7 @@
     "UlkeID": "165"
   },
   {
-    "UlkeAdi": "AFGANISTAN",
+    "UlkeAdi": "AFGANİSTAN",
     "UlkeAdiEn": "AFGHANISTAN",
     "UlkeID": "166"
   },
@@ -820,83 +820,83 @@
     "UlkeID": "167"
   },
   {
-    "UlkeAdi": "KIRGIZISTAN",
-    "UlkeAdiEn": "KIRGIZHSTAN",
+    "UlkeAdi": "KIRGIZİSTAN",
+    "UlkeAdiEn": "KYRGYZSTAN",
     "UlkeID": "168"
   },
   {
     "UlkeAdi": "GUAM ADASI",
-    "UlkeAdiEn": "GUAM ISLAND",
+    "UlkeAdiEn": "GUAM",
     "UlkeID": "169"
   },
   {
-    "UlkeAdi": "ESWATINI",
-    "UlkeAdiEn": "SVAZILAND",
+    "UlkeAdi": "ESWATİNİ",
+    "UlkeAdiEn": "ESWATINI",
     "UlkeID": "170"
   },
   {
-    "UlkeAdi": "GUADELOPE",
-    "UlkeAdiEn": "GUADELOPE",
+    "UlkeAdi": "GUADELOUPE",
+    "UlkeAdiEn": "GUADELOUPE",
     "UlkeID": "171"
   },
   {
     "UlkeAdi": "SURINAM",
-    "UlkeAdiEn": "SURINAM",
+    "UlkeAdiEn": "SURINAME",
     "UlkeID": "172"
   },
   {
     "UlkeAdi": "UMMAN",
-    "UlkeAdiEn": "UMMAN",
+    "UlkeAdiEn": "OMAN",
     "UlkeID": "173"
   },
   {
     "UlkeAdi": "LESOTO",
-    "UlkeAdiEn": "LESOTO",
+    "UlkeAdiEn": "LESOTHO",
     "UlkeID": "174"
   },
   {
-    "UlkeAdi": "ERITRE",
-    "UlkeAdiEn": "ERITRE",
+    "UlkeAdi": "ERİTRE",
+    "UlkeAdiEn": "ERITREA",
     "UlkeID": "175"
   },
   {
-    "UlkeAdi": "DOGU TIMOR",
-    "UlkeAdiEn": "DOGU TIMOR",
+    "UlkeAdi": "DOĞU TİMOR",
+    "UlkeAdiEn": "EAST TIMOR",
     "UlkeID": "176"
   },
   {
-    "UlkeAdi": "BANGLADES",
+    "UlkeAdi": "BANGLADEŞ",
     "UlkeAdiEn": "BANGLADESH",
     "UlkeID": "177"
   },
   {
-    "UlkeAdi": "NIUE",
+    "UlkeAdi": "NİUE",
     "UlkeAdiEn": "NIUE",
     "UlkeID": "178"
   },
   {
-    "UlkeAdi": "SINGAPUR",
+    "UlkeAdi": "SİNGAPUR",
     "UlkeAdiEn": "SINGAPORE",
     "UlkeID": "179"
   },
   {
-    "UlkeAdi": "DEMOKRATIK KONGO CUMHURIYETI",
-    "UlkeAdiEn": "DEMOKRATIC REPUBLIC OF THE CONGO",
+    "UlkeAdi": "DEMOKRATİK KONGO CUMHURİYETİ",
+    "UlkeAdiEn": "DEMOCRATIC REPUBLIC OF THE CONGO",
     "UlkeID": "180"
   },
   {
-    "UlkeAdi": "BENIN",
+    "UlkeAdi": "BENİN",
     "UlkeAdiEn": "BENIN",
     "UlkeID": "181"
   },
   {
-    "UlkeAdi": "BELIZE",
+    "UlkeAdi": "BELİZE",
     "UlkeAdiEn": "BELIZE",
     "UlkeID": "182"
   },
   {
-    "UlkeAdi": "PITCAIRN ADASI",
-    "UlkeAdiEn": "PITCAIRN ADASI",
+    "UlkeAdi": "PİTCAİRN ADASI",
+    "UlkeAdiEn": "PITCAIRN ISLANDS",
     "UlkeID": "183"
   },
   {
@@ -905,8 +905,8 @@
     "UlkeID": "184"
   },
   {
-    "UlkeAdi": "PAPUA YENI GINE",
-    "UlkeAdiEn": "PAPUA YENI GINE",
+    "UlkeAdi": "PAPUA YENİ GİNE",
+    "UlkeAdiEn": "PAPUA NEW GUINEA",
     "UlkeID": "185"
   },
   {
@@ -915,7 +915,7 @@
     "UlkeID": "186"
   },
   {
-    "UlkeAdi": "HINDISTAN",
+    "UlkeAdi": "HİNDİSTAN",
     "UlkeAdiEn": "INDIA",
     "UlkeID": "187"
   },
@@ -930,17 +930,17 @@
     "UlkeID": "189"
   },
   {
-    "UlkeAdi": "SURIYE",
+    "UlkeAdi": "SURİYE",
     "UlkeAdiEn": "SYRIA",
     "UlkeID": "191"
   },
   {
-    "UlkeAdi": "URDUN",
+    "UlkeAdi": "ÜRDÜN",
     "UlkeAdiEn": "JORDAN",
     "UlkeID": "192"
   },
   {
-    "UlkeAdi": "YENI ZELANDA",
+    "UlkeAdi": "YENİ ZELANDA",
     "UlkeAdiEn": "NEW ZEALAND",
     "UlkeID": "193"
   },
@@ -950,12 +950,12 @@
     "UlkeID": "194"
   },
   {
-    "UlkeAdi": "NAMIBYA",
-    "UlkeAdiEn": "NAMIBYA",
+    "UlkeAdi": "NAMİBYA",
+    "UlkeAdiEn": "NAMIBIA",
     "UlkeID": "196"
   },
   {
-    "UlkeAdi": "FIJI",
+    "UlkeAdi": "FİJİ",
     "UlkeAdiEn": "FIJI",
     "UlkeID": "197"
   },
@@ -965,12 +965,12 @@
     "UlkeID": "198"
   },
   {
-    "UlkeAdi": "ARJANTIN",
+    "UlkeAdi": "ARJANTİN",
     "UlkeAdiEn": "ARGENTINA",
     "UlkeID": "199"
   },
   {
-    "UlkeAdi": "SILI",
+    "UlkeAdi": "ŞİLİ",
     "UlkeAdiEn": "CHILE",
     "UlkeID": "200"
   },
@@ -980,28 +980,28 @@
     "UlkeID": "201"
   },
   {
-    "UlkeAdi": "IRAN",
+    "UlkeAdi": "İRAN",
     "UlkeAdiEn": "IRAN",
     "UlkeID": "202"
   },
   {
-    "UlkeAdi": "LIBYA",
+    "UlkeAdi": "LİBYA",
     "UlkeAdiEn": "LIBYA",
     "UlkeID": "203"
   },
   {
-    "UlkeAdi": "FILISTIN",
-    "UlkeAdiEn": "FILISTIN",
+    "UlkeAdi": "FİLİSTİN",
+    "UlkeAdiEn": "PALESTINE",
     "UlkeID": "204"
   },
   {
-    "UlkeAdi": "ISRAIL",
+    "UlkeAdi": "İSRAİL",
     "UlkeAdiEn": "ISRAEL",
     "UlkeID": "205"
   },
   {
-    "UlkeAdi": "KUDUS",
-    "UlkeAdiEn": "KUDUS",
+    "UlkeAdi": "KUDÜS",
+    "UlkeAdiEn": "JERUSALEM",
     "UlkeID": "206"
   },
   {
@@ -1015,7 +1015,7 @@
     "UlkeID": "208"
   },
   {
-    "UlkeAdi": "KUBA",
+    "UlkeAdi": "KÜBA",
     "UlkeAdiEn": "CUBA",
     "UlkeID": "209"
   }
