@@ -1,17 +1,1 @@
-[
-  {
-    "IlceAdi": "HAMILTON",
-    "IlceAdiEn": "HAMILTON",
-    "IlceID": "11939"
-  },
-  {
-    "IlceAdi": "SAINT GEORGE",
-    "IlceAdiEn": "SAINT GEORGE",
-    "IlceID": "11940"
-  },
-  {
-    "IlceAdi": "SOMERSET VILLAGE",
-    "IlceAdiEn": "SOMERSET VILLAGE",
-    "IlceID": "11941"
-  }
-]
+[{"IlceAdi":"HAMILTON","IlceAdiEn":"HAMILTON","IlceID":"11939"},{"IlceAdi":"SAINT GEORGE","IlceAdiEn":"SAINT GEORGE","IlceID":"11940"},{"IlceAdi":"SOMERSET VILLAGE","IlceAdiEn":"SOMERSET VILLAGE","IlceID":"11941"}]

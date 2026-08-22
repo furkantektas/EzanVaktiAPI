@@ -1,17 +1,1 @@
-[
-  {
-    "IlceAdi": "AR RAYYAN",
-    "IlceAdiEn": "AR RAYYAN",
-    "IlceID": "14877"
-  },
-  {
-    "IlceAdi": "DOHA",
-    "IlceAdiEn": "DOHA",
-    "IlceID": "14879"
-  },
-  {
-    "IlceAdi": "DUKHAN",
-    "IlceAdiEn": "DUKHAN",
-    "IlceID": "14878"
-  }
-]
+[{"IlceAdi":"AR RAYYAN","IlceAdiEn":"AR RAYYAN","IlceID":"14877"},{"IlceAdi":"DOHA","IlceAdiEn":"DOHA","IlceID":"14879"},{"IlceAdi":"DUKHAN","IlceAdiEn":"DUKHAN","IlceID":"14878"}]

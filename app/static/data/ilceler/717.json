@@ -1,17 +1,1 @@
-[
-  {
-    "IlceAdi": "GEORGETOWN",
-    "IlceAdiEn": "GEORGETOWN",
-    "IlceID": "13559"
-  },
-  {
-    "IlceAdi": "LINDEN",
-    "IlceAdiEn": "LINDEN",
-    "IlceID": "13560"
-  },
-  {
-    "IlceAdi": "NEW AMSTERDAM",
-    "IlceAdiEn": "NEW AMSTERDAM",
-    "IlceID": "13561"
-  }
-]
+[{"IlceAdi":"GEORGETOWN","IlceAdiEn":"GEORGETOWN","IlceID":"13559"},{"IlceAdi":"LINDEN","IlceAdiEn":"LINDEN","IlceID":"13560"},{"IlceAdi":"NEW AMSTERDAM","IlceAdiEn":"NEW AMSTERDAM","IlceID":"13561"}]

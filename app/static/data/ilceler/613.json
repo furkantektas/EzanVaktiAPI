@@ -1,12 +1,1 @@
-[
-  {
-    "IlceAdi": "ALBUQUERQUE",
-    "IlceAdiEn": "ALBUQUERQUE",
-    "IlceID": "8890"
-  },
-  {
-    "IlceAdi": "SANTA FE",
-    "IlceAdiEn": "SANTA FE",
-    "IlceID": "8891"
-  }
-]
+[{"IlceAdi":"ALBUQUERQUE","IlceAdiEn":"ALBUQUERQUE","IlceID":"8890"},{"IlceAdi":"SANTA FE","IlceAdiEn":"SANTA FE","IlceID":"8891"}]

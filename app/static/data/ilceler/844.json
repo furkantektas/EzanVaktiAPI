@@ -1,12 +1,1 @@
-[
-  {
-    "IlceAdi": "MINDELO",
-    "IlceAdiEn": "MINDELO",
-    "IlceID": "16641"
-  },
-  {
-    "IlceAdi": "PRAIA",
-    "IlceAdiEn": "PRAIA",
-    "IlceID": "16642"
-  }
-]
+[{"IlceAdi":"MINDELO","IlceAdiEn":"MINDELO","IlceID":"16641"},{"IlceAdi":"PRAIA","IlceAdiEn":"PRAIA","IlceID":"16642"}]

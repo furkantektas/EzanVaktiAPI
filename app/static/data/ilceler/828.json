@@ -1,17 +1,1 @@
-[
-  {
-    "IlceAdi": "ARIMA",
-    "IlceAdiEn": "ARIMA",
-    "IlceID": "16376"
-  },
-  {
-    "IlceAdi": "PORT OF SPAIN",
-    "IlceAdiEn": "PORT OF SPAIN",
-    "IlceID": "16377"
-  },
-  {
-    "IlceAdi": "SAN FERNANDO",
-    "IlceAdiEn": "SAN FERNANDO",
-    "IlceID": "16378"
-  }
-]
+[{"IlceAdi":"ARIMA","IlceAdiEn":"ARIMA","IlceID":"16376"},{"IlceAdi":"PORT OF SPAIN","IlceAdiEn":"PORT OF SPAIN","IlceID":"16377"},{"IlceAdi":"SAN FERNANDO","IlceAdiEn":"SAN FERNANDO","IlceID":"16378"}]

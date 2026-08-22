@@ -1,17 +1,1 @@
-[
-  {
-    "IlceAdi": "BRIDGETOWN",
-    "IlceAdiEn": "BRIDGETOWN",
-    "IlceID": "11673"
-  },
-  {
-    "IlceAdi": "CHRISTCHURCH",
-    "IlceAdiEn": "CHRISTCHURCH",
-    "IlceID": "11674"
-  },
-  {
-    "IlceAdi": "SPEIGHTSTOWN",
-    "IlceAdiEn": "SPEIGHTSTOWN",
-    "IlceID": "11675"
-  }
-]
+[{"IlceAdi":"BRIDGETOWN","IlceAdiEn":"BRIDGETOWN","IlceID":"11673"},{"IlceAdi":"CHRISTCHURCH","IlceAdiEn":"CHRISTCHURCH","IlceID":"11674"},{"IlceAdi":"SPEIGHTSTOWN","IlceAdiEn":"SPEIGHTSTOWN","IlceID":"11675"}]
