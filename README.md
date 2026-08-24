@@ -22,9 +22,6 @@ Tüm dünya ülkeleri için Türkiye Cumhuriyeti Diyanet İşleri Başkanlığı
 
 > Bu sorunların çözülmesi beklenmemektedir.
 
-- Ülkelerin İngilizce isimlendirmeleri hatalı. Örneğin: İngilizcede `Central African Republic` olması gereken isim `ORTA AFRIKA CUMHURIYETI`.
-- Ülkelerin isimlerinde Türkçe karakterler yerine İngilizce karakterler kullanılmış. Örneğin: `ÇİN` yerine `CIN`.
-- Hatalı ülke isimlendirmeleri: Birleşik Krallık şehirleri `INGILTERE` altında toplanmış.
 - Vakitler sonucundaki `MiladiTarihUzunIso8601` değeri her zaman Türkiye'nin geçerli zaman dilimini gösteriyor. Bu durum Türkiye harici zaman dilimlerinde ezan vakti hesaplamalarında hatalara sebep olmakta. Bundan dolayı, yurtdışı kullanımlarını göz önünde bulundurarak, alınan vakitlerinin zaman diliminin ihmal edilmesi gerekiyor. Sağlanan vakitler, cihazın zaman dilimine göre doğru vakitleri göstermektedir.
 - Bazı ülkelerin vakitleri sadece şehir bazında verilmiş ve bu ülkelerin şehirleri "ilçe" olarak listelenmiştir. Örneğin, [Birleşik Krallık için şehirler](/sehirler/15) listelendiğinde tek bir şehir listelenmekte, [bu şehrin ilçeleri](/ilceler/725) istendiğinde ise Birleşik Krallık'taki şehirler listelenmektedir.
 
