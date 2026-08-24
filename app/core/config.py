@@ -47,7 +47,7 @@ class Settings(BaseSettings):
     api_description: str = (
         "Diyanet İşleri Başkanlığı tarafından yayınlanan ezan vakitlerini sağlar."
     )
-    api_version: str = "0.6.0"
+    api_version: str = "0.7.0"
 
     model_config = SettingsConfigDict(env_file=".env", extra="ignore")
 
