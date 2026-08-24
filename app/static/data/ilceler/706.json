@@ -1,12 +1,1 @@
-[
-  {
-    "IlceAdi": "BANJUL",
-    "IlceAdiEn": "BANJUL",
-    "IlceID": "13435"
-  },
-  {
-    "IlceAdi": "SERROKUNDA",
-    "IlceAdiEn": "SERROKUNDA",
-    "IlceID": "13436"
-  }
-]
+[{"IlceAdi":"BANJUL","IlceAdiEn":"BANJUL","IlceID":"13435"},{"IlceAdi":"SERROKUNDA","IlceAdiEn":"SERROKUNDA","IlceID":"13436"}]

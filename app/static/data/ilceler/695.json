@@ -1,17 +1,1 @@
-[
-  {
-    "IlceAdi": "ERIVAN",
-    "IlceAdiEn": "YEREVAN",
-    "IlceID": "12784"
-  },
-  {
-    "IlceAdi": "GYUMRI",
-    "IlceAdiEn": "GYUMRI",
-    "IlceID": "12782"
-  },
-  {
-    "IlceAdi": "VANADZOR",
-    "IlceAdiEn": "VANADZOR",
-    "IlceID": "12783"
-  }
-]
+[{"IlceAdi":"ERIVAN","IlceAdiEn":"YEREVAN","IlceID":"12784"},{"IlceAdi":"GYUMRI","IlceAdiEn":"GYUMRI","IlceID":"12782"},{"IlceAdi":"VANADZOR","IlceAdiEn":"VANADZOR","IlceID":"12783"}]

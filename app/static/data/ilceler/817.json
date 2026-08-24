@@ -1,12 +1,1 @@
-[
-  {
-    "IlceAdi": "BROKOPONDO",
-    "IlceAdiEn": "BROKOPONDO",
-    "IlceID": "16297"
-  },
-  {
-    "IlceAdi": "PARAMARIBO",
-    "IlceAdiEn": "PARAMARIBO",
-    "IlceID": "16296"
-  }
-]
+[{"IlceAdi":"BROKOPONDO","IlceAdiEn":"BROKOPONDO","IlceID":"16297"},{"IlceAdi":"PARAMARIBO","IlceAdiEn":"PARAMARIBO","IlceID":"16296"}]

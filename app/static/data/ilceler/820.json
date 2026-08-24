@@ -1,12 +1,1 @@
-[
-  {
-    "IlceAdi": "LONGYEARBYEN",
-    "IlceAdiEn": "LONGYEARBYEN",
-    "IlceID": "16317"
-  },
-  {
-    "IlceAdi": "SVEAGRUVA",
-    "IlceAdiEn": "SVEAGRUVA",
-    "IlceID": "16318"
-  }
-]
+[{"IlceAdi":"LONGYEARBYEN","IlceAdiEn":"LONGYEARBYEN","IlceID":"16317"},{"IlceAdi":"SVEAGRUVA","IlceAdiEn":"SVEAGRUVA","IlceID":"16318"}]

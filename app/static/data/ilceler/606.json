@@ -1,17 +1,1 @@
-[
-  {
-    "IlceAdi": "HATTIESBURG",
-    "IlceAdiEn": "HATTIESBURG",
-    "IlceID": "8842"
-  },
-  {
-    "IlceAdi": "JACKSON",
-    "IlceAdiEn": "JACKSON",
-    "IlceID": "8843"
-  },
-  {
-    "IlceAdi": "OXFORD",
-    "IlceAdiEn": "OXFORD",
-    "IlceID": "8844"
-  }
-]
+[{"IlceAdi":"HATTIESBURG","IlceAdiEn":"HATTIESBURG","IlceID":"8842"},{"IlceAdi":"JACKSON","IlceAdiEn":"JACKSON","IlceID":"8843"},{"IlceAdi":"OXFORD","IlceAdiEn":"OXFORD","IlceID":"8844"}]

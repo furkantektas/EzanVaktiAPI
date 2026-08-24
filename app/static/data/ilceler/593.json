@@ -1,12 +1,1 @@
-[
-  {
-    "IlceAdi": "HILO",
-    "IlceAdiEn": "HILO",
-    "IlceID": "8752"
-  },
-  {
-    "IlceAdi": "HONOLULU",
-    "IlceAdiEn": "HONOLULU",
-    "IlceID": "8753"
-  }
-]
+[{"IlceAdi":"HILO","IlceAdiEn":"HILO","IlceID":"8752"},{"IlceAdi":"HONOLULU","IlceAdiEn":"HONOLULU","IlceID":"8753"}]
