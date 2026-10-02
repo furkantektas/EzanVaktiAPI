@@ -38,7 +38,7 @@ async def up():
     return {"status": "up"}
 
 
-@router.get("/lookup", include_in_schema=False)
+@router.get("/lookup", include_in_schema=False, response_model_exclude_none=True)
 async def lookup(request: Request) -> list[Lookup]:
     try:
         file_path = STATIC_DATA_PATH / "lookup.json"
