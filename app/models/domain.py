@@ -58,3 +58,6 @@ class Lookup(BaseModel):
     IlceID: str
     lat: float
     lon: float
+    # Extra coordinate for an existing IlceID, added so nearest-location matching in
+    # large cities picks the right entry. Omitted from responses unless true.
+    alias: bool | None = None
